@@ -75,11 +75,6 @@ test <-
     ) %T>%
       write.csv(.,"datasets/nightlyload.csv", row.names = FALSE) } else { NULL }
 
-### For testing
-# test <-
-#   read.csv("datasets/nightlyload.csv")
-
-
 myratings <-
   if (nrow(anti_join(rated, ratingslist, by="IMDBid")) > 0) {
     bind_rows(ratingslist, test) %>%
@@ -100,13 +95,16 @@ Streaming.Available <-
                        read_csv("raw-lists/Prime-Free-Oscar.csv"),
                        read_csv("raw-lists/Prime-Free-Times.csv")) %>% distinct) %>% mutate(Service = "Prime Rentals"))
 
+### For testing
+# myratings <- ratingslist
+
 ## Oscar Ceremony Data for Summary and Graph
 OscarCeremonies.corrected <- read_csv("raw-lists/OscarCeremonies.csv")
 OscarsCorrected <- left_join(OscarCeremonies.corrected, myratings %>% select(IMDBid, Rating, Rated.Date), by=c("FilmID" = "IMDBid")) %>%
   left_join(., Streaming.Available, by=c("FilmID" = "IMDBid")) %>%
-  left_join(., Seen.AFISilver %>% mutate(IMDBid = Const, AFISilver = "Y"), by=c("FilmID" = "IMDBid")) %>%
-  left_join(., Seen.Theater %>% mutate(IMDBid = Const, Theater = "Y"), by=c("FilmID" = "IMDBid")) %>%
-  left_join(., watchlist %>% mutate(IMDBid = Const, Watchlist = "Y"), by=c("FilmID" = "IMDBid"))
+  left_join(., Seen.AFISilver %>% mutate(IMDBid = Const, AFISilver = "Y") %>% select(IMDBid, AFISilver), by=c("FilmID" = "IMDBid")) %>%
+  left_join(., Seen.Theater %>% mutate(IMDBid = Const, Theater = "Y") %>% select(IMDBid, Theater), by=c("FilmID" = "IMDBid")) %>%
+  left_join(., watchlist %>% mutate(IMDBid = Const, Watchlist = "Y") %>% select(IMDBid, Watchlist), by=c("FilmID" = "IMDBid"))
 write.csv(OscarsCorrected,"datasets/Oscars/OscarsTracking.csv", row.names = FALSE)
 left_join(OscarCeremonies.corrected, myratings %>% select(IMDBid, Rating, Rated.Date), by=c("FilmID" = "IMDBid")) %>%
   filter(FilmID != "") %>%
@@ -232,6 +230,15 @@ OscarsCorrected %>%
     Prime.Rental.N = n_distinct(FilmID[Seen == FALSE & Service == "Prime Rentals"]),
     Prime.Rental.Per = round(Prime.Rental.Y/On.Prime.Rental, digits=2)) %>%
   write.csv(.,"datasets/Oscars/OscarsAwardSummary.csv", row.names = FALSE)
+
+OscarFilmSummary <-
+  OscarsCorrected %>%
+  group_by(AwardCeremony, FilmID, FilmName, Year, Rated, Runtime, Genre, Director, Writer, Actors, Plot, Language, Country, Awards, Poster, Metascore, imdbRating, imdbVotes, imdbID, Type, totalSeasons, Season, Episode, seriesID, IMDb, Metacritic, RottenTomatoes, Rating, Rated.Date, Service, AFISilver, Theater, Watchlist) %>%
+  summarize(
+    Nominations = n_distinct(AwardCategory),
+    Losses = n_distinct(AwardCategory[is.na(AwardWinner)]),
+    Wins = Nominations - Losses) %>%
+  write.csv(.,"datasets/Oscars/OscarsFilmSummary.csv", row.names = FALSE)
 
 ## NYT-1000 Data for Summary and Graph
 combinedNYT1000 <-
