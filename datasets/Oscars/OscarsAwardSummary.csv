@@ -1,6 +1,6 @@
 "AwardType","Films","Films.Y","Films.N","Winner.Y","Winner.N","Winner.Per","Nominee.Y","Nominee.N","Nominee.Per","On.Prime.Free","Prime.Free.Y","Prime.Free.N","Prime.Free.Per","On.Prime.Rental","Prime.Rental.Y","Prime.Rental.N","Prime.Rental.Per"
 "Actor, Lead",285,119,166,55,43,0.56,65,124,0.34,18,14,5,0.78,22,3,20,0.14
-"Actor, Supporting",271,121,150,55,33,0.62,67,118,0.36,10,7,4,0.7,15,4,12,0.27
+"Actor, Supporting",271,122,149,55,33,0.62,68,117,0.37,10,7,4,0.7,15,4,12,0.27
 "Actress, Lead",354,119,235,45,54,0.45,75,182,0.29,15,9,7,0.6,25,7,19,0.28
 "Actress, Supporting",272,109,163,47,41,0.53,63,123,0.34,14,11,4,0.79,14,3,12,0.21
 "Animated",88,45,43,20,3,0.87,26,41,0.39,1,1,1,1,1,1,1,1
