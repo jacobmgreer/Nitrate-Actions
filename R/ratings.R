@@ -53,6 +53,7 @@ for (i in 1:ceiling(count/100)) {
   rated <- rbind(rated, page)
   RATINGS <- paste0("https://www.imdb.com",link %>% html_nodes(.,'#ratings-container > div.footer.filmosearch > div > div > a.flat-button.lister-page-next.next-page') %>% html_attr("href"))
 }
+write.csv(rated,"datasets/nightlyrated.csv", row.names = FALSE)
 
 
 test <-
@@ -73,6 +74,11 @@ test <-
       imdbVotes = as.double(imdbVotes)
     ) %T>%
       write.csv(.,"datasets/nightlyload.csv", row.names = FALSE) } else { NULL }
+
+### For testing
+# test <-
+#   read.csv("datasets/nightlyload.csv")
+
 
 myratings <-
   if (nrow(anti_join(rated, ratingslist, by="IMDBid")) > 0) {
