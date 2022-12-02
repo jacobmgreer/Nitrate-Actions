@@ -71,7 +71,8 @@ test <-
       Released = year(as.Date(Released, format = "%d %b %Y")),
       Rating = as.numeric(Rating),
       imdbVotes = as.double(imdbVotes)
-    ) } else { NULL }
+    ) %T>%
+      write.csv(.,"datasets/nightlyload.csv", row.names = FALSE) } else { NULL }
 
 myratings <-
   if (nrow(anti_join(rated, ratingslist, by="IMDBid")) > 0) {
