@@ -77,7 +77,7 @@ test <-
 
 myratings <-
   if (nrow(anti_join(rated, ratingslist, by="IMDBid")) > 0) {
-    bind_rows(ratingslist, test) %>%
+    bind_rows(ratingslist, test %>% select(-Season)) %>%
     arrange(desc(Rated.Date)) %>%
     select(-Title) %T>%
     write.csv(., "datasets/ratings.csv", row.names = FALSE)} else { ratingslist }
