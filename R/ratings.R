@@ -9,79 +9,38 @@ library(numform)
 options(readr.show_col_types = FALSE)
 options(warn=-1)
 
-RATINGS <- Sys.getenv("RATINGS")
-OMDBkey <- Sys.getenv("OMDB")
-
-ratingslist <- read_csv("datasets/ratings.csv") %>% mutate(totalSeasons = as.character(totalSeasons))
+myratings <-
+  read.csv("https://www.imdb.com/user/ur28723514/ratings/export") %>%
+  rename(
+    IMDBid = const,
+    Rating = `Your Rating`,
+    Rated.Date = `Date Rated`,
+    ItemTitle = Title,
+    Type = `Title Type`,
+    Runtime = `Runtime (mins)`,
+    Director = Directors,
+    imdbVotes = `Num Votes`,
+    imdbRating = `IMDb Rating`,
+    Genre = Genres,
+    Year = `Release Date`
+  ) %>%
+  mutate(Year = substr(Year, 1, 4)) %T>%
+  write.csv(.,"datasets/ratings.csv", row.names = FALSE)
 
 ## WATCHLIST
 watchlist <-
-read.csv("https://www.imdb.com/list/ls003235325/export") %T>%
-write.csv(.,"datasets/watchlist.csv", row.names = FALSE)
+  read.csv("https://www.imdb.com/list/ls003235325/export") %T>%
+  write.csv(.,"datasets/watchlist.csv", row.names = FALSE)
 
 ## Seen at AFI
 Seen.AFISilver <-
-read.csv("https://www.imdb.com/list/ls507245240/export") %T>%
-write.csv(.,"datasets/AFI-Silver.csv", row.names = FALSE)
+  read.csv("https://www.imdb.com/list/ls507245240/export") %T>%
+  write.csv(.,"datasets/AFI-Silver.csv", row.names = FALSE)
 
 ## Seen at a Theater
 Seen.Theater <-
-read.csv("https://www.imdb.com/list/ls507032905/export") %T>%
-write.csv(.,"datasets/theater.csv", row.names = FALSE)
-
-# ## Holidaze
-# read.csv("https://www.imdb.com/list/ls576218435/export") %>%
-# write.csv(.,"datasets/holidaze.csv", row.names = FALSE)
-
-## MOVIE RATINGS
-count <-
-  read_html(RATINGS) %>%
-  html_nodes(., '#lister-header-current-size') %>%
-  html_text(.) %>%
-  parse_number(.)
-
-rated <- data.frame()
-for (i in 1:ceiling(count/100)) {
-  link <- read_html(RATINGS)
-  page <-
-    data.frame(
-      ItemTitle= link %>% html_nodes(.,'.lister-item-header a:first-of-type') %>% html_text(.) %>% gsub("^\\s+|\\s+$", "", .),
-      IMDBid= link %>% html_nodes(.,'.lister-item-image') %>% html_attr("data-tconst"),
-      Rating= link %>% html_nodes(.,'div.lister-item-content > div.ipl-rating-widget > div.ipl-rating-star.ipl-rating-star--other-user.small > span.ipl-rating-star__rating') %>% html_text(.),
-      Rated.Date= link %>% html_nodes(.,'div.ipl-rating-widget + p') %>% html_text(.)
-    )
-  rated <- rbind(rated, page)
-  RATINGS <- paste0("https://www.imdb.com",link %>% html_nodes(.,'#ratings-container > div.footer.filmosearch > div > div > a.flat-button.lister-page-next.next-page') %>% html_attr("href"))
-}
-write.csv(rated,"datasets/nightlyrated.csv", row.names = FALSE)
-
-
-test <-
-  if (nrow(anti_join(rated, ratingslist, by="IMDBid")) > 0) {
-    anti_join(rated, ratingslist, by="IMDBid") %>%
-    rowwise %>%
-    mutate(Response = list(fromJSON(content(GET(paste0('https://www.omdbapi.com/?i=',IMDBid,'&apikey=',OMDBkey)), 'text'), simplifyVector = TRUE, flatten = TRUE))) %>%
-    unnest_wider(Response) %>%
-    filter(Response != "False") %>%
-    unnest(cols = c(Ratings), names_sep = ".") %>%
-    spread(Ratings.Source, Ratings.Value) %>%
-    select(-Response) %>%
-    mutate(
-      Rated.Date = as.Date(str_remove(Rated.Date, "Rated on "), format = "%d %b %Y"),
-      Rated.Year = as.double(paste0(year(Rated.Date),".",yday(Rated.Date))),
-      Released = year(as.Date(Released, format = "%d %b %Y")),
-      Rating = as.numeric(Rating),
-      imdbVotes = as.double(imdbVotes)
-    ) %T>%
-      write.csv(.,"datasets/nightlyload.csv", row.names = FALSE) } else { NULL }
-
-myratings <-
-  if (nrow(anti_join(rated, ratingslist, by="IMDBid")) > 0) {
-    bind_rows(ratingslist, test #%>% mutate(Season = as.double(Season), Episode = as.double(Episode))
-              ) %>%
-    arrange(desc(Rated.Date)) %>%
-    select(-Title) %T>%
-    write.csv(., "datasets/ratings.csv", row.names = FALSE)} else { ratingslist }
+  read.csv("https://www.imdb.com/list/ls507032905/export") %T>%
+  write.csv(.,"datasets/theater.csv", row.names = FALSE)
 
 ## Prime Availability
 Streaming.Available <-
