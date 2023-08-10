@@ -1,5 +1,10 @@
 name: Media Consumption
-on: [workflow_dispatch]
+on:
+  push:
+    paths:
+      - 'ratings/ratings.csv'
+
+#on: [workflow_dispatch]
 
 # on:
 #   schedule:

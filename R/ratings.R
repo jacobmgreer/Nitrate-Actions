@@ -9,10 +9,20 @@ library(numform)
 options(readr.show_col_types = FALSE)
 options(warn=-1)
 
-RATINGS <- Sys.getenv("RATINGS")
-OMDBkey <- Sys.getenv("OMDB")
-
-ratingslist <- read_csv("datasets/ratings.csv") %>% mutate(totalSeasons = as.character(totalSeasons))
+## RATINGS
+myratings <- 
+  read.csv("ratings/ratings.csv") %>%
+  rename(
+    IMDBid = Const,
+    Rating = `Your Rating`,
+    Rated.Date = `Date Rated`,
+    Item.Title = Title,
+    Released = `Release Date`,
+    imdbRating = `IMDb Rating`,
+    Runtime = `Runtime (mins)`,
+    Genre = Genres,
+    Director = Directors,
+    Type = `Title Type`)
 
 ## WATCHLIST
 watchlist <-
@@ -30,54 +40,6 @@ Seen.Theater <-
   write.csv(.,"datasets/theater.csv", row.names = FALSE)
 
 ## MOVIE RATINGS
-count <-
-  read_html(RATINGS) %>%
-  html_nodes(., '#lister-header-current-size') %>%
-  html_text(.) %>%
-  parse_number(.)
-
-rated <- data.frame()
-for (i in 1:ceiling(count/100)) {
-  link <- read_html(RATINGS)
-  page <-
-    data.frame(
-      ItemTitle= link %>% html_nodes(.,'.lister-item-header a:first-of-type') %>% html_text(.) %>% gsub("^\\s+|\\s+$", "", .),
-      IMDBid= link %>% html_nodes(.,'.lister-item-image') %>% html_attr("data-tconst"),
-      Rating= link %>% html_nodes(.,'div.lister-item-content > div.ipl-rating-widget > div.ipl-rating-star.ipl-rating-star--other-user.small > span.ipl-rating-star__rating') %>% html_text(.),
-      Rated.Date= link %>% html_nodes(.,'div.ipl-rating-widget + p') %>% html_text(.)
-    )
-  rated <- rbind(rated, page)
-  RATINGS <- paste0("https://www.imdb.com",link %>% html_nodes(.,'#ratings-container > div.footer.filmosearch > div > div > a.flat-button.lister-page-next.next-page') %>% html_attr("href"))
-}
-write.csv(rated,"datasets/nightlyrated.csv", row.names = FALSE)
-
-
-test <-
-  if (nrow(anti_join(rated, ratingslist, by="IMDBid")) > 0) {
-    anti_join(rated, ratingslist, by="IMDBid") %>%
-      rowwise %>%
-      mutate(Response = list(fromJSON(content(GET(paste0('https://www.omdbapi.com/?i=',IMDBid,'&apikey=',OMDBkey)), 'text'), simplifyVector = TRUE, flatten = TRUE))) %>%
-      unnest_wider(Response) %>%
-      filter(Response != "False") %>%
-      unnest(cols = c(Ratings), names_sep = ".") %>%
-      spread(Ratings.Source, Ratings.Value) %>%
-      select(-Response) %>%
-      mutate(
-        Rated.Date = as.Date(str_remove(Rated.Date, "Rated on "), format = "%d %b %Y"),
-        Rated.Year = as.double(paste0(year(Rated.Date),".",yday(Rated.Date))),
-        Released = year(as.Date(Released, format = "%d %b %Y")),
-        Rating = as.numeric(Rating),
-        imdbVotes = as.double(imdbVotes)
-      ) %T>%
-      write.csv(.,"datasets/nightlyload.csv", row.names = FALSE) } else { NULL }
-
-myratings <-
-  if (nrow(anti_join(rated, ratingslist, by="IMDBid")) > 0) {
-    bind_rows(ratingslist, test #%>% mutate(Season = as.double(Season), Episode = as.double(Episode))
-    ) %>%
-      arrange(desc(Rated.Date)) %>%
-      select(-Title) %T>%
-      write.csv(., "datasets/ratings.csv", row.names = FALSE)} else { ratingslist }
 
 ## Prime Availability
 Streaming.Available <-
@@ -91,9 +53,6 @@ Streaming.Available <-
                      bind_rows(
                        read_csv("raw-lists/Prime-Free-Oscar.csv"),
                        read_csv("raw-lists/Prime-Free-Times.csv")) %>% distinct) %>% mutate(Service = "Prime Rentals"))
-
-### For testing
-# myratings <- ratingslist
 
 ## Oscar Ceremony Data for Summary and Graph
 OscarCeremonies.corrected <- read_csv("raw-lists/OscarCeremonies.csv")
