@@ -10,19 +10,19 @@ options(readr.show_col_types = FALSE)
 options(warn=-1)
 
 ## RATINGS
-myratings <- 
+myratings <-
   read.csv("ratings/ratings.csv") %>%
   rename(
     IMDBid = Const,
-    Rating = `Your Rating`,
-    Rated.Date = `Date Rated`,
+    Rating = Your.Rating,
+    Rated.Date = Date.Rated,
     Item.Title = Title,
-    Released = `Release Date`,
-    imdbRating = `IMDb Rating`,
-    Runtime = `Runtime (mins)`,
+    Released = Release.Date,
+    imdbRating = IMDb.Rating,
+    Runtime = Runtime..mins.,
     Genre = Genres,
     Director = Directors,
-    Type = `Title Type`)
+    Type = Title.Type)
 
 ## WATCHLIST
 watchlist <-
