@@ -22,7 +22,9 @@ myratings <-
     Runtime = Runtime..mins.,
     Genre = Genres,
     Director = Directors,
-    Type = Title.Type)
+    Type = Title.Type) %>%
+  arrange(desc(Rated.Date)) %T>%
+  write.csv(.,"ratings/formatted.csv", row.names = FALSE)
 
 ## WATCHLIST
 watchlist <-
