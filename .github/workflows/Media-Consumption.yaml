@@ -33,9 +33,6 @@ jobs:
             any::numform
 
       - name: Ratings
-        env:
-            RATINGS: ${{ secrets.RATINGS }}
-            OMDB: ${{ secrets.OMDB }}
         run: Rscript R/ratings.R
 
       - name: Commit files
