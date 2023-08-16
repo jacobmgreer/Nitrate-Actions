@@ -44,5 +44,4 @@ jobs:
           git push
 
       - name: Delete workflow runs
-        using: 'node16'
         uses: Mattraks/delete-workflow-runs@v2.0.1
