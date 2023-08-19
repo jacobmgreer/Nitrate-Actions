@@ -1,5 +1,5 @@
 "AwardType","Films","Films.Y","Films.N","Winner.Y","Winner.N","Winner.Per","Nominee.Y","Nominee.N","Nominee.Per","On.Prime.Free","Prime.Free.Y","Prime.Free.N","Prime.Free.Per","On.Prime.Rental","Prime.Rental.Y","Prime.Rental.N","Prime.Rental.Per"
-"Animated",93,85,8,22,2,0.92,64,7,0.9,1,1,1,1,1,1,1,1
+"Animated",93,87,6,22,2,0.92,66,5,0.93,1,1,1,1,1,1,1,1
 "Director",238,148,90,80,22,0.78,69,69,0.5,20,16,5,0.8,18,8,11,0.44
 "Documentary",382,43,339,16,71,0.18,28,269,0.09,11,4,8,0.36,23,2,22,0.09
 "Effects",712,357,355,146,75,0.66,212,281,0.43,40,35,6,0.88,19,5,15,0.26
