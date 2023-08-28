@@ -25,11 +25,8 @@ jobs:
           cache-version: 2
           extra-packages: |
             any::tidyverse
-            any::rvest
-            any::jsonlite
-            any::lubridate
-            any::httr
             any::magrittr
+            any::scales
             any::numform
 
       - name: Ratings

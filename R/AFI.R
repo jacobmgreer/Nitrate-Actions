@@ -9,11 +9,6 @@ library(numform)
 options(readr.show_col_types = FALSE)
 options(warn=-1)
 
-recoded.lineup <-
-  read_csv("datasets/AFI-Silver/recoded-lineup.csv") %>%
-  mutate(FilmID = gsub("/.*","",str_remove(IMDB, "https://www.imdb.com/title/"))) %>%
-  select(-c(Title,IMDB))
-
 AFIlineup <-
   read_html("https://silver.afi.com/Browsing/Movies/NowShowing") %>%
   html_nodes('#movies-list > .movie') %>%
@@ -26,17 +21,7 @@ AFIlineup <-
   }) %>%
   mutate(
     TheatreID = str_remove(Screening, "//silver.afi.com/Browsing/Movies/Details/"),
-    Title = trimws(Title)) %>%
-  left_join(., recoded.lineup, by = "TheatreID")
-
-uncoded.lineup <- AFIlineup %>%
-  mutate(
-    TheatreID = str_remove(Screening, "//silver.afi.com/Browsing/Movies/Details/"),
-    Title = trimws(Title)) %>%
-  select(TheatreID, Title) %>%
-  anti_join(., recoded.lineup, by = c("TheatreID")) %>%
-  mutate(IMDB = "") %T>%
-  write.csv(., "datasets/AFI-Silver/uncoded-lineup.csv", row.names = FALSE)
+    Title = trimws(Title))
 
 showtimes <- data.frame()
 for (i in 1:nrow(AFIlineup)) {
