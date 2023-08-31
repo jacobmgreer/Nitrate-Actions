@@ -262,10 +262,11 @@ combinedNYT1000 %>%
 ## NBR Data for Graph
 combinedNBR <-
   left_join(read_csv("raw-lists/NBR-awards.csv"), myratings, by=c("FilmID" = "Const")) %>%
-  mutate(Seen = ifelse(is.na(Your.Rating), "No", "Yes")) %T>%
+  mutate(Seen = ifelse(is.na(Your.Rating), "No", "Yes")) %>%
+  rename(AwardCeremony = Ceremony.Year) %T>%
   write.csv(.,"datasets/NBR/NBRData.csv", row.names = FALSE)
 combinedNBR %>%
-  dplyr::group_by(Year = Ceremony.Year) %>%
+  dplyr::group_by(Year = AwardCeremony) %>%
   dplyr::summarize(
     Y = n_distinct(FilmID[Seen == "Yes"]),
     N = n_distinct(FilmID[Seen == "No"])) %>%
