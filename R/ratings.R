@@ -259,6 +259,19 @@ combinedNYT1000 %>%
   select(Year, Y, N) %>%
   write.csv(.,"datasets/NYT1000/NYT1000Summary.csv", row.names = FALSE)
 
+## NBR Data for Graph
+combinedNBR <-
+  left_join(read_csv("raw-lists/NBR-awards.csv"), myratings, by=c("FilmID" = "Const")) %>%
+  mutate(Seen = ifelse(is.na(Your.Rating), "No", "Yes")) %T>%
+  write.csv(.,"datasets/NBR/NBRData.csv", row.names = FALSE)
+combinedNBR %>%
+  dplyr::group_by(Year = Ceremony.Year) %>%
+  dplyr::summarize(
+    Y = n_distinct(FilmID[Seen == "Yes"]),
+    N = n_distinct(FilmID[Seen == "No"])) %>%
+  select(Year, Y, N) %>%
+  write.csv(.,"datasets/NBR/NBRSummary.csv", row.names = FALSE)
+
 ## Great Films Ebert
 List.Ebert <-
   left_join(read_csv("raw-lists/ebert.csv"), myratings, by="Const") %>%
