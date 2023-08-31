@@ -28,7 +28,6 @@ for (i in 1:nrow(AFIlineup)) {
   link <- read_html(paste0("http:",AFIlineup$Screening[i]))
   page <-
     data.frame(
-      FilmID = AFIlineup$FilmID[i],
       TheatreID = AFIlineup$TheatreID[i],
       SessionID = gsub('^.*SessionId=\\s*|\\s*&vis.*$', '', link %>% html_nodes(.,'.film-showtimes .session .session-times a') %>% html_attr("href")),
       ScreenTitle = AFIlineup$Title[i],
@@ -57,7 +56,8 @@ for (i in 1:nrow(showtimes)) {
   theatres <- rbind(theatres, page)
 }
 
-showtimes <- left_join(showtimes, theatres, by = c("TheatreID", "ScreenTicketLink")) %T>%
+showtimes <-
+  left_join(showtimes, theatres, by = c("TheatreID", "ScreenTicketLink")) %T>%
   write.csv(., "datasets/AFI-Silver/Showtimes.csv", row.names = FALSE)
 
 ScreeningCal <- function(showtimes2) {
