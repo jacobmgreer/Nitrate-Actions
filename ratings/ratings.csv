@@ -60,7 +60,7 @@ tt1019452,6,2023-06-20,A Serious Man,https://www.imdb.com/title/tt1019452/,movie
 tt10199590,7,2023-06-17,Les misérables,https://www.imdb.com/title/tt10199590/,movie,7.6,104,2019,"Crime, Drama, Thriller",27108,2019-05-15,Ladj Ly
 tt10199914,6,2021-07-18,The Boys in the Band,https://www.imdb.com/title/tt10199914/,movie,6.8,121,2020,Drama,17118,2020-09-30,Joe Mantello
 tt1020072,8,2021-07-09,Selma,https://www.imdb.com/title/tt1020072/,movie,7.5,128,2014,"Biography, Drama, History",93951,2014-11-11,Ava DuVernay
-tt0102015,9,2023-06-24,Hearts of Darkness: A Filmmaker's Apocalypse,https://www.imdb.com/title/tt0102015/,movie,8.1,96,1991,Documentary,22549,1991-05-31,"George Hickenlooper, Fax Bahr, Eleanor Coppola"
+tt0102015,9,2023-06-24,Hearts of Darkness: A Filmmaker's Apocalypse,https://www.imdb.com/title/tt0102015/,movie,8.1,96,1991,Documentary,22549,1991-05-31,"George Hickenlooper, Eleanor Coppola, Fax Bahr"
 tt0102057,6,2021-07-14,Hook,https://www.imdb.com/title/tt0102057/,movie,6.8,142,1991,"Adventure, Comedy, Family, Fantasy",266199,1991-12-08,Steven Spielberg
 tt0102138,6,2021-10-14,JFK,https://www.imdb.com/title/tt0102138/,movie,8.0,189,1991,"Drama, History, Thriller",164836,1991-12-19,Oliver Stone
 tt10223460,7,2022-02-11,Marry Me,https://www.imdb.com/title/tt10223460/,movie,6.1,112,2022,"Comedy, Music, Romance",37075,2022-02-09,Kat Coiro
@@ -270,7 +270,7 @@ tt10944760,7,2021-10-11,Titane,https://www.imdb.com/title/tt10944760/,movie,6.5,
 tt0109520,5,2021-07-14,D2: The Mighty Ducks,https://www.imdb.com/title/tt0109520/,movie,6.1,106,1994,"Comedy, Drama, Family, Sport",42078,1994-03-25,Sam Weisman
 tt10954652,6,2021-07-23,Old,https://www.imdb.com/title/tt10954652/,movie,5.8,108,2021,"Drama, Horror, Mystery, Thriller",147068,2021-07-21,M. Night Shyamalan
 tt10954984,7,2022-07-21,Nope,https://www.imdb.com/title/tt10954984/,movie,6.8,130,2022,"Horror, Mystery, Sci-Fi, Thriller",242357,2022-07-18,Jordan Peele
-tt0109686,5,2021-07-14,Dumb and Dumber,https://www.imdb.com/title/tt0109686/,movie,7.3,107,1994,Comedy,400797,1994-12-06,"Peter Farrelly, Bobby Farrelly"
+tt0109686,5,2021-07-14,Dumb and Dumber,https://www.imdb.com/title/tt0109686/,movie,7.3,107,1994,Comedy,400797,1994-12-06,"Bobby Farrelly, Peter Farrelly"
 tt0109813,3,2021-07-15,The Flintstones,https://www.imdb.com/title/tt0109813/,movie,5.0,91,1994,"Comedy, Family, Fantasy",84127,1994-05-23,Brian Levant
 tt0109830,8,2021-07-09,Forrest Gump,https://www.imdb.com/title/tt0109830/,movie,8.8,142,1994,"Drama, Romance",2173632,1994-06-23,Robert Zemeckis
 tt0109831,6,2022-08-20,Four Weddings and a Funeral,https://www.imdb.com/title/tt0109831/,movie,7.1,117,1994,"Comedy, Drama, Romance",160574,1994-01-20,Mike Newell
@@ -405,7 +405,7 @@ tt0113862,8,2021-07-11,Mr. Holland's Opus,https://www.imdb.com/title/tt0113862/,
 tt11394180,8,2021-08-20,Dick Johnson Is Dead,https://www.imdb.com/title/tt11394180/,movie,7.4,89,2020,"Documentary, Biography, Drama",7042,2020-01-25,Kirsten Johnson
 tt11394298,7,2022-05-19,El agente topo,https://www.imdb.com/title/tt11394298/,movie,7.5,84,2020,Documentary,9150,2020-01-25,Maite Alberdi
 tt0113986,3,2021-07-15,Nine Months,https://www.imdb.com/title/tt0113986/,movie,5.5,103,1995,"Comedy, Romance",38016,1995-07-12,Chris Columbus
-tt0114108,2,2021-07-15,The Pebble and the Penguin,https://www.imdb.com/title/tt0114108/,movie,5.5,74,1995,"Animation, Adventure, Comedy, Family, Musical",5361,1995-04-12,"Don Bluth, Gary Goldman"
+tt0114108,2,2021-07-15,The Pebble and the Penguin,https://www.imdb.com/title/tt0114108/,movie,5.5,74,1995,"Animation, Adventure, Comedy, Family, Musical",5361,1995-04-12,"Gary Goldman, Don Bluth"
 tt0114148,4,2021-07-09,Pocahontas,https://www.imdb.com/title/tt0114148/,movie,6.7,81,1995,"Animation, Adventure, Drama, Family, Musical, Romance",197025,1995-06-15,"Eric Goldberg, Mike Gabriel"
 tt0114168,6,2021-07-15,Powder,https://www.imdb.com/title/tt0114168/,movie,6.6,111,1995,"Drama, Fantasy, Mystery, Thriller",31879,1995-10-01,Victor Salva
 tt11422728,9,2021-07-09,"Summer of Soul (...Or, When the Revolution Could Not Be Televised)",https://www.imdb.com/title/tt11422728/,movie,8.0,118,2021,"Documentary, Music",13198,2021-01-28,Questlove
@@ -462,7 +462,7 @@ tt0116322,3,2021-07-15,Flipper,https://www.imdb.com/title/tt0116322/,movie,5.3,9
 tt0116329,6,2021-07-14,Fly Away Home,https://www.imdb.com/title/tt0116329/,movie,6.9,107,1996,"Adventure, Drama, Family",26603,1996-09-05,Carroll Ballard
 tt0116367,6,2021-07-11,From Dusk Till Dawn,https://www.imdb.com/title/tt0116367/,movie,7.2,108,1996,"Action, Crime, Horror",329887,1996-01-19,Robert Rodriguez
 tt0116409,4,2021-08-15,The Ghost and the Darkness,https://www.imdb.com/title/tt0116409/,movie,6.8,110,1996,"Adventure, Drama, Thriller",64528,1996-10-03,Stephen Hopkins
-tt11643154,6,2022-02-20,Colette,https://www.imdb.com/title/tt11643154/,short,7.1,24,2020,"Documentary, Short, Drama, History, Mystery",1548,2020-02-16,"Anthony Giacchino, Alice Doyard"
+tt11643154,6,2022-02-20,Colette,https://www.imdb.com/title/tt11643154/,short,7.1,24,2020,"Documentary, Short, Drama, History, Mystery",1548,2020-02-16,"Alice Doyard, Anthony Giacchino"
 tt0116483,3,2021-07-14,Happy Gilmore,https://www.imdb.com/title/tt0116483/,movie,7.0,92,1996,"Comedy, Sport",239415,1996-02-07,Dennis Dugan
 tt0116493,6,2021-07-15,Harriet the Spy,https://www.imdb.com/title/tt0116493/,movie,5.9,100,1996,"Comedy, Drama, Family",10786,1996-07-10,Bronwen Hughes
 tt11650492,6,2021-07-24,Girls5eva,https://www.imdb.com/title/tt11650492/,tvSeries,7.2,30,2021,"Comedy, Music",4825,2021-05-06,
@@ -531,7 +531,7 @@ tt0118571,6,2021-07-14,Air Force One,https://www.imdb.com/title/tt0118571/,movie
 tt0118583,6,2021-07-11,Alien Resurrection,https://www.imdb.com/title/tt0118583/,movie,6.2,109,1997,"Action, Horror, Sci-Fi",257013,1997-11-06,Jean-Pierre Jeunet
 tt0118604,2,2021-07-15,An American Werewolf in Paris,https://www.imdb.com/title/tt0118604/,movie,5.1,98,1997,"Comedy, Fantasy, Horror, Thriller",26339,1997-10-18,Anthony Waller
 tt0118607,7,2022-05-30,Amistad,https://www.imdb.com/title/tt0118607/,movie,7.3,155,1997,"Biography, Drama, History",80917,1997-12-04,Steven Spielberg
-tt0118617,8,2021-07-14,Anastasia,https://www.imdb.com/title/tt0118617/,movie,7.1,94,1997,"Animation, Adventure, Drama, Family, Fantasy, Musical, Mystery, Romance",131422,1997-11-14,"Don Bluth, Gary Goldman"
+tt0118617,8,2021-07-14,Anastasia,https://www.imdb.com/title/tt0118617/,movie,7.1,94,1997,"Animation, Adventure, Drama, Family, Fantasy, Musical, Mystery, Romance",131422,1997-11-14,"Gary Goldman, Don Bluth"
 tt0118655,5,2021-07-14,Austin Powers: International Man of Mystery,https://www.imdb.com/title/tt0118655/,movie,7.0,94,1997,"Adventure, Comedy",250823,1997-04-29,Jay Roach
 tt0118661,1,2021-07-15,The Avengers,https://www.imdb.com/title/tt0118661/,movie,3.8,89,1998,"Action, Adventure, Sci-Fi, Thriller",44826,1998-08-13,Jeremiah S. Chechik
 tt0118688,2,2021-07-14,Batman & Robin,https://www.imdb.com/title/tt0118688/,movie,3.8,125,1997,"Action, Sci-Fi",262803,1997-06-12,Joel Schumacher
@@ -612,7 +612,7 @@ tt0120317,2,2021-07-15,That Darn Cat,https://www.imdb.com/title/tt0120317/,movie
 tt0120324,6,2023-08-15,A Simple Plan,https://www.imdb.com/title/tt0120324/,movie,7.5,121,1998,"Crime, Drama, Thriller",73993,1998-09-12,Sam Raimi
 tt0120338,7,2021-07-09,Titanic,https://www.imdb.com/title/tt0120338/,movie,7.9,194,1997,"Drama, Romance",1244950,1997-11-01,James Cameron
 tt0120347,4,2021-07-14,Tomorrow Never Dies,https://www.imdb.com/title/tt0120347/,movie,6.5,119,1997,"Action, Adventure, Thriller",200892,1997-12-09,Roger Spottiswoode
-tt0120363,6,2021-07-14,Toy Story 2,https://www.imdb.com/title/tt0120363/,movie,7.9,92,1999,"Animation, Adventure, Comedy, Family, Fantasy",603602,1999-11-13,"John Lasseter, Lee Unkrich, Ash Brannon"
+tt0120363,6,2021-07-14,Toy Story 2,https://www.imdb.com/title/tt0120363/,movie,7.9,92,1999,"Animation, Adventure, Comedy, Family, Fantasy",603602,1999-11-13,"John Lasseter, Ash Brannon, Lee Unkrich"
 tt0120382,8,2021-07-11,The Truman Show,https://www.imdb.com/title/tt0120382/,movie,8.2,103,1998,"Comedy, Drama",1143001,1998-06-01,Peter Weir
 tt1204342,8,2021-07-09,The Muppets,https://www.imdb.com/title/tt1204342/,movie,7.1,120,2011,"Adventure, Comedy, Family, Musical",95368,2011-11-04,James Bobin
 tt0120484,4,2021-07-14,The Waterboy,https://www.imdb.com/title/tt0120484/,movie,6.1,90,1998,"Comedy, Sport",172915,1998-11-06,Frank Coraci
@@ -624,7 +624,7 @@ tt0120595,5,2023-08-15,Babe: Pig in the City,https://www.imdb.com/title/tt012059
 tt0120601,7,2021-07-09,Being John Malkovich,https://www.imdb.com/title/tt0120601/,movie,7.7,113,1999,"Comedy, Drama, Fantasy",346757,1999-09-02,Spike Jonze
 tt0120611,6,2021-10-13,Blade,https://www.imdb.com/title/tt0120611/,movie,7.1,120,1998,"Action, Horror, Sci-Fi",288843,1998-08-19,Stephen Norrington
 tt0120616,4,2021-07-14,The Mummy,https://www.imdb.com/title/tt0120616/,movie,7.1,124,1999,"Action, Adventure, Fantasy",448668,1999-04-16,Stephen Sommers
-tt0120623,6,2021-07-14,A Bug's Life,https://www.imdb.com/title/tt0120623/,movie,7.2,95,1998,"Animation, Adventure, Comedy, Family",305877,1998-11-14,"Andrew Stanton, John Lasseter"
+tt0120623,6,2021-07-14,A Bug's Life,https://www.imdb.com/title/tt0120623/,movie,7.2,95,1998,"Animation, Adventure, Comedy, Family",305877,1998-11-14,"John Lasseter, Andrew Stanton"
 tt0120630,7,2021-07-09,Chicken Run,https://www.imdb.com/title/tt0120630/,movie,7.1,84,2000,"Animation, Adventure, Comedy, Drama, Family",201763,2000-06-17,"Peter Lord, Nick Park"
 tt0120631,8,2021-07-11,Ever After,https://www.imdb.com/title/tt0120631/,movie,7.1,121,1998,"Drama, Romance",79819,1998-07-29,Andy Tennant
 tt0120632,3,2021-07-15,City of Angels,https://www.imdb.com/title/tt0120632/,movie,6.7,114,1998,"Drama, Fantasy, Romance",125126,1998-04-10,Brad Silberling
@@ -651,7 +651,7 @@ tt0120780,7,2021-07-15,Out of Sight,https://www.imdb.com/title/tt0120780/,movie,
 tt0120783,5,2021-07-14,The Parent Trap,https://www.imdb.com/title/tt0120783/,movie,6.6,128,1998,"Adventure, Comedy, Drama, Family, Romance",148342,1998-07-20,Nancy Meyers
 tt0120789,8,2021-07-11,Pleasantville,https://www.imdb.com/title/tt0120789/,movie,7.5,124,1998,"Comedy, Drama, Fantasy",133452,1998-09-17,Gary Ross
 tt0120791,5,2021-07-14,Practical Magic,https://www.imdb.com/title/tt0120791/,movie,6.3,104,1998,"Comedy, Drama, Fantasy, Romance",88044,1998-10-16,Griffin Dunne
-tt0120794,6,2021-07-09,The Prince of Egypt,https://www.imdb.com/title/tt0120794/,movie,7.2,99,1998,"Animation, Adventure, Drama, Family, Fantasy, Musical",140521,1998-12-16,"Brenda Chapman, Steve Hickner, Simon Wells"
+tt0120794,6,2021-07-09,The Prince of Egypt,https://www.imdb.com/title/tt0120794/,movie,7.2,99,1998,"Animation, Adventure, Drama, Family, Fantasy, Musical",140521,1998-12-16,"Steve Hickner, Brenda Chapman, Simon Wells"
 tt0120804,5,2021-07-15,Resident Evil,https://www.imdb.com/title/tt0120804/,movie,6.6,100,2002,"Action, Horror, Sci-Fi",281324,2002-03-12,Paul W.S. Anderson
 tt0120812,7,2021-07-14,Rush Hour,https://www.imdb.com/title/tt0120812/,movie,7.0,98,1998,"Action, Comedy, Crime, Thriller",284581,1998-09-18,Brett Ratner
 tt0120815,9,2021-07-09,Saving Private Ryan,https://www.imdb.com/title/tt0120815/,movie,8.6,169,1998,"Drama, War",1447082,1998-07-21,Steven Spielberg
@@ -667,9 +667,9 @@ tt0120890,4,2021-07-15,Wild Things,https://www.imdb.com/title/tt0120890/,movie,6
 tt0120891,2,2021-07-15,Wild Wild West,https://www.imdb.com/title/tt0120891/,movie,4.9,106,1999,"Action, Comedy, Sci-Fi, Western",164831,1999-06-30,Barry Sonnenfeld
 tt0120902,7,2021-07-11,The X Files,https://www.imdb.com/title/tt0120902/,movie,7.0,121,1998,"Drama, Mystery, Sci-Fi, Thriller",108421,1998-06-19,Rob Bowman
 tt0120903,5,2021-07-11,X-Men,https://www.imdb.com/title/tt0120903/,movie,7.3,104,2000,"Action, Adventure, Sci-Fi",633200,2000-07-12,Bryan Singer
-tt0120910,5,2021-09-19,Fantasia 2000,https://www.imdb.com/title/tt0120910/,movie,7.1,75,1999,"Animation, Family, Fantasy, Music",40339,1999-12-17,"Eric Goldberg, Don Hahn, Francis Glebas, Hendel Butoy, James Algar, Paul Brizzi, Gaëtan Brizzi, Pixote Hunt"
+tt0120910,5,2021-09-19,Fantasia 2000,https://www.imdb.com/title/tt0120910/,movie,7.1,75,1999,"Animation, Family, Fantasy, Music",40339,1999-12-17,"Don Hahn, Eric Goldberg, Francis Glebas, Hendel Butoy, James Algar, Paul Brizzi, Gaëtan Brizzi, Pixote Hunt"
 tt0120912,5,2021-07-14,Men in Black II,https://www.imdb.com/title/tt0120912/,movie,6.2,88,2002,"Action, Adventure, Comedy, Mystery, Sci-Fi",392254,2002-07-03,Barry Sonnenfeld
-tt0120913,6,2021-07-15,Titan A.E.,https://www.imdb.com/title/tt0120913/,movie,6.6,94,2000,"Animation, Action, Adventure, Family, Sci-Fi",62962,2000-06-13,"Don Bluth, Gary Goldman"
+tt0120913,6,2021-07-15,Titan A.E.,https://www.imdb.com/title/tt0120913/,movie,6.6,94,2000,"Animation, Action, Adventure, Family, Sci-Fi",62962,2000-06-13,"Gary Goldman, Don Bluth"
 tt0120915,3,2021-07-14,Star Wars: Episode I - The Phantom Menace,https://www.imdb.com/title/tt0120915/,movie,6.5,136,1999,"Action, Adventure, Fantasy, Sci-Fi",834315,1999-05-16,George Lucas
 tt0120917,5,2023-08-15,The Emperor's New Groove,https://www.imdb.com/title/tt0120917/,movie,7.4,78,2000,"Animation, Adventure, Comedy, Family, Fantasy",216780,2000-11-22,Mark Dindal
 tt1210166,6,2021-07-14,Moneyball,https://www.imdb.com/title/tt1210166/,movie,7.6,133,2011,"Biography, Drama, Sport",447979,2011-09-09,Bennett Miller
@@ -678,10 +678,10 @@ tt1211837,2,2021-07-14,Doctor Strange,https://www.imdb.com/title/tt1211837/,movi
 tt1212428,5,2021-07-18,The Lost City of Z,https://www.imdb.com/title/tt1212428/,movie,6.6,141,2016,"Adventure, Biography, Drama, History",96396,2016-10-15,James Gray
 tt1213641,6,2023-08-13,First Man,https://www.imdb.com/title/tt1213641/,movie,7.3,141,2018,"Biography, Drama, History",196669,2018-08-29,Damien Chazelle
 tt1213663,3,2021-07-15,The World's End,https://www.imdb.com/title/tt1213663/,movie,6.9,109,2013,"Action, Comedy, Sci-Fi",292417,2013-07-10,Edgar Wright
-tt1216475,5,2021-07-15,Cars 2,https://www.imdb.com/title/tt1216475/,movie,6.2,106,2011,"Animation, Adventure, Comedy, Crime, Family, Mystery, Sci-Fi, Sport",206595,2011-06-18,"Bradford Lewis, John Lasseter"
+tt1216475,5,2021-07-15,Cars 2,https://www.imdb.com/title/tt1216475/,movie,6.2,106,2011,"Animation, Adventure, Comedy, Crime, Family, Mystery, Sci-Fi, Sport",206595,2011-06-18,"John Lasseter, Bradford Lewis"
 tt1216487,8,2021-07-11,Flickan som lekte med elden,https://www.imdb.com/title/tt1216487/,movie,7.1,129,2009,"Action, Crime, Drama, Mystery, Thriller",97325,2009-09-18,Daniel Alfredson
 tt1216492,4,2021-07-15,Leap Year,https://www.imdb.com/title/tt1216492/,movie,6.4,100,2010,"Comedy, Romance",108564,2010-01-06,Anand Tucker
-tt1217209,7,2021-07-09,Brave,https://www.imdb.com/title/tt1217209/,movie,7.1,93,2012,"Animation, Adventure, Comedy, Drama, Family, Fantasy",429291,2012-06-10,"Mark Andrews, Steve Purcell, Brenda Chapman"
+tt1217209,7,2021-07-09,Brave,https://www.imdb.com/title/tt1217209/,movie,7.1,93,2012,"Animation, Adventure, Comedy, Drama, Family, Fantasy",429291,2012-06-10,"Steve Purcell, Mark Andrews, Brenda Chapman"
 tt0121765,3,2021-07-14,Star Wars: Episode II - Attack of the Clones,https://www.imdb.com/title/tt0121765/,movie,6.6,142,2002,"Action, Adventure, Fantasy, Sci-Fi",738428,2002-05-12,George Lucas
 tt0121766,4,2021-07-14,Star Wars: Episode III - Revenge of the Sith,https://www.imdb.com/title/tt0121766/,movie,7.6,140,2005,"Action, Adventure, Fantasy, Sci-Fi",822119,2005-05-12,George Lucas
 tt1219289,7,2021-07-14,Limitless,https://www.imdb.com/title/tt1219289/,movie,7.4,105,2011,"Sci-Fi, Thriller",596422,2011-03-08,Neil Burger
@@ -743,7 +743,7 @@ tt12758060,5,2023-04-16,Tetris,https://www.imdb.com/title/tt12758060/,movie,7.4,
 tt12758486,7,2023-05-03,Chevalier,https://www.imdb.com/title/tt12758486/,movie,6.5,108,2022,"Biography, Drama, History, Music",5216,2022-09-11,Stephen Williams
 tt1276104,6,2021-07-14,Looper,https://www.imdb.com/title/tt1276104/,movie,7.4,119,2012,"Action, Drama, Sci-Fi, Thriller",591620,2012-09-06,Rian Johnson
 tt12771540,9,2022-02-27,Audible,https://www.imdb.com/title/tt12771540/,short,6.7,39,2021,"Documentary, Short, Sport",2572,2021-04-29,Matthew Ogens
-tt0127723,4,2021-07-15,Can't Hardly Wait,https://www.imdb.com/title/tt0127723/,movie,6.5,100,1998,"Comedy, Romance",52905,1998-06-12,"Harry Elfont, Deborah Kaplan"
+tt0127723,4,2021-07-15,Can't Hardly Wait,https://www.imdb.com/title/tt0127723/,movie,6.5,100,1998,"Comedy, Romance",52905,1998-06-12,"Deborah Kaplan, Harry Elfont"
 tt12789558,6,2021-11-12,Belfast,https://www.imdb.com/title/tt12789558/,movie,7.3,98,2021,"Biography, Drama, Romance",83127,2021-09-02,Kenneth Branagh
 tt1279499,5,2023-08-22,This Way Up,https://www.imdb.com/title/tt1279499/,short,6.9,9,2008,"Animation, Short",1655,2008-04-24,"Alan Smith, Adam Foulkes"
 tt1279935,2,2021-07-18,Date Night,https://www.imdb.com/title/tt1279935/,movie,6.3,88,2010,"Comedy, Crime, Romance, Thriller",168443,2010-04-06,Shawn Levy
@@ -767,7 +767,7 @@ tt0129167,6,2021-09-17,The Iron Giant,https://www.imdb.com/title/tt0129167/,movi
 tt1292566,2,2021-09-18,How to Be Single,https://www.imdb.com/title/tt1292566/,movie,6.1,110,2016,"Comedy, Drama, Romance",91943,2016-02-03,Christian Ditter
 tt0129290,4,2021-07-15,Patch Adams,https://www.imdb.com/title/tt0129290/,movie,6.8,115,1998,"Biography, Comedy, Drama, Romance",119416,1998-10-21,Tom Shadyac
 tt1293847,3,2021-07-14,xXx: Return of Xander Cage,https://www.imdb.com/title/tt1293847/,movie,5.2,107,2017,"Action, Adventure, Thriller",95469,2017-01-05,D.J. Caruso
-tt0129387,5,2021-07-14,There's Something About Mary,https://www.imdb.com/title/tt0129387/,movie,7.1,119,1998,"Comedy, Romance",321950,1998-07-15,"Peter Farrelly, Bobby Farrelly"
+tt0129387,5,2021-07-14,There's Something About Mary,https://www.imdb.com/title/tt0129387/,movie,7.1,119,1998,"Comedy, Romance",321950,1998-07-15,"Bobby Farrelly, Peter Farrelly"
 tt12950902,6,2021-07-11,The Christmas House,https://www.imdb.com/title/tt12950902/,tvMovie,6.0,84,2020,"Drama, Romance",2402,2020-11-22,Michael Grossman
 tt12979636,7,2023-08-23,Hunger Ward,https://www.imdb.com/title/tt12979636/,short,7.1,40,2020,"Documentary, Short, War",785,2020-11-11,Skye Fitzgerald
 tt1298644,1,2021-09-18,The Hustle,https://www.imdb.com/title/tt1298644/,movie,5.4,93,2019,"Comedy, Crime",63539,2019-05-08,Chris Addison
@@ -775,7 +775,7 @@ tt12997976,4,2021-12-17,Dear Christmas,https://www.imdb.com/title/tt12997976/,tv
 tt0130018,3,2021-07-15,I Still Know What You Did Last Summer,https://www.imdb.com/title/tt0130018/,movie,4.7,100,1998,"Horror, Mystery, Thriller",76887,1998-11-13,Danny Cannon
 tt13007592,6,2022-11-26,The Noel Diary,https://www.imdb.com/title/tt13007592/,movie,6.1,99,2022,"Comedy, Drama, Romance",16602,2022-11-24,Charles Shyer
 tt1300854,3,2021-07-14,Iron Man Three,https://www.imdb.com/title/tt1300854/,movie,7.1,130,2013,"Action, Adventure, Sci-Fi",879518,2013-04-14,Shane Black
-tt13017992,5,2021-07-23,Mariah Carey's Magical Christmas Special,https://www.imdb.com/title/tt13017992/,tvSpecial,5.8,43,2020,"Adventure, Family, Fantasy, Music, Musical",1448,2020-12-04,"Hamish Hamilton, Roman Coppola"
+tt13017992,5,2021-07-23,Mariah Carey's Magical Christmas Special,https://www.imdb.com/title/tt13017992/,tvSpecial,5.8,43,2020,"Adventure, Family, Fantasy, Music, Musical",1448,2020-12-04,"Roman Coppola, Hamish Hamilton"
 tt1302006,5,2021-07-14,The Irishman,https://www.imdb.com/title/tt1302006/,movie,7.8,209,2019,"Biography, Crime, Drama",412078,2019-09-27,Martin Scorsese
 tt1302011,6,2023-08-18,Kung Fu Panda 2,https://www.imdb.com/title/tt1302011/,movie,7.2,90,2011,"Animation, Action, Adventure, Comedy, Drama, Family, Fantasy",304229,2011-05-22,Jennifer Yuh Nelson
 tt0130445,7,2023-08-23,Alaska: Spirit of the Wild,https://www.imdb.com/title/tt0130445/,short,7.1,41,1997,"Documentary, Short",578,1997-04-11,George Casey
@@ -810,7 +810,7 @@ tt1323520,7,2023-08-22,French Roast,https://www.imdb.com/title/tt1323520/,short,
 tt1323594,6,2021-07-14,Despicable Me,https://www.imdb.com/title/tt1323594/,movie,7.6,95,2010,"Animation, Adventure, Comedy, Crime, Family, Sci-Fi",567788,2010-06-20,"Chris Renaud, Pierre Coffin"
 tt13236566,5,2021-07-11,Operation Christmas Drop,https://www.imdb.com/title/tt13236566/,movie,5.8,95,2020,"Comedy, Family, Romance",12441,2020-11-05,Martin Wood
 tt13238346,8,2023-07-03,Past Lives,https://www.imdb.com/title/tt13238346/,movie,8.1,105,2023,"Drama, Romance",16544,2023-01-21,Celine Song
-tt1323941,7,2023-08-21,Oktapodi,https://www.imdb.com/title/tt1323941/,short,7.2,3,2007,"Animation, Short, Comedy, Family",3503,2007-07-15,"Julien Bocabeille, Olivier Delabarre, François-Xavier Chanioux, Emud Mokhberi, Quentin Marmier, Thierry Marchand"
+tt1323941,7,2023-08-21,Oktapodi,https://www.imdb.com/title/tt1323941/,short,7.2,3,2007,"Animation, Short, Comedy, Family",3503,2007-07-15,"Julien Bocabeille, Olivier Delabarre, François-Xavier Chanioux, Quentin Marmier, Emud Mokhberi, Thierry Marchand"
 tt0132477,7,2021-07-15,October Sky,https://www.imdb.com/title/tt0132477/,movie,7.8,108,1999,"Biography, Drama, Family",95544,1999-02-19,Joe Johnston
 tt1327194,2,2021-07-15,The Lucky One,https://www.imdb.com/title/tt1327194/,movie,6.4,101,2012,"Drama, Mystery, Romance, War",111967,2012-04-19,Scott Hicks
 tt1327788,2,2021-07-15,The Most Wonderful Time of the Year,https://www.imdb.com/title/tt1327788/,tvMovie,7.3,88,2008,"Comedy, Drama, Family, Romance",4605,2008-12-13,Michael M. Scott
@@ -917,7 +917,7 @@ tt14208870,8,2022-11-24,The Fabelmans,https://www.imdb.com/title/tt14208870/,mov
 tt14220316,9,2022-03-27,Save Ralph,https://www.imdb.com/title/tt14220316/,short,8.4,4,2021,"Animation, Short",5745,2021-04-06,Spencer Susser
 tt14230388,7,2023-06-23,Asteroid City,https://www.imdb.com/title/tt14230388/,movie,6.7,105,2023,"Comedy, Drama, Romance, Sci-Fi",69133,2023-05-23,Wes Anderson
 tt0142342,5,2021-07-14,Big Daddy,https://www.imdb.com/title/tt0142342/,movie,6.4,93,1999,"Comedy, Drama",227943,1999-06-17,Dennis Dugan
-tt0142655,5,2023-08-12,The Merry Old Soul,https://www.imdb.com/title/tt0142655/,short,5.9,8,1933,"Animation, Short, Comedy, Family, Musical",276,1933-11-27,"William Nolan, Walter Lantz"
+tt0142655,5,2023-08-12,The Merry Old Soul,https://www.imdb.com/title/tt0142655/,short,5.9,8,1933,"Animation, Short, Comedy, Family, Musical",276,1933-11-27,"Walter Lantz, William Nolan"
 tt14271498,5,2022-07-22,Loot,https://www.imdb.com/title/tt14271498/,tvSeries,6.8,25,2022,Comedy,9882,2022-06-24,
 tt14293560,6,2022-02-26,Affairs of the Art,https://www.imdb.com/title/tt14293560/,short,6.1,16,2021,"Animation, Short, Comedy, Fantasy",1455,2021-01-29,Joanna Quinn
 tt1430132,4,2021-07-14,The Wolverine,https://www.imdb.com/title/tt1430132/,movie,6.7,126,2013,"Action, Sci-Fi",482500,2013-07-16,James Mangold
@@ -1018,7 +1018,7 @@ tt1532503,6,2022-01-14,Beginners,https://www.imdb.com/title/tt1532503/,movie,7.2
 tt15326988,5,2023-04-24,Ghosted,https://www.imdb.com/title/tt15326988/,movie,5.8,116,2023,"Action, Adventure, Comedy, Romance",51379,2023-04-21,Dexter Fletcher
 tt15339456,7,2022-07-17,Marcel the Shell with Shoes On,https://www.imdb.com/title/tt15339456/,movie,7.7,90,2021,"Animation, Comedy, Drama, Family, Fantasy",21621,2021-09-03,Dean Fleischer Camp
 tt15339570,6,2023-03-10,Champions,https://www.imdb.com/title/tt15339570/,movie,6.7,124,2023,"Comedy, Drama, Sport",17943,2023-03-09,Bobby Farrelly
-tt15339848,5,2022-02-27,Lead Me Home,https://www.imdb.com/title/tt15339848/,short,6.3,39,2021,"Short, Documentary",4061,2021-09-03,"Jon Shenk, Pedro Kos"
+tt15339848,5,2022-02-27,Lead Me Home,https://www.imdb.com/title/tt15339848/,short,6.3,39,2021,"Short, Documentary",4061,2021-09-03,"Pedro Kos, Jon Shenk"
 tt1535108,3,2021-07-14,Elysium,https://www.imdb.com/title/tt1535108/,movie,6.6,109,2013,"Action, Drama, Sci-Fi, Thriller",461758,2013-08-07,Neill Blomkamp
 tt1535109,6,2021-07-14,Captain Phillips,https://www.imdb.com/title/tt1535109/,movie,7.8,134,2013,"Action, Biography, Crime, Drama, Thriller",480135,2013-09-27,Paul Greengrass
 tt1536048,5,2022-06-03,W.E.,https://www.imdb.com/title/tt1536048/,movie,6.2,119,2011,"Drama, History, Romance",13399,2011-09-01,Madonna
@@ -1049,7 +1049,7 @@ tt1570728,8,2021-07-11,"Crazy, Stupid, Love.",https://www.imdb.com/title/tt15707
 tt1571249,4,2021-08-20,The Skeleton Twins,https://www.imdb.com/title/tt1571249/,movie,6.8,93,2014,"Comedy, Drama, Romance",43914,2014-01-18,Craig Johnson
 tt15717468,6,2021-12-19,La naranja prohibida,https://www.imdb.com/title/tt15717468/,movie,6.3,78,2021,Documentary,462,2021-10-23,Pedro González Bermúdez
 tt15721828,9,2022-05-12,This Much I Know to Be True,https://www.imdb.com/title/tt15721828/,movie,7.7,105,2022,"Documentary, Music",1566,2022-02-12,Andrew Dominik
-tt15724240,6,2022-08-27,The Lost Record,https://www.imdb.com/title/tt15724240/,movie,7.3,76,2021,"Music, Fantasy",12,2021-08-31,"Alexandra Cabral, Ian Svenonius"
+tt15724240,6,2022-08-27,The Lost Record,https://www.imdb.com/title/tt15724240/,movie,7.3,76,2021,"Music, Fantasy",12,2021-08-31,"Ian Svenonius, Alexandra Cabral"
 tt0157246,7,2021-07-23,Will & Grace,https://www.imdb.com/title/tt0157246/,tvSeries,7.3,22,1998,"Comedy, Romance",58454,1998-09-21,
 tt15771916,6,2023-06-04,You Hurt My Feelings,https://www.imdb.com/title/tt15771916/,movie,6.6,93,2023,"Comedy, Drama",6370,2023-01-22,Nicole Holofcener
 tt15791034,6,2022-09-11,Barbarian,https://www.imdb.com/title/tt15791034/,movie,7.0,102,2022,"Horror, Mystery, Thriller",158458,2022-08-29,Zach Cregger
@@ -1081,7 +1081,7 @@ tt1605783,7,2021-07-09,Midnight in Paris,https://www.imdb.com/title/tt1605783/,m
 tt0160797,6,2022-05-30,Rules of Engagement,https://www.imdb.com/title/tt0160797/,movie,6.4,128,2000,"Drama, Thriller, War",49502,2000-04-07,William Friedkin
 tt0160862,4,2021-07-15,She's All That,https://www.imdb.com/title/tt0160862/,movie,5.9,95,1999,"Comedy, Romance",100550,1999-01-19,Robert Iscove
 tt0160904,6,2021-07-24,Spooks,https://www.imdb.com/title/tt0160904/,tvSeries,8.3,60,2002,"Action, Crime, Drama, Mystery, Thriller",17433,2002-05-13,
-tt16116174,8,2022-01-02,Harry Potter 20th Anniversary: Return to Hogwarts,https://www.imdb.com/title/tt16116174/,tvSpecial,8.0,102,2022,"Documentary, Family",44940,2022-01-01,"Casey Patterson, Joe Pearlman, Eran Creevy, Giorgio Testi"
+tt16116174,8,2022-01-02,Harry Potter 20th Anniversary: Return to Hogwarts,https://www.imdb.com/title/tt16116174/,tvSpecial,8.0,102,2022,"Documentary, Family",44940,2022-01-01,"Casey Patterson, Eran Creevy, Joe Pearlman, Giorgio Testi"
 tt1615147,7,2023-06-10,Margin Call,https://www.imdb.com/title/tt1615147/,movie,7.1,107,2011,"Drama, Thriller",139621,2011-01-25,J.C. Chandor
 tt1618434,2,2021-07-18,Murder Mystery,https://www.imdb.com/title/tt1618434/,movie,6.0,97,2019,"Action, Comedy, Crime, Mystery, Romance",160087,2019-06-14,Kyle Newacheck
 tt1619029,5,2022-06-30,Jackie,https://www.imdb.com/title/tt1619029/,movie,6.7,100,2016,"Biography, Drama",82084,2016-09-07,Pablo Larraín
@@ -1135,7 +1135,7 @@ tt0166924,7,2021-07-09,Mulholland Dr.,https://www.imdb.com/title/tt0166924/,movi
 tt1670345,5,2021-07-14,Now You See Me,https://www.imdb.com/title/tt1670345/,movie,7.2,115,2013,"Crime, Mystery, Thriller",687458,2013-05-21,Louis Leterrier
 tt0167260,7,2021-07-09,The Lord of the Rings: The Return of the King,https://www.imdb.com/title/tt0167260/,movie,9.0,201,2003,"Action, Adventure, Drama, Fantasy",1913411,2003-12-01,Peter Jackson
 tt0167261,7,2021-07-14,The Lord of the Rings: The Two Towers,https://www.imdb.com/title/tt0167261/,movie,8.8,179,2002,"Action, Adventure, Drama, Fantasy",1726621,2002-12-05,Peter Jackson
-tt16727778,8,2022-03-29,Anything Goes,https://www.imdb.com/title/tt16727778/,movie,7.5,159,2021,"Comedy, Musical, Romance",565,2021-11-28,"Kathleen Marshall, Ross MacGibbon"
+tt16727778,8,2022-03-29,Anything Goes,https://www.imdb.com/title/tt16727778/,movie,7.5,159,2021,"Comedy, Musical, Romance",565,2021-11-28,"Ross MacGibbon, Kathleen Marshall"
 tt1673702,7,2023-08-12,Une vie de chat,https://www.imdb.com/title/tt1673702/,movie,6.9,70,2010,"Animation, Adventure, Comedy, Crime, Family",11684,2010-10-15,"Alain Gagnol, Jean-Loup Felicioli"
 tt0167404,8,2021-07-14,The Sixth Sense,https://www.imdb.com/title/tt0167404/,movie,8.2,107,1999,"Drama, Mystery, Thriller",1022776,1999-08-02,M. Night Shyamalan
 tt0167427,2,2021-07-15,Superstar,https://www.imdb.com/title/tt0167427/,movie,5.2,81,1999,"Comedy, Romance",20029,1999-10-05,Bruce McCulloch
@@ -1223,7 +1223,7 @@ tt1825683,7,2021-07-09,Black Panther,https://www.imdb.com/title/tt1825683/,movie
 tt18257464,7,2023-04-29,Polite Society,https://www.imdb.com/title/tt18257464/,movie,6.7,104,2023,"Action, Comedy",6498,2023-01-20,Nida Manzoor
 tt0182789,2,2021-07-15,Bicentennial Man,https://www.imdb.com/title/tt0182789/,movie,6.9,132,1999,"Drama, Romance, Sci-Fi",122009,1999-12-13,Chris Columbus
 tt1832382,8,2023-08-31,Jodaeiye Nader az Simin,https://www.imdb.com/title/tt1832382/,movie,8.3,123,2011,Drama,252411,2011-02-01,Asghar Farhadi
-tt0183505,3,2021-07-14,"Me, Myself & Irene",https://www.imdb.com/title/tt0183505/,movie,6.6,116,2000,Comedy,245850,2000-06-15,"Peter Farrelly, Bobby Farrelly"
+tt0183505,3,2021-07-14,"Me, Myself & Irene",https://www.imdb.com/title/tt0183505/,movie,6.6,116,2000,Comedy,245850,2000-06-15,"Bobby Farrelly, Peter Farrelly"
 tt0183659,5,2021-10-05,Pollock,https://www.imdb.com/title/tt0183659/,movie,7.0,122,2000,"Biography, Drama",29042,2000-09-06,Ed Harris
 tt1837492,6,2021-07-23,13 Reasons Why,https://www.imdb.com/title/tt1837492/,tvSeries,7.5,60,2017,"Drama, Mystery, Thriller",306853,2017-03-31,
 tt1837576,6,2021-07-23,Scandal,https://www.imdb.com/title/tt1837576/,tvSeries,7.7,43,2012,"Drama, Thriller",77711,2012-04-05,
@@ -1311,7 +1311,7 @@ tt1981558,6,2021-11-05,Key and Peele,https://www.imdb.com/title/tt1981558/,tvSer
 tt1981677,5,2021-07-14,Pitch Perfect,https://www.imdb.com/title/tt1981677/,movie,7.1,112,2012,"Comedy, Music, Romance",321680,2012-09-28,Jason Moore
 tt0019823,5,2022-06-15,Disraeli,https://www.imdb.com/title/tt0019823/,movie,6.1,90,1929,"Biography, Drama, History",1342,1929-10-02,Alfred E. Green
 tt1984119,7,2021-07-23,Feud,https://www.imdb.com/title/tt1984119/,tvMiniSeries,8.4,406,2017,"Biography, Drama",20914,2017-01-11,
-tt0198781,8,2021-07-09,"Monsters, Inc.",https://www.imdb.com/title/tt0198781/,movie,8.1,92,2001,"Animation, Adventure, Comedy, Family, Fantasy",947419,2001-10-28,"David Silverman, Pete Docter, Lee Unkrich"
+tt0198781,8,2021-07-09,"Monsters, Inc.",https://www.imdb.com/title/tt0198781/,movie,8.1,92,2001,"Animation, Adventure, Comedy, Family, Fantasy",947419,2001-10-28,"Pete Docter, David Silverman, Lee Unkrich"
 tt0199725,7,2022-10-11,Love & Basketball,https://www.imdb.com/title/tt0199725/,movie,7.2,124,2000,"Drama, Romance, Sport",23245,2000-01-26,Gina Prince-Bythewood
 tt1998355,6,2023-08-12,The Voorman Problem,https://www.imdb.com/title/tt1998355/,short,7.2,13,2011,"Short, Drama, Fantasy, Mystery",1215,2011-10-11,Mark Gill
 tt0200027,6,2022-05-30,Riding in Cars with Boys,https://www.imdb.com/title/tt0200027/,movie,6.5,132,2001,"Biography, Comedy, Drama",30043,2001-10-19,Penny Marshall
@@ -1516,7 +1516,7 @@ tt2396589,6,2022-08-19,Mudbound,https://www.imdb.com/title/tt2396589/,movie,7.4,
 tt2397535,7,2021-07-15,Predestination,https://www.imdb.com/title/tt2397535/,movie,7.4,97,2014,"Action, Drama, Sci-Fi, Thriller",294350,2014-03-08,"Michael Spierig, Peter Spierig"
 tt0239797,8,2023-08-22,The Periwig-Maker,https://www.imdb.com/title/tt0239797/,short,6.9,15,1999,"Animation, Short, Drama",616,1999-11-13,Steffen Schäffler
 tt2398249,1,2021-07-24,They Came Together,https://www.imdb.com/title/tt2398249/,movie,5.6,83,2014,"Comedy, Romance",23915,2014-01-24,David Wain
-tt2401878,7,2023-08-21,Anomalisa,https://www.imdb.com/title/tt2401878/,movie,7.3,90,2015,"Animation, Comedy, Drama, Romance",74132,2015-09-04,"Charlie Kaufman, Duke Johnson"
+tt2401878,7,2023-08-21,Anomalisa,https://www.imdb.com/title/tt2401878/,movie,7.3,90,2015,"Animation, Comedy, Drama, Romance",74132,2015-09-04,"Duke Johnson, Charlie Kaufman"
 tt2402927,6,2021-07-23,Carol,https://www.imdb.com/title/tt2402927/,movie,7.2,118,2015,"Drama, Romance",137268,2015-05-17,Todd Haynes
 tt0024034,7,2022-05-20,42nd Street,https://www.imdb.com/title/tt0024034/,movie,7.3,89,1933,"Comedy, Drama, Music, Musical, Romance",12687,1933-02-23,Lloyd Bacon
 tt2404311,2,2021-09-18,The Family,https://www.imdb.com/title/tt2404311/,movie,6.3,111,2013,"Comedy, Crime, Thriller",120851,2013-09-10,Luc Besson
@@ -1595,7 +1595,7 @@ tt2555736,6,2021-07-28,The Second Best Exotic Marigold Hotel,https://www.imdb.co
 tt0025586,7,2022-09-27,Of Human Bondage,https://www.imdb.com/title/tt0025586/,movie,7.0,83,1934,"Drama, Mystery, Romance",7977,1934-06-28,John Cromwell
 tt0256009,8,2021-07-09,El espinazo del diablo,https://www.imdb.com/title/tt0256009/,movie,7.4,106,2001,"Drama, Horror, Thriller",69238,2001-04-20,Guillermo del Toro
 tt2562232,8,2021-07-09,Birdman or (The Unexpected Virtue of Ignorance),https://www.imdb.com/title/tt2562232/,movie,7.7,119,2014,"Comedy, Drama",651641,2014-08-27,Alejandro G. Iñárritu
-tt0256380,4,2021-09-18,Shallow Hal,https://www.imdb.com/title/tt0256380/,movie,6.0,114,2001,"Comedy, Drama, Fantasy, Romance",140151,2001-11-01,"Peter Farrelly, Bobby Farrelly"
+tt0256380,4,2021-09-18,Shallow Hal,https://www.imdb.com/title/tt0256380/,movie,6.0,114,2001,"Comedy, Drama, Fantasy, Romance",140151,2001-11-01,"Bobby Farrelly, Peter Farrelly"
 tt0256415,6,2021-07-14,Sweet Home Alabama,https://www.imdb.com/title/tt0256415/,movie,6.2,108,2002,"Comedy, Romance",119776,2002-09-20,Andy Tennant
 tt0257044,6,2021-07-09,Road to Perdition,https://www.imdb.com/title/tt0257044/,movie,7.7,117,2002,"Crime, Drama, Thriller",278389,2002-07-09,Sam Mendes
 tt0025718,4,2022-08-26,The Richest Girl in the World,https://www.imdb.com/title/tt0025718/,movie,6.3,76,1934,"Comedy, Romance",993,1934-09-21,William A. Seiter
@@ -1649,7 +1649,7 @@ tt2692904,6,2023-08-27,Locke,https://www.imdb.com/title/tt2692904/,movie,7.1,85,
 tt0026983,6,2022-05-08,She,https://www.imdb.com/title/tt0026983/,movie,6.4,101,1935,"Adventure, Fantasy, Romance, Sci-Fi",1829,1935-07-12,"Irving Pichel, Lansing C. Holden"
 tt0269899,8,2023-08-22,Speed for Thespians,https://www.imdb.com/title/tt0269899/,short,7.6,28,2000,"Drama, Short, Comedy",113,2000-07-21,Kalman Apple
 tt2699110,5,2021-07-23,The Affair,https://www.imdb.com/title/tt2699110/,tvSeries,7.9,60,2014,Drama,47912,2014-10-12,
-tt2704998,3,2021-08-20,Game Night,https://www.imdb.com/title/tt2704998/,movie,6.9,100,2018,"Action, Adventure, Comedy, Crime, Thriller",248364,2018-02-15,"Jonathan Goldstein, John Francis Daley"
+tt2704998,3,2021-08-20,Game Night,https://www.imdb.com/title/tt2704998/,movie,6.9,100,2018,"Action, Adventure, Comedy, Crime, Thriller",248364,2018-02-15,"John Francis Daley, Jonathan Goldstein"
 tt2709692,4,2021-12-24,The Grinch,https://www.imdb.com/title/tt2709692/,movie,6.4,85,2018,"Animation, Comedy, Family, Fantasy, Musical",79466,2018-11-03,"Yarrow Cheney, Scott Mosier"
 tt0027100,5,2022-06-05,Three Orphan Kittens,https://www.imdb.com/title/tt0027100/,short,6.8,9,1935,"Animation, Comedy, Family, Short",1262,1935-10-26,David Hand
 tt0027113,8,2023-08-22,Tit for Tat,https://www.imdb.com/title/tt0027113/,short,7.5,19,1935,"Comedy, Short, Family",2416,1935-01-05,Charley Rogers
@@ -1665,7 +1665,7 @@ tt0273923,6,2021-07-11,Orange County,https://www.imdb.com/title/tt0273923/,movie
 tt2741602,4,2021-07-24,The Blacklist,https://www.imdb.com/title/tt2741602/,tvSeries,8.0,43,2013,"Crime, Drama, Mystery, Thriller",270498,2013-09-23,
 tt0274558,6,2021-07-09,The Hours,https://www.imdb.com/title/tt0274558/,movie,7.5,110,2002,"Drama, Romance",136119,2002-12-15,Stephen Daldry
 tt0027459,6,2021-08-15,Come and Get It,https://www.imdb.com/title/tt0027459/,movie,6.9,99,1936,"Drama, Romance",2245,1936-11-06,"Richard Rosson, William Wyler, Howard Hawks"
-tt0275277,8,2022-07-18,Cowboy Bebop: Tengoku no tobira,https://www.imdb.com/title/tt0275277/,movie,7.8,115,2001,"Animation, Action, Crime, Drama, Sci-Fi",51285,2001-09-01,"Shin'ichirô Watanabe, Hiroyuki Okiura, Yoshiyuki Takei, Tensai Okamura, Mary Elizabeth McGlynn"
+tt0275277,8,2022-07-18,Cowboy Bebop: Tengoku no tobira,https://www.imdb.com/title/tt0275277/,movie,7.8,115,2001,"Animation, Action, Crime, Drama, Sci-Fi",51285,2001-09-01,"Hiroyuki Okiura, Shin'ichirô Watanabe, Yoshiyuki Takei, Tensai Okamura, Mary Elizabeth McGlynn"
 tt0027532,7,2022-02-03,Dodsworth,https://www.imdb.com/title/tt0027532/,movie,7.8,101,1936,"Drama, Romance",9816,1936-09-23,William Wyler
 tt0275847,8,2021-07-11,Lilo & Stitch,https://www.imdb.com/title/tt0275847/,movie,7.3,85,2002,"Animation, Adventure, Comedy, Drama, Family, Fantasy, Sci-Fi",203746,2002-06-16,"Dean DeBlois, Chris Sanders"
 tt0276472,4,2023-05-19,Scratch-As-Catch-Can,https://www.imdb.com/title/tt0276472/,short,5.6,19,1931,"Short, Comedy",47,1931-11-06,Mark Sandrich
@@ -1718,13 +1718,13 @@ tt0289879,4,2021-07-14,The Butterfly Effect,https://www.imdb.com/title/tt0289879
 tt0290002,4,2021-07-15,Meet the Fockers,https://www.imdb.com/title/tt0290002/,movie,6.3,115,2004,"Comedy, Romance",280544,2004-12-16,Jay Roach
 tt0290210,3,2021-12-22,Max,https://www.imdb.com/title/tt0290210/,movie,6.4,106,2002,"Drama, War",8711,2002-09-10,Menno Meyjes
 tt0290334,4,2021-07-14,X2,https://www.imdb.com/title/tt0290334/,movie,7.4,134,2003,"Action, Sci-Fi, Thriller",565568,2003-04-24,Bryan Singer
-tt2906216,7,2023-04-11,Dungeons & Dragons: Honor Among Thieves,https://www.imdb.com/title/tt2906216/,movie,7.3,134,2023,"Action, Adventure, Comedy, Fantasy",176668,2023-03-10,"Jonathan Goldstein, John Francis Daley"
+tt2906216,7,2023-04-11,Dungeons & Dragons: Honor Among Thieves,https://www.imdb.com/title/tt2906216/,movie,7.3,134,2023,"Action, Adventure, Comedy, Fantasy",176668,2023-03-10,"John Francis Daley, Jonathan Goldstein"
 tt2908446,5,2021-07-14,Insurgent,https://www.imdb.com/title/tt2908446/,movie,6.2,119,2015,"Action, Adventure, Sci-Fi, Thriller",248119,2015-03-11,Robert Schwentke
 tt2910274,6,2021-07-31,Obvious Child,https://www.imdb.com/title/tt2910274/,movie,6.7,84,2014,"Comedy, Drama, Romance",26066,2014-01-17,Gillian Robespierre
 tt2910904,4,2021-07-18,The Dressmaker,https://www.imdb.com/title/tt2910904/,movie,7.0,119,2015,"Comedy, Drama, Western",63772,2015-09-14,Jocelyn Moorhouse
 tt0029151,9,2022-02-24,The Little Match Girl,https://www.imdb.com/title/tt0029151/,short,7.0,8,1937,"Animation, Short, Drama, Family, Fantasy",380,1937-11-05,"Sid Marcus, Arthur Davis"
 tt0292644,3,2021-09-18,The Rules of Attraction,https://www.imdb.com/title/tt0292644/,movie,6.6,110,2002,"Comedy, Drama, Romance",52693,2002-10-11,Roger Avary
-tt0029339,9,2023-08-21,The Old Mill,https://www.imdb.com/title/tt0029339/,short,7.8,9,1937,"Animation, Short, Comedy, Family, Musical",4622,1937-08-31,"Wilfred Jackson, Graham Heid"
+tt0029339,9,2023-08-21,The Old Mill,https://www.imdb.com/title/tt0029339/,short,7.8,9,1937,"Animation, Short, Comedy, Family, Musical",4622,1937-08-31,"Graham Heid, Wilfred Jackson"
 tt0293475,8,2023-05-24,Original Cast Album: Company,https://www.imdb.com/title/tt0293475/,movie,8.0,53,1970,Documentary,960,1970-10-28,D.A. Pennebaker
 tt0293508,5,2021-07-14,The Phantom of the Opera,https://www.imdb.com/title/tt0293508/,movie,7.2,143,2004,"Drama, Musical, Romance, Thriller",127582,2004-12-09,Joel Schumacher
 tt2935510,4,2021-07-15,Ad Astra,https://www.imdb.com/title/tt2935510/,movie,6.5,123,2019,"Adventure, Drama, Mystery, Sci-Fi, Thriller",251937,2019-08-29,James Gray
@@ -1735,10 +1735,10 @@ tt2948372,9,2021-07-09,Soul,https://www.imdb.com/title/tt2948372/,movie,8.0,100,
 tt0295178,4,2021-07-14,Austin Powers in Goldmember,https://www.imdb.com/title/tt0295178/,movie,6.2,94,2002,"Action, Adventure, Comedy, Crime",218132,2002-07-22,Jay Roach
 tt0295289,3,2021-07-18,A Guy Thing,https://www.imdb.com/title/tt0295289/,movie,5.6,101,2003,"Comedy, Romance",17949,2003-01-17,Chris Koch
 tt0295297,6,2021-07-14,Harry Potter and the Chamber of Secrets,https://www.imdb.com/title/tt0295297/,movie,7.4,161,2002,"Adventure, Family, Fantasy, Mystery",666753,2002-11-03,Chris Columbus
-tt2953050,7,2022-01-26,Encanto,https://www.imdb.com/title/tt2953050/,movie,7.2,102,2021,"Animation, Comedy, Family, Fantasy, Musical",244191,2021-11-03,"Jared Bush, Byron Howard, Charise Castro Smith"
+tt2953050,7,2022-01-26,Encanto,https://www.imdb.com/title/tt2953050/,movie,7.2,102,2021,"Animation, Comedy, Family, Fantasy, Musical",244191,2021-11-03,"Jared Bush, Charise Castro Smith, Byron Howard"
 tt2955402,7,2021-07-24,Velvet,https://www.imdb.com/title/tt2955402/,tvSeries,8.1,43,2013,"Drama, Romance",6542,2013-09-04,
-tt0029583,7,2021-07-09,Snow White and the Seven Dwarfs,https://www.imdb.com/title/tt0029583/,movie,7.6,83,1937,"Animation, Adventure, Family, Fantasy, Musical, Romance",209367,1937-12-21,"William Cottrell, Ben Sharpsteen, Perce Pearce, David Hand, Wilfred Jackson, Larry Morey"
-tt0029606,7,2021-07-09,A Star Is Born,https://www.imdb.com/title/tt0029606/,movie,7.3,111,1937,"Drama, Romance",10478,1937-04-20,"Jack Conway, William A. Wellman, Victor Fleming"
+tt0029583,7,2021-07-09,Snow White and the Seven Dwarfs,https://www.imdb.com/title/tt0029583/,movie,7.6,83,1937,"Animation, Adventure, Family, Fantasy, Musical, Romance",209367,1937-12-21,"William Cottrell, Perce Pearce, Ben Sharpsteen, David Hand, Wilfred Jackson, Larry Morey"
+tt0029606,7,2021-07-09,A Star Is Born,https://www.imdb.com/title/tt0029606/,movie,7.3,111,1937,"Drama, Romance",10478,1937-04-20,"William A. Wellman, Jack Conway, Victor Fleming"
 tt0029682,6,2022-12-01,Topper,https://www.imdb.com/title/tt0029682/,movie,7.2,97,1937,"Comedy, Fantasy, Romance",8016,1937-07-16,Norman Z. McLeod
 tt0296874,4,2022-12-31,Strange Invaders,https://www.imdb.com/title/tt0296874/,short,6.5,8,2001,"Animation, Short, Comedy, Fantasy, Sci-Fi",641,2001-09-23,Cordell Barker
 tt2975590,4,2021-07-11,Batman v Superman: Dawn of Justice,https://www.imdb.com/title/tt2975590/,movie,6.5,151,2016,"Action, Adventure, Sci-Fi",739074,2016-03-12,Zack Snyder
@@ -1855,7 +1855,7 @@ tt3203606,7,2021-08-20,Trumbo,https://www.imdb.com/title/tt3203606/,movie,7.4,12
 tt3205802,5,2021-07-23,How to Get Away with Murder,https://www.imdb.com/title/tt3205802/,tvSeries,8.1,43,2014,"Crime, Drama, Mystery, Thriller",160547,2014-09-25,
 tt0032071,8,2023-08-21,Ugly Duckling,https://www.imdb.com/title/tt0032071/,short,7.6,9,1939,"Animation, Short, Comedy, Family",3396,1939-04-07,"Hamilton Luske, Clyde Geronimi, Jack Cutting"
 tt3212568,7,2021-12-07,Beltracchi - Die Kunst der Fälschung,https://www.imdb.com/title/tt3212568/,movie,7.1,93,2014,"Documentary, Biography, Crime",1920,2014-03-06,Arne Birkenstock
-tt0032138,10,2021-07-09,The Wizard of Oz,https://www.imdb.com/title/tt0032138/,movie,8.1,102,1939,"Adventure, Family, Fantasy, Musical",415883,1939-08-10,"Mervyn LeRoy, Norman Taurog, King Vidor, George Cukor, Richard Thorpe, Victor Fleming"
+tt0032138,10,2021-07-09,The Wizard of Oz,https://www.imdb.com/title/tt0032138/,movie,8.1,102,1939,"Adventure, Family, Fantasy, Musical",415883,1939-08-10,"Mervyn LeRoy, King Vidor, George Cukor, Norman Taurog, Richard Thorpe, Victor Fleming"
 tt0032145,8,2021-07-09,Wuthering Heights,https://www.imdb.com/title/tt0032145/,movie,7.5,104,1939,"Drama, Romance",19157,1939-03-24,William Wyler
 tt0032155,7,2023-03-29,Young Mr. Lincoln,https://www.imdb.com/title/tt0032155/,movie,7.5,100,1939,"Biography, Drama, History",8934,1939-05-30,John Ford
 tt3215824,6,2021-08-09,Those Who Wish Me Dead,https://www.imdb.com/title/tt3215824/,movie,6.0,100,2021,"Action, Drama, Thriller",67095,2021-05-05,Taylor Sheridan
@@ -1875,7 +1875,7 @@ tt0325710,5,2022-05-30,The Last Samurai,https://www.imdb.com/title/tt0325710/,mo
 tt0325805,6,2021-09-18,Matchstick Men,https://www.imdb.com/title/tt0325805/,movie,7.3,116,2003,"Comedy, Crime, Drama, Thriller",135379,2003-09-02,Ridley Scott
 tt0325980,5,2021-07-14,Pirates of the Caribbean: The Curse of the Black Pearl,https://www.imdb.com/title/tt0325980/,movie,8.1,143,2003,"Action, Adventure, Fantasy",1171786,2003-06-28,Gore Verbinski
 tt0032599,7,2021-07-09,His Girl Friday,https://www.imdb.com/title/tt0032599/,movie,7.8,92,1939,"Comedy, Drama, Romance",61522,1939-12-26,Howard Hawks
-tt3262342,7,2023-08-13,Loving Vincent,https://www.imdb.com/title/tt3262342/,movie,7.8,94,2017,"Animation, Drama, Mystery",61316,2017-06-12,"DK Welchman, Hugh Welchman"
+tt3262342,7,2023-08-13,Loving Vincent,https://www.imdb.com/title/tt3262342/,movie,7.8,94,2017,"Animation, Drama, Mystery",61316,2017-06-12,"Hugh Welchman, DK Welchman"
 tt3263904,6,2021-07-14,Sully,https://www.imdb.com/title/tt3263904/,movie,7.4,96,2016,"Biography, Drama",288819,2016-09-02,Clint Eastwood
 tt0032671,6,2023-08-14,Kitty Foyle,https://www.imdb.com/title/tt0032671/,movie,6.9,108,1940,"Drama, Romance",3931,1940-12-27,Sam Wood
 tt0032701,6,2022-07-04,The Letter,https://www.imdb.com/title/tt0032701/,movie,7.5,95,1940,"Crime, Drama, Film-Noir, Mystery, Romance",14076,1940-11-14,William Wyler
@@ -1892,7 +1892,7 @@ tt0328589,6,2021-07-11,Under the Tuscan Sun,https://www.imdb.com/title/tt0328589
 tt3288518,6,2022-05-02,Younger,https://www.imdb.com/title/tt3288518/,tvSeries,7.8,22,2015,"Comedy, Romance",24595,2015-02-24,
 tt0328880,5,2023-08-19,Brother Bear,https://www.imdb.com/title/tt0328880/,movie,6.8,85,2003,"Animation, Adventure, Comedy, Drama, Family, Fantasy, Musical",118828,2003-10-20,"Aaron Blaise, Robert Walker"
 tt0032904,8,2021-07-09,The Philadelphia Story,https://www.imdb.com/title/tt0032904/,movie,7.9,112,1940,"Comedy, Romance",72138,1940-12-05,George Cukor
-tt0032910,7,2021-07-09,Pinocchio,https://www.imdb.com/title/tt0032910/,movie,7.5,88,1940,"Animation, Adventure, Comedy, Family, Fantasy, Musical",154918,1940-02-07,"Jack Kinney, Ben Sharpsteen, Hamilton Luske, Wilfred Jackson, T. Hee, Norman Ferguson, Bill Roberts"
+tt0032910,7,2021-07-09,Pinocchio,https://www.imdb.com/title/tt0032910/,movie,7.5,88,1940,"Animation, Adventure, Comedy, Family, Fantasy, Musical",154918,1940-02-07,"Ben Sharpsteen, Jack Kinney, Hamilton Luske, Wilfred Jackson, T. Hee, Norman Ferguson, Bill Roberts"
 tt0329575,6,2021-08-20,Seabiscuit,https://www.imdb.com/title/tt0329575/,movie,7.3,140,2003,"Drama, History, Sport",75616,2003-07-22,Gary Ross
 tt0032976,9,2021-07-09,Rebecca,https://www.imdb.com/title/tt0032976/,movie,8.1,130,1940,"Drama, Film-Noir, Mystery, Romance, Thriller",142706,1940-03-21,Alfred Hitchcock
 tt0032981,7,2022-01-04,Remember the Night,https://www.imdb.com/title/tt0032981/,movie,7.6,94,1939,"Comedy, Drama, Romance",6484,1939-12-31,Mitchell Leisen
@@ -1906,7 +1906,7 @@ tt0033124,6,2023-08-15,Swiss Family Robinson,https://www.imdb.com/title/tt003312
 tt0033138,7,2023-08-21,Teddy the Rough Rider,https://www.imdb.com/title/tt0033138/,short,5.9,19,1940,"Short, Biography, Drama, Family",257,1940-02-24,Ray Enright
 tt3315342,8,2021-07-11,Logan,https://www.imdb.com/title/tt3315342/,movie,8.1,137,2017,"Action, Drama, Sci-Fi, Thriller",802152,2017-02-17,James Mangold
 tt3316960,9,2022-05-18,Still Alice,https://www.imdb.com/title/tt3316960/,movie,7.5,101,2014,Drama,140730,2014-09-08,"Richard Glatzer, Wash Westmoreland"
-tt0332047,5,2022-05-30,Fever Pitch,https://www.imdb.com/title/tt0332047/,movie,6.2,104,2005,"Comedy, Drama, Romance, Sport",46733,2005-04-06,"Peter Farrelly, Bobby Farrelly"
+tt0332047,5,2022-05-30,Fever Pitch,https://www.imdb.com/title/tt0332047/,movie,6.2,104,2005,"Comedy, Drama, Romance, Sport",46733,2005-04-06,"Bobby Farrelly, Peter Farrelly"
 tt3322310,3,2021-07-23,Iron Fist,https://www.imdb.com/title/tt3322310/,tvSeries,6.4,55,2017,"Action, Adventure, Crime, Fantasy, Sci-Fi",136358,2017-03-15,
 tt3322312,5,2021-07-23,Daredevil,https://www.imdb.com/title/tt3322312/,tvSeries,8.6,54,2015,"Action, Crime, Drama, Fantasy, Sci-Fi, Thriller",460037,2015-04-02,
 tt3322314,5,2021-07-23,Luke Cage,https://www.imdb.com/title/tt3322314/,tvSeries,7.3,55,2016,"Action, Crime, Drama, Sci-Fi, Thriller",136448,2016-09-28,
@@ -1930,7 +1930,7 @@ tt0335266,6,2021-07-09,Lost in Translation,https://www.imdb.com/title/tt0335266/
 tt0335345,6,2022-05-30,The Passion of the Christ,https://www.imdb.com/title/tt0335345/,movie,7.2,127,2004,Drama,243848,2004-02-25,Mel Gibson
 tt0033553,7,2021-07-15,Dr. Jekyll and Mr. Hyde,https://www.imdb.com/title/tt0033553/,movie,6.8,113,1941,"Drama, Horror, Sci-Fi, Thriller",9510,1941-08-12,Victor Fleming
 tt0335559,3,2021-07-15,Win a Date with Tad Hamilton!,https://www.imdb.com/title/tt0335559/,movie,5.6,96,2004,"Comedy, Romance",28980,2004-01-09,Robert Luketic
-tt0033563,7,2021-07-09,Dumbo,https://www.imdb.com/title/tt0033563/,movie,7.2,64,1941,"Animation, Adventure, Drama, Family, Fantasy, Musical",138261,1941-10-23,"Jack Kinney, Samuel Armstrong, Ben Sharpsteen, John Elliotte, Wilfred Jackson, Norman Ferguson, Bill Roberts"
+tt0033563,7,2021-07-09,Dumbo,https://www.imdb.com/title/tt0033563/,movie,7.2,64,1941,"Animation, Adventure, Drama, Family, Fantasy, Musical",138261,1941-10-23,"Samuel Armstrong, Ben Sharpsteen, Jack Kinney, Wilfred Jackson, John Elliotte, Norman Ferguson, Bill Roberts"
 tt0033626,3,2023-08-21,Forty Boys and a Song,https://www.imdb.com/title/tt0033626/,short,5.2,10,1941,"Short, Music, Documentary, Family",164,1941-12-06,Irving Allen
 tt0033627,7,2023-08-31,49th Parallel,https://www.imdb.com/title/tt0033627/,movie,7.3,123,1941,"Drama, Thriller, War",7293,1941-10-08,Michael Powell
 tt0033651,5,2022-02-24,The Gay Parisian,https://www.imdb.com/title/tt0033651/,short,5.6,20,1941,"Short, Musical, Romance",389,1941-12-02,Jean Negulesco
@@ -1953,7 +1953,7 @@ tt0338309,8,2023-09-05,Ondskan,https://www.imdb.com/title/tt0338309/,movie,7.7,1
 tt0338348,5,2021-07-14,The Polar Express,https://www.imdb.com/title/tt0338348/,movie,6.6,100,2004,"Animation, Adventure, Comedy, Family, Fantasy, Musical",225538,2004-10-21,Robert Zemeckis
 tt0033836,9,2022-04-04,The Little Foxes,https://www.imdb.com/title/tt0033836/,movie,7.9,116,1941,"Drama, Romance",12670,1941-08-21,William Wyler
 tt3385516,2,2021-07-11,X-Men: Apocalypse,https://www.imdb.com/title/tt3385516/,movie,6.9,144,2016,"Action, Adventure, Sci-Fi",450807,2016-05-09,Bryan Singer
-tt0338564,7,2022-09-17,Mou gaan dou,https://www.imdb.com/title/tt0338564/,movie,8.0,101,2002,"Action, Crime, Drama, Mystery, Thriller",128709,2002-12-12,"Alan Mak, Andrew Lau"
+tt0338564,7,2022-09-17,Mou gaan dou,https://www.imdb.com/title/tt0338564/,movie,8.0,101,2002,"Action, Crime, Drama, Mystery, Thriller",128709,2002-12-12,"Andrew Lau, Alan Mak"
 tt0033866,5,2023-08-21,Main Street on the March!,https://www.imdb.com/title/tt0033866/,short,6.5,20,1941,"Short, History",166,1942-01-10,Edward L. Cahn
 tt0033870,8,2021-07-09,The Maltese Falcon,https://www.imdb.com/title/tt0033870/,movie,8.0,100,1941,"Crime, Film-Noir, Mystery, Romance",163614,1941-10-03,John Huston
 tt0338751,5,2021-07-09,The Aviator,https://www.imdb.com/title/tt0338751/,movie,7.5,170,2004,"Biography, Drama",375115,2004-12-14,Martin Scorsese
@@ -2027,7 +2027,7 @@ tt0035140,9,2023-05-24,"Now, Voyager",https://www.imdb.com/title/tt0035140/,movi
 tt0351817,7,2023-08-27,Tasogare Seibei,https://www.imdb.com/title/tt0351817/,movie,8.1,129,2002,"Drama, Romance",24831,2002-11-02,Yôji Yamada
 tt0035211,7,2022-05-21,The Pride of the Yankees,https://www.imdb.com/title/tt0035211/,movie,7.6,128,1942,"Biography, Drama, Romance, Sport",11621,1942-07-15,Sam Wood
 tt3521126,7,2022-09-01,The Disaster Artist,https://www.imdb.com/title/tt3521126/,movie,7.3,104,2017,"Biography, Comedy, Drama",160552,2017-09-11,James Franco
-tt3521164,7,2021-07-11,Moana,https://www.imdb.com/title/tt3521164/,movie,7.6,107,2016,"Animation, Adventure, Comedy, Family, Fantasy, Musical",359704,2016-11-14,"Don Hall, Ron Clements, Chris Williams, John Musker"
+tt3521164,7,2021-07-11,Moana,https://www.imdb.com/title/tt3521164/,movie,7.6,107,2016,"Animation, Adventure, Comedy, Family, Fantasy, Musical",359704,2016-11-14,"Don Hall, Ron Clements, John Musker, Chris Williams"
 tt0352248,5,2021-07-14,Cinderella Man,https://www.imdb.com/title/tt0352248/,movie,8.0,144,2005,"Biography, Drama, Romance, Sport",193901,2005-05-23,Ron Howard
 tt3526078,9,2021-07-18,Schitt's Creek,https://www.imdb.com/title/tt3526078/,tvSeries,8.5,22,2015,Comedy,135201,2015-01-13,
 tt3530002,2,2021-11-14,The Night Before,https://www.imdb.com/title/tt3530002/,movie,6.4,101,2015,"Comedy, Fantasy",79240,2015-11-20,Jonathan Levine
@@ -2048,7 +2048,7 @@ tt0356680,6,2021-07-11,The Family Stone,https://www.imdb.com/title/tt0356680/,mo
 tt0356721,4,2021-07-24,I Heart Huckabees,https://www.imdb.com/title/tt0356721/,movie,6.5,107,2004,Comedy,65734,2004-09-10,David O. Russell
 tt0356910,5,2021-07-11,Mr. & Mrs. Smith,https://www.imdb.com/title/tt0356910/,movie,6.5,120,2005,"Action, Comedy, Crime, Thriller",520351,2005-06-07,Doug Liman
 tt0357413,2,2021-07-14,Anchorman: The Legend of Ron Burgundy,https://www.imdb.com/title/tt0357413/,movie,7.1,94,2004,Comedy,370525,2004-06-09,Adam McKay
-tt0035794,8,2023-08-21,Der Fuehrer's Face,https://www.imdb.com/title/tt0035794/,short,7.5,8,1942,"Animation, Short, Comedy, Family, War",4513,1943-01-01,"Jack Kinney, Ben Sharpsteen"
+tt0035794,8,2023-08-21,Der Fuehrer's Face,https://www.imdb.com/title/tt0035794/,short,7.5,8,1942,"Animation, Short, Comedy, Family, War",4513,1943-01-01,"Ben Sharpsteen, Jack Kinney"
 tt0035812,5,2023-08-30,The Dizzy Acrobat,https://www.imdb.com/title/tt0035812/,short,6.0,7,1943,"Family, Animation, Short, Comedy",254,1943-05-21,Alex Lovy
 tt0358135,6,2022-05-30,Shall We Dance?,https://www.imdb.com/title/tt0358135/,movie,6.2,106,2004,"Comedy, Drama, Music, Romance",48615,2004-10-15,Peter Chelsom
 tt3581652,8,2021-12-11,West Side Story,https://www.imdb.com/title/tt3581652/,movie,7.2,156,2021,"Crime, Drama, Musical, Romance",90589,2021-11-29,Steven Spielberg
@@ -2082,8 +2082,8 @@ tt0363589,6,2021-09-17,Elephant,https://www.imdb.com/title/tt0363589/,movie,7.1,
 tt0363771,4,2021-07-09,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",https://www.imdb.com/title/tt0363771/,movie,6.9,143,2005,"Adventure, Family, Fantasy",414686,2005-12-07,Andrew Adamson
 tt3640424,6,2022-09-16,Allied,https://www.imdb.com/title/tt3640424/,movie,7.1,124,2016,"Action, Drama, Romance, Thriller, War",164321,2016-11-13,Robert Zemeckis
 tt0364517,7,2021-07-11,Jeux d'enfants,https://www.imdb.com/title/tt0364517/,movie,7.5,93,2003,"Comedy, Drama, Romance",71648,2003-08-29,Yann Samuell
-tt0036547,7,2022-05-08,The Yankee Doodle Mouse,https://www.imdb.com/title/tt0036547/,short,7.7,8,1943,"Animation, Short, Comedy, Family, War",1947,1943-06-26,"William Hanna, Joseph Barbera"
-tt3654964,7,2021-09-21,Art and Craft,https://www.imdb.com/title/tt3654964/,movie,7.1,89,2014,Documentary,1760,2014-04-17,"Sam Cullman, Jennifer Grausman, Mark Becker"
+tt0036547,7,2022-05-08,The Yankee Doodle Mouse,https://www.imdb.com/title/tt0036547/,short,7.7,8,1943,"Animation, Short, Comedy, Family, War",1947,1943-06-26,"Joseph Barbera, William Hanna"
+tt3654964,7,2021-09-21,Art and Craft,https://www.imdb.com/title/tt3654964/,movie,7.1,89,2014,Documentary,1760,2014-04-17,"Sam Cullman, Mark Becker, Jennifer Grausman"
 tt3655448,7,2023-05-14,The Young Pope,https://www.imdb.com/title/tt3655448/,tvMiniSeries,8.3,546,2016,Drama,46206,2016-09-03,
 tt0365545,5,2021-07-18,Nappily Ever After,https://www.imdb.com/title/tt0365545/,movie,6.4,98,2018,"Comedy, Drama, Romance",9643,2018-09-21,Haifaa Al-Mansour
 tt0365737,4,2021-07-09,Syriana,https://www.imdb.com/title/tt0365737/,movie,6.9,128,2005,"Drama, Thriller",132964,2005-11-23,Stephen Gaghan
@@ -2123,7 +2123,7 @@ tt0037008,8,2021-07-09,Laura,https://www.imdb.com/title/tt0037008/,movie,7.9,88,
 tt3704428,6,2022-06-24,Elvis,https://www.imdb.com/title/tt3704428/,movie,7.3,159,2022,"Biography, Drama, Music",215100,2022-05-25,Baz Luhrmann
 tt0037059,9,2021-07-09,Meet Me in St. Louis,https://www.imdb.com/title/tt0037059/,movie,7.5,113,1944,"Comedy, Drama, Family, Musical, Romance",26128,1944-11-22,Vincente Minnelli
 tt0037075,7,2022-01-11,Ministry of Fear,https://www.imdb.com/title/tt0037075/,movie,7.1,86,1944,"Crime, Drama, Film-Noir, Mystery, Thriller",8531,1944-05-19,Fritz Lang
-tt0037090,8,2023-08-30,Mouse Trouble,https://www.imdb.com/title/tt0037090/,short,7.8,7,1944,"Animation, Short, Comedy, Family",2189,1944-11-23,"William Hanna, Joseph Barbera"
+tt0037090,8,2023-08-30,Mouse Trouble,https://www.imdb.com/title/tt0037090/,short,7.8,7,1944,"Animation, Short, Comedy, Family",2189,1944-11-23,"Joseph Barbera, William Hanna"
 tt0037108,3,2023-08-21,My Boy Johnny,https://www.imdb.com/title/tt0037108/,short,5.5,7,1944,"Animation, Short",108,1944-05-12,Eddie Donnelly
 tt3716530,8,2022-06-08,Elle,https://www.imdb.com/title/tt3716530/,movie,7.1,130,2016,"Crime, Drama, Thriller",69677,2016-05-21,Paul Verhoeven
 tt0371724,5,2021-07-11,The Hitchhiker's Guide to the Galaxy,https://www.imdb.com/title/tt0371724/,movie,6.7,109,2005,"Adventure, Comedy, Sci-Fi",204683,2005-04-20,Garth Jennings
@@ -2144,7 +2144,7 @@ tt3748528,8,2021-07-14,Rogue One,https://www.imdb.com/title/tt3748528/,movie,7.8
 tt0374900,6,2021-07-14,Napoleon Dynamite,https://www.imdb.com/title/tt0374900/,movie,7.0,96,2004,Comedy,230568,2004-01-17,Jared Hess
 tt0375063,7,2021-07-09,Sideways,https://www.imdb.com/title/tt0375063/,movie,7.5,127,2004,"Comedy, Drama, Romance",197702,2004-09-13,Alexander Payne
 tt3750872,8,2022-06-03,The Wife,https://www.imdb.com/title/tt3750872/,movie,7.2,99,2017,Drama,41921,2017-09-12,Björn Runge
-tt0037514,6,2021-11-03,Anchors Aweigh,https://www.imdb.com/title/tt0037514/,movie,7.0,140,1945,"Comedy, Fantasy, Musical",9189,1945-07-19,"William Hanna, Joseph Barbera, George Sidney"
+tt0037514,6,2021-11-03,Anchors Aweigh,https://www.imdb.com/title/tt0037514/,movie,7.0,140,1945,"Comedy, Fantasy, Musical",9189,1945-07-19,"Joseph Barbera, William Hanna, George Sidney"
 tt0037536,6,2023-06-13,The Bells of St. Mary's,https://www.imdb.com/title/tt0037536/,movie,7.2,126,1945,Drama,8827,1945-12-06,Leo McCarey
 tt0037558,7,2023-05-24,Brief Encounter,https://www.imdb.com/title/tt0037558/,movie,8.0,86,1945,"Drama, Romance",42626,1945-11-19,David Lean
 tt0375679,6,2021-07-09,Crash,https://www.imdb.com/title/tt0375679/,movie,7.7,112,2004,"Crime, Drama, Thriller",444404,2004-09-10,Paul Haggis
@@ -2178,7 +2178,7 @@ tt0037988,7,2023-02-23,The Picture of Dorian Gray,https://www.imdb.com/title/tt0
 tt3799232,4,2021-07-18,The Kissing Booth,https://www.imdb.com/title/tt3799232/,movie,5.9,105,2018,"Comedy, Romance",89621,2018-05-11,Vince Marcello
 tt0037994,4,2023-08-30,The Poet & Peasant,https://www.imdb.com/title/tt0037994/,short,5.8,7,1945,"Animation, Short, Comedy, Family, Music",176,1945-12-31,Dick Lundy
 tt3799694,5,2021-07-14,The Nice Guys,https://www.imdb.com/title/tt3799694/,movie,7.4,116,2016,"Action, Comedy, Crime, Thriller",353055,2016-05-10,Shane Black
-tt0038011,8,2023-08-30,Quiet Please!,https://www.imdb.com/title/tt0038011/,short,7.7,7,1945,"Animation, Short, Comedy, Family",2173,1945-12-22,"William Hanna, Joseph Barbera"
+tt0038011,8,2023-08-30,Quiet Please!,https://www.imdb.com/title/tt0038011/,short,7.7,7,1945,"Animation, Short, Comedy, Family",2173,1945-12-22,"Joseph Barbera, William Hanna"
 tt0380510,6,2022-05-31,The Lovely Bones,https://www.imdb.com/title/tt0380510/,movie,6.6,135,2009,"Drama, Fantasy, Thriller",175845,2009-11-24,Peter Jackson
 tt0038057,6,2021-10-13,Scarlet Street,https://www.imdb.com/title/tt0038057/,movie,7.7,102,1945,"Crime, Drama, Film-Noir, Thriller",18178,1945-12-25,Fritz Lang
 tt0381061,9,2021-07-14,Casino Royale,https://www.imdb.com/title/tt0381061/,movie,8.0,144,2006,"Action, Adventure, Thriller",678135,2006-11-14,Martin Campbell
@@ -2190,7 +2190,7 @@ tt0038260,5,2022-10-12,Wonder Man,https://www.imdb.com/title/tt0038260/,movie,6.
 tt0382625,5,2021-07-14,The Da Vinci Code,https://www.imdb.com/title/tt0382625/,movie,6.6,149,2006,"Mystery, Thriller",448688,2006-05-17,Ron Howard
 tt0382734,6,2023-05-19,Harvie Krumpet,https://www.imdb.com/title/tt0382734/,short,7.9,23,2003,"Animation, Comedy, Short, Drama",8843,2003-06-19,Adam Elliot
 tt0382932,8,2021-07-09,Ratatouille,https://www.imdb.com/title/tt0382932/,movie,8.1,111,2007,"Animation, Adventure, Comedy, Family, Fantasy",785434,2007-06-22,"Brad Bird, Jan Pinkava"
-tt0038348,9,2023-06-04,La Belle et la Bête,https://www.imdb.com/title/tt0038348/,movie,7.9,96,1946,"Drama, Fantasy, Romance",27470,1946-09-25,"René Clément, Jean Cocteau"
+tt0038348,9,2023-06-04,La Belle et la Bête,https://www.imdb.com/title/tt0038348/,movie,7.9,96,1946,"Drama, Fantasy, Romance",27470,1946-09-25,"Jean Cocteau, René Clément"
 tt0383534,2,2021-07-15,Noel,https://www.imdb.com/title/tt0383534/,movie,6.1,96,2004,Drama,10299,2004-09-12,Chazz Palminteri
 tt0038355,7,2021-07-09,The Big Sleep,https://www.imdb.com/title/tt0038355/,movie,7.9,114,1946,"Crime, Film-Noir, Mystery, Thriller",88677,1946-08-22,Howard Hawks
 tt0383574,5,2021-07-09,Pirates of the Caribbean: Dead Man's Chest,https://www.imdb.com/title/tt0383574/,movie,7.4,151,2006,"Action, Adventure, Fantasy",746385,2006-06-24,Gore Verbinski
@@ -2250,7 +2250,7 @@ tt3920596,7,2021-07-23,Big Little Lies,https://www.imdb.com/title/tt3920596/,tvS
 tt0039208,7,2022-07-22,Boomerang!,https://www.imdb.com/title/tt0039208/,movie,7.2,88,1947,"Crime, Drama, Film-Noir, Romance",4917,1947-01-26,Elia Kazan
 tt0039211,8,2022-10-24,Born to Kill,https://www.imdb.com/title/tt0039211/,movie,7.2,92,1947,"Crime, Drama, Film-Noir, Thriller",5721,1947-04-30,Robert Wise
 tt0039224,8,2022-10-25,Brute Force,https://www.imdb.com/title/tt0039224/,movie,7.6,98,1947,"Crime, Drama, Film-Noir, Thriller",11124,1947-07-08,Jules Dassin
-tt0039251,9,2023-08-30,The Cat Concerto,https://www.imdb.com/title/tt0039251/,short,8.2,8,1947,"Animation, Short, Comedy, Family, Music",4668,1947-04-26,"William Hanna, Joseph Barbera"
+tt0039251,9,2023-08-30,The Cat Concerto,https://www.imdb.com/title/tt0039251/,short,8.2,8,1947,"Animation, Short, Comedy, Family, Music",4668,1947-04-26,"Joseph Barbera, William Hanna"
 tt0392542,4,2023-08-22,Nibbles,https://www.imdb.com/title/tt0392542/,short,5.7,4,2003,"Animation, Short, Comedy, Family",372,2003-12-31,Christopher Hinton
 tt0039258,5,2023-08-21,Champagne for Two,https://www.imdb.com/title/tt0039258/,short,5.7,19,1947,"Short, Comedy, Musical, Romance",91,1947-06-13,Mel Epstein
 tt0039263,7,2022-05-08,Chip an' Dale,https://www.imdb.com/title/tt0039263/,short,7.3,7,1947,"Animation, Short, Comedy, Family",1835,1947-11-28,Jack Hannah
@@ -2260,7 +2260,7 @@ tt0039311,5,2021-10-26,Desert Fury,https://www.imdb.com/title/tt0039311/,movie,6
 tt0039313,5,2022-10-18,Desperate,https://www.imdb.com/title/tt0039313/,movie,6.8,73,1947,"Crime, Film-Noir, Thriller",2515,1947-06-04,Anthony Mann
 tt0039317,8,2021-10-17,The Devil Thumbs a Ride,https://www.imdb.com/title/tt0039317/,movie,6.8,62,1947,"Crime, Drama, Film-Noir, Thriller",992,1947-02-20,Felix E. Feist
 tt0039335,7,2021-10-22,A Double Life,https://www.imdb.com/title/tt0039335/,movie,7.0,104,1947,"Crime, Drama, Film-Noir",3723,1947-12-25,George Cukor
-tt0039338,7,2023-08-30,Dr. Jekyll and Mr. Mouse,https://www.imdb.com/title/tt0039338/,short,7.8,8,1947,"Animation, Short, Comedy, Family",1885,1947-06-14,"William Hanna, Joseph Barbera"
+tt0039338,7,2023-08-30,Dr. Jekyll and Mr. Mouse,https://www.imdb.com/title/tt0039338/,short,7.8,8,1947,"Animation, Short, Comedy, Family",1885,1947-06-14,"Joseph Barbera, William Hanna"
 tt0039379,3,2023-08-21,Fight of the Wild Stallions,https://www.imdb.com/title/tt0039379/,short,4.8,20,1947,"Documentary, Short",44,1947-12-24,
 tt0039384,5,2023-08-21,First Steps,https://www.imdb.com/title/tt0039384/,short,6.1,10,1947,"Documentary, Short",75,,Leo Seltzer
 tt0039420,5,2021-07-09,The Ghost and Mrs. Muir,https://www.imdb.com/title/tt0039420/,movie,7.8,104,1947,"Comedy, Drama, Fantasy, Mystery, Romance, Thriller",20230,1947-05-25,Joseph L. Mankiewicz
@@ -2270,7 +2270,7 @@ tt0039502,7,2021-12-08,It Happened on Fifth Avenue,https://www.imdb.com/title/tt
 tt0395169,7,2021-07-14,Hotel Rwanda,https://www.imdb.com/title/tt0395169/,movie,8.1,121,2004,"Biography, Drama, History, War",365202,2004-09-11,Terry George
 tt0395251,4,2021-07-24,The Producers,https://www.imdb.com/title/tt0395251/,movie,6.3,134,2005,"Comedy, Crime, Musical",44013,2005-12-16,Susan Stroman
 tt0039536,8,2022-07-24,Kiss of Death,https://www.imdb.com/title/tt0039536/,movie,7.4,99,1947,"Crime, Drama, Film-Noir, Thriller",9179,1947-08-13,Henry Hathaway
-tt0395479,6,2023-08-15,Boundin',https://www.imdb.com/title/tt0395479/,short,6.9,5,2003,"Animation, Short, Comedy, Family, Musical",14514,2003-12-01,"Roger Gould, Bud Luckey"
+tt0395479,6,2023-08-15,Boundin',https://www.imdb.com/title/tt0395479/,short,6.9,5,2003,"Animation, Short, Comedy, Family, Musical",14514,2003-12-01,"Bud Luckey, Roger Gould"
 tt0395495,2,2021-07-18,Catch and Release,https://www.imdb.com/title/tt0395495/,movie,5.9,124,2006,"Comedy, Drama, Romance",28085,2006-10-20,Susannah Grant
 tt0039566,7,2023-06-15,Life with Father,https://www.imdb.com/title/tt0039566/,movie,7.1,118,1947,"Comedy, Family",6159,1947-08-14,Michael Curtiz
 tt0039589,5,2022-10-25,Lured,https://www.imdb.com/title/tt0039589/,movie,7.0,102,1947,"Crime, Drama, Film-Noir, Music, Mystery, Romance, Thriller",4404,1947-08-28,Douglas Sirk
@@ -2370,7 +2370,7 @@ tt0041380,6,2023-08-30,For Scent-imental Reasons,https://www.imdb.com/title/tt00
 tt0413895,5,2021-07-14,Charlotte's Web,https://www.imdb.com/title/tt0413895/,movie,6.3,97,2006,"Adventure, Comedy, Family, Fantasy",45032,2006-12-07,Gary Winick
 tt0414055,5,2021-07-09,Elizabeth: The Golden Age,https://www.imdb.com/title/tt0414055/,movie,6.8,114,2007,"Biography, Drama, History, War",73846,2007-09-09,Shekhar Kapur
 tt0414387,7,2021-07-14,Pride & Prejudice,https://www.imdb.com/title/tt0414387/,movie,7.8,129,2005,"Drama, Romance",315914,2005-07-25,Joe Wright
-tt0041446,6,2023-08-16,Hatch Up Your Troubles,https://www.imdb.com/title/tt0041446/,short,7.4,8,1949,"Animation, Short, Comedy, Family",1287,1949-05-14,"William Hanna, Joseph Barbera"
+tt0041446,6,2023-08-16,Hatch Up Your Troubles,https://www.imdb.com/title/tt0041446/,short,7.4,8,1949,"Animation, Short, Comedy, Family",1287,1949-05-14,"Joseph Barbera, William Hanna"
 tt0414469,8,2022-12-31,Ryan,https://www.imdb.com/title/tt0414469/,short,7.5,14,2004,"Documentary, Animation, Short, Biography, Drama, Fantasy",2959,2004-05-17,Chris Landreth
 tt0041452,9,2023-05-23,The Heiress,https://www.imdb.com/title/tt0041452/,movie,8.1,115,1949,"Drama, Romance",16642,1949-10-06,William Wyler
 tt4145384,3,2021-07-23,Scream Queens,https://www.imdb.com/title/tt4145384/,tvSeries,7.1,45,2015,"Comedy, Horror, Mystery",44537,2015-07-12,
@@ -2384,7 +2384,7 @@ tt4154756,4,2021-07-14,Avengers: Infinity War,https://www.imdb.com/title/tt41547
 tt4154796,5,2021-07-09,Avengers: Endgame,https://www.imdb.com/title/tt4154796/,movie,8.4,181,2019,"Action, Adventure, Drama, Sci-Fi",1211106,2019-04-18,"Anthony Russo, Joe Russo"
 tt4158110,7,2021-07-23,Mr. Robot,https://www.imdb.com/title/tt4158110/,tvSeries,8.5,49,2015,"Crime, Drama, Thriller",405096,2015-03-17,
 tt0041587,8,2023-04-25,A Letter to Three Wives,https://www.imdb.com/title/tt0041587/,movie,7.7,103,1949,"Comedy, Drama, Romance",10325,1949-01-20,Joseph L. Mankiewicz
-tt0041592,7,2022-06-05,The Little Orphan,https://www.imdb.com/title/tt0041592/,short,7.7,8,1948,"Animation, Short, Adventure, Comedy, Family",1901,1949-04-30,"William Hanna, Joseph Barbera"
+tt0041592,7,2022-06-05,The Little Orphan,https://www.imdb.com/title/tt0041592/,short,7.7,8,1948,"Animation, Short, Adventure, Comedy, Family",1901,1949-04-30,"Joseph Barbera, William Hanna"
 tt0041600,7,2022-08-04,Lost Boundaries,https://www.imdb.com/title/tt0041600/,movie,7.0,99,1949,Drama,490,1949-06-30,Alfred L. Werker
 tt0041618,5,2023-08-21,The Magic Fluke,https://www.imdb.com/title/tt0041618/,short,6.4,7,1949,"Animation, Comedy, Short, Fantasy",169,1949-03-24,John Hubley
 tt0416320,5,2021-07-28,Match Point,https://www.imdb.com/title/tt0416320/,movie,7.6,124,2005,"Drama, Romance, Thriller",224030,2005-05-12,Woody Allen
@@ -2418,7 +2418,7 @@ tt0042276,9,2023-08-18,Born Yesterday,https://www.imdb.com/title/tt0042276/,movi
 tt0042281,8,2023-07-08,The Breaking Point,https://www.imdb.com/title/tt0042281/,movie,7.5,97,1950,"Crime, Drama, Film-Noir, Thriller",4043,1950-09-30,Michael Curtiz
 tt4230076,5,2022-01-15,The Defenders,https://www.imdb.com/title/tt4230076/,tvMiniSeries,7.2,50,2017,"Action, Adventure, Crime, Fantasy, Sci-Fi",113247,2017-07-22,
 tt0042304,7,2023-08-16,Canary Row,https://www.imdb.com/title/tt0042304/,short,7.1,7,1950,"Animation, Short, Adventure, Comedy, Family",1231,1950-10-07,Friz Freleng
-tt0423294,6,2023-08-17,Surf's Up,https://www.imdb.com/title/tt0423294/,movie,6.7,85,2007,"Animation, Adventure, Comedy, Family, Sport",86909,2007-06-02,"Chris Buck, Ash Brannon"
+tt0423294,6,2023-08-17,Surf's Up,https://www.imdb.com/title/tt0423294/,movie,6.7,85,2007,"Animation, Adventure, Comedy, Family, Sport",86909,2007-06-02,"Ash Brannon, Chris Buck"
 tt0042332,5,2021-07-14,Cinderella,https://www.imdb.com/title/tt0042332/,movie,7.3,74,1950,"Animation, Family, Fantasy, Musical, Romance",168954,1950-02-15,"Hamilton Luske, Clyde Geronimi, Wilfred Jackson"
 tt4236770,8,2022-05-08,Yellowstone,https://www.imdb.com/title/tt4236770/,tvSeries,8.7,60,2018,"Drama, Western",188790,2018-06-19,
 tt0423977,5,2021-07-31,Charlie Bartlett,https://www.imdb.com/title/tt0423977/,movie,6.9,97,2007,"Comedy, Drama, Romance",66152,2007-05-01,Jon Poll
@@ -2473,11 +2473,11 @@ tt0435651,4,2021-07-15,The Giver,https://www.imdb.com/title/tt0435651/,movie,6.4
 tt0435761,7,2021-07-09,Toy Story 3,https://www.imdb.com/title/tt0435761/,movie,8.3,103,2010,"Animation, Adventure, Comedy, Family, Fantasy",868082,2010-06-12,Lee Unkrich
 tt0043581,6,2023-05-19,Gerald McBoing-Boing,https://www.imdb.com/title/tt0043581/,short,7.1,8,1950,"Animation, Short, Adventure, Comedy, Family",2042,1950-11-02,"John Hubley, Robert Cannon"
 tt0436331,4,2021-07-24,Friends with Money,https://www.imdb.com/title/tt0436331/,movie,5.8,88,2006,"Comedy, Drama, Romance",31709,2006-01-19,Nicole Holofcener
-tt4364194,7,2021-08-20,The Peanut Butter Falcon,https://www.imdb.com/title/tt4364194/,movie,7.6,97,2019,"Adventure, Comedy, Drama",97412,2019-03-09,"Michael Schwartz, Tyler Nilson"
+tt4364194,7,2021-08-20,The Peanut Butter Falcon,https://www.imdb.com/title/tt4364194/,movie,7.6,97,2019,"Adventure, Comedy, Drama",97412,2019-03-09,"Tyler Nilson, Michael Schwartz"
 tt0436613,7,2021-09-16,Murderball,https://www.imdb.com/title/tt0436613/,movie,7.7,88,2005,"Documentary, Sport",10371,2005-01-23,"Henry Alex Rubin, Dana Adam Shapiro"
 tt0436697,7,2021-07-09,The Queen,https://www.imdb.com/title/tt0436697/,movie,7.3,103,2006,"Biography, Drama",114502,2006-09-02,Stephen Frears
 tt4367560,7,2021-07-24,Au service de la France,https://www.imdb.com/title/tt4367560/,tvSeries,7.7,26,2015,Comedy,3811,2015-10-28,
-tt0043685,7,2022-05-08,Jerry's Cousin,https://www.imdb.com/title/tt0043685/,short,7.7,7,1951,"Animation, Short, Comedy, Family",1487,1951-04-07,"William Hanna, Joseph Barbera"
+tt0043685,7,2022-05-08,Jerry's Cousin,https://www.imdb.com/title/tt0043685/,short,7.7,7,1951,"Animation, Short, Comedy, Family",1487,1951-04-07,"Joseph Barbera, William Hanna"
 tt0436992,6,2021-07-23,Doctor Who,https://www.imdb.com/title/tt0436992/,tvSeries,8.6,45,2005,"Adventure, Drama, Sci-Fi",234240,2005-03-26,
 tt4378376,9,2021-07-23,Babylon Berlin,https://www.imdb.com/title/tt4378376/,tvSeries,8.4,45,2017,"Crime, Drama, Thriller",27808,2017-09-30,
 tt0438064,6,2023-08-22,Gopher Broke,https://www.imdb.com/title/tt0438064/,short,6.5,4,2004,"Animation, Short, Comedy",1384,2004-09-30,Jeff Fowler
@@ -2500,7 +2500,7 @@ tt0044077,8,2022-02-24,The Story of Time,https://www.imdb.com/title/tt0044077/,s
 tt0044079,8,2022-01-06,Strangers on a Train,https://www.imdb.com/title/tt0044079/,movie,7.9,101,1951,"Crime, Drama, Film-Noir, Thriller",138154,1951-06-27,Alfred Hitchcock
 tt0044081,9,2021-07-09,A Streetcar Named Desire,https://www.imdb.com/title/tt0044081/,movie,7.9,122,1951,Drama,112136,1951-09-09,Elia Kazan
 tt0440963,6,2021-07-09,The Bourne Ultimatum,https://www.imdb.com/title/tt0440963/,movie,8.0,115,2007,"Action, Mystery, Thriller",648678,2007-07-25,Paul Greengrass
-tt0044157,7,2023-08-16,The Two Mouseketeers,https://www.imdb.com/title/tt0044157/,short,7.5,8,1952,"Animation, Short, Comedy, Family",1745,1952-03-15,"William Hanna, Joseph Barbera"
+tt0044157,7,2023-08-16,The Two Mouseketeers,https://www.imdb.com/title/tt0044157/,short,7.5,8,1952,"Animation, Short, Comedy, Family",1745,1952-03-15,"Joseph Barbera, William Hanna"
 tt0441773,7,2023-08-13,Kung Fu Panda,https://www.imdb.com/title/tt0441773/,movie,7.6,92,2008,"Animation, Action, Adventure, Comedy, Family, Fantasy",497487,2008-05-15,"John Stevenson, Mark Osborne"
 tt0442001,7,2023-08-22,Binta y la gran idea,https://www.imdb.com/title/tt0442001/,short,7.2,30,2004,"Drama, Family, Short",539,2004-10-25,Javier Fesser
 tt4422836,3,2021-08-02,Limitless,https://www.imdb.com/title/tt4422836/,tvSeries,7.6,42,2015,"Comedy, Crime, Drama, Sci-Fi, Thriller",70303,2015-09-22,
@@ -2537,7 +2537,7 @@ tt0450188,6,2021-08-20,La Môme,https://www.imdb.com/title/tt0450188/,movie,7.6,
 tt0450259,5,2021-07-14,Blood Diamond,https://www.imdb.com/title/tt0450259/,movie,8.0,143,2006,"Adventure, Drama, Thriller",570741,2006-12-06,Edward Zwick
 tt0045033,4,2023-08-16,Pink and Blue Blues,https://www.imdb.com/title/tt0045033/,short,5.8,5,1952,"Family, Animation, Short, Comedy",129,1952-08-18,Pete Burness
 tt0045100,3,2022-12-31,The Romance of Transportation in Canada,https://www.imdb.com/title/tt0045100/,short,6.3,12,1952,"Animation, Short, History",152,1952-12-31,Colin Low
-tt0451079,5,2021-07-14,Horton Hears a Who!,https://www.imdb.com/title/tt0451079/,movie,6.8,86,2008,"Animation, Adventure, Comedy, Drama, Family, Fantasy, Music",147069,2008-03-03,"Jimmy Hayward, Steve Martino"
+tt0451079,5,2021-07-14,Horton Hears a Who!,https://www.imdb.com/title/tt0451079/,movie,6.8,86,2008,"Animation, Adventure, Comedy, Drama, Family, Fantasy, Music",147069,2008-03-03,"Steve Martino, Jimmy Hayward"
 tt0451279,7,2021-07-14,Wonder Woman,https://www.imdb.com/title/tt0451279/,movie,7.4,141,2017,"Action, Adventure, Fantasy, Sci-Fi, War",683134,2017-05-15,Patty Jenkins
 tt4513678,7,2022-01-05,Ghostbusters: Afterlife,https://www.imdb.com/title/tt4513678/,movie,7.1,124,2021,"Adventure, Comedy, Fantasy, Sci-Fi",199307,2021-10-08,Jason Reitman
 tt0045152,6,2021-11-04,Singin' in the Rain,https://www.imdb.com/title/tt0045152/,movie,8.3,103,1952,"Comedy, Musical, Romance",252711,1952-03-27,"Gene Kelly, Stanley Donen"
@@ -2583,7 +2583,7 @@ tt0458525,5,2021-07-11,X-Men Origins: Wolverine,https://www.imdb.com/title/tt045
 tt0045858,4,2022-12-31,Herring Hunt,https://www.imdb.com/title/tt0045858/,short,5.2,11,1953,"Documentary, Short, Drama",44,1953-10-16,Julian Biggs
 tt0045902,6,2022-12-19,"I, the Jury",https://www.imdb.com/title/tt0045902/,movie,6.1,87,1953,"Crime, Drama, Film-Noir, Mystery, Thriller",582,1953-07-24,Harry Essex
 tt4590256,3,2021-08-31,He's All That,https://www.imdb.com/title/tt4590256/,movie,4.4,88,2021,"Comedy, Romance",27332,2021-08-27,Mark Waters
-tt0045937,6,2023-08-30,Johann Mouse,https://www.imdb.com/title/tt0045937/,short,7.4,8,1953,"Animation, Short, Comedy, Family, Music",1613,1953-03-21,"William Hanna, Joseph Barbera"
+tt0045937,6,2023-08-30,Johann Mouse,https://www.imdb.com/title/tt0045937/,short,7.4,8,1953,"Animation, Short, Comedy, Family, Music",1613,1953-03-21,"Joseph Barbera, William Hanna"
 tt4595882,6,2021-07-09,Can You Ever Forgive Me?,https://www.imdb.com/title/tt4595882/,movie,7.1,106,2018,"Biography, Comedy, Crime, Drama",54819,2018-09-01,Marielle Heller
 tt0046005,5,2023-08-30,Little Johnny Jet,https://www.imdb.com/title/tt0046005/,short,6.9,7,1953,"Animation, Short, Comedy, Family",571,1953-04-02,Tex Avery
 tt0046007,5,2023-08-21,The Living City,https://www.imdb.com/title/tt0046007/,short,5.5,25,1953,"Documentary, Short",35,,"Haskell Wexler, John Barnes"
@@ -2593,7 +2593,7 @@ tt0046183,6,2021-07-14,Peter Pan,https://www.imdb.com/title/tt0046183/,movie,7.3
 tt0462128,6,2021-07-23,The New Adventures of Old Christine,https://www.imdb.com/title/tt0462128/,tvSeries,7.2,22,2006,Comedy,13937,2006-03-13,
 tt0462200,4,2021-09-17,Black Snake Moan,https://www.imdb.com/title/tt0462200/,movie,6.9,116,2006,"Drama, Music",65693,2006-12-09,Craig Brewer
 tt4622512,6,2021-07-31,Battle of the Sexes,https://www.imdb.com/title/tt4622512/,movie,6.7,121,2017,"Biography, Comedy, Drama, History, Sport",58258,2017-09-02,"Jonathan Dayton, Valerie Faris"
-tt0462322,7,2021-07-14,Grindhouse,https://www.imdb.com/title/tt0462322/,movie,7.5,191,2007,"Action, Horror, Thriller",188536,2007-03-26,"Edgar Wright, Quentin Tarantino, Rob Zombie, Robert Rodriguez, Eli Roth"
+tt0462322,7,2021-07-14,Grindhouse,https://www.imdb.com/title/tt0462322/,movie,7.5,191,2007,"Action, Horror, Thriller",188536,2007-03-26,"Edgar Wright, Rob Zombie, Quentin Tarantino, Robert Rodriguez, Eli Roth"
 tt0046250,10,2021-07-31,Roman Holiday,https://www.imdb.com/title/tt0046250/,movie,8.0,118,1953,"Comedy, Romance",144080,1953-08-20,William Wyler
 tt0462538,5,2021-07-14,The Simpsons Movie,https://www.imdb.com/title/tt0462538/,movie,7.3,87,2007,"Animation, Adventure, Comedy",342488,2007-07-21,David Silverman
 tt0046256,6,2023-08-16,Rugged Bear,https://www.imdb.com/title/tt0046256/,short,7.4,6,1953,"Animation, Comedy, Family, Short",621,1953-10-23,Jack Hannah
@@ -2601,7 +2601,7 @@ tt0462590,6,2021-07-14,Step Up,https://www.imdb.com/title/tt0462590/,movie,6.5,1
 tt0046268,8,2022-01-25,Le salaire de la peur,https://www.imdb.com/title/tt0046268/,movie,8.2,131,1953,"Adventure, Drama, Thriller",64234,1953-04-15,Henri-Georges Clouzot
 tt0463034,3,2021-07-18,"You, Me and Dupree",https://www.imdb.com/title/tt0463034/,movie,5.6,110,2006,"Comedy, Romance",83233,2006-07-13,"Anthony Russo, Joe Russo"
 tt4630562,5,2021-07-14,The Fate of the Furious,https://www.imdb.com/title/tt4630562/,movie,6.6,136,2017,"Action, Crime, Thriller",246435,2017-04-04,F. Gary Gray
-tt4633694,9,2023-08-28,Spider-Man: Into the Spider-Verse,https://www.imdb.com/title/tt4633694/,movie,8.4,117,2018,"Animation, Action, Adventure, Comedy, Family, Fantasy, Sci-Fi",626760,2018-12-12,"Peter Ramsey, Rodney Rothman, Bob Persichetti"
+tt4633694,9,2023-08-28,Spider-Man: Into the Spider-Verse,https://www.imdb.com/title/tt4633694/,movie,8.4,117,2018,"Animation, Action, Adventure, Comedy, Family, Fantasy, Sci-Fi",626760,2018-12-12,"Bob Persichetti, Peter Ramsey, Rodney Rothman"
 tt0463985,3,2021-07-14,The Fast and the Furious: Tokyo Drift,https://www.imdb.com/title/tt0463985/,movie,6.0,104,2006,"Action, Crime, Thriller",289481,2006-06-04,Justin Lin
 tt0463998,7,2022-05-23,Freedom Writers,https://www.imdb.com/title/tt0463998/,movie,7.6,123,2007,"Biography, Crime, Drama",82789,2007-01-05,Richard LaGravenese
 tt0464049,7,2021-07-11,The History Boys,https://www.imdb.com/title/tt0464049/,movie,6.8,109,2006,"Comedy, Drama, Romance",21257,2006-10-02,Nicholas Hytner
@@ -2653,7 +2653,7 @@ tt0047528,7,2023-06-17,La strada,https://www.imdb.com/title/tt0047528/,movie,8.0
 tt0475290,5,2021-07-24,"Hail, Caesar!",https://www.imdb.com/title/tt0475290/,movie,6.3,106,2016,"Comedy, Drama, Mystery",140181,2016-02-01,"Ethan Coen, Joel Coen"
 tt0475293,4,2021-09-16,High School Musical,https://www.imdb.com/title/tt0475293/,tvMovie,5.5,98,2006,"Comedy, Drama, Family, Music, Musical, Romance",93404,2006-01-20,Kenny Ortega
 tt0047530,4,2022-12-31,The Stratford Adventure,https://www.imdb.com/title/tt0047530/,short,6.5,40,1954,"Documentary, Short",59,1954-08-02,Morten Parker
-tt0047600,7,2023-08-16,"Touché, Pussy Cat!",https://www.imdb.com/title/tt0047600/,short,7.4,7,1954,"Animation, Short, Comedy, Family",929,1954-12-18,"William Hanna, Joseph Barbera"
+tt0047600,7,2023-08-16,"Touché, Pussy Cat!",https://www.imdb.com/title/tt0047600/,short,7.4,7,1954,"Animation, Short, Comedy, Family",929,1954-12-18,"Joseph Barbera, William Hanna"
 tt4765284,3,2021-09-17,Pitch Perfect 3,https://www.imdb.com/title/tt4765284/,movie,5.8,93,2017,"Comedy, Music",69255,2017-12-21,Trish Sie
 tt0047672,5,2023-08-16,When Magoo Flew,https://www.imdb.com/title/tt0047672/,short,6.3,6,1954,"Animation, Family, Comedy, Short",458,1954-12-31,Pete Burness
 tt0047673,5,2021-07-14,White Christmas,https://www.imdb.com/title/tt0047673/,movie,7.5,120,1954,"Comedy, Musical, Romance",46946,1954-10-14,Michael Curtiz
@@ -2668,7 +2668,7 @@ tt0478311,5,2021-07-14,Knocked Up,https://www.imdb.com/title/tt0478311/,movie,6.
 tt0047862,4,2023-08-21,The Battle of Gettysburg,https://www.imdb.com/title/tt0047862/,short,6.6,30,1955,"Documentary, Short, History",291,1955-12-31,Herman Hoffman
 tt4786824,7,2021-07-23,The Crown,https://www.imdb.com/title/tt4786824/,tvSeries,8.6,58,2016,"Biography, Drama, History",233836,2016-11-01,
 tt0478970,5,2021-07-14,Ant-Man,https://www.imdb.com/title/tt0478970/,movie,7.3,117,2015,"Action, Comedy, Sci-Fi",702767,2015-06-29,Peyton Reed
-tt0479113,7,2022-02-22,One Man Band,https://www.imdb.com/title/tt0479113/,short,7.6,4,2005,"Animation, Short, Comedy, Family, Music",16701,2005-06-11,"Andrew Jimenez, Mark Andrews"
+tt0479113,7,2022-02-22,One Man Band,https://www.imdb.com/title/tt0479113/,short,7.6,4,2005,"Animation, Short, Comedy, Family, Music",16701,2005-06-11,"Mark Andrews, Andrew Jimenez"
 tt0479143,6,2021-10-14,Rocky Balboa,https://www.imdb.com/title/tt0479143/,movie,7.1,102,2006,"Action, Drama, Sport",227008,2006-12-13,Sylvester Stallone
 tt0047959,7,2023-08-30,Crazy Mixed Up Pup,https://www.imdb.com/title/tt0047959/,short,7.2,6,1954,"Animation, Short, Comedy, Family",288,1955-02-14,Tex Avery
 tt0480242,4,2021-07-18,Dan in Real Life,https://www.imdb.com/title/tt0480242/,movie,6.8,98,2007,"Comedy, Drama, Romance",105463,2007-10-26,Peter Hedges
@@ -2678,9 +2678,9 @@ tt0048028,6,2021-07-09,East of Eden,https://www.imdb.com/title/tt0048028/,movie,
 tt0048049,6,2023-08-21,The Face of Lincoln,https://www.imdb.com/title/tt0048049/,short,6.1,20,1956,"Documentary, Short",73,1956-03-05,Edward Freed
 tt0048106,7,2023-08-21,Gadgets Galore,https://www.imdb.com/title/tt0048106/,short,6.3,10,1955,"Documentary, Short, History",135,1955-07-30,Robert Youngson
 tt0481141,3,2021-07-18,No Reservations,https://www.imdb.com/title/tt0481141/,movie,6.3,104,2007,"Comedy, Drama, Romance",77209,2007-07-25,Scott Hicks
-tt0048131,7,2023-08-12,Good Will to Men,https://www.imdb.com/title/tt0048131/,short,7.0,8,1955,"Animation, Short, Drama",462,1955-12-23,"William Hanna, Joseph Barbera"
+tt0048131,7,2023-08-12,Good Will to Men,https://www.imdb.com/title/tt0048131/,short,7.0,8,1955,"Animation, Short, Drama",462,1955-12-23,"Joseph Barbera, William Hanna"
 tt0048140,7,2022-10-25,Guys and Dolls,https://www.imdb.com/title/tt0048140/,movie,7.1,150,1955,"Comedy, Crime, Musical, Romance",18612,1955-11-03,Joseph L. Mankiewicz
-tt0481499,6,2023-08-19,The Croods,https://www.imdb.com/title/tt0481499/,movie,7.2,98,2013,"Animation, Action, Adventure, Comedy, Family, Fantasy",225576,2013-02-15,"Chris Sanders, Kirk DeMicco"
+tt0481499,6,2023-08-19,The Croods,https://www.imdb.com/title/tt0481499/,movie,7.2,98,2013,"Animation, Action, Adventure, Comedy, Family, Fantasy",225576,2013-02-15,"Kirk DeMicco, Chris Sanders"
 tt4817576,9,2022-02-01,Stutterer,https://www.imdb.com/title/tt4817576/,short,7.7,12,2015,"Short, Drama, Romance",3214,2015-07-08,Benjamin Cleary
 tt4824302,1,2021-09-18,Mother's Day,https://www.imdb.com/title/tt4824302/,movie,5.6,118,2016,"Comedy, Drama, Romance",38672,2016-04-13,Garry Marshall
 tt0048254,5,2022-08-06,Killer's Kiss,https://www.imdb.com/title/tt0048254/,movie,6.6,67,1955,"Crime, Drama, Film-Noir, Thriller",25249,1955-09-21,Stanley Kubrick
@@ -2711,7 +2711,7 @@ tt0048673,6,2021-07-09,Summertime,https://www.imdb.com/title/tt0048673/,movie,7.
 tt0048683,6,2023-08-30,Switzerland,https://www.imdb.com/title/tt0048683/,short,7.0,33,1955,"Documentary, Short, Family",42,1955-01-16,Ben Sharpsteen
 tt0048718,6,2023-08-30,Three Kisses,https://www.imdb.com/title/tt0048718/,short,5.4,10,1955,Short,18,,Justin Herman
 tt0048728,8,2021-07-09,To Catch a Thief,https://www.imdb.com/title/tt0048728/,movie,7.4,106,1955,"Mystery, Romance, Thriller",77281,1955-08-02,Alfred Hitchcock
-tt4874696,6,2023-08-12,Borrowed Time,https://www.imdb.com/title/tt4874696/,short,7.5,7,2015,"Animation, Short, Drama, Western",4590,2015-10-31,"Lou Hamou-Lhadj, Andrew Coats"
+tt4874696,6,2023-08-12,Borrowed Time,https://www.imdb.com/title/tt4874696/,short,7.5,7,2015,"Animation, Short, Drama, Western",4590,2015-10-31,"Andrew Coats, Lou Hamou-Lhadj"
 tt0048750,5,2021-10-02,The Trouble with Harry,https://www.imdb.com/title/tt0048750/,movie,7.0,99,1955,"Comedy, Mystery",40175,1955-09-30,Alfred Hitchcock
 tt4878482,6,2021-07-18,Dumplin',https://www.imdb.com/title/tt4878482/,movie,6.5,110,2018,"Comedy, Drama",36225,2018-12-07,Anne Fletcher
 tt0048801,5,2023-05-09,We're No Angels,https://www.imdb.com/title/tt0048801/,movie,7.4,106,1955,"Comedy, Crime, Romance",10317,1955-07-07,Michael Curtiz
@@ -2793,7 +2793,7 @@ tt5104604,7,2021-07-11,Isle of Dogs,https://www.imdb.com/title/tt5104604/,movie,
 tt5109280,7,2021-07-09,Raya and the Last Dragon,https://www.imdb.com/title/tt5109280/,movie,7.3,107,2021,"Animation, Action, Adventure, Comedy, Drama, Family, Fantasy",163390,2021-03-03,"Paul Briggs, Carlos López Estrada, Don Hall, John Ripa"
 tt5109784,5,2021-07-11,Mother!,https://www.imdb.com/title/tt5109784/,movie,6.6,121,2017,"Drama, Horror, Mystery",240240,2017-09-05,Darren Aronofsky
 tt0051108,2,2023-08-21,Trees and Jamaica Daddy,https://www.imdb.com/title/tt0051108/,short,5.2,7,1957,"Animation, Short, Music",116,1957-12-29,"Fred Crippen, Lew Keller"
-tt0051115,6,2023-08-21,The Truth About Mother Goose,https://www.imdb.com/title/tt0051115/,short,7.1,15,1957,"Documentary, Animation, Short, Family, History, Musical",423,1957-08-28,"Jack Kinney, Wolfgang Reitherman, Clyde Geronimi, Bill Justice"
+tt0051115,6,2023-08-21,The Truth About Mother Goose,https://www.imdb.com/title/tt0051115/,short,7.1,15,1957,"Documentary, Animation, Short, Family, History, Musical",423,1957-08-28,"Wolfgang Reitherman, Jack Kinney, Clyde Geronimi, Bill Justice"
 tt0051187,5,2023-08-30,The Wetback Hound,https://www.imdb.com/title/tt0051187/,short,6.3,18,1957,"Short, Family",73,1957-06-19,Larry Lansburgh
 tt0051189,6,2023-05-19,"What's Opera, Doc?",https://www.imdb.com/title/tt0051189/,short,8.3,7,1957,"Animation, Short, Comedy, Drama, Family, Musical, Romance",10318,1957-07-06,Chuck Jones
 tt0051201,8,2023-02-02,Witness for the Prosecution,https://www.imdb.com/title/tt0051201/,movie,8.4,116,1957,"Crime, Drama, Mystery, Thriller",132092,1957-12-17,Billy Wilder
@@ -2863,7 +2863,7 @@ tt0053737,5,2022-02-27,The Creation of Woman,https://www.imdb.com/title/tt005373
 tt0053779,8,2022-07-03,La dolce vita,https://www.imdb.com/title/tt0053779/,movie,8.0,174,1960,"Comedy, Drama",76303,1960-02-03,Federico Fellini
 tt0053796,7,2023-08-24,The Entertainer,https://www.imdb.com/title/tt0053796/,movie,7.1,96,1960,Drama,3637,1960-07-18,Tony Richardson
 tt0053866,7,2023-08-21,Giuseppina,https://www.imdb.com/title/tt0053866/,short,7.0,32,1960,Short,108,,James Hill
-tt0053875,7,2023-08-22,Goliath II,https://www.imdb.com/title/tt0053875/,short,6.7,15,1960,"Animation, Short, Comedy, Family",524,1960-01-21,"Jack Kinney, Wolfgang Reitherman, Ben Sharpsteen, Hamilton Luske, Clyde Geronimi, David Hand, Wilfred Jackson"
+tt0053875,7,2023-08-22,Goliath II,https://www.imdb.com/title/tt0053875/,short,6.7,15,1960,"Animation, Short, Comedy, Family",524,1960-01-21,"Wolfgang Reitherman, Ben Sharpsteen, Jack Kinney, Hamilton Luske, Clyde Geronimi, David Hand, Wilfred Jackson"
 tt5390066,5,2021-10-03,Permission,https://www.imdb.com/title/tt5390066/,movie,5.3,96,2017,"Comedy, Drama, Romance",4802,2017-04-22,Brian Crano
 tt0053909,6,2023-08-22,High Note,https://www.imdb.com/title/tt0053909/,short,7.4,6,1960,"Animation, Short, Adventure, Comedy, Family, Music",550,1960-12-03,Chuck Jones
 tt0053946,8,2021-10-17,Inherit the Wind,https://www.imdb.com/title/tt0053946/,movie,8.1,128,1960,"Biography, Drama, History",31867,1960-06-26,Stanley Kramer
@@ -2882,11 +2882,11 @@ tt5435008,7,2021-07-23,Gilmore Girls: A Year in the Life,https://www.imdb.com/ti
 tt0054357,6,2021-07-14,Swiss Family Robinson,https://www.imdb.com/title/tt0054357/,movie,7.1,126,1960,"Adventure, Family",17517,1960-12-10,Ken Annakin
 tt0054389,8,2022-06-01,Tirez sur le pianiste,https://www.imdb.com/title/tt0054389/,movie,7.4,81,1960,"Crime, Drama, Thriller",20152,1960-10-21,François Truffaut
 tt5439796,6,2021-07-18,Logan Lucky,https://www.imdb.com/title/tt5439796/,movie,7.0,118,2017,"Action, Comedy, Crime, Drama",157140,2017-08-07,Steven Soderbergh
-tt0054429,7,2022-12-31,Universe,https://www.imdb.com/title/tt0054429/,short,7.7,29,1960,"Documentary, Short",353,1960-05-31,"Colin Low, Roman Kroitor"
+tt0054429,7,2022-12-31,Universe,https://www.imdb.com/title/tt0054429/,short,7.7,29,1960,"Documentary, Short",353,1960-05-31,"Roman Kroitor, Colin Low"
 tt5460522,5,2021-07-11,Jeremiah Terminator LeRoy,https://www.imdb.com/title/tt5460522/,movie,5.5,108,2018,"Biography, Drama",2753,2018-09-10,Justin Kelly
 tt5462602,9,2022-08-21,The Big Sick,https://www.imdb.com/title/tt5462602/,movie,7.5,120,2017,"Comedy, Drama, Romance",140577,2017-01-20,Michael Showalter
 tt5463162,4,2021-07-14,Deadpool 2,https://www.imdb.com/title/tt5463162/,movie,7.6,119,2018,"Action, Adventure, Comedy, Sci-Fi",617612,2018-05-01,David Leitch
-tt0054634,5,2023-08-30,Aquamania,https://www.imdb.com/title/tt0054634/,short,6.7,8,1961,"Animation, Short, Comedy, Family",748,1961-12-20,"Jack Kinney, Wolfgang Reitherman, Jack Hannah"
+tt0054634,5,2023-08-30,Aquamania,https://www.imdb.com/title/tt0054634/,short,6.7,8,1961,"Animation, Short, Comedy, Family",748,1961-12-20,"Wolfgang Reitherman, Jack Kinney, Jack Hannah"
 tt0054674,7,2023-08-16,Beep Prepared,https://www.imdb.com/title/tt0054674/,short,7.3,6,1961,"Animation, Family, Short, Comedy",709,1961-11-11,"Maurice Noble, Chuck Jones"
 tt0054687,6,2022-02-16,Blast of Silence,https://www.imdb.com/title/tt0054687/,movie,7.5,77,1961,"Crime, Drama, Thriller",4870,1961-03-20,Allen Baron
 tt0054698,7,2021-07-09,Breakfast at Tiffany's,https://www.imdb.com/title/tt0054698/,movie,7.6,115,1961,"Comedy, Drama, Romance",187451,1961-10-05,Blake Edwards
@@ -2897,8 +2897,8 @@ tt0055018,8,2021-07-09,The Innocents,https://www.imdb.com/title/tt0055018/,movie
 tt0055031,7,2023-04-19,Judgment at Nuremberg,https://www.imdb.com/title/tt0055031/,movie,8.3,179,1961,"Drama, War",81506,1961-12-14,Stanley Kramer
 tt5503686,6,2021-07-11,Hustlers,https://www.imdb.com/title/tt5503686/,movie,6.3,110,2019,"Comedy, Crime, Drama",104945,2019-09-07,Lorene Scafaria
 tt5519340,4,2021-07-18,Bright,https://www.imdb.com/title/tt5519340/,movie,6.3,117,2017,"Action, Fantasy, Thriller",197279,2017-12-13,David Ayer
-tt0055223,5,2023-08-30,Nelly's Folly,https://www.imdb.com/title/tt0055223/,short,6.6,7,1961,"Animation, Short, Drama, Family",359,1961-12-30,"Maurice Noble, Chuck Jones, Abe Levitow"
-tt0055254,5,2021-07-14,One Hundred and One Dalmatians,https://www.imdb.com/title/tt0055254/,movie,7.3,79,1961,"Animation, Adventure, Comedy, Family",176567,1961-01-25,"Hamilton Luske, Wolfgang Reitherman, Clyde Geronimi"
+tt0055223,5,2023-08-30,Nelly's Folly,https://www.imdb.com/title/tt0055223/,short,6.6,7,1961,"Animation, Short, Drama, Family",359,1961-12-30,"Maurice Noble, Abe Levitow, Chuck Jones"
+tt0055254,5,2021-07-14,One Hundred and One Dalmatians,https://www.imdb.com/title/tt0055254/,movie,7.3,79,1961,"Animation, Adventure, Comedy, Family",176567,1961-01-25,"Wolfgang Reitherman, Hamilton Luske, Clyde Geronimi"
 tt0055277,7,2021-07-14,The Parent Trap,https://www.imdb.com/title/tt0055277/,movie,7.2,129,1961,"Comedy, Family, Romance",23114,1961-06-12,David Swift
 tt0055298,7,2023-08-30,The Pied Piper of Guadalupe,https://www.imdb.com/title/tt0055298/,short,6.9,6,1961,"Family, Animation, Short, Comedy",612,1961-08-19,"Hawley Pratt, Friz Freleng"
 tt0055333,2,2023-08-21,Project Hope,https://www.imdb.com/title/tt0055333/,short,5.4,30,1961,"Documentary, Short",52,,Frank P. Bibas
@@ -2968,7 +2968,7 @@ tt0057193,5,2022-01-13,It's a Mad Mad Mad Mad World,https://www.imdb.com/title/t
 tt0057251,6,2022-02-01,Lilies of the Field,https://www.imdb.com/title/tt0057251/,movie,7.5,94,1963,Drama,12824,1963-06-30,Ralph Nelson
 tt0057261,6,2021-07-14,Lord of the Flies,https://www.imdb.com/title/tt0057261/,movie,6.9,92,1963,"Adventure, Drama, Thriller",19952,1963-05-12,Peter Brook
 tt5726616,9,2021-07-09,Call Me by Your Name,https://www.imdb.com/title/tt5726616/,movie,7.8,132,2017,"Drama, Romance",296456,2017-01-22,Luca Guadagnino
-tt5727208,7,2021-07-18,Uncut Gems,https://www.imdb.com/title/tt5727208/,movie,7.4,135,2019,"Crime, Drama, Thriller",303284,2019-08-30,"Benny Safdie, Josh Safdie"
+tt5727208,7,2021-07-18,Uncut Gems,https://www.imdb.com/title/tt5727208/,movie,7.4,135,2019,"Crime, Drama, Thriller",303284,2019-08-30,"Josh Safdie, Benny Safdie"
 tt0057339,3,2023-08-21,My Financial Career,https://www.imdb.com/title/tt0057339/,short,6.7,7,1962,"Family, Animation, Short",219,1999-09-25,Gerald Potterton
 tt0057367,6,2023-08-30,Now Hear This,https://www.imdb.com/title/tt0057367/,short,6.9,6,1962,"Family, Short, Animation, Comedy",526,1962-12-31,"Maurice Noble, Chuck Jones"
 tt0057410,4,2023-08-21,Pianissimo,https://www.imdb.com/title/tt0057410/,short,5.6,6,1963,"Animation, Short",217,,Carmen D'Avino
@@ -3171,7 +3171,7 @@ tt0065531,8,2021-09-10,Le cercle rouge,https://www.imdb.com/title/tt0065531/,mov
 tt0065571,9,2023-03-07,Il conformista,https://www.imdb.com/title/tt0065571/,movie,7.9,113,1970,Drama,32587,1970-07-01,Bernardo Bertolucci
 tt6566830,2,2021-07-24,Most Likely to Murder,https://www.imdb.com/title/tt6566830/,movie,5.1,90,2018,"Comedy, Mystery, Romance",1141,2018-03-12,Dan Gregor
 tt6571548,6,2022-06-11,The White Tiger,https://www.imdb.com/title/tt6571548/,movie,7.1,125,2021,"Crime, Drama",63719,2021-01-22,Ramin Bahrani
-tt0065751,3,2023-08-22,The Further Adventures of Uncle Sam,https://www.imdb.com/title/tt0065751/,short,5.2,13,1971,"Animation, Short",182,1971-10-31,"Robert Mitchell, Dale Case"
+tt0065751,3,2023-08-22,The Further Adventures of Uncle Sam,https://www.imdb.com/title/tt0065751/,short,5.2,13,1971,"Animation, Short",182,1971-10-31,"Dale Case, Robert Mitchell"
 tt0065780,9,2021-11-20,Gimme Shelter,https://www.imdb.com/title/tt0065780/,movie,7.8,91,1970,"Documentary, Music, Thriller",12551,1970-12-06,"Charlotte Zwerin, David Maysles, Albert Maysles"
 tt0065901,8,2023-08-22,Is It Always Right to Be Right?,https://www.imdb.com/title/tt0065901/,short,6.3,8,1970,"Animation, Short",387,1970-11-16,Lee Mishkin
 tt6595908,7,2021-09-17,The Tickle King,https://www.imdb.com/title/tt6595908/,short,7.1,20,2017,"Documentary, Short",1146,2017-02-27,"David Farrier, Dylan Reeve"
@@ -3198,7 +3198,7 @@ tt0067065,6,2021-07-15,Escape from the Planet of the Apes,https://www.imdb.com/t
 tt0067073,5,2023-08-22,Evolution,https://www.imdb.com/title/tt0067073/,short,6.2,11,1971,"Animation, Short, Comedy, Fantasy, Sci-Fi",235,1971-12-31,Michael Mills
 tt6710474,8,2022-03-31,Everything Everywhere All at Once,https://www.imdb.com/title/tt6710474/,movie,7.8,139,2022,"Action, Adventure, Comedy, Fantasy, Sci-Fi",476288,2022-03-11,"Daniel Kwan, Daniel Scheinert"
 tt6723592,4,2021-07-09,Tenet,https://www.imdb.com/title/tt6723592/,movie,7.3,150,2020,"Action, Sci-Fi, Thriller",557784,2020-08-22,Christopher Nolan
-tt6728096,4,2021-07-18,The Breaker Upperers,https://www.imdb.com/title/tt6728096/,movie,5.9,90,2018,Comedy,6641,2018-03-10,"Madeleine Sami, Jackie van Beek"
+tt6728096,4,2021-07-18,The Breaker Upperers,https://www.imdb.com/title/tt6728096/,movie,5.9,90,2018,Comedy,6641,2018-03-10,"Jackie van Beek, Madeleine Sami"
 tt0067328,8,2022-02-23,The Last Picture Show,https://www.imdb.com/title/tt0067328/,movie,8.0,118,1971,"Drama, Romance",50732,1971-10-02,Peter Bogdanovich
 tt6740146,5,2021-07-23,Tiempos de guerra,https://www.imdb.com/title/tt6740146/,tvSeries,7.5,70,2017,"Drama, War",3222,2017-09-20,
 tt6741278,8,2021-07-18,Invincible,https://www.imdb.com/title/tt6741278/,tvSeries,8.7,50,2021,"Animation, Action, Adventure, Drama, Fantasy, Sci-Fi, Thriller",164255,2021-03-25,
@@ -3285,7 +3285,7 @@ tt0071222,7,2021-07-11,Black Christmas,https://www.imdb.com/title/tt0071222/,mov
 tt0071230,5,2023-07-04,Blazing Saddles,https://www.imdb.com/title/tt0071230/,movie,7.7,93,1974,"Comedy, Western",146960,1974-02-07,Mel Brooks
 tt7125860,7,2023-08-31,If Beale Street Could Talk,https://www.imdb.com/title/tt7125860/,movie,7.1,119,2018,"Drama, Romance",51324,2018-09-09,Barry Jenkins
 tt7126948,2,2021-07-18,Wonder Woman 1984,https://www.imdb.com/title/tt7126948/,movie,5.4,151,2020,"Action, Adventure, Fantasy",283027,2020-12-16,Patty Jenkins
-tt7129636,8,2022-08-26,Hair Love,https://www.imdb.com/title/tt7129636/,short,7.4,7,2019,"Animation, Short, Comedy, Drama, Family",6841,2019-08-14,"Matthew A. Cherry, Everett Downing Jr., Bruce W. Smith"
+tt7129636,8,2022-08-26,Hair Love,https://www.imdb.com/title/tt7129636/,short,7.4,7,2019,"Animation, Short, Comedy, Drama, Family",6841,2019-08-14,"Matthew A. Cherry, Bruce W. Smith, Everett Downing Jr."
 tt0071315,8,2022-01-13,Chinatown,https://www.imdb.com/title/tt0071315/,movie,8.2,130,1974,"Drama, Mystery, Thriller",339259,1974-06-19,Roman Polanski
 tt7131622,7,2021-07-09,Once Upon a Time in... Hollywood,https://www.imdb.com/title/tt7131622/,movie,7.6,161,2019,"Comedy, Drama",798292,2019-05-21,Quentin Tarantino
 tt0071337,6,2023-05-19,Closed Mondays,https://www.imdb.com/title/tt0071337/,short,6.6,8,1974,"Animation, Short, Fantasy",773,1974-10-31,"Bob Gardiner, Will Vinton"
@@ -3323,7 +3323,7 @@ tt0072856,5,2021-07-15,Death Race 2000,https://www.imdb.com/title/tt0072856/,mov
 tt7286456,5,2022-05-24,Joker,https://www.imdb.com/title/tt7286456/,movie,8.4,122,2019,"Crime, Drama, Thriller",1396167,2019-08-31,Todd Phillips
 tt0072890,7,2022-08-24,Dog Day Afternoon,https://www.imdb.com/title/tt0072890/,movie,8.0,125,1975,"Biography, Crime, Drama, Thriller",267297,1975-09-19,Sidney Lumet
 tt0072951,5,2021-07-14,Escape to Witch Mountain,https://www.imdb.com/title/tt0072951/,movie,6.3,97,1975,"Adventure, Family, Fantasy, Mystery, Sci-Fi",11000,1975-03-21,John Hough
-tt0072962,7,2021-09-08,F for Fake,https://www.imdb.com/title/tt0072962/,movie,7.7,89,1973,Documentary,17742,1973-09-30,"Oja Kodar, Gary Graver, François Reichenbach, Orson Welles"
+tt0072962,7,2021-09-08,F for Fake,https://www.imdb.com/title/tt0072962/,movie,7.7,89,1973,Documentary,17742,1973-09-30,"Oja Kodar, Gary Graver, Orson Welles, François Reichenbach"
 tt7296862,2,2021-07-11,SPF-18,https://www.imdb.com/title/tt7296862/,movie,3.3,75,2017,"Drama, Romance, Sport",5428,2017-09-29,Alex Israel
 tt0073026,6,2021-07-11,Funny Lady,https://www.imdb.com/title/tt0073026/,movie,6.2,136,1975,"Biography, Comedy, Drama, Musical, Romance",5798,1975-03-15,Herbert Ross
 tt0073076,8,2021-07-31,Grey Gardens,https://www.imdb.com/title/tt0073076/,movie,7.6,95,1975,"Documentary, Comedy, Drama",14748,1975-09-27,"David Maysles, Muffie Meyer, Ellen Hovde, Albert Maysles"
@@ -3368,7 +3368,7 @@ tt0074919,6,2023-08-22,The Morning Spider,https://www.imdb.com/title/tt0074919/,
 tt7493974,6,2021-07-23,Bodyguard,https://www.imdb.com/title/tt7493974/,tvSeries,8.1,60,2018,"Crime, Drama, Thriller",137893,2018-08-26,
 tt0074958,9,2022-02-14,Network,https://www.imdb.com/title/tt0074958/,movie,8.1,121,1976,Drama,165445,1976-11-14,Sidney Lumet
 tt0075005,8,2022-03-05,The Omen,https://www.imdb.com/title/tt0075005/,movie,7.5,111,1976,"Horror, Mystery",125901,1976-06-25,Richard Donner
-tt7504818,6,2021-12-16,Ron's Gone Wrong,https://www.imdb.com/title/tt7504818/,movie,7.0,107,2021,"Animation, Adventure, Comedy, Family, Sci-Fi",38263,2021-06-16,"Jean-Philippe Vine, Sarah Smith, Octavio E. Rodriguez"
+tt7504818,6,2021-12-16,Ron's Gone Wrong,https://www.imdb.com/title/tt7504818/,movie,7.0,107,2021,"Animation, Adventure, Comedy, Family, Sci-Fi",38263,2021-06-16,"Jean-Philippe Vine, Octavio E. Rodriguez, Sarah Smith"
 tt0075148,8,2021-07-09,Rocky,https://www.imdb.com/title/tt0075148/,movie,8.1,120,1976,"Drama, Sport",608384,1976-11-20,John G. Avildsen
 tt0075265,7,2021-07-09,A Star Is Born,https://www.imdb.com/title/tt0075265/,movie,6.1,139,1976,"Drama, Music, Romance",12594,1976-12-17,Frank Pierson
 tt0075273,6,2023-05-19,The Street,https://www.imdb.com/title/tt0075273/,short,6.6,10,1976,"Animation, Comedy, Drama, Short",812,1976-08-31,Caroline Leaf
@@ -3397,7 +3397,7 @@ tt7608418,6,2021-07-11,A Christmas Prince,https://www.imdb.com/title/tt7608418/,
 tt7608534,4,2021-07-11,Christmas Inheritance,https://www.imdb.com/title/tt7608534/,movie,5.7,104,2017,"Comedy, Drama, Romance",12671,2017-12-15,Ernie Barbarash
 tt0076173,7,2023-08-22,I'll Find a Way,https://www.imdb.com/title/tt0076173/,short,6.9,26,1977,"Documentary, Short",94,1999-12-06,Beverly Shaffer
 tt0076230,4,2023-08-30,Jimmy the C,https://www.imdb.com/title/tt0076230/,short,5.1,4,1979,"Animation, Short",142,1979-01-31,Jimmy Picker
-tt7631568,6,2021-09-27,Reckoning,https://www.imdb.com/title/tt7631568/,movie,6.2,87,2019,Thriller,1147,2019-04-07,"Lane Skye, Ruckus Skye"
+tt7631568,6,2021-09-27,Reckoning,https://www.imdb.com/title/tt7631568/,movie,6.2,87,2019,Thriller,1147,2019-04-07,"Ruckus Skye, Lane Skye"
 tt7638348,3,2021-07-15,Boss Level,https://www.imdb.com/title/tt7638348/,movie,6.8,100,2020,"Action, Adventure, Comedy, Mystery, Sci-Fi, Thriller",74813,2020-02-11,Joe Carnahan
 tt7638556,9,2021-09-11,Come from Away,https://www.imdb.com/title/tt7638556/,movie,8.5,106,2021,"Comedy, Drama, Musical",3552,2021-09-10,Christopher Ashley
 tt0076451,5,2021-08-11,"New York, New York",https://www.imdb.com/title/tt0076451/,movie,6.6,155,1977,"Drama, Music, Musical",21097,1977-06-21,Martin Scorsese
@@ -3531,7 +3531,7 @@ tt8075192,9,2023-08-28,Manbiki kazoku,https://www.imdb.com/title/tt8075192/,movi
 tt8075496,9,2021-07-09,Bao,https://www.imdb.com/title/tt8075496/,short,7.5,8,2018,"Animation, Short, Drama, Family, Fantasy",32100,2018-04-21,Domee Shi
 tt8079248,6,2021-07-11,Yesterday,https://www.imdb.com/title/tt8079248/,movie,6.8,116,2019,"Comedy, Fantasy, Music, Romance",161170,2019-05-04,Danny Boyle
 tt0808244,5,2021-07-28,Easy Virtue,https://www.imdb.com/title/tt0808244/,movie,6.6,97,2008,"Comedy, Romance",22007,2008-09-08,Stephan Elliott
-tt0808417,9,2023-07-09,Persepolis,https://www.imdb.com/title/tt0808417/,movie,8.0,96,2007,"Animation, Biography, Drama, History, War",97977,2007-05-23,"Marjane Satrapi, Vincent Paronnaud"
+tt0808417,9,2023-07-09,Persepolis,https://www.imdb.com/title/tt0808417/,movie,8.0,96,2007,"Animation, Biography, Drama, History, War",97977,2007-05-23,"Vincent Paronnaud, Marjane Satrapi"
 tt0080879,4,2023-08-22,History of the World in Three Minutes Flat,https://www.imdb.com/title/tt0080879/,short,5.7,4,1980,"Animation, Short",178,1980-08-31,Michael Mills
 tt8093700,6,2023-01-17,The Woman King,https://www.imdb.com/title/tt8093700/,movie,6.9,135,2022,"Action, Drama, History",67221,2022-09-09,Gina Prince-Bythewood
 tt8097030,6,2022-05-10,Turning Red,https://www.imdb.com/title/tt8097030/,movie,7.0,100,2022,"Animation, Adventure, Comedy, Drama, Family, Fantasy",139957,2022-03-01,Domee Shi
@@ -3611,7 +3611,7 @@ tt0083658,9,2021-07-14,Blade Runner,https://www.imdb.com/title/tt0083658/,movie,
 tt8368408,4,2021-07-18,Gunpowder Milkshake,https://www.imdb.com/title/tt8368408/,movie,6.1,114,2021,"Action, Crime, Thriller",48806,2021-07-14,Navot Papushado
 tt8369840,4,2021-07-24,Another Life,https://www.imdb.com/title/tt8369840/,tvSeries,5.3,43,2019,"Adventure, Drama, Mystery, Sci-Fi, Thriller",37409,2019-07-25,
 tt0083722,6,2021-07-11,Cat People,https://www.imdb.com/title/tt0083722/,movie,6.2,118,1982,"Fantasy, Horror, Thriller",23132,1982-04-02,Paul Schrader
-tt0083791,6,2022-02-02,The Dark Crystal,https://www.imdb.com/title/tt0083791/,movie,7.1,93,1982,"Adventure, Family, Fantasy",69820,1982-12-17,"Frank Oz, Jim Henson"
+tt0083791,6,2022-02-02,The Dark Crystal,https://www.imdb.com/title/tt0083791/,movie,7.1,93,1982,"Adventure, Family, Fantasy",69820,1982-12-17,"Jim Henson, Frank Oz"
 tt0838221,4,2021-07-14,The Darjeeling Limited,https://www.imdb.com/title/tt0838221/,movie,7.2,91,2007,"Adventure, Comedy, Drama",210813,2007-08-31,Wes Anderson
 tt0838283,2,2021-07-14,Step Brothers,https://www.imdb.com/title/tt0838283/,movie,6.9,98,2008,Comedy,309630,2008-07-25,Adam McKay
 tt0083866,8,2021-07-09,E.T. the Extra-Terrestrial,https://www.imdb.com/title/tt0083866/,movie,7.9,115,1982,"Adventure, Family, Sci-Fi",425747,1982-05-26,Steven Spielberg
@@ -3836,7 +3836,7 @@ tt0091064,7,2022-02-05,The Fly,https://www.imdb.com/title/tt0091064/,movie,7.6,9
 tt0910885,1,2021-12-07,A Merry Friggin' Christmas,https://www.imdb.com/title/tt0910885/,movie,5.1,88,2014,"Comedy, Drama",7710,2014-10-17,Tristram Shapeero
 tt0910970,9,2021-07-09,WALL·E,https://www.imdb.com/title/tt0910970/,movie,8.4,98,2008,"Animation, Adventure, Family, Sci-Fi",1161837,2008-06-21,Andrew Stanton
 tt9114286,6,2022-11-18,Black Panther: Wakanda Forever,https://www.imdb.com/title/tt9114286/,movie,6.7,161,2022,"Action, Adventure, Drama, Sci-Fi",284238,2022-11-09,Ryan Coogler
-tt0091149,7,2021-07-14,The Great Mouse Detective,https://www.imdb.com/title/tt0091149/,movie,7.1,74,1986,"Animation, Adventure, Family, Musical, Mystery",52565,1986-06-23,"Burny Mattinson, David Michener, Ron Clements, John Musker"
+tt0091149,7,2021-07-14,The Great Mouse Detective,https://www.imdb.com/title/tt0091149/,movie,7.1,74,1986,"Animation, Adventure, Family, Musical, Mystery",52565,1986-06-23,"Burny Mattinson, Ron Clements, David Michener, John Musker"
 tt0091152,3,2023-05-19,Een griekse tragedie,https://www.imdb.com/title/tt0091152/,short,5.3,7,1985,"Comedy, Animation, Short",754,1985-06-30,Nicole Van Goethem
 tt9115530,7,2021-11-20,The Eyes of Tammy Faye,https://www.imdb.com/title/tt9115530/,movie,6.6,126,2021,"Biography, Drama, Romance",37215,2021-09-12,Michael Showalter
 tt0091167,7,2023-09-01,Hannah and Her Sisters,https://www.imdb.com/title/tt0091167/,movie,7.8,107,1986,"Comedy, Drama",74148,1986-01-25,Woody Allen
@@ -3968,7 +3968,7 @@ tt0095107,4,2021-12-24,Ernest Saves Christmas,https://www.imdb.com/title/tt00951
 tt0951144,8,2023-08-12,Maestro,https://www.imdb.com/title/tt0951144/,short,7.4,5,2005,"Animation, Short, Comedy, Family, Fantasy",1457,2005-05-01,Géza M. Tóth
 tt0095159,6,2021-07-09,A Fish Called Wanda,https://www.imdb.com/title/tt0095159/,movie,7.5,108,1988,"Comedy, Crime",148911,1988-07-07,"Charles Crichton, John Cleese"
 tt0095261,5,2023-08-22,Gullah Tales,https://www.imdb.com/title/tt0095261/,short,6.2,20,1988,Short,42,,Gary Moss
-tt9526784,6,2021-09-18,Sniegu juz nigdy nie bedzie,https://www.imdb.com/title/tt9526784/,movie,6.5,116,2020,"Comedy, Drama, Mystery",2622,2020-09-06,"Michal Englert, Malgorzata Szumowska"
+tt9526784,6,2021-09-18,Sniegu juz nigdy nie bedzie,https://www.imdb.com/title/tt9526784/,movie,6.5,116,2020,"Comedy, Drama, Mystery",2622,2020-09-06,"Malgorzata Szumowska, Michal Englert"
 tt0095270,6,2021-09-19,Hairspray,https://www.imdb.com/title/tt0095270/,movie,7.0,92,1988,"Comedy, Drama, Family, Music, Musical, Romance",22741,1988-02-16,John Waters
 tt0095327,7,2022-04-30,Hotaru no haka,https://www.imdb.com/title/tt0095327/,movie,8.5,89,1988,"Animation, Drama, War",294615,1988-04-16,Isao Takahata
 tt9536832,9,2022-08-22,Kitbull,https://www.imdb.com/title/tt9536832/,short,8.0,9,2019,"Animation, Short, Drama, Family",7341,2019-02-18,Rosana Sullivan
@@ -4008,7 +4008,7 @@ tt0096626,8,2021-11-05,The Kids in the Hall,https://www.imdb.com/title/tt0096626
 tt0096641,5,2021-11-05,MMC,https://www.imdb.com/title/tt0096641/,tvSeries,7.3,30,1989,"Family, Music",472,1989-04-24,
 tt0096697,6,2021-08-07,The Simpsons,https://www.imdb.com/title/tt0096697/,tvSeries,8.7,22,1989,"Animation, Comedy",423473,1989-12-17,
 tt0096754,7,2022-05-23,The Abyss,https://www.imdb.com/title/tt0096754/,movie,7.5,140,1989,"Adventure, Drama, Mystery, Sci-Fi, Thriller",185718,1989-08-08,James Cameron
-tt0096787,4,2021-07-14,All Dogs Go to Heaven,https://www.imdb.com/title/tt0096787/,movie,6.7,84,1989,"Animation, Adventure, Comedy, Drama, Family, Fantasy, Musical",44579,1989-11-17,"Dan Kuenster, Don Bluth, Gary Goldman"
+tt0096787,4,2021-07-14,All Dogs Go to Heaven,https://www.imdb.com/title/tt0096787/,movie,6.7,84,1989,"Animation, Adventure, Comedy, Drama, Family, Fantasy, Musical",44579,1989-11-17,"Dan Kuenster, Gary Goldman, Don Bluth"
 tt9686708,4,2021-08-20,The King of Staten Island,https://www.imdb.com/title/tt9686708/,movie,7.1,136,2020,"Comedy, Drama",73885,2020-06-12,Judd Apatow
 tt0096874,7,2021-07-11,Back to the Future Part II,https://www.imdb.com/title/tt0096874/,movie,7.8,108,1989,"Adventure, Comedy, Sci-Fi",556423,1989-11-20,Robert Zemeckis
 tt0096880,10,2023-05-19,Balance,https://www.imdb.com/title/tt0096880/,short,7.9,7,1989,"Animation, Short, Drama",5554,1989-05-20,"Wolfgang Lauenstein, Christoph Lauenstein"
@@ -4100,5 +4100,5 @@ tt0099696,6,2023-05-19,Cavallette,https://www.imdb.com/title/tt0099696/,short,7.
 tt0099703,6,2021-07-09,The Grifters,https://www.imdb.com/title/tt0099703/,movie,6.9,110,1990,"Crime, Drama, Thriller",29515,1990-09-14,Stephen Frears
 tt0099785,7,2021-07-11,Home Alone,https://www.imdb.com/title/tt0099785/,movie,7.7,103,1990,"Comedy, Family",611627,1990-11-10,Chris Columbus
 tt0099810,8,2021-07-09,The Hunt for Red October,https://www.imdb.com/title/tt0099810/,movie,7.5,135,1990,"Action, Adventure, Thriller",208910,1990-03-02,John McTiernan
-tt0099878,4,2021-07-15,Jetsons: The Movie,https://www.imdb.com/title/tt0099878/,movie,5.5,82,1990,"Animation, Comedy, Family, Musical, Sci-Fi",5556,1990-07-06,"Iwao Takamoto, William Hanna, Joseph Barbera"
+tt0099878,4,2021-07-15,Jetsons: The Movie,https://www.imdb.com/title/tt0099878/,movie,5.5,82,1990,"Animation, Comedy, Family, Musical, Sci-Fi",5556,1990-07-06,"Joseph Barbera, Iwao Takamoto, William Hanna"
 tt0099938,5,2021-07-15,Kindergarten Cop,https://www.imdb.com/title/tt0099938/,movie,6.2,111,1990,"Action, Comedy, Crime",158035,1990-12-21,Ivan Reitman
