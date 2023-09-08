@@ -1503,7 +1503,8 @@ Ceremony,Ceremony.Year,AwardCeremony,AwardCategory,Note,FilmID,FilmName,PersonID
 65,1993,065-1993,Best Foreign Language Film,NA,tt0106332,Farewell My Concubine,NA,NA,International
 65,1993,065-1993,Best Supporting Actor,NA,tt0108550,What's Eating Gilbert Grape,nm0000138,Leonardo DiCaprio,Performance
 65,1993,065-1993,Best Supporting Actress,NA,tt0106226,The Age of Innocence,nm0000213,Winona Ryder,Performance
-65,1993,065-1993,Spotlight Award,NA,tt0104815,El Mariachi,nm0001675,Robert Rodriguez,Other
+65,1993,065-1993,Career Achievement Award,NA,NA,NA,nm0000125,Sean Connery,Other
+65,1993,065-1993,Special Award,NA,tt0104815,El Mariachi,nm0001675,Robert Rodriguez,Other
 65,1993,065-1993,Top Foreign Films,NA,tt0105682,A Heart in Winter,NA,NA,International
 65,1993,065-1993,Top Foreign Films,NA,tt0104815,El mariachi,NA,NA,International
 65,1993,065-1993,Top Foreign Films,NA,tt0106332,Farewell My Concubine,NA,NA,International
@@ -1519,6 +1520,724 @@ Ceremony,Ceremony.Year,AwardCeremony,AwardCategory,Note,FilmID,FilmName,PersonID
 65,1993,065-1993,Top Ten Films,NA,tt0107282,The Joy Luck Club,NA,NA,Top Films
 65,1993,065-1993,Top Ten Films,NA,tt0107822,The Piano,NA,NA,Top Films
 65,1993,065-1993,Top Ten Films,NA,tt0107943,The Remains of the Day,NA,NA,Top Films
+66,1994,066-1994,Best Actor,NA,tt0109830,Forrest Gump,nm0000158,Tom Hanks,Performance
+66,1994,066-1994,Best Actress,NA,tt0111454,Tom & Viv,nm0001669,Miranda Richardson,Performance
+66,1994,066-1994,Best Director,NA,tt0110912,Pulp Fiction,nm0000233,Quentin Tarantino,Director
+66,1994,066-1994,Best Documentary,NA,tt0110057,Hoop Dreams,NA,NA,Documentary
+66,1994,066-1994,Best Ensemble,NA,tt0110907,Ready to Wear,NA,NA,Performance
+66,1994,066-1994,Best Family Film,NA,tt0110357,The Lion King,NA,NA,Top Films
+66,1994,066-1994,Best Film,Tied with Pulp Fiction (1994).,tt0109830,Forrest Gump,NA,NA,Top Films
+66,1994,066-1994,Best Film,Tied with Forrest Gump (1994).,tt0110912,Pulp Fiction,NA,NA,Top Films
+66,1994,066-1994,Best Film or Mini-Series Made for Cable TV,NA,tt0106148,Tales of the City,NA,NA,Top Films
+66,1994,066-1994,Best Foreign Language Film,NA,tt0111797,Eat Drink Man Woman,NA,NA,International
+66,1994,066-1994,Best Supporting Actor,NA,tt0109830,Forrest Gump,nm0000641,Gary Sinise,Performance
+66,1994,066-1994,Best Supporting Actress,NA,tt0111454,Tom & Viv,nm0365281,Rosemary Harris,Performance
+66,1994,066-1994,Billy Wilder Award for Excellence in Directing,NA,NA,NA,nm0000697,Billy Wilder,Other
+66,1994,066-1994,Career Achievement Award,For screenwriting,NA,NA,nm0001279,William Goldman,Other
+66,1994,066-1994,Career Achievement Award,NA,NA,NA,nm0001627,Sidney Poitier,Other
+66,1994,066-1994,Outstanding Film Preservation,NA,NA,NA,nm3299707,James Card,Other
+66,1994,066-1994,Top Foreign Films,NA,tt0111797,Eat Drink Man Woman,NA,NA,International
+66,1994,066-1994,Top Foreign Films,NA,tt0110963,Queen Margot,NA,NA,International
+66,1994,066-1994,Top Foreign Films,NA,tt0106966,Strawberry & Chocolate,NA,NA,International
+66,1994,066-1994,Top Foreign Films,NA,tt0111495,Three Colors: Red,NA,NA,International
+66,1994,066-1994,Top Foreign Films,NA,tt0110081,To Live,NA,NA,International
+66,1994,066-1994,Top Ten Films,NA,tt0109348,Bullets Over Broadway,NA,NA,Top Films
+66,1994,066-1994,Top Ten Films,NA,tt0109707,Ed Wood,NA,NA,Top Films
+66,1994,066-1994,Top Ten Films,NA,tt0109830,Forrest Gump,NA,NA,Top Films
+66,1994,066-1994,Top Ten Films,NA,tt0109831,Four Weddings and a Funeral,NA,NA,Top Films
+66,1994,066-1994,Top Ten Films,NA,tt0110005,Heavenly Creatures,NA,NA,Top Films
+66,1994,066-1994,Top Ten Films,NA,tt0110684,Nobody's Fool,NA,NA,Top Films
+66,1994,066-1994,Top Ten Films,NA,tt0110912,Pulp Fiction,NA,NA,Top Films
+66,1994,066-1994,Top Ten Films,NA,tt0110932,Quiz Show,NA,NA,Top Films
+66,1994,066-1994,Top Ten Films,NA,tt0110428,The Madness of King George,NA,NA,Top Films
+66,1994,066-1994,Top Ten Films,NA,tt0111161,The Shawshank Redemption,NA,NA,Top Films
+66,1994,066-1994,Top Ten Films,NA,tt0111454,Tom & Viv,NA,NA,Top Films
+66,1994,066-1994,William K. Everson Film History Award,NA,NA,NA,nm0263706,William K. Everson,Other
+67,1995,067-1995,Best Actor,NA,tt0113627,Leaving Las Vegas,nm0000115,Nicolas Cage,Performance
+67,1995,067-1995,Best Actress,NA,tt0112637,Carrington,nm0000668,Emma Thompson,Performance
+67,1995,067-1995,Best Actress,NA,tt0114388,Sense and Sensibility,nm0000668,Emma Thompson,Performance
+67,1995,067-1995,Best Director,NA,tt0114388,Sense and Sensibility,nm0000487,Ang Lee,Director
+67,1995,067-1995,Best Documentary,NA,tt0109508,Crumb,NA,NA,Documentary
+67,1995,067-1995,Best Ensemble,NA,tt0114814,The Usual Suspects,NA,NA,Performance
+67,1995,067-1995,Best Film,NA,tt0114388,Sense and Sensibility,NA,NA,Top Films
+67,1995,067-1995,Best Film Made for Cable TV,NA,tt0106473,The Boys of St. Vincent,NA,NA,Top Films
+67,1995,067-1995,Best Foreign Language Film,NA,tt0115012,Shanghai Triad,NA,NA,International
+67,1995,067-1995,Best Supporting Actor,NA,tt0114369,Se7en,nm0000228,Kevin Spacey,Performance
+67,1995,067-1995,Best Supporting Actor,NA,tt0114814,The Usual Suspects,nm0000228,Kevin Spacey,Performance
+67,1995,067-1995,Best Supporting Actress,NA,tt0113819,Mighty Aphrodite,nm0000227,Mira Sorvino,Performance
+67,1995,067-1995,Billy Wilder Award for Excellence in Directing,NA,NA,NA,nm0002045,Stanley Donen,Other
+67,1995,067-1995,Breakthrough Performance,NA,tt0112697,Clueless,nm0000224,Alicia Silverstone,Performance
+67,1995,067-1995,Career Achievement Award,NA,NA,NA,nm0000469,James Earl Jones,Other
+67,1995,067-1995,Distinction in Screenwriting,NA,NA,NA,nm0173679/,Betty Comden,Other
+67,1995,067-1995,Distinction in Screenwriting,NA,NA,NA,nm0337582,Adolph Green,Other
+67,1995,067-1995,Freedom of Expression Award,NA,NA,NA,nm0955443,Yimou Zhang,Other
+67,1995,067-1995,Special Achievement in Filmmaking,NA,tt0112573,Braveheart,nm0000154,Mel Gibson,Other
+67,1995,067-1995,Top Foreign Films,NA,tt0109771,Farinelli,NA,NA,International
+67,1995,067-1995,Top Foreign Films,NA,tt0110299,Lamerica,NA,NA,International
+67,1995,067-1995,Top Foreign Films,NA,tt0113828,Les misérables,NA,NA,International
+67,1995,067-1995,Top Foreign Films,NA,tt0115012,Shanghai Triad,NA,NA,International
+67,1995,067-1995,Top Foreign Films,NA,tt0110877,The Postman,NA,NA,International
+67,1995,067-1995,Top Ten Films,NA,tt0112384,Apollo 13,NA,NA,Top Films
+67,1995,067-1995,Top Ten Films,NA,tt0112573,Braveheart,NA,NA,Top Films
+67,1995,067-1995,Top Ten Films,NA,tt0112637,Carrington,NA,NA,Top Films
+67,1995,067-1995,Top Ten Films,NA,tt0113627,Leaving Las Vegas,NA,NA,Top Films
+67,1995,067-1995,Top Ten Films,NA,tt0113819,Mighty Aphrodite,NA,NA,Top Films
+67,1995,067-1995,Top Ten Films,NA,tt0114117,Persuasion,NA,NA,Top Films
+67,1995,067-1995,Top Ten Films,NA,tt0114388,Sense and Sensibility,NA,NA,Top Films
+67,1995,067-1995,Top Ten Films,NA,tt0114478,Smoke,NA,NA,Top Films
+67,1995,067-1995,Top Ten Films,NA,tt0112346,The American President,NA,NA,Top Films
+67,1995,067-1995,Top Ten Films,NA,tt0114814,The Usual Suspects,NA,NA,Top Films
+68,1996,068-1996,Best Actor,NA,tt0116695,Jerry Maguire,nm0000129,Tom Cruise,Performance
+68,1996,068-1996,Best Actress,NA,tt0116282,Fargo,nm0000531,Frances McDormand,Performance
+68,1996,068-1996,Best Director,NA,tt0116282,Fargo,nm0001054,Joel Coen,Director
+68,1996,068-1996,Best Documentary,NA,tt0117293,Paradise Lost: The Child Murders at Robin Hood Hills,NA,NA,Documentary
+68,1996,068-1996,Best Ensemble,NA,tt0116313,The First Wives Club,NA,NA,Performance
+68,1996,068-1996,Best Film,NA,tt0117631,Shine,NA,NA,Top Films
+68,1996,068-1996,Best Film Made for Cable TV,NA,tt0114939,Wild Bill: Hollywood Maverick,NA,NA,Top Films
+68,1996,068-1996,Best Foreign Language Film,NA,tt0117477,Ridicule,NA,NA,International
+68,1996,068-1996,Best Supporting Actor,NA,tt0116242,Everyone Says I Love You,nm0001570,Edward Norton,Performance
+68,1996,068-1996,Best Supporting Actress,Tied with Juliette Binoche for The English Patient (1996).,tt0116209,The English Patient,nm0000218,Kristin Scott Thomas,Performance
+68,1996,068-1996,Best Supporting Actress,Tied with Kristin Scott Thomas for The English Patient (1996).,tt0116209,The English Patient,nm0000300,Juliette Binoche,Performance
+68,1996,068-1996,Billy Wilder Award for Excellence in Directing,NA,NA,NA,nm0001486,Sidney Lumet,Other
+68,1996,068-1996,Breakthrough Performance,NA,tt0116695,Jerry Maguire,nm0000250,Renée Zellweger,Performance
+68,1996,068-1996,Career Achievement Award,NA,NA,NA,nm0001687,Gena Rowlands,Other
+68,1996,068-1996,Freedom of Expression Award,NA,tt0117318,The People vs. Larry Flynt,nm0001232,Milos Forman,Other
+68,1996,068-1996,Freedom of Expression Award,NA,tt0117318,The People vs. Larry Flynt,nm0000231,Oliver Stone,Other
+68,1996,068-1996,International Freedom Award,NA,NA,NA,nm0955451,Yuan Zhang,Other
+68,1996,068-1996,Special Achievement in Filmmaking,NA,tt0117666,Sling Blade,nm0000671,Billy Bob Thornton,Other
+68,1996,068-1996,Special Citation,Lifetime Achievement in Direction ,NA,NA,nm0001415,Elia Kazan,Other
+68,1996,068-1996,Special Recognition for Excellence in Filmmaking,NA,tt0112365,Angels & Insects,NA,NA,Independent
+68,1996,068-1996,Special Recognition for Excellence in Filmmaking,NA,tt0115632,Basquiat,NA,NA,Independent
+68,1996,068-1996,Special Recognition for Excellence in Filmmaking,NA,tt0115678,Big Night,NA,NA,Independent
+68,1996,068-1996,Special Recognition for Excellence in Filmmaking,NA,tt0115736,Bound,NA,NA,Independent
+68,1996,068-1996,Special Recognition for Excellence in Filmmaking,NA,tt0115847,Caught,NA,NA,Independent
+68,1996,068-1996,Special Recognition for Excellence in Filmmaking,NA,tt0119138,Follow Me Home,NA,NA,Independent
+68,1996,068-1996,Special Recognition for Excellence in Filmmaking,NA,tt0116594,I Shot Andy Warhol,NA,NA,Independent
+68,1996,068-1996,Special Recognition for Excellence in Filmmaking,NA,tt0116905,Lone Star,NA,NA,Independent
+68,1996,068-1996,Special Recognition for Excellence in Filmmaking,NA,tt0116999,Marvin's Room,NA,NA,Independent
+68,1996,068-1996,Special Recognition for Excellence in Filmmaking,NA,tt0117802,Swingers,NA,NA,Independent
+68,1996,068-1996,Special Recognition for Excellence in Filmmaking,NA,tt0118958,The Deli,NA,NA,Independent
+68,1996,068-1996,Special Recognition for Excellence in Filmmaking,NA,tt0117773,The Substance of Fire,NA,NA,Independent
+68,1996,068-1996,Special Recognition for Excellence in Filmmaking,NA,tt0108515,The War Room,NA,NA,Independent
+68,1996,068-1996,Special Recognition for Excellence in Filmmaking,NA,tt0118044,Unhook the Stars,NA,NA,Independent
+68,1996,068-1996,Special Recognition for Excellence in Filmmaking,NA,tt0114906,Welcome to the Dollhouse,NA,NA,Independent
+68,1996,068-1996,Top Foreign Films,NA,tt0115600,Bitter Sugar,NA,NA,International
+68,1996,068-1996,Top Foreign Films,NA,tt0116790,Kolya,NA,NA,International
+68,1996,068-1996,Top Foreign Films,NA,tt0112769,La cérémonie,NA,NA,International
+68,1996,068-1996,Top Foreign Films,NA,tt0117477,Ridicule,NA,NA,International
+68,1996,068-1996,Top Foreign Films,NA,tt0118100,Thieves,NA,NA,International
+68,1996,068-1996,Top Ten Films,NA,tt0115751,Breaking the Waves,NA,NA,Top Films
+68,1996,068-1996,Top Ten Films,NA,tt0116242,Everyone Says I Love You,NA,NA,Top Films
+68,1996,068-1996,Top Ten Films,NA,tt0116250,Evita,NA,NA,Top Films
+68,1996,068-1996,Top Ten Films,NA,tt0116282,Fargo,NA,NA,Top Films
+68,1996,068-1996,Top Ten Films,NA,tt0116695,Jerry Maguire,NA,NA,Top Films
+68,1996,068-1996,Top Ten Films,NA,tt0117589,Secrets & Lies,NA,NA,Top Films
+68,1996,068-1996,Top Ten Films,NA,tt0117631,Shine,NA,NA,Top Films
+68,1996,068-1996,Top Ten Films,NA,tt0117666,Sling Blade,NA,NA,Top Films
+68,1996,068-1996,Top Ten Films,NA,tt0116209,The English Patient,NA,NA,Top Films
+68,1996,068-1996,Top Ten Films,NA,tt0117318,The People vs. Larry Flynt,NA,NA,Top Films
+68,1996,068-1996,Top Ten Films,NA,tt0117951,Trainspotting,NA,NA,Top Films
+68,1996,068-1996,William K. Everson Film History Award,"For the book ""Who The Devil Made It"".",NA,NA,nm0000953,Peter Bogdanovich,Other
+69,1997,069-1997,Best Actor,NA,tt0119822,As Good as It Gets,nm0000197,Jack Nicholson,Performance
+69,1997,069-1997,Best Actress,NA,tt0120520,The Wings of the Dove,nm0000307,Helena Bonham Carter,Performance
+69,1997,069-1997,Best Director,NA,tt0119488,L.A. Confidential,nm0000436,Curtis Hanson,Director
+69,1997,069-1997,Best Documentary,NA,tt0119107,"Fast, Cheap & Out of Control",NA,NA,Documentary
+69,1997,069-1997,Best Ensemble,NA,tt0120255,The Sweet Hereafter,NA,NA,Performance
+69,1997,069-1997,Best Film,NA,tt0119488,L.A. Confidential,NA,NA,Top Films
+69,1997,069-1997,Best Foreign Language Film,NA,tt0117615,Shall We Dance?,NA,NA,International
+69,1997,069-1997,Best Supporting Actor,NA,tt0119822,As Good as It Gets,nm0001427,Greg Kinnear,Performance
+69,1997,069-1997,Best Supporting Actress,NA,tt0119008,Donnie Brasco,nm0000162,Anne Heche,Performance
+69,1997,069-1997,Best Supporting Actress,NA,tt0120885,Wag the Dog,nm0000162,Anne Heche,Performance
+69,1997,069-1997,Billy Wilder Award for Excellence in Directing,NA,NA,NA,nm0000338,Francis Ford Coppola,Other
+69,1997,069-1997,Breakthrough Performance by an Actress,NA,tt0119994,Red Corner,nm0000499,Bai Ling,Performance
+69,1997,069-1997,Career Achievement Award,NA,NA,NA,nm0000380,Robert Duvall,Other
+69,1997,069-1997,Freedom of Expression Award,NA,tt0119994,Red Corner,nm0000152,Richard Gere,Other
+69,1997,069-1997,Freedom of Expression Award,NA,tt0119994,Red Corner,nm0000816,Jon Avnet,Other
+69,1997,069-1997,Outstanding Directorial Debut,NA,tt0119080,Eve's Bayou,nm0501435,Kasi Lemmons,Director
+69,1997,069-1997,Special Achievement in Filmmaking,,tt0119217,Good Will Hunting,nm0000255,Ben Affleck,Other
+69,1997,069-1997,Special Achievement in Filmmaking,,tt0119217,Good Will Hunting,nm0000354,Matt Damon,Other
+69,1997,069-1997,Special Citation,For lifetime achievement in film technology,NA,NA,nm0076618,Edward Bernds,Other
+69,1997,069-1997,Special Citation,Special Effects Technology,tt0120338,Titanic,nm0000116,James Cameron,Other
+69,1997,069-1997,Special Recognition for Excellence in Filmmaking,NA,tt0118842,Chasing Amy,NA,NA,Independent
+69,1997,069-1997,Special Recognition for Excellence in Filmmaking,NA,tt0116102,Different for Girls,NA,NA,Independent
+69,1997,069-1997,Special Recognition for Excellence in Filmmaking,NA,tt0119225,Gridlock'd,NA,NA,Independent
+69,1997,069-1997,Special Recognition for Excellence in Filmmaking,NA,tt0119361,In the Company of Men,NA,NA,Independent
+69,1997,069-1997,Special Recognition for Excellence in Filmmaking,NA,tt0120197,Star Maps,NA,NA,Independent
+69,1997,069-1997,Special Recognition for Excellence in Filmmaking,NA,tt0120303,Telling Lies in America,NA,NA,Independent
+69,1997,069-1997,Special Recognition for Excellence in Filmmaking,NA,tt0118632,The Apostle,NA,NA,Independent
+69,1997,069-1997,Special Recognition for Excellence in Filmmaking,NA,tt0116041,The Daytrippers,NA,NA,Independent
+69,1997,069-1997,Special Recognition for Excellence in Filmmaking,NA,tt0120275,The Tango Lesson,NA,NA,Independent
+69,1997,069-1997,Special Recognition for Excellence in Filmmaking,NA,tt0120490,Welcome to Sarajevo,NA,NA,Independent
+69,1997,069-1997,Top Foreign Films,NA,tt0115638,Beaumarchais the Scoundrel,NA,NA,International
+69,1997,069-1997,Top Foreign Films,NA,tt0119590,Ma vie en rose,NA,NA,International
+69,1997,069-1997,Top Foreign Films,NA,tt0117359,Ponette,NA,NA,International
+69,1997,069-1997,Top Foreign Films,NA,tt0117615,Shall We Dance?,NA,NA,International
+69,1997,069-1997,Top Foreign Films,NA,tt0117398,The Promise,NA,NA,International
+69,1997,069-1997,Top Ten Films,NA,tt0119822,As Good as It Gets,NA,NA,Top Films
+69,1997,069-1997,Top Ten Films,NA,tt0118749,Boogie Nights,NA,NA,Top Films
+69,1997,069-1997,Top Ten Films,NA,tt0119217,Good Will Hunting,NA,NA,Top Films
+69,1997,069-1997,Top Ten Films,NA,tt0119396,Jackie Brown,NA,NA,Top Films
+69,1997,069-1997,Top Ten Films,NA,tt0119488,L.A. Confidential,NA,NA,Top Films
+69,1997,069-1997,Top Ten Films,NA,tt0119164,The Full Monty,NA,NA,Top Films
+69,1997,069-1997,Top Ten Films,NA,tt0119978,The Rainmaker,NA,NA,Top Films
+69,1997,069-1997,Top Ten Films,NA,tt0120255,The Sweet Hereafter,NA,NA,Top Films
+69,1997,069-1997,Top Ten Films,NA,tt0120520,The Wings of the Dove,NA,NA,Top Films
+69,1997,069-1997,Top Ten Films,NA,tt0120338,Titanic,NA,NA,Top Films
+69,1997,069-1997,William K. Everson Film History Award,"For the book ""Nazimova: A Biography""",NA,NA,nm0483149,Gavin Lambert,Other
+70,1998,070-1998,Alan J. Pakula Memorial Award,NA,NA,NA,nm0000886,Warren Beatty,Other
+70,1998,070-1998,Best Actor,NA,tt0120684,Gods and Monsters,nm0005212,Ian McKellen,Performance
+70,1998,070-1998,Best Actress,NA,tt0140888,Central Station,nm0005244,Fernanda Montenegro,Performance
+70,1998,070-1998,Best Director,NA,tt0127536,Elizabeth,nm0001408,Shekhar Kapur,Director
+70,1998,070-1998,Best Documentary,NA,tt0141986,Wild Man Blues,NA,NA,Documentary
+70,1998,070-1998,Best Ensemble,NA,tt0147612,Happiness,NA,NA,Performance
+70,1998,070-1998,Best Film,NA,tt0120684,Gods and Monsters,NA,NA,Top Films
+70,1998,070-1998,Best Foreign Language Film,NA,tt0140888,Central Station,NA,NA,International
+70,1998,070-1998,Best Screenplay,NA,tt0120324,A Simple Plan,nm0809895,Scott B. Smith,Writing
+70,1998,070-1998,Best Supporting Actor,NA,tt0120686,Stepmom,nm0000438,Ed Harris,Performance
+70,1998,070-1998,Best Supporting Actor,NA,tt0120382,The Truman Show,nm0000438,Ed Harris,Performance
+70,1998,070-1998,Best Supporting Actress,NA,tt0118789,Buffalo '66,nm0000207,Christina Ricci,Performance
+70,1998,070-1998,Best Supporting Actress,NA,tt0126604,Pecker,nm0000207,Christina Ricci,Performance
+70,1998,070-1998,Best Supporting Actress,NA,tt0120777,The Opposite of Sex,nm0000207,Christina Ricci,Performance
+70,1998,070-1998,Billy Wilder Award for Excellence in Directing,NA,NA,NA,nm0000217,Martin Scorsese,Other
+70,1998,070-1998,Breakthrough Performance by an Actor,NA,tt0120699,The Hi-Lo Country,nm0001082,Billy Crudup,Performance
+70,1998,070-1998,Breakthrough Performance by an Actress,NA,tt0145734,Playing by Heart,nm0001401,Angelina Jolie,Performance
+70,1998,070-1998,Career Achievement Award,NA,NA,NA,nm0000323,Michael Caine,Other
+70,1998,070-1998,Freedom of Expression Award,NA,tt0093389,The Last Emperor,nm0000934,Bernardo Bertolucci,Other
+70,1998,070-1998,International Freedom Award,NA,NA,NA,nm0772522,Volker Schlöndorff,Other
+70,1998,070-1998,Special Achievement in Filmmaking,,tt0118799,Life Is Beautiful,nm0000905,Roberto Benigni,Other
+70,1998,070-1998,Special Recognition for Excellence in Filmmaking,NA,tt0118789,Buffalo 66,NA,NA,Independent
+70,1998,070-1998,Special Recognition for Excellence in Filmmaking,NA,tt0118929,Dark City,NA,NA,Independent
+70,1998,070-1998,Special Recognition for Excellence in Filmmaking,NA,tt0119574,Love & Death on Long Island,NA,NA,Independent
+70,1998,070-1998,Special Recognition for Excellence in Filmmaking,NA,tt0119778,Next Stop Wonderland,NA,NA,Independent
+70,1998,070-1998,Special Recognition for Excellence in Filmmaking,NA,tt0125980,Passion in the Desert,NA,NA,Independent
+70,1998,070-1998,Special Recognition for Excellence in Filmmaking,NA,tt0138704,PI,NA,NA,Independent
+70,1998,070-1998,Special Recognition for Excellence in Filmmaking,NA,tt0120321,Smoke Signals,NA,NA,Independent
+70,1998,070-1998,Special Recognition for Excellence in Filmmaking,NA,tt0120777,The Opposite Sex,NA,NA,Independent
+70,1998,070-1998,Special Recognition for Excellence in Filmmaking,NA,tt0166396,Waking Ned Devine,NA,NA,Independent
+70,1998,070-1998,Special Recognition for Excellence in Filmmaking,NA,tt0119517,Your Friends and Neighbors,NA,NA,Independent
+70,1998,070-1998,Top Foreign Films,NA,tt0116692,Beyond Silence,NA,NA,International
+70,1998,070-1998,Top Foreign Films,NA,tt0140888,Central Station,NA,NA,International
+70,1998,070-1998,Top Foreign Films,NA,tt0118799,Life Is Beautiful,NA,NA,International
+70,1998,070-1998,Top Foreign Films,NA,tt0119657,Men with Guns,NA,NA,International
+70,1998,070-1998,Top Foreign Films,NA,tt0124207,The Thief,NA,NA,International
+70,1998,070-1998,Top Ten Films,NA,tt0120324,A Simple Plan,NA,NA,Top Films
+70,1998,070-1998,Top Ten Films,NA,tt0120643,Dancing at Lughnasa,NA,NA,Top Films
+70,1998,070-1998,Top Ten Films,NA,tt0127536,Elizabeth,NA,NA,Top Films
+70,1998,070-1998,Top Ten Films,NA,tt0120684,Gods and Monsters,NA,NA,Top Films
+70,1998,070-1998,Top Ten Films,NA,tt0147612,Happiness,NA,NA,Top Films
+70,1998,070-1998,Top Ten Films,NA,tt0119558,Lolita,NA,NA,Top Films
+70,1998,070-1998,Top Ten Films,NA,tt0120815,Saving Private Ryan,NA,NA,Top Films
+70,1998,070-1998,Top Ten Films,NA,tt0138097,Shakespeare in Love,NA,NA,Top Films
+70,1998,070-1998,Top Ten Films,NA,tt0118804,The Butcher Boy,NA,NA,Top Films
+70,1998,070-1998,Top Ten Films,NA,tt0120863,The Thin Red Line,NA,NA,Top Films
+70,1998,070-1998,William K. Everson Film History Award,For being editor of “Screen World”,NA,NA,nm0932365,John Willis,Other
+71,1999,071-1999,Best Actor,NA,tt0140352,The Insider,nm0000128,Russell Crowe,Performance
+71,1999,071-1999,Best Actress,NA,tt0161023,Tumbleweeds,nm0005216,Janet McTeer,Performance
+71,1999,071-1999,Best Director,NA,tt0134119,The Talented Mr. Ripley,nm0005237,Anthony Minghella,Director
+71,1999,071-1999,Best Documentary,NA,tt0186508,Buena Vista Social Club,NA,NA,Documentary
+71,1999,071-1999,Best Ensemble,NA,tt0175880,Magnolia,NA,NA,Performance
+71,1999,071-1999,Best Film,NA,tt0169547,American Beauty,NA,NA,Top Films
+71,1999,071-1999,Best Film Made for Cable TV,NA,tt0179940,A Lesson Before Dying,NA,NA,Top Films
+71,1999,071-1999,Best Foreign Language Film,NA,tt0185125,All About My Mother,NA,NA,International
+71,1999,071-1999,Best Screenplay,NA,tt0124315,The Cider House Rules,nm0410288,John Irving,Writing
+71,1999,071-1999,Best Supporting Actor,NA,tt0175880,Magnolia,nm0000450,Philip Seymour Hoffman,Performance
+71,1999,071-1999,Best Supporting Actor,NA,tt0134119,The Talented Mr. Ripley,nm0000450,Philip Seymour Hoffman,Performance
+71,1999,071-1999,Best Supporting Actress,NA,tt0160513,A Map of the World,nm0000194,Julianne Moore,Performance
+71,1999,071-1999,Best Supporting Actress,NA,tt0122541,An Ideal Husband,nm0000194,Julianne Moore,Performance
+71,1999,071-1999,Best Supporting Actress,NA,tt0175880,Magnolia,nm0000194,Julianne Moore,Performance
+71,1999,071-1999,Billy Wilder Award for Excellence in Directing,NA,NA,NA,nm0001239,John Frankenheimer,Other
+71,1999,071-1999,Breakthrough Performance by an Actor,NA,tt0169547,American Beauty,nm0004747,Wes Bentley,Performance
+71,1999,071-1999,Breakthrough Performance by an Actress,NA,tt0171804,Boys Don't Cry,nm0005476,Hilary Swank,Performance
+71,1999,071-1999,Career Achievement Award,NA,NA,NA,nm0000142,Clint Eastwood,Other
+71,1999,071-1999,Freedom of Expression Award,NA,tt0140352,The Insider,nm0000520,Michael Mann,Other
+71,1999,071-1999,International Freedom Award,NA,tt0115005,Xiu Xii: The Sent-Down Girl,nm0001040,Joan Chen,Other
+71,1999,071-1999,Outstanding Directorial Debut,NA,tt0171804,Boys Don't Cry,nm0005303,Kimberly Peirce,Director
+71,1999,071-1999,Special Achievement in Filmmaking,NA,tt0150216,Cradle Will Rock,nm0000209,Tim Robbins,Other
+71,1999,071-1999,Special Citation,For the Baltimore series,tt0099073,Avalon,nm0001469,Barry Levinson,Other
+71,1999,071-1999,Special Citation,For the Baltimore series,tt0085439,Diner,nm0001469,Barry Levinson,Other
+71,1999,071-1999,Special Citation,For the Baltimore series,tt0094155,Tin Man,nm0001469,Barry Levinson,Other
+71,1999,071-1999,Special Recognition for Excellence in Filmmaking,NA,,A Map of the World,NA,NA,Independent
+71,1999,071-1999,Special Recognition for Excellence in Filmmaking,NA,,A Walk on the Moon,NA,NA,Independent
+71,1999,071-1999,Special Recognition for Excellence in Filmmaking,NA,,Election,NA,NA,Independent
+71,1999,071-1999,Special Recognition for Excellence in Filmmaking,NA,,Go,NA,NA,Independent
+71,1999,071-1999,Special Recognition for Excellence in Filmmaking,NA,,Limbo,NA,NA,Independent
+71,1999,071-1999,Special Recognition for Excellence in Filmmaking,NA,,"Lock, Stock, & Two Smoking Barrels",NA,NA,Independent
+71,1999,071-1999,Special Recognition for Excellence in Filmmaking,NA,,Man of the Century,NA,NA,Independent
+71,1999,071-1999,Special Recognition for Excellence in Filmmaking,NA,,Stir of Echoes,NA,NA,Independent
+71,1999,071-1999,Special Recognition for Excellence in Filmmaking,NA,,This is My Father,NA,NA,Independent
+71,1999,071-1999,Special Recognition for Excellence in Filmmaking,NA,,Twin Falls Idaho,NA,NA,Independent
+71,1999,071-1999,Top Foreign Films,NA,tt0185125,All About My Mother,NA,NA,International
+71,1999,071-1999,Top Foreign Films,NA,tt0169145,Cabaret Balkan,NA,NA,International
+71,1999,071-1999,Top Foreign Films,NA,tt0181530,East/West,NA,NA,International
+71,1999,071-1999,Top Foreign Films,NA,tt0130827,Run Lola Run,NA,NA,International
+71,1999,071-1999,Top Foreign Films,NA,tt0162866,The Emperor and the Assassin,NA,NA,International
+71,1999,071-1999,Top Ten Films,NA,tt0169547,American Beauty,NA,NA,Top Films
+71,1999,071-1999,Top Ten Films,NA,tt0120601,Being John Malkovich,NA,NA,Top Films
+71,1999,071-1999,Top Ten Films,NA,tt0171804,Boys Don't Cry,NA,NA,Top Films
+71,1999,071-1999,Top Ten Films,NA,tt0150216,Cradle Will Rock,NA,NA,Top Films
+71,1999,071-1999,Top Ten Films,NA,tt0175880,Magnolia,NA,NA,Top Films
+71,1999,071-1999,Top Ten Films,NA,tt0140352,The Insider,NA,NA,Top Films
+71,1999,071-1999,Top Ten Films,NA,tt0166896,The Straight Story,NA,NA,Top Films
+71,1999,071-1999,Top Ten Films,NA,tt0134119,The Talented Mr. Ripley,NA,NA,Top Films
+71,1999,071-1999,Top Ten Films,NA,tt0120188,Three Kings,NA,NA,Top Films
+71,1999,071-1999,Top Ten Films,NA,tt0161023,Tumbleweeds,NA,NA,Top Films
+71,1999,071-1999,William K. Everson Film History Award,"For the book ""Silent Stars""",NA,NA,nm0059903,Jeanine Basinger,Other
+72,2000,072-2000,Best Actor,NA,tt0247196,Before Night Falls,nm0000849,Javier Bardem,Performance
+72,2000,072-2000,Best Actress,NA,tt0195685,Erin Brockovich,nm0000210,Julia Roberts,Performance
+72,2000,072-2000,Best Animated Feature,NA,tt0120630,Chicken Run,NA,NA,Top Films
+72,2000,072-2000,Best Director,NA,tt0195685,Erin Brockovich,nm0001752,Steven Soderbergh,Director
+72,2000,072-2000,Best Director,NA,tt0181865,Traffic,nm0001752,Steven Soderbergh,Director
+72,2000,072-2000,Best Documentary,NA,tt0208261,The Life and Times of Hank Greenberg,NA,NA,Documentary
+72,2000,072-2000,Best Ensemble,NA,tt0120202,State and Main,NA,NA,Performance
+72,2000,072-2000,Best Film,NA,tt0180073,Quills,NA,NA,Top Films
+72,2000,072-2000,Best Foreign Language Film,NA,tt0190332,"Crouching Tiger, Hidden Dragon",NA,NA,International
+72,2000,072-2000,Best Screenplay,NA,tt0149624,All the Pretty Horses,nm0848217,Ted Tally,Writing
+72,2000,072-2000,Best Supporting Actor,NA,tt0172495,Gladiator,nm0001618,Joaquin Phoenix,Performance
+72,2000,072-2000,Best Supporting Actor,NA,tt0180073,Quills,nm0001618,Joaquin Phoenix,Performance
+72,2000,072-2000,Best Supporting Actor,NA,tt0138946,The Yards,nm0001618,Joaquin Phoenix,Performance
+72,2000,072-2000,Best Supporting Actress,NA,tt0200530,Chuck & Buck,nm0648913,Lupe Ontiveros,Performance
+72,2000,072-2000,Breakthrough Performance by an Actor,NA,tt0249462,Billy Elliot,nm0068260,Jamie Bell,Performance
+72,2000,072-2000,Breakthrough Performance by an Actress,NA,tt0210075,Girlfight,nm0735442,Michelle Rodriguez,Performance
+72,2000,072-2000,Career Achievement Award,NA,NA,NA,nm0000995,Ellen Burstyn,Other
+72,2000,072-2000,Career Achievement Award,For excellence in film music scoring,NA,NA,nm0001553,Ennio Morricone,Other
+72,2000,072-2000,Freedom of Expression Award,NA,tt0259072,A Time for Drunken Horses,NA,NA,Other
+72,2000,072-2000,Freedom of Expression Award,NA,tt0215545,Bamboozled,NA,NA,Other
+72,2000,072-2000,Freedom of Expression Award,NA,tt0247196,Before Night Falls,NA,NA,Other
+72,2000,072-2000,Freedom of Expression Award,NA,tt0189630,Kadosh,NA,NA,Other
+72,2000,072-2000,Freedom of Expression Award,NA,tt0180073,Quills,NA,NA,Other
+72,2000,072-2000,Freedom of Expression Award,NA,tt0240912,Sound and Fury,NA,NA,Other
+72,2000,072-2000,Freedom of Expression Award,NA,tt0255094,The Circle,NA,NA,Other
+72,2000,072-2000,Freedom of Expression Award,NA,tt0199129,The Visit,NA,NA,Other
+72,2000,072-2000,Outstanding Production Design,NA,tt0172495,Gladiator,nm0561480,Arthur Max,Other
+72,2000,072-2000,Special Achievement in Filmmaking,NA,tt0203230,You Can Count on Me,nm0518836,Kenneth Lonergan,Other
+72,2000,072-2000,Special Citation,Outstanding Music Performance,tt0168629,Dancer in the Dark,nm0001951,Björk,Other
+72,2000,072-2000,Special Citation,Outstanding Cinematic Series,tt0092337,Dekalog,nm0001425,Krzysztof Kieslowski,Other
+72,2000,072-2000,Special Recognition for Excellence in Filmmaking,NA,tt0144084,American Psycho,NA,NA,Independent
+72,2000,072-2000,Special Recognition for Excellence in Filmmaking,NA,tt0218839,Best in Show,NA,NA,Independent
+72,2000,072-2000,Special Recognition for Excellence in Filmmaking,NA,tt0200530,Chuck and Buck,NA,NA,Independent
+72,2000,072-2000,Special Recognition for Excellence in Filmmaking,NA,tt0210075,Girlfight,NA,NA,Independent
+72,2000,072-2000,Special Recognition for Excellence in Filmmaking,NA,tt0171359,Hamlet,NA,NA,Independent
+72,2000,072-2000,Special Recognition for Excellence in Filmmaking,NA,tt0171580,Nurse Betty,NA,NA,Independent
+72,2000,072-2000,Special Recognition for Excellence in Filmmaking,NA,tt0180093,Requiem for a Dream,NA,NA,Independent
+72,2000,072-2000,Special Recognition for Excellence in Filmmaking,NA,tt0215369,Shower,NA,NA,Independent
+72,2000,072-2000,Special Recognition for Excellence in Filmmaking,NA,tt0208092,Snatch,NA,NA,Independent
+72,2000,072-2000,Special Recognition for Excellence in Filmmaking,NA,tt0202641,Two Family House,NA,NA,Independent
+72,2000,072-2000,Top Foreign Films,NA,tt0259072,A Time for Drunken Horses,NA,NA,International
+72,2000,072-2000,Top Foreign Films,NA,tt0188030,Butterfly,NA,NA,International
+72,2000,072-2000,Top Foreign Films,NA,tt0190332,"Crouching Tiger, Hidden Dragon",NA,NA,International
+72,2000,072-2000,Top Foreign Films,NA,tt0213847,Malena,NA,NA,International
+72,2000,072-2000,Top Foreign Films,NA,tt0144201,The Girl on the Bridge,NA,NA,International
+72,2000,072-2000,Top Ten Films,NA,tt0247196,Before Night Falls,NA,NA,Top Films
+72,2000,072-2000,Top Ten Films,NA,tt0249462,Billy Elliot,NA,NA,Top Films
+72,2000,072-2000,Top Ten Films,NA,tt0159382,Croupier,NA,NA,Top Films
+72,2000,072-2000,Top Ten Films,NA,tt0168629,Dancer in the Dark,NA,NA,Top Films
+72,2000,072-2000,Top Ten Films,NA,tt0172495,Gladiator,NA,NA,Top Films
+72,2000,072-2000,Top Ten Films,NA,tt0180073,Quills,NA,NA,Top Films
+72,2000,072-2000,Top Ten Films,NA,tt0145503,Sunshine,NA,NA,Top Films
+72,2000,072-2000,Top Ten Films,NA,tt0181865,Traffic,NA,NA,Top Films
+72,2000,072-2000,Top Ten Films,NA,tt0185014,Wonder Boys,NA,NA,Top Films
+72,2000,072-2000,Top Ten Films,NA,tt0203230,You Can Count on Me,NA,NA,Top Films
+72,2000,072-2000,William K. Everson Film History Award,"For the book ""Reading Lyrics""",NA,NA,nm1592629,Robert Kimball,Other
+73,2001,073-2001,Best Actor,NA,tt0219965,Bandits,nm0000671,Billy Bob Thornton,Performance
+73,2001,073-2001,Best Actor,NA,tt0285742,Monster's Ball,nm0000671,Billy Bob Thornton,Performance
+73,2001,073-2001,Best Actor,NA,tt0243133,The Man Who Wasn't There,nm0000671,Billy Bob Thornton,Performance
+73,2001,073-2001,Best Actress,NA,tt0285742,Monster's Ball,nm0000932,Halle Berry,Performance
+73,2001,073-2001,Best Animated Feature,NA,tt0126029,Shrek,NA,NA,Top Films
+73,2001,073-2001,Best Director,NA,tt0247425,In the Bedroom,nm0276062,Todd Field,Director
+73,2001,073-2001,Best Documentary,NA,tt0264578,The Endurance,NA,NA,Documentary
+73,2001,073-2001,Best Ensemble,NA,tt0253200,Last Orders,NA,NA,Performance
+73,2001,073-2001,Best Film,NA,tt0203009,Moulin Rouge!,NA,NA,Top Films
+73,2001,073-2001,Best Film Made for Cable TV,NA,tt0243664,Wit,NA,NA,Top Films
+73,2001,073-2001,Best Foreign Language Film,NA,tt0245712,Amores perros,NA,NA,International
+73,2001,073-2001,Best Screenplay,NA,tt0247425,In the Bedroom,nm0275284,Robert Festinger,Writing
+73,2001,073-2001,Best Screenplay,NA,tt0247425,In the Bedroom,nm0276062,Todd Field,Writing
+73,2001,073-2001,Best Supporting Actor,NA,tt0280778,Iris,nm0000980,Jim Broadbent,Performance
+73,2001,073-2001,Best Supporting Actor,NA,tt0203009,Moulin Rouge!,nm0000980,Jim Broadbent,Performance
+73,2001,073-2001,Best Supporting Actress,NA,tt0120737,The Lord of the Rings: The Fellowship of the Ring,nm0000949,Cate Blanchett,Performance
+73,2001,073-2001,Best Supporting Actress,NA,tt0206917,The Man Who Cried,nm0000949,Cate Blanchett,Performance
+73,2001,073-2001,Best Supporting Actress,NA,tt0120824,The Shipping News,nm0000949,Cate Blanchett,Performance
+73,2001,073-2001,Billy Wilder Award for Excellence in Directing,NA,NA,NA,nm0000229,Steven Spielberg,Other
+73,2001,073-2001,Breakthrough Performance by an Actor,NA,tt0264796,Life as a House,nm0159789,Hayden Christensen,Performance
+73,2001,073-2001,Breakthrough Performance by an Actress,NA,tt0166924,Mulholland Drive,nm0915208,Naomi Watts,Performance
+73,2001,073-2001,Career Achievement Award,For excellence in film music scoring,NA,NA,nm0002354,John Williams,Other
+73,2001,073-2001,Career Achievement Award,NA,NA,NA,nm0000685,Jon Voight,Other
+73,2001,073-2001,Freedom of Expression Award,NA,tt0233841,Baran,NA,NA,Other
+73,2001,073-2001,Freedom of Expression Award,NA,tt0280801,Jung in the Land of the Mujaheddin,NA,NA,Other
+73,2001,073-2001,Freedom of Expression Award,NA,tt0283431,Kandahar,NA,NA,Other
+73,2001,073-2001,Humanitarian Award,NA,NA,NA,nm0004453,Arthur Cohn,Other
+73,2001,073-2001,Outstanding Directorial Debut,NA,tt0248845,Hedwig and the Angry Inch,nm0593463,John Cameron Mitchell,Director
+73,2001,073-2001,Outstanding Production Design,NA,tt0120737,The Lord of the Rings: The Fellowship of the Ring,nm0538194,Grant Major,Other
+73,2001,073-2001,Special Achievement in Filmmaking,NA,tt0120737,Lord of the Rings: The Fellowship of the Ring,nm0001392,Peter Jackson,Other
+73,2001,073-2001,Special Recognition for Excellence in Filmmaking,NA,tt0200427,Diamond Men,NA,NA,Independent
+73,2001,073-2001,Special Recognition for Excellence in Filmmaking,NA,tt0162346,Ghost World,NA,NA,Independent
+73,2001,073-2001,Special Recognition for Excellence in Filmmaking,NA,tt0208196,Happy Accidents,NA,NA,Independent
+73,2001,073-2001,Special Recognition for Excellence in Filmmaking,NA,tt0280778,Iris,NA,NA,Independent
+73,2001,073-2001,Special Recognition for Excellence in Filmmaking,NA,tt0242587,L.I.E.,NA,NA,Independent
+73,2001,073-2001,Special Recognition for Excellence in Filmmaking,NA,tt0259393,Lantana,NA,NA,Independent
+73,2001,073-2001,Special Recognition for Excellence in Filmmaking,NA,tt0261066,Pinero,NA,NA,Independent
+73,2001,073-2001,Special Recognition for Excellence in Filmmaking,NA,tt0203119,Sexy Beast,NA,NA,Independent
+73,2001,073-2001,Special Recognition for Excellence in Filmmaking,NA,tt0254099,The Anniversary Party,NA,NA,Independent
+73,2001,073-2001,Special Recognition for Excellence in Filmmaking,NA,tt0250323,The Deep End,NA,NA,Independent
+73,2001,073-2001,Top Foreign Films,NA,tt0211915,Amélie,NA,NA,International
+73,2001,073-2001,Top Foreign Films,NA,tt0245712,Amores perros,NA,NA,International
+73,2001,073-2001,Top Foreign Films,NA,tt0291003,Behind the Sun,NA,NA,International
+73,2001,073-2001,Top Foreign Films,NA,tt0244479,Dark Blue World,NA,NA,International
+73,2001,073-2001,Top Foreign Films,NA,tt0283509,No Man's Land,NA,NA,International
+73,2001,073-2001,Top Ten Films,NA,tt0212720,A.I. Artificial Intelligence,NA,NA,Top Films
+73,2001,073-2001,Top Ten Films,NA,tt0265086,Black Hawk Down,NA,NA,Top Films
+73,2001,073-2001,Top Ten Films,NA,tt0247425,In the Bedroom,NA,NA,Top Films
+73,2001,073-2001,Top Ten Films,NA,tt0209144,Memento,NA,NA,Top Films
+73,2001,073-2001,Top Ten Films,NA,tt0285742,Monster's Ball,NA,NA,Top Films
+73,2001,073-2001,Top Ten Films,NA,tt0203009,Moulin Rouge!,NA,NA,Top Films
+73,2001,073-2001,Top Ten Films,NA,tt0166924,Mulholland Drive,NA,NA,Top Films
+73,2001,073-2001,Top Ten Films,NA,tt0240772,Ocean's Eleven,NA,NA,Top Films
+73,2001,073-2001,Top Ten Films,NA,tt0243133,The Man Who Wasn't There,NA,NA,Top Films
+73,2001,073-2001,Top Ten Films,NA,tt0237572,The Pledge,NA,NA,Top Films
+73,2001,073-2001,William K. Everson Film History Award,NA,tt0173772,My Voyage to Italy,nm0000217,Martin Scorsese,Other
+74,2002,074-2002,Best Actor,NA,tt0299117,Roger Dodger,nm0001714,Campbell Scott,Performance
+74,2002,074-2002,Best Actress,NA,tt0297884,Far from Heaven,nm0000194,Julianne Moore,Performance
+74,2002,074-2002,Best Animated Feature,NA,tt0245429,Spirited Away,NA,NA,Top Films
+74,2002,074-2002,Best Director,NA,tt0252444,Rabbit-Proof Fence,nm0637518,Phillip Noyce,Director
+74,2002,074-2002,Best Director,NA,tt0258068,The Quiet American,nm0637518,Phillip Noyce,Director
+74,2002,074-2002,Best Documentary,NA,tt0310793,Bowling for Columbine,NA,NA,Documentary
+74,2002,074-2002,Best Ensemble,NA,tt0309912,Nicholas Nickleby,NA,NA,Performance
+74,2002,074-2002,Best Film,NA,tt0274558,The Hours,NA,NA,Top Films
+74,2002,074-2002,Best Film Made for Cable TV,NA,tt0257850,The Laramie Project,NA,NA,Top Films
+74,2002,074-2002,Best Foreign Language Film,NA,tt0287467,Talk to Her,NA,NA,International
+74,2002,074-2002,Best Screenplay,NA,tt0268126,Adaptation.,nm0442109,Charlie Kaufman,Writing
+74,2002,074-2002,Best Screenplay,NA,tt0270288,Confessions of a Dangerous Mind,nm0442109,Charlie Kaufman,Writing
+74,2002,074-2002,Best Screenplay,NA,tt0219822,Human Nature,nm0442109,Charlie Kaufman,Writing
+74,2002,074-2002,Best Supporting Actor,NA,tt0268126,Adaptation.,nm0177933,Chris Cooper,Performance
+74,2002,074-2002,Best Supporting Actress,NA,tt0257360,About Schmidt,nm0000870,Kathy Bates,Performance
+74,2002,074-2002,Breakthrough Performance by an Actor,NA,tt0168786,Antwone Fisher,nm1035682,Derek Luke,Performance
+74,2002,074-2002,Breakthrough Performance by an Actress,NA,tt0274812,Secretary,nm0350454,Maggie Gyllenhaal,Performance
+74,2002,074-2002,Career Achievement Award,NA,NA,NA,nm0001626,Christopher Plummer,Other
+74,2002,074-2002,Career Achievement Award,For excellence in cinematography,NA,NA,nm0005734,Conrad L. Hall,Other
+74,2002,074-2002,Career Achievement Award,For excellence in film music composition,NA,NA,nm0000930,Elmer Bernstein,Other
+74,2002,074-2002,Freedom of Expression Award,NA,tt0273435,Ararat,NA,NA,Other
+74,2002,074-2002,Freedom of Expression Award,NA,tt0280491,Bloody Sunday,NA,NA,Other
+74,2002,074-2002,Freedom of Expression Award,NA,tt0252444,Rabbit-Proof Fence,NA,NA,Other
+74,2002,074-2002,Freedom of Expression Award,NA,tt0252480,The Grey Zone,NA,NA,Other
+74,2002,074-2002,Humanitarian Award,NA,NA,NA,nm0627521,Sheila Nevins,Other
+74,2002,074-2002,Outstanding Directorial Debut,NA,tt0299658,Chicago,nm0551128,Rob Marshall,Director
+74,2002,074-2002,Special Achievement in Filmmaking,NA,tt0270288,Confessions of a Dangerous Mind,nm0000123,George Clooney,Other
+74,2002,074-2002,Special Achievement in Filmmaking,For visionary cinematic achievement,NA,NA,nm0000184,George Lucas,Other
+74,2002,074-2002,Special Recognition for Excellence in Filmmaking,NA,tt0264616,Frailty,NA,NA,Independent
+74,2002,074-2002,Special Recognition for Excellence in Filmmaking,NA,tt0246677,Heaven,NA,NA,Independent
+74,2002,074-2002,Special Recognition for Excellence in Filmmaking,NA,tt0280760,Igby Goes Down,NA,NA,Independent
+74,2002,074-2002,Special Recognition for Excellence in Filmmaking,NA,tt0290210,Max,NA,NA,Independent
+74,2002,074-2002,Special Recognition for Excellence in Filmmaking,NA,tt0295238,Personal Velocity,NA,NA,Independent
+74,2002,074-2002,Special Recognition for Excellence in Filmmaking,NA,tt0296166,Real Women Have Curves,NA,NA,Independent
+74,2002,074-2002,Special Recognition for Excellence in Filmmaking,NA,tt0299117,Roger Doger,NA,NA,Independent
+74,2002,074-2002,Special Recognition for Excellence in Filmmaking,NA,tt0286179,Sunshine State,NA,NA,Independent
+74,2002,074-2002,Special Recognition for Excellence in Filmmaking,NA,tt0271219,Tadpole,NA,NA,Independent
+74,2002,074-2002,Special Recognition for Excellence in Filmmaking,NA,tt0279113,The Good Girl,NA,NA,Independent
+74,2002,074-2002,Special Recognition for Excellence in Filmmaking,NA,tt0319470,The Guys,NA,NA,Independent
+74,2002,074-2002,Special Recognition for Excellence in Filmmaking,NA,tt0212604,Tully,NA,NA,Independent
+74,2002,074-2002,Top Foreign Films,NA,tt0283832,8 Women,NA,NA,International
+74,2002,074-2002,Top Foreign Films,NA,tt0245574,And Your Mother Too,NA,NA,International
+74,2002,074-2002,Top Foreign Films,NA,tt0317248,City of God,NA,NA,International
+74,2002,074-2002,Top Foreign Films,NA,tt0287467,Talk to Her,NA,NA,International
+74,2002,074-2002,Top Foreign Films,NA,tt0313196,The Crime of Padre Amaro,NA,NA,International
+74,2002,074-2002,Top Ten Films,NA,tt0268126,Adaptation.,NA,NA,Top Films
+74,2002,074-2002,Top Ten Films,NA,tt0299658,Chicago,NA,NA,Top Films
+74,2002,074-2002,Top Ten Films,NA,tt0297884,Far from Heaven,NA,NA,Top Films
+74,2002,074-2002,Top Ten Films,NA,tt0120679,Frida,NA,NA,Top Films
+74,2002,074-2002,Top Ten Films,NA,tt0217505,Gangs of New York,NA,NA,Top Films
+74,2002,074-2002,Top Ten Films,NA,tt0252444,Rabbit-Proof Fence,NA,NA,Top Films
+74,2002,074-2002,Top Ten Films,NA,tt0274558,The Hours,NA,NA,Top Films
+74,2002,074-2002,Top Ten Films,NA,tt0253474,The Pianist,NA,NA,Top Films
+74,2002,074-2002,Top Ten Films,NA,tt0258068,The Quiet American,NA,NA,Top Films
+74,2002,074-2002,Top Ten Films,NA,tt0268690,Thirteen Conversations About One Thing,NA,NA,Top Films
+74,2002,074-2002,William K. Everson Film History Award,"For her book ""Indelible Shadows: Films and the Holocaust""",NA,NA,nm1279766,Annette Insdorf,Other
+75,2003,075-2003,Best Actor,NA,tt0315733,21 Grams,nm0000576,Sean Penn,Performance
+75,2003,075-2003,Best Actor,NA,tt0327056,Mystic River,nm0000576,Sean Penn,Performance
+75,2003,075-2003,Best Actress,NA,tt0337741,Something's Gotta Give,nm0000473,Diane Keaton,Performance
+75,2003,075-2003,Best Adapted Screenplay,NA,tt0159365,Cold Mountain,nm0005237,Anthony Minghella,Writing
+75,2003,075-2003,Best Animated Feature,NA,tt0266543,Finding Nemo,NA,NA,Top Films
+75,2003,075-2003,Best Director,NA,tt0325710,The Last Samurai,nm0001880,Edward Zwick,Director
+75,2003,075-2003,Best Documentary,NA,tt0317910,The Fog of War,NA,NA,Documentary
+75,2003,075-2003,Best Ensemble,NA,tt0167260,The Lord of the Rings: The Return of the King,NA,NA,Performance
+75,2003,075-2003,Best Film,NA,tt0327056,Mystic River,NA,NA,Top Films
+75,2003,075-2003,Best Film or Mini-Series Made for Cable TV,NA,tt0318997,Angels in America,NA,NA,Top Films
+75,2003,075-2003,Best Foreign Language Film,NA,tt0338135,The Barbarian Invasions,NA,NA,International
+75,2003,075-2003,Best Original Screenplay,NA,tt0298845,In America,nm0006487,Jim Sheridan,Writing
+75,2003,075-2003,Best Original Screenplay,NA,tt0298845,In America,nm0792202,Kirsten Sheridan,Writing
+75,2003,075-2003,Best Original Screenplay,NA,tt0298845,In America,nm1238875,Naomi Sheridan,Writing
+75,2003,075-2003,Best Supporting Actor,NA,tt0318374,The Cooler,nm0000285,Alec Baldwin,Performance
+75,2003,075-2003,Best Supporting Actress,NA,tt0311648,Pieces of April,nm0165101,Patricia Clarkson,Performance
+75,2003,075-2003,Best Supporting Actress,NA,tt0340377,The Station Agent,nm0165101,Patricia Clarkson,Performance
+75,2003,075-2003,Billy Wilder Award for Excellence in Directing,NA,NA,NA,nm0422484,Norman Jewison,Other
+75,2003,075-2003,Breakthrough Performance by an Actor,NA,tt0305206,American Splendor,nm0316079,Paul Giamatti,Performance
+75,2003,075-2003,Breakthrough Performance by an Actress,NA,tt0340855,Monster,nm0000234,Charlize Theron,Performance
+75,2003,075-2003,Career Achievement Award,For excellence in film music composition,NA,NA,nm0001877,Hans Zimmer,Other
+75,2003,075-2003,Career Achievement Award,For excellence in cinematography,NA,NA,nm0001799,John Toll,Other
+75,2003,075-2003,Career Achievement Award,NA,NA,NA,nm0000151,Morgan Freeman,Other
+75,2003,075-2003,Freedom of Expression Award,NA,tt0342172,Capturing the Friedmans,NA,NA,Other
+75,2003,075-2003,Freedom of Expression Award,NA,tt0301199,Dirty Pretty Things,NA,NA,Other
+75,2003,075-2003,Freedom of Expression Award,NA,tt0328802,September 11,NA,NA,Other
+75,2003,075-2003,Freedom of Expression Award,NA,tt0318411,The Magdalene Sisters,NA,NA,Other
+75,2003,075-2003,Outstanding Directorial Debut,NA,tt0315983,House of Sand and Fog,nm1166926,Vadim Perelman,Director
+75,2003,075-2003,Producers Award,NA,NA,NA,nm0882927,Christine Vachon,Other
+75,2003,075-2003,Producers Award,NA,NA,NA,nm0005036,Gale Anne Hurd,Other
+75,2003,075-2003,Producers Award,NA,NA,NA,nm0005086,Kathleen Kennedy,Other
+75,2003,075-2003,Special Achievement in Filmmaking,"For writing, directing and producing",tt0335266,Lost in Translation,nm0001068,Sofia Coppola,Other
+75,2003,075-2003,Special Recognition for Excellence in Filmmaking,NA,tt0305206,American Splendor,NA,NA,Independent
+75,2003,075-2003,Special Recognition for Excellence in Filmmaking,NA,tt0286499,Bend It Like Beckham,NA,NA,Independent
+75,2003,075-2003,Special Recognition for Excellence in Filmmaking,NA,tt0301199,Dirty Pretty Things,NA,NA,Independent
+75,2003,075-2003,Special Recognition for Excellence in Filmmaking,NA,tt0311648,Pieces of April,NA,NA,Independent
+75,2003,075-2003,Special Recognition for Excellence in Filmmaking,NA,tt0323944,Shattered Glass,NA,NA,Independent
+75,2003,075-2003,Special Recognition for Excellence in Filmmaking,NA,tt0318374,The Cooler,NA,NA,Independent
+75,2003,075-2003,Special Recognition for Excellence in Filmmaking,NA,tt0335119,The Girl With A Pearl Earring,NA,NA,Independent
+75,2003,075-2003,Special Recognition for Excellence in Filmmaking,NA,tt0314630,The Secret Lives of Dentists,NA,NA,Independent
+75,2003,075-2003,Special Recognition for Excellence in Filmmaking,NA,tt0340376,The Statement,NA,NA,Independent
+75,2003,075-2003,Special Recognition for Excellence in Filmmaking,NA,tt0328538,Thirteen,NA,NA,Independent
+75,2003,075-2003,Special Recognition for Excellence in Filmmaking,NA,tt0298228,Whale Rider,NA,NA,Independent
+75,2003,075-2003,Top Five Documentaries,NA,tt0342172,Capturing the Friedmans,NA,NA,Documentary
+75,2003,075-2003,Top Five Documentaries,NA,tt0373175,My Architect,NA,NA,Documentary
+75,2003,075-2003,Top Five Documentaries,NA,tt0334405,Spellbound,NA,NA,Documentary
+75,2003,075-2003,Top Five Documentaries,NA,tt0317910,The Fog of War,NA,NA,Documentary
+75,2003,075-2003,Top Five Documentaries,NA,tt0301727,Winged Migration,NA,NA,Documentary
+75,2003,075-2003,Top Foreign Films,NA,tt0286476,Autumn Spring,NA,NA,International
+75,2003,075-2003,Top Foreign Films,NA,tt0301414,Man on the Train,NA,NA,International
+75,2003,075-2003,Top Foreign Films,NA,tt0329388,Monsieur Ibrahim,NA,NA,International
+75,2003,075-2003,Top Foreign Films,NA,tt0338135,The Barbarian Invasions,NA,NA,International
+75,2003,075-2003,Top Foreign Films,NA,tt0346336,The Best of Youth,NA,NA,International
+75,2003,075-2003,Top Ten Films,NA,tt0315733,21 Grams,NA,NA,Top Films
+75,2003,075-2003,Top Ten Films,NA,tt0159365,Cold Mountain,NA,NA,Top Films
+75,2003,075-2003,Top Ten Films,NA,tt0315983,House of Sand and Fog,NA,NA,Top Films
+75,2003,075-2003,Top Ten Films,NA,tt0298845,In America,NA,NA,Top Films
+75,2003,075-2003,Top Ten Films,NA,tt0335266,Lost in Translation,NA,NA,Top Films
+75,2003,075-2003,Top Ten Films,NA,tt0311113,Master and Commander: The Far Side of the World,NA,NA,Top Films
+75,2003,075-2003,Top Ten Films,NA,tt0327056,Mystic River,NA,NA,Top Films
+75,2003,075-2003,Top Ten Films,NA,tt0329575,Seabiscuit,NA,NA,Top Films
+75,2003,075-2003,Top Ten Films,NA,tt0325710,The Last Samurai,NA,NA,Top Films
+75,2003,075-2003,Top Ten Films,NA,tt0340377,The Station Agent,NA,NA,Top Films
+75,2003,075-2003,William K. Everson Film History Award,NA,tt0342275,A Decade Under the Influence,nm0481418,Richard LaGravenese,Other
+75,2003,075-2003,William K. Everson Film History Award,NA,tt0342275,A Decade Under the Influence,nm0001130,Ted Demme,Other
+76,2004,076-2004,Best Actor,NA,tt0350258,Ray,nm0004937,Jamie Foxx,Performance
+76,2004,076-2004,Best Actress,NA,tt0340012,Being Julia,nm0000906,Annette Bening,Performance
+76,2004,076-2004,Best Adapted Screenplay,NA,tt0375063,Sideways,nm0668247,Alexander Payne,Writing
+76,2004,076-2004,Best Adapted Screenplay,NA,tt0375063,Sideways,nm0852591,Jim Taylor,Writing
+76,2004,076-2004,Best Animated Feature,NA,tt0317705,The Incredibles,NA,NA,Top Films
+76,2004,076-2004,Best Director,NA,tt0369339,Collateral,nm0000520,Michael Mann,Director
+76,2004,076-2004,Best Directorial Debut,NA,tt0333766,Garden State,nm0103785,Zach Braff,Director
+76,2004,076-2004,Best Documentary,NA,tt0388789,Born Into Brothels: Calcutta's Red Light Kids,NA,NA,Documentary
+76,2004,076-2004,Best Ensemble,NA,tt0376541,Closer,NA,NA,Performance
+76,2004,076-2004,Best Film,NA,tt0308644,Finding Neverland,NA,NA,Top Films
+76,2004,076-2004,Best Foreign Language Film,NA,tt0369702,The Sea Inside,NA,NA,International
+76,2004,076-2004,Best Original Screenplay,NA,tt0338013,Eternal Sunshine of the Spotless Mind,nm0442109,Charlie Kaufman,Writing
+76,2004,076-2004,Best Supporting Actor,NA,tt0375063,Sideways,nm0002006,Thomas Haden Church,Performance
+76,2004,076-2004,Best Supporting Actress,NA,tt0362269,Kinsey,nm0001473,Laura Linney,Performance
+76,2004,076-2004,Billy Wilder Award for Excellence in Directing,NA,NA,NA,nm0001232,Milos Forman,Other
+76,2004,076-2004,Breakthrough Performance by an Actor,NA,tt0385267,In Good Company,nm0333410,Topher Grace,Performance
+76,2004,076-2004,Breakthrough Performance by an Actor,NA,tt0380609,P.S.,nm0333410,Topher Grace,Performance
+76,2004,076-2004,Breakthrough Performance by an Actress,NA,tt0293508,The Phantom of the Opera,nm0002536,Emmy Rossum,Performance
+76,2004,076-2004,Career Achievement Award,For excellence in cinematography,NA,NA,nm0221042,Caleb Deschanel,Other
+76,2004,076-2004,Career Achievement Award,NA,NA,NA,nm0000313,Jeff Bridges,Other
+76,2004,076-2004,Freedom of Expression Award,NA,tt0308129,Conspiracy of Silence,NA,NA,Other
+76,2004,076-2004,Freedom of Expression Award,NA,tt0361596,Fahrenheit 9/11,NA,NA,Other
+76,2004,076-2004,Freedom of Expression Award,NA,tt0335345,The Passion of the Christ,NA,NA,Other
+76,2004,076-2004,Outstanding Film Music Composition,NA,tt0308644,Finding Neverland,nm0434222,Jan A.P. Kaczmarek,Other
+76,2004,076-2004,Outstanding Production Design,NA,tt0385004,House of Flying Daggers,nm0403229,Tingxiao Huo,Other
+76,2004,076-2004,Producers Award,NA,NA,NA,nm0000988,Jerry Bruckheimer,Other
+76,2004,076-2004,Special Achievement in Filmmaking,"For producing, directing, acting and composing the score",tt0405159,Million Dollar Baby,nm0000142,Clint Eastwood,Other
+76,2004,076-2004,Special Recognition for Excellence in Filmmaking,NA,tt0359423,A Home at the End of the World,NA,NA,Independent
+76,2004,076-2004,Special Recognition for Excellence in Filmmaking,NA,tt0381681,Before Sunset,NA,NA,Independent
+76,2004,076-2004,Special Recognition for Excellence in Filmmaking,NA,tt0348593,Door in the Floor,NA,NA,Independent
+76,2004,076-2004,Special Recognition for Excellence in Filmmaking,NA,tt0375735,Enduring Love,NA,NA,Independent
+76,2004,076-2004,Special Recognition for Excellence in Filmmaking,NA,tt0338013,Eternal Sunshine of the Spotless Mind,NA,NA,Independent
+76,2004,076-2004,Special Recognition for Excellence in Filmmaking,NA,tt0352343,Facing Windows,NA,NA,Independent
+76,2004,076-2004,Special Recognition for Excellence in Filmmaking,NA,tt0333766,Garden State,NA,NA,Independent
+76,2004,076-2004,Special Recognition for Excellence in Filmmaking,NA,tt0373024,Imaginary Heroes,NA,NA,Independent
+76,2004,076-2004,Special Recognition for Excellence in Filmmaking,NA,tt0336264,Since Otar Left,NA,NA,Independent
+76,2004,076-2004,Special Recognition for Excellence in Filmmaking,NA,/tt0368658,Stage Beauty,NA,NA,Independent
+76,2004,076-2004,Special Recognition for Excellence in Filmmaking,NA,tt0364961,The Assassination of Richard Nixon,NA,NA,Independent
+76,2004,076-2004,Special Recognition for Excellence in Filmmaking,NA,tt0361127,The Woodsman,NA,NA,Independent
+76,2004,076-2004,Special Recognition for Excellence in Filmmaking,NA,tt0360130,Undertow,NA,NA,Independent
+76,2004,076-2004,Top Five Documentaries,NA,tt0388789,Born Into Brothels: Calcutta's Red Light Kids,NA,NA,Documentary
+76,2004,076-2004,Top Five Documentaries,NA,tt0380615,Paper Clips,NA,NA,Documentary
+76,2004,076-2004,Top Five Documentaries,NA,tt0390521,Super Size Me,NA,NA,Documentary
+76,2004,076-2004,Top Five Documentaries,NA,tt0373861,The Story of the Weeping Camel,NA,NA,Documentary
+76,2004,076-2004,Top Five Documentaries,NA,tt0405496,Z Channel: A Magnificent Obsession,NA,NA,Documentary
+76,2004,076-2004,Top Foreign Films,NA,tt0275491,Bad Education,NA,NA,International
+76,2004,076-2004,Top Foreign Films,NA,tt0390221,Maria Full of Grace,NA,NA,International
+76,2004,076-2004,Top Foreign Films,NA,tt0372824,The Chorus,NA,NA,International
+76,2004,076-2004,Top Foreign Films,NA,tt0318462,The Motorcycle Diaries,NA,NA,International
+76,2004,076-2004,Top Foreign Films,NA,tt0369702,The Sea Inside,NA,NA,International
+76,2004,076-2004,Top Ten Films,NA,tt0376541,Closer,NA,NA,Top Films
+76,2004,076-2004,Top Ten Films,NA,tt0369339,Collateral,NA,NA,Top Films
+76,2004,076-2004,Top Ten Films,NA,tt0308644,Finding Neverland,NA,NA,Top Films
+76,2004,076-2004,Top Ten Films,NA,tt0395169,Hotel Rwanda,NA,NA,Top Films
+76,2004,076-2004,Top Ten Films,NA,tt0362269,Kinsey,NA,NA,Top Films
+76,2004,076-2004,Top Ten Films,NA,tt0405159,Million Dollar Baby,NA,NA,Top Films
+76,2004,076-2004,Top Ten Films,NA,tt0350258,Ray,NA,NA,Top Films
+76,2004,076-2004,Top Ten Films,NA,tt0375063,Sideways,NA,NA,Top Films
+76,2004,076-2004,Top Ten Films,NA,tt0338751,The Aviator,NA,NA,Top Films
+76,2004,076-2004,Top Ten Films,NA,tt0383694,Vera Drake,NA,NA,Top Films
+76,2004,076-2004,William K. Everson Film History Award,NA,NA,NA,nm0771349,Richard Schickel,Other
+77,2005,077-2005,Best Actor,NA,tt0379725,Capote,nm0000450,Philip Seymour Hoffman,Performance
+77,2005,077-2005,Best Actress,NA,tt0407265,Transamerica,nm0005031,Felicity Huffman,Performance
+77,2005,077-2005,Best Adapted Screenplay,NA,tt0365737,Syriana,nm0300866,Stephen Gaghan,Writing
+77,2005,077-2005,Best Animated Feature,NA,tt0121164,Corpse Bride,NA,NA,Top Films
+77,2005,077-2005,Best Director,NA,tt0388795,Brokeback Mountain,nm0000487,Ang Lee,Director
+77,2005,077-2005,Best Directorial Debut,NA,tt0369053,Separate Lies,nm0271501,Julian Fellowes,Director
+77,2005,077-2005,Best Documentary,NA,tt0428803,March of the Penguins,NA,NA,Documentary
+77,2005,077-2005,Best Ensemble,NA,tt0413015,Mrs. Henderson Presents,NA,NA,Performance
+77,2005,077-2005,Best Film,NA,tt0433383,"Good Night, and Good Luck.",NA,NA,Top Films
+77,2005,077-2005,Best Film or Mini-Series Made for Cable TV,NA,tt0407936,Lackawanna Blues,NA,NA,Top Films
+77,2005,077-2005,Best Foreign Language Film,NA,tt0445620,Paradise Now,NA,NA,International
+77,2005,077-2005,Best Original Screenplay,NA,tt0367089,The Squid and the Whale,nm0000876,Noah Baumbach,Writing
+77,2005,077-2005,Best Supporting Actor,NA,tt0388795,Brokeback Mountain,nm0350453,Jake Gyllenhaal,Performance
+77,2005,077-2005,Best Supporting Actress,NA,tt0397535,Memoirs of a Geisha,nm0000084,Gong Li,Performance
+77,2005,077-2005,Billy Wilder Award for Excellence in Directing,NA,NA,NA,nm0000343,David Cronenberg,Other
+77,2005,077-2005,Breakthrough Performance by an Actor,NA,tt0375679,Crash,nm0005024,Terrence Howard,Performance
+77,2005,077-2005,Breakthrough Performance by an Actor,NA,tt0430308,Get Rich or Die Tryin',nm0005024,Terrence Howard,Performance
+77,2005,077-2005,Breakthrough Performance by an Actor,NA,tt0410097,Hustle & Flow,nm0005024,Terrence Howard,Performance
+77,2005,077-2005,Breakthrough Performance by an Actress,NA,tt0402399,The New World,nm0452963,Q'orianka Kilcher,Performance
+77,2005,077-2005,Career Achievement Award,Music Composition,NA,NA,nm0006290,Howard Shore,Other
+77,2005,077-2005,Career Achievement Award,NA,NA,NA,nm0000404,Jane Fonda,Other
+77,2005,077-2005,Freedom of Expression Award,NA,tt0387914,Innocent Voices,NA,NA,Other
+77,2005,077-2005,Freedom of Expression Award,NA,tt0475420,The Untold Stories of Emmett Louis Till,NA,NA,Other
+77,2005,077-2005,Outstanding Achievement in Special Effects,NA,tt0360717,King Kong,NA,NA,Other
+77,2005,077-2005,Producers Award,NA,NA,NA,nm0951763,Saul Zaentz,Other
+77,2005,077-2005,Special Recognition for Excellence in Filmmaking,NA,tt0411195,Breakfast on Pluto,NA,NA,Independent
+77,2005,077-2005,Special Recognition for Excellence in Filmmaking,NA,tt0398830,Cape of Good Hope,NA,NA,Independent
+77,2005,077-2005,Special Recognition for Excellence in Filmmaking,NA,/tt0404030,Everything is Illuminated,NA,NA,Independent
+77,2005,077-2005,Special Recognition for Excellence in Filmmaking,NA,tt0410097,Hustle & Flow,NA,NA,Independent
+77,2005,077-2005,Special Recognition for Excellence in Filmmaking,NA,tt0418773,Junebug,NA,NA,Independent
+77,2005,077-2005,Special Recognition for Excellence in Filmmaking,NA,tt0375912,Layer Cake,NA,NA,Independent
+77,2005,077-2005,Special Recognition for Excellence in Filmmaking,NA,tt0399295,Lord of War,NA,NA,Independent
+77,2005,077-2005,Special Recognition for Excellence in Filmmaking,NA,tt0420015,Nine Lives,NA,NA,Independent
+77,2005,077-2005,Special Recognition for Excellence in Filmmaking,NA,tt0384929,The Dying Gaul,NA,NA,Independent
+77,2005,077-2005,Special Recognition for Excellence in Filmmaking,NA,tt0429177,The Thing About My Folks,NA,NA,Independent
+77,2005,077-2005,Special Recognition for Excellence in Filmmaking,NA,tt0365885,The Upside of Anger,NA,NA,Independent
+77,2005,077-2005,Top Five Documentaries,NA,tt0436095,Ballets Russes,NA,NA,Documentary
+77,2005,077-2005,Top Five Documentaries,NA,tt0427312,Grizzly Man,NA,NA,Documentary
+77,2005,077-2005,Top Five Documentaries,NA,tt0438205,Mad Hot Ballroom,NA,NA,Documentary
+77,2005,077-2005,Top Five Documentaries,NA,tt0428803,March of the Penguins,NA,NA,Documentary
+77,2005,077-2005,Top Five Documentaries,NA,tt0436613,Murderball,NA,NA,Documentary
+77,2005,077-2005,Top Foreign Films,NA,tt0212712,2046,NA,NA,International
+77,2005,077-2005,Top Foreign Films,NA,tt0291032,Balzac and the Little Chinese Seamstress,NA,NA,International
+77,2005,077-2005,Top Foreign Films,NA,tt0363163,Downfall,NA,NA,International
+77,2005,077-2005,Top Foreign Films,NA,tt0445620,Paradise Now,NA,NA,International
+77,2005,077-2005,Top Foreign Films,NA,tt0352994,Walk on Water,NA,NA,International
+77,2005,077-2005,Top Ten Films,NA,tt0399146,A History of Violence,NA,NA,Top Films
+77,2005,077-2005,Top Ten Films,NA,tt0388795,Brokeback Mountain,NA,NA,Top Films
+77,2005,077-2005,Top Ten Films,NA,tt0379725,Capote,NA,NA,Top Films
+77,2005,077-2005,Top Ten Films,NA,tt0375679,Crash,NA,NA,Top Films
+77,2005,077-2005,Top Ten Films,NA,tt0433383,"Good Night, and Good Luck.",NA,NA,Top Films
+77,2005,077-2005,Top Ten Films,NA,tt0416320,Match Point,NA,NA,Top Films
+77,2005,077-2005,Top Ten Films,NA,tt0397535,Memoirs of a Geisha,NA,NA,Top Films
+77,2005,077-2005,Top Ten Films,NA,tt0408306,Munich,NA,NA,Top Films
+77,2005,077-2005,Top Ten Films,NA,tt0365737,Syriana,NA,NA,Top Films
+77,2005,077-2005,Top Ten Films,NA,tt0358273,Walk the Line,NA,NA,Top Films
+77,2005,077-2005,William K. Everson Film History Award,NA,NA,NA,nm0271614,George Feltenstein,Other
+78,2006,078-2006,Best Actor,NA,tt0455590,The Last King of Scotland,nm0001845,Forest Whitaker,Performance
+78,2006,078-2006,Best Actress,NA,tt0436697,The Queen,nm0000545,Helen Mirren,Performance
+78,2006,078-2006,Best Adapted Screenplay,NA,tt0446755,The Painted Veil,nm0638913,Ron Nyswaner,Writing
+78,2006,078-2006,Best Animated Feature,NA,tt0317219,Cars,NA,NA,Top Films
+78,2006,078-2006,Best Director,NA,tt0407887,The Departed,nm0000217,Martin Scorsese,Director
+78,2006,078-2006,Best Directorial Debut,NA,tt0427944,Thank You for Smoking,nm0718646,Jason Reitman,Director
+78,2006,078-2006,Best Documentary,NA,tt0497116,An Inconvenient Truth,NA,NA,Documentary
+78,2006,078-2006,Best Ensemble,NA,tt0407887,The Departed,NA,NA,Performance
+78,2006,078-2006,Best Film,NA,tt0498380,Letters from Iwo Jima,NA,NA,Top Films
+78,2006,078-2006,Best Foreign Film,NA,tt0441909,Volver,NA,NA,International
+78,2006,078-2006,Best Original Screenplay,NA,tt0420223,Stranger Than Fiction,nm1590998,Zach Helm,Writing
+78,2006,078-2006,Best Supporting Actor,NA,tt0450259,Blood Diamond,nm0005023,Djimon Hounsou,Performance
+78,2006,078-2006,Best Supporting Actress,NA,tt0470765,For Your Consideration,nm0001573,Catherine O'Hara,Performance
+78,2006,078-2006,Billy Wilder Award for Excellence in Directing,NA,NA,NA,nm0001129,Jonathan Demme,Other
+78,2006,078-2006,Breakthrough Performance by an Actor,NA,tt0468489,Half Nelson,nm0331516,Ryan Gosling,Performance
+78,2006,078-2006,Breakthrough Performance by an Actress,NA,tt0449467,Babel,nm0452860,Rinko Kikuchi,Performance
+78,2006,078-2006,Breakthrough Performance by an Actress,NA,tt0443489,Dreamgirls,nm1617685,Jennifer Hudson,Performance
+78,2006,078-2006,Career Achievement Award,NA,NA,NA,nm0908919,Eli Wallach,Other
+78,2006,078-2006,Career Achievement Award,For producing,NA,NA,nm0005563,Irwin Winkler,Other
+78,2006,078-2006,Freedom of Expression Award,NA,tt0240200,Water,NA,NA,Other
+78,2006,078-2006,Freedom of Expression Award,NA,tt0469641,World Trade Center,NA,NA,Other
+78,2006,078-2006,Top Five Documentaries,NA,tt0468442,51 Birch Street,NA,NA,Documentary
+78,2006,078-2006,Top Five Documentaries,NA,tt0497116,An Inconvenient Truth,NA,NA,Documentary
+78,2006,078-2006,Top Five Documentaries,NA,tt0492466,Iraq in Fragments,NA,NA,Documentary
+78,2006,078-2006,Top Five Documentaries,NA,tt0811136,Shut Up & Sing,NA,NA,Documentary
+78,2006,078-2006,Top Five Documentaries,NA,tt0492506,Wordplay,NA,NA,Documentary
+78,2006,078-2006,Top Five Foreign Films,NA,tt0473444,Curse of the Golden Flower,NA,NA,International
+78,2006,078-2006,Top Five Foreign Films,NA,tt0444182,Days of Glory,NA,NA,International
+78,2006,078-2006,Top Five Foreign Films,NA,tt0457430,Pan's Labyrinth,NA,NA,International
+78,2006,078-2006,Top Five Foreign Films,NA,tt0441909,Volver,NA,NA,International
+78,2006,078-2006,Top Five Foreign Films,NA,tt0240200,Water,NA,NA,International
+78,2006,078-2006,Top Independent Films,NA,tt0499603,10 Items or Less,NA,NA,Independent
+78,2006,078-2006,Top Independent Films,NA,tt0473488,A Guide to Recognizing Your Saints,NA,NA,Independent
+78,2006,078-2006,Top Independent Films,NA,tt0437800,Akeelah and the Bee,NA,NA,Independent
+78,2006,078-2006,Top Independent Films,NA,tt0308055,Bobby,NA,NA,Independent
+78,2006,078-2006,Top Independent Films,NA,tt0437232,Catch a Fire,NA,NA,Independent
+78,2006,078-2006,Top Independent Films,NA,tt0424908,Copying Beethoven,NA,NA,Independent
+78,2006,078-2006,Top Independent Films,NA,tt0468489,Half Nelson,NA,NA,Independent
+78,2006,078-2006,Top Independent Films,NA,tt0385056,Lonesome Jim,NA,NA,Independent
+78,2006,078-2006,Top Independent Films,NA,tt0423169,Sherrybaby,NA,NA,Independent
+78,2006,078-2006,Top Independent Films,NA,tt0427944,Thank You for Smoking,NA,NA,Independent
+78,2006,078-2006,Top Independent Films,NA,tt0443543,The Illusionist,NA,NA,Independent
+78,2006,078-2006,Top Ten Films,NA,tt0449467,Babel,NA,NA,Top Films
+78,2006,078-2006,Top Ten Films,NA,tt0450259,Blood Diamond,NA,NA,Top Films
+78,2006,078-2006,Top Ten Films,NA,tt0418689,Flags of Our Fathers,NA,NA,Top Films
+78,2006,078-2006,Top Ten Films,NA,tt0498380,Letters from Iwo Jima,NA,NA,Top Films
+78,2006,078-2006,Top Ten Films,NA,tt0449059,Little Miss Sunshine,NA,NA,Top Films
+78,2006,078-2006,Top Ten Films,NA,tt0465551,Notes on a Scandal,NA,NA,Top Films
+78,2006,078-2006,Top Ten Films,NA,tt0407887,The Departed,NA,NA,Top Films
+78,2006,078-2006,Top Ten Films,NA,tt0458352,The Devil Wears Prada,NA,NA,Top Films
+78,2006,078-2006,Top Ten Films,NA,tt0464049,The History Boys,NA,NA,Top Films
+78,2006,078-2006,Top Ten Films,NA,tt0446755,The Painted Veil,NA,NA,Top Films
+78,2006,078-2006,William K. Everson Film History Award,NA,NA,NA,nm2297931,Donald Krim,Other
+79,2007,079-2007,Best Actor,NA,tt0465538,Michael Clayton,nm0000123,George Clooney,Performance
+79,2007,079-2007,Best Actress,NA,tt0491747,Away from Her,nm0001046,Julie Christie,Performance
+79,2007,079-2007,Best Adapted Screenplay,NA,tt0477348,No Country for Old Men,nm0001053,Ethan Coen,Writing
+79,2007,079-2007,Best Adapted Screenplay,NA,tt0477348,No Country for Old Men,nm0001054,Joel Coen,Writing
+79,2007,079-2007,Best Animated Feature,NA,tt0382932,Ratatouille,NA,NA,Top Films
+79,2007,079-2007,Best Director,NA,tt0408236,Sweeney Todd: The Demon Barber of Fleet Street,nm0000318,Tim Burton,Director
+79,2007,079-2007,Best Directorial Debut,NA,tt0452623,Gone Baby Gone,nm0000255,Ben Affleck,Director
+79,2007,079-2007,Best Documentary,NA,tt1068634,Body of War,NA,NA,Documentary
+79,2007,079-2007,Best Ensemble,NA,tt0477348,No Country for Old Men,NA,NA,Performance
+79,2007,079-2007,Best Film,NA,tt0477348,No Country for Old Men,NA,NA,Top Films
+79,2007,079-2007,Best Foreign Language Film,NA,tt0401383,The Diving Bell and the Butterfly,NA,NA,International
+79,2007,079-2007,Best Original Screenplay,NA,tt0467406,Juno,nm1959505,Diablo Cody,Writing
+79,2007,079-2007,Best Original Screenplay,NA,tt0805564,Lars and the Real Girl,nm1280672,Nancy Oliver,Writing
+79,2007,079-2007,Best Supporting Actor,NA,tt0443680,The Assassination of Jesse James by the Coward Robert Ford,nm0000729,Casey Affleck,Performance
+79,2007,079-2007,Best Supporting Actress,NA,tt0452623,Gone Baby Gone,nm0752407,Amy Ryan,Performance
+79,2007,079-2007,Breakthrough Performance by an Actor,NA,tt0758758,Into the Wild,nm0386472,Emile Hirsch,Performance
+79,2007,079-2007,Breakthrough Performance by an Actress,NA,tt0467406,Juno,nm0680983,Elliot Page,Performance
+79,2007,079-2007,Career Achievement Award,NA,NA,NA,m0000140,Michael Douglas,Other
+79,2007,079-2007,Career Achievement Award,For cinematography,NA,NA,nm0005683,Roger Deakins,Other
+79,2007,079-2007,Freedom of Expression Award,NA,tt0808417,Persepolis,NA,NA,Other
+79,2007,079-2007,Freedom of Expression Award,NA,tt0427309,The Great Debaters,NA,NA,Other
+79,2007,079-2007,Top Five Documentaries,NA,tt0988102,Darfur Now,NA,NA,Documentary
+79,2007,079-2007,Top Five Documentaries,NA,tt0925248,In the Shadow of the Moon,NA,NA,Documentary
+79,2007,079-2007,Top Five Documentaries,NA,tt0893356,Nanking,NA,NA,Documentary
+79,2007,079-2007,Top Five Documentaries,NA,tt0854678,Taxi to the Dark Side,NA,NA,Documentary
+79,2007,079-2007,Top Five Documentaries,NA,tt0436836,Toots,NA,NA,Documentary
+79,2007,079-2007,Top Five Foreign Films,NA,tt1032846,"4 Months, 3 Weeks and 2 Days",NA,NA,International
+79,2007,079-2007,Top Five Foreign Films,NA,tt0450188,La Vie En Rose,NA,NA,International
+79,2007,079-2007,Top Five Foreign Films,NA,tt0808357,"Lust, Caution",NA,NA,International
+79,2007,079-2007,Top Five Foreign Films,NA,tt1032856,The Band's Visit,NA,NA,International
+79,2007,079-2007,Top Five Foreign Films,NA,tt0813547,The Counterfeiters,NA,NA,International
+79,2007,079-2007,Top Independent Films,NA,tt0829459,A Mighty Heart,NA,NA,Independent
+79,2007,079-2007,Top Independent Films,NA,tt0491747,Away from Her,NA,NA,Independent
+79,2007,079-2007,Top Independent Films,NA,tt0826547,Great World of Sound,NA,NA,Independent
+79,2007,079-2007,Top Independent Films,NA,tt0829193,Honeydripper,NA,NA,Independent
+79,2007,079-2007,Top Independent Films,NA,tt0478134,In the Valley of Elah,NA,NA,Independent
+79,2007,079-2007,Top Independent Films,NA,tt0907657,Once,NA,NA,Independent
+79,2007,079-2007,Top Independent Films,NA,tt0758784,Starting Out in the Evening,NA,NA,Independent
+79,2007,079-2007,Top Independent Films,NA,tt0433416,The Namesake,NA,NA,Independent
+79,2007,079-2007,Top Independent Films,NA,tt0775529,The Savages,NA,NA,Independent
+79,2007,079-2007,Top Independent Films,NA,tt0473308,Waitress,NA,NA,Independent
+79,2007,079-2007,Top Ten Films,NA,tt0783233,Atonement,NA,NA,Top Films
+79,2007,079-2007,Top Ten Films,NA,tt0758758,Into the Wild,NA,NA,Top Films
+79,2007,079-2007,Top Ten Films,NA,tt0467406,Juno,NA,NA,Top Films
+79,2007,079-2007,Top Ten Films,NA,tt0805564,Lars and the Real Girl,NA,NA,Top Films
+79,2007,079-2007,Top Ten Films,NA,tt0465538,Michael Clayton,NA,NA,Top Films
+79,2007,079-2007,Top Ten Films,NA,tt0408236,Sweeney Todd: The Demon Barber of Fleet Street,NA,NA,Top Films
+79,2007,079-2007,Top Ten Films,NA,tt0443680,The Assassination of Jesse James by the Coward Robert Ford,NA,NA,Top Films
+79,2007,079-2007,Top Ten Films,NA,tt0440963,The Bourne Ultimatum,NA,NA,Top Films
+79,2007,079-2007,Top Ten Films,NA,tt0825232,The Bucket List,NA,NA,Top Films
+79,2007,079-2007,Top Ten Films,NA,tt0419887,The Kite Runner,NA,NA,Top Films
+79,2007,079-2007,William K. Everson Film History Award,NA,NA,NA,nm0651737,Robert Osborne,Other
 80,2008,080-2008,Best Actor,NA,tt1205489,Gran Torino,nm0000142,Clint Eastwood,Performance
 80,2008,080-2008,Best Actress,NA,tt1084950,Rachel Getting Married,nm0004266,Anne Hathaway,Performance
 80,2008,080-2008,Best Adapted Screenplay,NA,tt1010048,Slumdog Millionaire,nm0064479,Simon Beaufoy,Writing
@@ -1567,6 +2286,8 @@ Ceremony,Ceremony.Year,AwardCeremony,AwardCategory,Note,FilmID,FilmName,PersonID
 80,2008,080-2008,Top Ten Films,NA,tt0468569,The Dark Knight,NA,NA,Top Films
 80,2008,080-2008,Top Ten Films,NA,tt1125849,The Wrestler,NA,NA,Top Films
 80,2008,080-2008,Top Ten Films,NA,tt0910970,WALL·E,NA,NA,Top Films
+80,2008,080-2008,William K. Everson Film History Award,NA,NA,NA,nm0368141,Molly Haskell,Other
+80,2008,080-2008,William K. Everson Film History Award,NA,NA,NA,nm1048799,Andrew Sarris,Other
 81,2009,081-2009,Best Actor,Tied with George Clooney for Up in the Air (2009).,tt1057500,Invictus,nm0000151,Morgan Freeman,Performance
 81,2009,081-2009,Best Actor,Tied with Morgan Freeman for Invictus (2009).,tt1193138,Up in the Air,nm0000123,George Clooney,Performance
 81,2009,081-2009,Best Actress,NA,tt1174732,An Education,nm1659547,Carey Mulligan,Performance
@@ -1621,6 +2342,7 @@ Ceremony,Ceremony.Year,AwardCeremony,AwardCategory,Note,FilmID,FilmName,PersonID
 81,2009,081-2009,Top Ten Films,NA,tt0790712,The Messenger,NA,NA,Top Films
 81,2009,081-2009,Top Ten Films,NA,tt1049413,Up,NA,NA,Top Films
 81,2009,081-2009,Top Ten Films,NA,tt0386117,Where the Wild Things Are,NA,NA,Top Films
+81,2009,081-2009,William K. Everson Film History Award,NA,NA,NA,nm0278734,Jean Firstenberg,Other
 82,2010,082-2010,Best Actor,NA,tt1285016,The Social Network,nm0251986,Jesse Eisenberg,Performance
 82,2010,082-2010,Best Actress,NA,tt1431181,Another Year,nm0544334,Lesley Manville,Performance
 82,2010,082-2010,Best Adapted Screenplay,NA,tt1285016,The Social Network,nm0815070,Aaron Sorkin,Writing
@@ -1672,6 +2394,7 @@ Ceremony,Ceremony.Year,AwardCeremony,AwardCategory,Note,FilmID,FilmName,PersonID
 82,2010,082-2010,Top Ten Films,NA,tt0435761,Toy Story 3,NA,NA,Top Films
 82,2010,082-2010,Top Ten Films,NA,tt1403865,True Grit,NA,NA,Top Films
 82,2010,082-2010,Top Ten Films,NA,tt1399683,Winter's Bone,NA,NA,Top Films
+82,2010,082-2010,William K. Everson Film History Award,NA,NA,NA,nm0540795,Leonard Maitin,Other
 83,2011,083-2011,Best Actor,NA,tt1033575,The Descendants,nm0000123,George Clooney,Performance
 83,2011,083-2011,Best Actress,NA,tt1242460,We Need to Talk About Kevin,nm0842770,Tilda Swinton,Performance
 83,2011,083-2011,Best Adapted Screenplay,NA,tt1033575,The Descendants,nm0668247,Alexander Payne,Writing
@@ -1776,6 +2499,7 @@ Ceremony,Ceremony.Year,AwardCeremony,AwardCategory,Note,FilmID,FilmName,PersonID
 84,2012,084-2012,Top Ten Independent Films,NA,tt0337692,On the Road,NA,NA,Independent
 84,2012,084-2012,Top Ten Independent Films,NA,tt1441951,Quartet,NA,NA,Independent
 84,2012,084-2012,Top Ten Independent Films,NA,tt2077851,Sleepwalk with Me,NA,NA,Independent
+84,2012,084-2012,William K. Everson Film History Award,For 50 Years of Bond films,NA,NA,NA,NA,Other
 85,2013,085-2013,Best Actor,NA,tt1821549,Nebraska,nm0001136,Bruce Dern,Performance
 85,2013,085-2013,Best Actress,NA,tt2140373,Saving Mr. Banks,nm0000668,Emma Thompson,Performance
 85,2013,085-2013,Best Adapted Screenplay,NA,tt0993846,The Wolf of Wall Street,nm1010540,Terence Winter,Writing
@@ -1826,6 +2550,7 @@ Ceremony,Ceremony.Year,AwardCeremony,AwardCategory,Note,FilmID,FilmName,PersonID
 85,2013,085-2013,Top Ten Independent Films,NA,tt2023690,Sightseers,NA,NA,Independent
 85,2013,085-2013,Top Ten Independent Films,NA,tt1817273,The Place Beyond the Pines,NA,NA,Independent
 85,2013,085-2013,Top Ten Independent Films,NA,tt1714206,The Spectacular Now,NA,NA,Independent
+85,2013,085-2013,William K. Everson Film History Award,NA,NA,NA,nm0828211,George Stevens Jr.,Other
 86,2014,086-2014,Best Actor,Tied with Michael Keaton for Birdman or (The Unexpected Virtue of Ignorance) (2014).,tt2937898,A Most Violent Year,nm1209966,Oscar Isaac,Performance
 86,2014,086-2014,Best Actor,Tied with Oscar Isaac for A Most Violent Year (2014).,tt2562232,Birdman or (The Unexpected Virtue of Ignorance),nm0000474,Michael Keaton,Performance
 86,2014,086-2014,Best Actress,NA,tt3316960,Still Alice,nm0000194,Julianne Moore,Performance
@@ -1876,6 +2601,201 @@ Ceremony,Ceremony.Year,AwardCeremony,AwardCategory,Note,FilmID,FilmName,PersonID
 86,2014,086-2014,Top Ten Independent Films,NA,tt2567712,Starred Up,NA,NA,Independent
 86,2014,086-2014,Top Ten Independent Films,NA,tt3316960,Still Alice,NA,NA,Independent
 86,2014,086-2014,Top Ten Independent Films,NA,tt1571249,The Skeleton Twins,NA,NA,Independent
+86,2014,086-2014,William K. Everson Film History Award,NA,NA,NA,nm1262394,Scott Eyman,Other
+87,2015,087-2015,Best Actor,NA,tt3659388,The Martian,nm0000354,Matt Damon,Performance
+87,2015,087-2015,Best Actress,NA,tt3170832,Room,nm0488953,Brie Larson,Performance
+87,2015,087-2015,Best Adapted Screenplay,NA,tt3659388,The Martian,nm1206844,Drew Goddard,Writing
+87,2015,087-2015,Best Animated Feature,NA,tt2096673,Inside Out,NA,NA,Top Films
+87,2015,087-2015,Best Director,NA,tt3659388,The Martian,nm0000631,Ridley Scott,Director
+87,2015,087-2015,Best Directorial Debut,NA,tt3486542,Mediterranea,nm3476432,Jonas Carpignano,Director
+87,2015,087-2015,Best Documentary,NA,tt2870648,Amy,NA,NA,Documentary
+87,2015,087-2015,Best Ensemble,NA,tt1596363,The Big Short,NA,NA,Performance
+87,2015,087-2015,Best Film,NA,tt1392190,Mad Max: Fury Road,NA,NA,Top Films
+87,2015,087-2015,Best Foreign Language Film,NA,tt3808342,Son of Saul,NA,NA,International
+87,2015,087-2015,Best Original Screenplay,NA,tt3460252,The Hateful Eight,nm0000233,Quentin Tarantino,Writing
+87,2015,087-2015,Best Supporting Actor,NA,tt3076658,Creed,nm0000230,Sylvester Stallone,Performance
+87,2015,087-2015,Best Supporting Actress,NA,tt3460252,The Hateful Eight,nm0000492,Jennifer Jason Leigh,Performance
+87,2015,087-2015,Breakthrough Performance,Tied with Jacob Tremblay for Room (2015).,tt1365050,Beasts of No Nation,nm6781688,Abraham Attah,Performance
+87,2015,087-2015,Breakthrough Performance,Tied with Abraham Attah for Beasts of No Nation (2015).,tt3170832,Room,nm5016878,Jacob Tremblay,Performance
+87,2015,087-2015,Freedom of Expression Award,NA,tt1365050,Beasts of No Nation,NA,NA,Other
+87,2015,087-2015,Freedom of Expression Award,NA,tt3966404,Mustang,NA,NA,Other
+87,2015,087-2015,Spotlight Award,For outstanding collaborative vision,tt3397884,Sicario,NA,NA,Other
+87,2015,087-2015,Top Films,NA,tt3682448,Bridge of Spies,NA,NA,Top Films
+87,2015,087-2015,Top Films,NA,tt3076658,Creed,NA,NA,Top Films
+87,2015,087-2015,Top Films,NA,tt2096673,Inside Out,NA,NA,Top Films
+87,2015,087-2015,Top Films,NA,tt3170832,Room,NA,NA,Top Films
+87,2015,087-2015,Top Films,NA,tt3397884,Sicario,NA,NA,Top Films
+87,2015,087-2015,Top Films,NA,tt1895587,Spotlight,NA,NA,Top Films
+87,2015,087-2015,Top Films,NA,tt1398426,Straight Outta Compton,NA,NA,Top Films
+87,2015,087-2015,Top Films,NA,tt3460252,The Hateful Eight,NA,NA,Top Films
+87,2015,087-2015,Top Films,NA,tt3659388,The Martian,NA,NA,Top Films
+87,2015,087-2015,Top Five Documentaries,NA,tt3518012,Best of Enemies: Buckley vs. Vidal,NA,NA,Documentary
+87,2015,087-2015,Top Five Documentaries,NA,tt4145178,Listen to Me Marlon,NA,NA,Documentary
+87,2015,087-2015,Top Five Documentaries,NA,tt4316236,The Black Panthers: Vanguard of the Revolution,NA,NA,Documentary
+87,2015,087-2015,Top Five Documentaries,NA,tt4338184,The Diplomat,NA,NA,Documentary
+87,2015,087-2015,Top Five Documentaries,NA,tt3521134,The Look of Silence,NA,NA,Documentary
+87,2015,087-2015,Top Five Foreign Language Films,NA,tt3086442,Goodnight Mommy,NA,NA,International
+87,2015,087-2015,Top Five Foreign Language Films,NA,tt3486542,Mediterranea,NA,NA,International
+87,2015,087-2015,Top Five Foreign Language Films,NA,tt2764784,Phoenix,NA,NA,International
+87,2015,087-2015,Top Five Foreign Language Films,NA,tt3742378,The Second Mother,NA,NA,International
+87,2015,087-2015,Top Five Foreign Language Films,NA,tt1745787,The Tribe,NA,NA,International
+87,2015,087-2015,Top Ten Independent Films,NA,tt2614684,'71,NA,NA,Independent
+87,2015,087-2015,Top Ten Independent Films,NA,tt3544082,45 Years,NA,NA,Independent
+87,2015,087-2015,Top Ten Independent Films,NA,tt3813310,Cop Car,NA,NA,Independent
+87,2015,087-2015,Top Ten Independent Films,NA,tt0470752,Ex Machina,NA,NA,Independent
+87,2015,087-2015,Top Ten Independent Films,NA,tt4270516,Grandma,NA,NA,Independent
+87,2015,087-2015,Top Ten Independent Films,NA,tt3235888,It Follows,NA,NA,Independent
+87,2015,087-2015,Top Ten Independent Films,NA,tt4288636,James White,NA,NA,Independent
+87,2015,087-2015,Top Ten Independent Films,NA,tt2349144,Mississippi Grind,NA,NA,Independent
+87,2015,087-2015,Top Ten Independent Films,NA,tt2788716,Welcome to Me,NA,NA,Independent
+87,2015,087-2015,Top Ten Independent Films,NA,tt1791682,While We're Young,NA,NA,Independent
+87,2015,087-2015,William K. Everson Film History Award,NA,NA,NA,nm1371766,Cecilia DeMille Presley,Other
+88,2016,088-2016,Best Actor,NA,tt4034228,Manchester by the Sea,nm0000729,Casey Affleck,Performance
+88,2016,088-2016,Best Actress,NA,tt2543164,Arrival,nm0010736,Amy Adams,Performance
+88,2016,088-2016,Best Adapted Screenplay,NA,tt0490215,Silence,nm0168379,Jay Cocks,Writing
+88,2016,088-2016,Best Adapted Screenplay,NA,tt0490215,Silence,nm0000217,Martin Scorsese,Writing
+88,2016,088-2016,Best Animated Feature,NA,tt4302938,Kubo and the Two Strings,NA,NA,Top Films
+88,2016,088-2016,Best Director,NA,tt4975722,Moonlight,nm1503575,Barry Jenkins,Director
+88,2016,088-2016,Best Directorial Debut,NA,tt4266638,Krisha,nm4099092,Trey Edward Shults,Director
+88,2016,088-2016,Best Documentary,NA,tt5275892,O.J.: Made in America,NA,NA,Documentary
+88,2016,088-2016,Best Ensemble,NA,tt4846340,Hidden Figures,NA,NA,Performance
+88,2016,088-2016,Best Film,NA,tt4034228,Manchester by the Sea,NA,NA,Top Films
+88,2016,088-2016,Best Foreign Language Film,NA,tt5186714,The Salesman,NA,NA,International
+88,2016,088-2016,Best Original Screenplay,NA,tt4034228,Manchester by the Sea,nm0518836,Kenneth Lonergan,Writing
+88,2016,088-2016,Best Supporting Actor,NA,tt2582782,Hell or High Water,nm0000313,Jeff Bridges,Performance
+88,2016,088-2016,Best Supporting Actress,NA,tt4975722,Moonlight,nm0365140,Naomie Harris,Performance
+88,2016,088-2016,Breakthrough Performance by an Actor,NA,tt4034228,Manchester by the Sea,nm2348627,Lucas Hedges,Performance
+88,2016,088-2016,Breakthrough Performance by an Actress,NA,tt4238858,The Fits,nm7513399,Royalty Hightower,Performance
+88,2016,088-2016,Freedom of Expression Award,NA,tt5375040,Cameraperson,NA,NA,Other
+88,2016,088-2016,Spotlight Award,Creative Collaboration of Peter Berg and Mark Wahlberg,,,nm0000916/,Peter Berg,Other
+88,2016,088-2016,Spotlight Award,Creative Collaboration of Peter Berg and Mark Wahlberg,,,nm0000242,Mark Wahlberg,Other
+88,2016,088-2016,Top Five Documentaries,NA,tt1683048,De Palma,NA,NA,Documentary
+88,2016,088-2016,Top Five Documentaries,NA,tt4632316,Gleason,NA,NA,Documentary
+88,2016,088-2016,Top Five Documentaries,NA,tt3917210,"Life, Animated",NA,NA,Documentary
+88,2016,088-2016,Top Five Documentaries,NA,tt4935480,Miss Sharon Jones!,NA,NA,Documentary
+88,2016,088-2016,Top Five Documentaries,NA,tt3882074,The Eagle Huntress,NA,NA,Documentary
+88,2016,088-2016,Top Five Foreign Language Films,NA,tt3716530,Elle,NA,NA,International
+88,2016,088-2016,Top Five Foreign Language Films,NA,tt4326444,Julieta,NA,NA,International
+88,2016,088-2016,Top Five Foreign Language Films,NA,tt3841424,Land of Mine,NA,NA,International
+88,2016,088-2016,Top Five Foreign Language Films,NA,tt4698584,Neruda,NA,NA,International
+88,2016,088-2016,Top Five Foreign Language Films,NA,tt4016934,The Handmaiden,NA,NA,International
+88,2016,088-2016,Top Ten Films,NA,tt2543164,Arrival,NA,NA,Top Films
+88,2016,088-2016,Top Ten Films,NA,tt2119532,Hacksaw Ridge,NA,NA,Top Films
+88,2016,088-2016,Top Ten Films,NA,tt0475290,"Hail, Caesar!",NA,NA,Top Films
+88,2016,088-2016,Top Ten Films,NA,tt2582782,Hell or High Water,NA,NA,Top Films
+88,2016,088-2016,Top Ten Films,NA,tt4846340,Hidden Figures,NA,NA,Top Films
+88,2016,088-2016,Top Ten Films,NA,tt3783958,La La Land,NA,NA,Top Films
+88,2016,088-2016,Top Ten Films,NA,tt4975722,Moonlight,NA,NA,Top Films
+88,2016,088-2016,Top Ten Films,NA,tt4572514,Patriots Day,NA,NA,Top Films
+88,2016,088-2016,Top Ten Films,NA,tt0490215,Silence,NA,NA,Top Films
+88,2016,088-2016,Top Ten Films,NA,tt3263904,Sully,NA,NA,Top Films
+88,2016,088-2016,Top Ten Independent Films,NA,tt4385888,20th Century Women,NA,NA,Independent
+88,2016,088-2016,Top Ten Independent Films,NA,tt3553976,Captain Fantastic,NA,NA,Independent
+88,2016,088-2016,Top Ten Independent Films,NA,tt3277624,Creative Control,NA,NA,Independent
+88,2016,088-2016,Top Ten Independent Films,NA,tt2057392,Eye in the Sky,NA,NA,Independent
+88,2016,088-2016,Top Ten Independent Films,NA,tt4062536,Green Room,NA,NA,Independent
+88,2016,088-2016,Top Ten Independent Films,NA,tt3766394,"Hello, My Name Is Doris",NA,NA,Independent
+88,2016,088-2016,Top Ten Independent Films,NA,tt4266638,Krisha,NA,NA,Independent
+88,2016,088-2016,Top Ten Independent Films,NA,tt3652862,Morris from America,NA,NA,Independent
+88,2016,088-2016,Top Ten Independent Films,NA,tt3544112,Sing Street,NA,NA,Independent
+88,2016,088-2016,Top Ten Independent Films,NA,tt4238858,The Fits,NA,NA,Independent
+89,2017,089-2017,Best Actor,NA,tt6294822,The Post,nm0000158,Tom Hanks,Performance
+89,2017,089-2017,Best Actress,NA,tt6294822,The Post,nm0000658,Meryl Streep,Performance
+89,2017,089-2017,Best Adapted Screenplay,NA,tt3521126,The Disaster Artist,nm2352210,Michael H. Weber,Writing
+89,2017,089-2017,Best Adapted Screenplay,NA,tt3521126,The Disaster Artist,nm2354099,Scott Neustadter,Writing
+89,2017,089-2017,Best Animated Feature,NA,tt2380307,Coco,NA,NA,Top Films
+89,2017,089-2017,Best Director,NA,tt4925292,Lady Bird,nm1950086,Greta Gerwig,Director
+89,2017,089-2017,Best Directorial Debut,NA,tt5052448,Get Out,nm1443502,Jordan Peele,Director
+89,2017,089-2017,Best Documentary,NA,tt7207238,Jane,NA,NA,Documentary
+89,2017,089-2017,Best Ensemble,NA,tt5052448,Get Out,NA,NA,Performance
+89,2017,089-2017,Best Film,NA,tt6294822,The Post,NA,NA,Top Films
+89,2017,089-2017,Best Foreign Language Film,NA,tt6896536,Foxtrot,NA,NA,International
+89,2017,089-2017,Best Original Screenplay,NA,tt5776858,Phantom Thread,nm0000759,Paul Thomas Anderson,Writing
+89,2017,089-2017,Best Supporting Actor,NA,tt5649144,The Florida Project,nm0000353,Willem Dafoe,Performance
+89,2017,089-2017,Best Supporting Actress,NA,tt4925292,Lady Bird,nm0582418,Laurie Metcalf,Performance
+89,2017,089-2017,Breakthrough Performance,NA,tt5726616,Call Me by Your Name,nm3154303,Timothée Chalamet,Performance
+89,2017,089-2017,Freedom of Expression Award,NA,tt4882376,First They Killed My Father,NA,NA,Other
+89,2017,089-2017,Freedom of Expression Award,NA,tt6379314,Let It Fall: Los Angeles 1982-1992,NA,NA,Other
+89,2017,089-2017,Spotlight Award,NA,tt0451279,Wonder Woman,nm2933757,Gal Gadot,Other
+89,2017,089-2017,Spotlight Award,NA,tt0451279,Wonder Woman,nm0420941,Patty Jenkins,Other
+89,2017,089-2017,Top Films,NA,tt3890160,Baby Driver,NA,NA,Top Films
+89,2017,089-2017,Top Films,NA,tt5726616,Call Me by Your Name,NA,NA,Top Films
+89,2017,089-2017,Top Films,NA,tt1389072,Downsizing,NA,NA,Top Films
+89,2017,089-2017,Top Films,NA,tt5013056,Dunkirk,NA,NA,Top Films
+89,2017,089-2017,Top Films,NA,tt5052448,Get Out,NA,NA,Top Films
+89,2017,089-2017,Top Films,NA,tt4925292,Lady Bird,NA,NA,Top Films
+89,2017,089-2017,Top Films,NA,tt3315342,Logan,NA,NA,Top Films
+89,2017,089-2017,Top Films,NA,tt5776858,Phantom Thread,NA,NA,Top Films
+89,2017,089-2017,Top Films,NA,tt3521126,The Disaster Artist,NA,NA,Top Films
+89,2017,089-2017,Top Films,NA,tt5649144,The Florida Project,NA,NA,Top Films
+89,2017,089-2017,Top Five Documentaries,NA,tt5952382,Abacus: Small Enough to Jail,NA,NA,Documentary
+89,2017,089-2017,Top Five Documentaries,NA,tt5279122,Brimstone & Glory,NA,NA,Documentary
+89,2017,089-2017,Top Five Documentaries,NA,tt6498644,Eric Clapton: Life in 12 Bars,NA,NA,Documentary
+89,2017,089-2017,Top Five Documentaries,NA,tt5598102,Faces Places,NA,NA,Documentary
+89,2017,089-2017,Top Five Documentaries,NA,tt6794398,Hell on Earth: The Fall of Syria and the Rise of ISIS,NA,NA,Documentary
+89,2017,089-2017,Top Five Foreign Language Films,NA,tt5639354,A Fantastic Woman,NA,NA,International
+89,2017,089-2017,Top Five Foreign Language Films,NA,tt5029608,Frantz,NA,NA,International
+89,2017,089-2017,Top Five Foreign Language Films,NA,tt6304162,Loveless,NA,NA,International
+89,2017,089-2017,Top Five Foreign Language Films,NA,tt5897636,Summer 1993,NA,NA,International
+89,2017,089-2017,Top Five Foreign Language Films,NA,tt4995790,The Square,NA,NA,International
+89,2017,089-2017,Top Ten Independent Films,NA,tt6265828,A Ghost Story,NA,NA,Independent
+89,2017,089-2017,Top Ten Independent Films,NA,tt5929750,Beatriz at Dinner,NA,NA,Independent
+89,2017,089-2017,Top Ten Independent Films,NA,tt5805752,Brigsby Bear,NA,NA,Independent
+89,2017,089-2017,Top Ten Independent Films,NA,tt4291600,Lady Macbeth,NA,NA,Independent
+89,2017,089-2017,Top Ten Independent Films,NA,tt5439796,Logan Lucky,NA,NA,Independent
+89,2017,089-2017,Top Ten Independent Films,NA,tt3262342,Loving Vincent,NA,NA,Independent
+89,2017,089-2017,Top Ten Independent Films,NA,tt6333086,Menashe,NA,NA,Independent
+89,2017,089-2017,Top Ten Independent Films,NA,tt4191702,Norman,NA,NA,Independent
+89,2017,089-2017,Top Ten Independent Films,NA,tt6288250,Patti Cake$,NA,NA,Independent
+89,2017,089-2017,Top Ten Independent Films,NA,tt5362988,Wind River,NA,NA,Independent
+90,2018,090-2018,Best Actor,NA,tt6966692,Green Book,nm0001557,Viggo Mortensen,Performance
+90,2018,090-2018,Best Actress,NA,tt1517451,A Star Is Born,nm3078932,Lady Gaga,Performance
+90,2018,090-2018,Best Adapted Screenplay,NA,tt7125860,If Beale Street Could Talk,nm1503575,Barry Jenkins,Writing
+90,2018,090-2018,Best Animated Feature,NA,tt3606756,Incredibles 2,NA,NA,Top Films
+90,2018,090-2018,Best Director,NA,tt1517451,A Star Is Born,nm0177896,Bradley Cooper,Director
+90,2018,090-2018,Best Directorial Debut,NA,tt7014006,Eighth Grade,nm3102998,Bo Burnham,Director
+90,2018,090-2018,Best Documentary,NA,tt7689964,RBG,NA,NA,Documentary
+90,2018,090-2018,Best Ensemble,NA,tt3104988,Crazy Rich Asians,NA,NA,Performance
+90,2018,090-2018,Best Film,NA,tt6966692,Green Book,NA,NA,Top Films
+90,2018,090-2018,Best Foreign Language Film,NA,tt6543652,Cold War,NA,NA,International
+90,2018,090-2018,Best Original Screenplay,NA,tt6053438,First Reformed,nm0001707,Paul Schrader,Writing
+90,2018,090-2018,Best Supporting Actor,NA,tt1517451,A Star Is Born,nm0000385,Sam Elliott,Performance
+90,2018,090-2018,Best Supporting Actress,NA,tt7125860,If Beale Street Could Talk,nm0005093,Regina King,Performance
+90,2018,090-2018,Breakthrough Performance,NA,tt3892172,Leave No Trace,nm5057169,Thomasin McKenzie,Performance
+90,2018,090-2018,Freedom of Expression Award,NA,tt7280898,22 Jul,NA,NA,Other
+90,2018,090-2018,Freedom of Expression Award,NA,tt7689484,On Her Shoulders,NA,NA,Other
+90,2018,090-2018,Top Five Documentaries,NA,tt7689908,Crime + Punishment,NA,NA,Documentary
+90,2018,090-2018,Top Five Documentaries,NA,tt7775622,Free Solo,NA,NA,Documentary
+90,2018,090-2018,Top Five Documentaries,NA,tt7476236,Minding the Gap,NA,NA,Documentary
+90,2018,090-2018,Top Five Documentaries,NA,tt7664504,Three Identical Strangers,NA,NA,Documentary
+90,2018,090-2018,Top Five Documentaries,NA,tt7681902,Won't You Be My Neighbor?,NA,NA,Documentary
+90,2018,090-2018,Top Foreign Films,NA,tt7282468,Burning,NA,NA,International
+90,2018,090-2018,Top Foreign Films,NA,tt6002232,Custody,NA,NA,International
+90,2018,090-2018,Top Foreign Films,NA,tt6752992,Happy as Lazzaro,NA,NA,International
+90,2018,090-2018,Top Foreign Films,NA,tt8075192,Shoplifters,NA,NA,International
+90,2018,090-2018,Top Foreign Films,NA,tt6742252,The Guilty,NA,NA,International
+90,2018,090-2018,Top Ten Films,NA,tt6644200,A Quiet Place,NA,NA,Top Films
+90,2018,090-2018,Top Ten Films,NA,tt1517451,A Star Is Born,NA,NA,Top Films
+90,2018,090-2018,Top Ten Films,NA,tt1825683,Black Panther,NA,NA,Top Films
+90,2018,090-2018,Top Ten Films,NA,tt4595882,Can You Ever Forgive Me?,NA,NA,Top Films
+90,2018,090-2018,Top Ten Films,NA,tt7014006,Eighth Grade,NA,NA,Top Films
+90,2018,090-2018,Top Ten Films,NA,tt6053438,First Reformed,NA,NA,Top Films
+90,2018,090-2018,Top Ten Films,NA,tt7125860,If Beale Street Could Talk,NA,NA,Top Films
+90,2018,090-2018,Top Ten Films,NA,tt5028340,Mary Poppins Returns,NA,NA,Top Films
+90,2018,090-2018,Top Ten Films,NA,tt6155172,Roma,NA,NA,Top Films
+90,2018,090-2018,Top Ten Films,NA,tt6412452,The Ballad of Buster Scruggs,NA,NA,Top Films
+90,2018,090-2018,Top Ten Independent Films,NA,tt5340300,Lean on Pete,NA,NA,Independent
+90,2018,090-2018,Top Ten Independent Films,NA,tt3892172,Leave No Trace,NA,NA,Independent
+90,2018,090-2018,Top Ten Independent Films,NA,tt5613484,Mid90s,NA,NA,Independent
+90,2018,090-2018,Top Ten Independent Films,NA,tt7668870,Searching,NA,NA,Independent
+90,2018,090-2018,Top Ten Independent Films,NA,tt5688932,Sorry to Bother You,NA,NA,Independent
+90,2018,090-2018,Top Ten Independent Films,NA,tt4686844,The Death of Stalin,NA,NA,Independent
+90,2018,090-2018,Top Ten Independent Films,NA,tt2837574,The Old Man & the Gun,NA,NA,Independent
+90,2018,090-2018,Top Ten Independent Films,NA,tt6217608,The Rider,NA,NA,Independent
+90,2018,090-2018,Top Ten Independent Films,NA,tt7681824,We the Animals,NA,NA,Independent
+90,2018,090-2018,Top Ten Independent Films,NA,tt5742374,You Were Never Really Here,NA,NA,Independent
+90,2018,090-2018,William K. Everson Film History Award,NA,tt0069049,The Other Side of the Wind,nm1475059,Filip Jan Rymsza,Other
+90,2018,090-2018,William K. Everson Film History Award,NA,tt6893836,They’ll Love Me When I’m Dead,nm1475059,Filip Jan Rymsza,Other
 91,2019,091-2019,Best Actor,NA,tt5727208,Uncut Gems,nm0001191,Adam Sandler,Performance
 91,2019,091-2019,Best Actress,NA,tt7549996,Judy,nm0000250,Renée Zellweger,Performance
 91,2019,091-2019,Best Adapted Screenplay,NA,tt1302006,The Irishman,nm0001873,Steven Zaillian,Writing
@@ -1892,6 +2812,11 @@ Ceremony,Ceremony.Year,AwardCeremony,AwardCategory,Note,FilmID,FilmName,PersonID
 91,2019,091-2019,Best Supporting Actor,NA,tt7131622,Once Upon a Time in Hollywood,nm0000093,Brad Pitt,Performance
 91,2019,091-2019,Best Supporting Actress,NA,tt3513548,Richard Jewell,nm0000870,Kathy Bates,Performance
 91,2019,091-2019,Breakthrough Performance,NA,tt3513548,Richard Jewell,nm3236159,Paul Walter Hauser,Performance
+91,2019,091-2019,Freedom of Expression Award,NA,tt9617456,For Sama,NA,NA,Other
+91,2019,091-2019,Freedom of Expression Award,NA,tt4916630,Just Mercy,NA,NA,Other
+91,2019,091-2019,Icon Award,NA,tt1302006,The Irishman,nm0000199,Al Pacino,Other
+91,2019,091-2019,Icon Award,NA,tt1302006,The Irishman,nm0000134,Robert De Niro,Other
+91,2019,091-2019,Icon Award,NA,tt1302006,The Irishman,nm0000217,Martin Scorsese,Other
 91,2019,091-2019,Outstanding Achievement in Cinematography,NA,tt8579674,1917,nm0005683,Roger Deakins,Other
 91,2019,091-2019,Top Five Documentaries,NA,tt9351980,American Factory,NA,NA,Documentary
 91,2019,091-2019,Top Five Documentaries,NA,tt8760684,Apollo 11,NA,NA,Documentary
@@ -1923,6 +2848,55 @@ Ceremony,Ceremony.Year,AwardCeremony,AwardCategory,Note,FilmID,FilmName,PersonID
 91,2019,091-2019,Top Ten Independent Films,NA,tt4364194,The Peanut Butter Falcon,NA,NA,Independent
 91,2019,091-2019,Top Ten Independent Films,NA,tt6920356,The Souvenir,NA,NA,Independent
 91,2019,091-2019,Top Ten Independent Films,NA,tt5117428,Wild Rose,NA,NA,Independent
+92,2020,092-2020,Best Actor,NA,tt5363618,Sound of Metal,nm1981893,Riz Ahmed,Performance
+92,2020,092-2020,Best Actress,NA,tt9620292,Promising Young Woman,nm1659547,Carey Mulligan,Performance
+92,2020,092-2020,Best Adapted Screenplay,NA,tt6878306,News of the World,nm1729294,Luke Davies,Writing
+92,2020,092-2020,Best Adapted Screenplay,NA,tt6878306,News of the World,nm0339030,Paul Greengrass,Writing
+92,2020,092-2020,Best Animated Feature,NA,tt2948372,Soul,NA,NA,Top Films
+92,2020,092-2020,Best Director,NA,tt9777644,Da 5 Bloods,nm0000490,Spike Lee,Director
+92,2020,092-2020,Best Directorial Debut,NA,tt11394158,Miss Juneteenth,nm1474677,Channing Godfrey Peoples,Director
+92,2020,092-2020,Best Documentary,NA,tt11416746,Time,NA,NA,Documentary
+92,2020,092-2020,Best Ensemble,NA,tt9777644,Da 5 Bloods,NA,NA,Performance
+92,2020,092-2020,Best Film,NA,tt9777644,Da 5 Bloods,NA,NA,Top Films
+92,2020,092-2020,Best Foreign Language Film,NA,tt10767168,La llorona,NA,NA,International
+92,2020,092-2020,Best Original Screenplay,NA,tt10633456,Minari,nm1818032,Lee Isaac Chung,Writing
+92,2020,092-2020,Best Supporting Actor,NA,tt5363618,Sound of Metal,nm0705152,Paul Raci,Performance
+92,2020,092-2020,Best Supporting Actress,NA,tt10633456,Minari,nm0950926,Youn Yuh-jung,Performance
+92,2020,092-2020,Breakthrough Performance,NA,tt7772582,Never Rarely Sometimes Always,nm10620978,Sidney Flanigan,Performance
+92,2020,092-2020,Freedom of Expression Award,NA,tt10612922,One Night in Miami…,NA,NA,Other
+92,2020,092-2020,Icon Award,Posthumously,NA,NA,nm1569276,Chadwick Boseman,Other
+92,2020,092-2020,Outstanding Achievement in Cinematography,NA,tt9770150,Nomadland,nm4452305,Joshua James Richards,Other
+92,2020,092-2020,Spotlight Award,NA,tt10642834,The Forty-Year-Old Version,nm0087523,Radja Blank,Other
+92,2020,092-2020,Top Five Documentaries,NA,tt12538822,All In: The Fight for Democracy,NA,NA,Documentary
+92,2020,092-2020,Top Five Documentaries,NA,tt11095742,Boys State,NA,NA,Documentary
+92,2020,092-2020,Top Five Documentaries,NA,tt11394180,Dick Johnson Is Dead,NA,NA,Documentary
+92,2020,092-2020,Top Five Documentaries,NA,tt11388580,Miss Americana,NA,NA,Documentary
+92,2020,092-2020,Top Five Documentaries,NA,tt11394318,The Truffle Hunters,NA,NA,Documentary
+92,2020,092-2020,Top Five Foreign Language Films,NA,tt10110614,Apples,NA,NA,International
+92,2020,092-2020,Top Five Foreign Language Films,NA,tt10706602,Collective,NA,NA,International
+92,2020,092-2020,Top Five Foreign Language Films,NA,tt10796286,Dear Comrades!,NA,NA,International
+92,2020,092-2020,Top Five Foreign Language Films,NA,tt8132778,Night of the Kings,NA,NA,International
+92,2020,092-2020,Top Five Foreign Language Films,NA,tt11394298,The Mole Agent,NA,NA,International
+92,2020,092-2020,Top Ten Films,NA,tt9231040,First Cow,NA,NA,Top Films
+92,2020,092-2020,Top Ten Films,NA,tt9784798,Judas and the Black Messiah,NA,NA,Top Films
+92,2020,092-2020,Top Ten Films,NA,tt10633456,Minari,NA,NA,Top Films
+92,2020,092-2020,Top Ten Films,NA,tt6878306,News of the World,NA,NA,Top Films
+92,2020,092-2020,Top Ten Films,NA,tt9770150,Nomadland,NA,NA,Top Films
+92,2020,092-2020,Top Ten Films,NA,tt9620292,Promising Young Woman,NA,NA,Top Films
+92,2020,092-2020,Top Ten Films,NA,tt2948372,Soul,NA,NA,Top Films
+92,2020,092-2020,Top Ten Films,NA,tt5363618,Sound of Metal,NA,NA,Top Films
+92,2020,092-2020,Top Ten Films,NA,tt10642834,The Forty-Year-Old Version,NA,NA,Top Films
+92,2020,092-2020,Top Ten Films,NA,tt10539608,The Midnight Sky,NA,NA,Top Films
+92,2020,092-2020,Top Ten Independent Films,NA,tt9318280,Driveways,NA,NA,Independent
+92,2020,092-2020,Top Ten Independent Films,NA,tt11380884,Farewell Amor,NA,NA,Independent
+92,2020,092-2020,Top Ten Independent Films,NA,tt11394158,Miss Juneteenth,NA,NA,Independent
+92,2020,092-2020,Top Ten Independent Films,NA,tt7772582,Never Rarely Sometimes Always,NA,NA,Independent
+92,2020,092-2020,Top Ten Independent Films,NA,tt9072352,Relic,NA,NA,Independent
+92,2020,092-2020,Top Ten Independent Films,NA,tt9016016,Saint Frances,NA,NA,Independent
+92,2020,092-2020,Top Ten Independent Films,NA,tt8637440,The Climb,NA,NA,Independent
+92,2020,092-2020,Top Ten Independent Films,NA,tt8338762,The Nest,NA,NA,Independent
+92,2020,092-2020,Top Ten Independent Films,NA,tt3833480,The Outpost,NA,NA,Independent
+92,2020,092-2020,Top Ten Independent Films,NA,tt5198068,WolfWalkers,NA,NA,Independent
 93,2021,093-2021,Best Actor,NA,tt9620288,King Richard,nm0000226,Will Smith,Performance
 93,2021,093-2021,Best Actress,NA,tt3581652,West Side Story,nm10399505,Rachel Zegler,Performance
 93,2021,093-2021,Best Adapted Screenplay,NA,tt10095582,The Tragedy of Macbeth,nm0001054,Joel Coen,Writing
