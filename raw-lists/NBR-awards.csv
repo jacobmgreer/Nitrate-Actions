@@ -1756,16 +1756,16 @@ Ceremony,Ceremony.Year,AwardCeremony,AwardCategory,Note,FilmID,FilmName,PersonID
 71,1999,071-1999,Special Citation,For the Baltimore series,tt0099073,Avalon,nm0001469,Barry Levinson,Other
 71,1999,071-1999,Special Citation,For the Baltimore series,tt0085439,Diner,nm0001469,Barry Levinson,Other
 71,1999,071-1999,Special Citation,For the Baltimore series,tt0094155,Tin Man,nm0001469,Barry Levinson,Other
-71,1999,071-1999,Special Recognition for Excellence in Filmmaking,NA,,A Map of the World,NA,NA,Independent
-71,1999,071-1999,Special Recognition for Excellence in Filmmaking,NA,,A Walk on the Moon,NA,NA,Independent
-71,1999,071-1999,Special Recognition for Excellence in Filmmaking,NA,,Election,NA,NA,Independent
-71,1999,071-1999,Special Recognition for Excellence in Filmmaking,NA,,Go,NA,NA,Independent
-71,1999,071-1999,Special Recognition for Excellence in Filmmaking,NA,,Limbo,NA,NA,Independent
-71,1999,071-1999,Special Recognition for Excellence in Filmmaking,NA,,"Lock, Stock, & Two Smoking Barrels",NA,NA,Independent
-71,1999,071-1999,Special Recognition for Excellence in Filmmaking,NA,,Man of the Century,NA,NA,Independent
-71,1999,071-1999,Special Recognition for Excellence in Filmmaking,NA,,Stir of Echoes,NA,NA,Independent
-71,1999,071-1999,Special Recognition for Excellence in Filmmaking,NA,,This is My Father,NA,NA,Independent
-71,1999,071-1999,Special Recognition for Excellence in Filmmaking,NA,,Twin Falls Idaho,NA,NA,Independent
+71,1999,071-1999,Special Recognition for Excellence in Filmmaking,NA,tt0160513,A Map of the World,NA,NA,Independent
+71,1999,071-1999,Special Recognition for Excellence in Filmmaking,NA,tt0120613,A Walk on the Moon,NA,NA,Independent
+71,1999,071-1999,Special Recognition for Excellence in Filmmaking,NA,tt0126886,Election,NA,NA,Independent
+71,1999,071-1999,Special Recognition for Excellence in Filmmaking,NA,tt0139239,Go,NA,NA,Independent
+71,1999,071-1999,Special Recognition for Excellence in Filmmaking,NA,tt0164085,Limbo,NA,NA,Independent
+71,1999,071-1999,Special Recognition for Excellence in Filmmaking,NA,tt0120735,"Lock, Stock, & Two Smoking Barrels",NA,NA,Independent
+71,1999,071-1999,Special Recognition for Excellence in Filmmaking,NA,tt0138537,Man of the Century,NA,NA,Independent
+71,1999,071-1999,Special Recognition for Excellence in Filmmaking,NA,tt0164181,Stir of Echoes,NA,NA,Independent
+71,1999,071-1999,Special Recognition for Excellence in Filmmaking,NA,tt0120865,This is My Father,NA,NA,Independent
+71,1999,071-1999,Special Recognition for Excellence in Filmmaking,NA,tt0162830,Twin Falls Idaho,NA,NA,Independent
 71,1999,071-1999,Top Foreign Films,NA,tt0185125,All About My Mother,NA,NA,International
 71,1999,071-1999,Top Foreign Films,NA,tt0169145,Cabaret Balkan,NA,NA,International
 71,1999,071-1999,Top Foreign Films,NA,tt0181530,East/West,NA,NA,International
@@ -2051,7 +2051,7 @@ Ceremony,Ceremony.Year,AwardCeremony,AwardCategory,Note,FilmID,FilmName,PersonID
 76,2004,076-2004,Special Recognition for Excellence in Filmmaking,NA,tt0333766,Garden State,NA,NA,Independent
 76,2004,076-2004,Special Recognition for Excellence in Filmmaking,NA,tt0373024,Imaginary Heroes,NA,NA,Independent
 76,2004,076-2004,Special Recognition for Excellence in Filmmaking,NA,tt0336264,Since Otar Left,NA,NA,Independent
-76,2004,076-2004,Special Recognition for Excellence in Filmmaking,NA,/tt0368658,Stage Beauty,NA,NA,Independent
+76,2004,076-2004,Special Recognition for Excellence in Filmmaking,NA,tt0368658,Stage Beauty,NA,NA,Independent
 76,2004,076-2004,Special Recognition for Excellence in Filmmaking,NA,tt0364961,The Assassination of Richard Nixon,NA,NA,Independent
 76,2004,076-2004,Special Recognition for Excellence in Filmmaking,NA,tt0361127,The Woodsman,NA,NA,Independent
 76,2004,076-2004,Special Recognition for Excellence in Filmmaking,NA,tt0360130,Undertow,NA,NA,Independent
@@ -2103,7 +2103,7 @@ Ceremony,Ceremony.Year,AwardCeremony,AwardCategory,Note,FilmID,FilmName,PersonID
 77,2005,077-2005,Producers Award,NA,NA,NA,nm0951763,Saul Zaentz,Other
 77,2005,077-2005,Special Recognition for Excellence in Filmmaking,NA,tt0411195,Breakfast on Pluto,NA,NA,Independent
 77,2005,077-2005,Special Recognition for Excellence in Filmmaking,NA,tt0398830,Cape of Good Hope,NA,NA,Independent
-77,2005,077-2005,Special Recognition for Excellence in Filmmaking,NA,/tt0404030,Everything is Illuminated,NA,NA,Independent
+77,2005,077-2005,Special Recognition for Excellence in Filmmaking,NA,tt0404030,Everything is Illuminated,NA,NA,Independent
 77,2005,077-2005,Special Recognition for Excellence in Filmmaking,NA,tt0410097,Hustle & Flow,NA,NA,Independent
 77,2005,077-2005,Special Recognition for Excellence in Filmmaking,NA,tt0418773,Junebug,NA,NA,Independent
 77,2005,077-2005,Special Recognition for Excellence in Filmmaking,NA,tt0375912,Layer Cake,NA,NA,Independent
