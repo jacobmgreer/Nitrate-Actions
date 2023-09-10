@@ -1,3 +1,1 @@
-This repo contains updated files of my media consumption.
-
-Across vinyl, art, film, and television.
+This repo uses Github Actions to compile various datasets based on my television and film ratings.
