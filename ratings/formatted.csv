@@ -1,6 +1,7 @@
 "Const","Your.Rating","Date.Rated","Title","URL","Title.Type","IMDb.Rating","Runtime..mins.","Year","Genres","Num.Votes","Release.Date","Directors","AFI","Theater","Service"
 "tt10638522",7,"2023-09-20","Talk to Me","https://www.imdb.com/title/tt10638522/","movie",7.3,95,2022,"Horror, Thriller",53164,"2022-10-30","Danny Philippou, Michael Philippou",NA,NA,NA
 "tt0014429",8,"2023-09-20","Safety Last!","https://www.imdb.com/title/tt0014429/","movie",8.1,74,1923,"Action, Comedy, Thriller",22298,"1923-04-01","Fred C. Newmeyer, Sam Taylor",NA,NA,NA
+"tt1935179",6,"2023-09-20","Mud","https://www.imdb.com/title/tt1935179/","movie",7.4,130,2012,"Adventure, Drama",186613,"2012-05-26","Jeff Nichols",NA,NA,NA
 "tt0025913",8,"2023-09-20","Triumph des Willens","https://www.imdb.com/title/tt0025913/","movie",7.2,114,1935,"Documentary, History",18083,"1935-03-28","Leni Riefenstahl",NA,NA,NA
 "tt0032881",6,"2023-09-20","Our Town","https://www.imdb.com/title/tt0032881/","movie",6.5,90,1940,"Drama, Family, Romance",2864,"1940-05-24","Sam Wood",NA,NA,"Prime"
 "tt0055597",9,"2023-09-20","Victim","https://www.imdb.com/title/tt0055597/","movie",7.7,100,1961,"Drama",6936,"1961-08-31","Basil Dearden",NA,NA,NA
@@ -4255,7 +4256,7 @@
 "tt0044789",NA,NA,"Kansas City Confidential","https://www.imdb.com/title/tt0044789/","movie",7.3,99,1952,"Crime, Drama, Film-Noir, Thriller",7910,"1952-11-07","Phil Karlson",NA,NA,NA
 "tt0019451",NA,NA,"Tempest","https://www.imdb.com/title/tt0019451/","movie",6.8,102,1928,"Drama, Romance",506,"1928-05-15","Lewis Milestone, Viktor Tourjansky, Sam Taylor",NA,NA,NA
 "tt0029843",NA,NA,"The Adventures of Robin Hood","https://www.imdb.com/title/tt0029843/","movie",7.9,102,1938,"Action, Adventure, Romance",53789,"1938-05-12","Michael Curtiz, William Keighley",NA,NA,NA
-"tt0030202",NA,NA,"The Great Waltz","https://www.imdb.com/title/tt0030202/","movie",6.5,104,1938,"Biography, Drama, Music, Musical, Romance",1291,"1938-11-04","Josef von Sternberg, Victor Fleming, Julien Duvivier",NA,NA,"Prime Rentals"
+"tt0030202",NA,NA,"The Great Waltz","https://www.imdb.com/title/tt0030202/","movie",6.5,104,1938,"Biography, Drama, Music, Musical, Romance",1291,"1938-11-04","Victor Fleming, Josef von Sternberg, Julien Duvivier",NA,NA,"Prime Rentals"
 "tt0030855",NA,NA,"That Mothers Might Live","https://www.imdb.com/title/tt0030855/","short",6.3,10,1938,"Short, Biography, Drama",247,"1938-04-30","Fred Zinnemann",NA,NA,NA
 "tt0019788",NA,NA,"Coquette","https://www.imdb.com/title/tt0019788/","movie",5.5,76,1929,"Drama, Romance",2306,"1929-03-30","Sam Taylor",NA,NA,NA
 "tt0020018",NA,NA,"In Old Arizona","https://www.imdb.com/title/tt0020018/","movie",5.5,95,1928,"Drama, Western",1255,"1928-12-25","Raoul Walsh, Irving Cummings",NA,NA,"Prime Rentals"
@@ -4505,7 +4506,7 @@
 "tt0096257",NA,NA,"The Thin Blue Line","https://www.imdb.com/title/tt0096257/","movie",8,101,1988,"Documentary, Crime",25484,"1988-04-30","Errol Morris",NA,NA,"Prime Rentals"
 "tt0096332",NA,NA,"The Unbearable Lightness of Being","https://www.imdb.com/title/tt0096332/","movie",7.3,171,1988,"Drama, Romance",38104,"1988-02-05","Philip Kaufman",NA,NA,NA
 "tt0095675",NA,NA,"Mujeres al borde de un ataque de ""nervios""","https://www.imdb.com/title/tt0095675/","movie",7.5,88,1988,"Comedy, Drama",45341,"1988-03-14","Pedro Almodóvar",NA,NA,"Prime"
-"tt0036515",NA,NA,"Watch on the Rhine","https://www.imdb.com/title/tt0036515/","movie",7.1,114,1943,"Drama, Thriller",4823,"1943-08-27","Herman Shumlin, Hal Mohr",NA,NA,"Prime Rentals"
+"tt0036515",NA,NA,"Watch on the Rhine","https://www.imdb.com/title/tt0036515/","movie",7.1,114,1943,"Drama, Thriller",4823,"1943-08-27","Hal Mohr, Herman Shumlin",NA,NA,"Prime Rentals"
 "tt0035160",NA,NA,"Ossessione","https://www.imdb.com/title/tt0035160/","movie",7.6,140,1943,"Crime, Drama, Romance",8161,"1943-05-31","Luchino Visconti",NA,NA,"Prime Rentals"
 "tt0036172",NA,NA,"The More the Merrier","https://www.imdb.com/title/tt0036172/","movie",7.6,104,1943,"Comedy",7270,"1943-05-12","George Stevens",NA,NA,"Prime Rentals"
 "tt0058557",NA,NA,"Seance on a Wet Afternoon","https://www.imdb.com/title/tt0058557/","movie",7.6,121,1964,"Crime, Drama",7158,"1964-06-04","Bryan Forbes",NA,NA,NA
@@ -4568,7 +4569,7 @@
 "tt0024865",NA,NA,"The Barretts of Wimpole Street","https://www.imdb.com/title/tt0024865/","movie",6.9,109,1934,"Biography, Drama, Romance",2065,"1934-09-14","Sidney Franklin",NA,NA,NA
 "tt0025272",NA,NA,"The House of Rothschild","https://www.imdb.com/title/tt0025272/","movie",6.5,88,1934,"Biography, Drama, History, War",1292,"1934-03-14","Alfred L. Werker, Sidney Lanfield",NA,NA,NA
 "tt0025986",NA,NA,"The White Parade","https://www.imdb.com/title/tt0025986/","movie",6.9,80,1934,"Drama",117,"1934-11-16","Irving Cummings",NA,NA,NA
-"tt0025948",NA,NA,"Viva Villa!","https://www.imdb.com/title/tt0025948/","movie",6.4,115,1934,"Western",1539,"1934-04-10","William A. Wellman, Jack Conway, Howard Hawks",NA,NA,NA
+"tt0025948",NA,NA,"Viva Villa!","https://www.imdb.com/title/tt0025948/","movie",6.4,115,1934,"Western",1539,"1934-04-10","Jack Conway, William A. Wellman, Howard Hawks",NA,NA,NA
 "tt0026643",NA,NA,"The Lives of a Bengal Lancer","https://www.imdb.com/title/tt0026643/","movie",7,109,1935,"Adventure, Drama, War",3182,"1935-01-11","Henry Hathaway",NA,NA,NA
 "tt0026529",NA,NA,"The Informer","https://www.imdb.com/title/tt0026529/","movie",7.4,91,1935,"Crime, Drama",6984,"1935-05-08","John Ford",NA,NA,"Prime Rentals"
 "tt0026955",NA,NA,"Ruggles of Red Gap","https://www.imdb.com/title/tt0026955/","movie",7.6,90,1935,"Comedy, Mystery, Romance, Western",4360,"1935-02-19","Leo McCarey",NA,NA,"Prime Rentals"
@@ -4580,7 +4581,7 @@
 "tt0026056",NA,NA,"Alice Adams","https://www.imdb.com/title/tt0026056/","movie",6.9,99,1935,"Comedy, Drama, Romance",4434,"1935-08-15","George Stevens",NA,NA,NA
 "tt0026714",NA,NA,"A Midsummer Night's Dream","https://www.imdb.com/title/tt0026714/","movie",6.8,133,1935,"Comedy, Fantasy, Romance",3827,"1935-10-09","William Dieterle, Max Reinhardt",NA,NA,NA
 "tt0027300",NA,NA,"Anthony Adverse","https://www.imdb.com/title/tt0027300/","movie",6.3,141,1936,"Adventure, Drama, Romance",1986,"1936-05-19","Mervyn LeRoy, Michael Curtiz",NA,NA,NA
-"tt0027075",NA,NA,"A Tale of Two Cities","https://www.imdb.com/title/tt0027075/","movie",7.8,128,1935,"Drama, History, Romance",6177,"1935-12-15","Robert Z. Leonard, Jack Conway",NA,NA,NA
+"tt0027075",NA,NA,"A Tale of Two Cities","https://www.imdb.com/title/tt0027075/","movie",7.8,128,1935,"Drama, History, Romance",6177,"1935-12-15","Jack Conway, Robert Z. Leonard",NA,NA,NA
 "tt0027884",NA,NA,"Libeled Lady","https://www.imdb.com/title/tt0027884/","movie",7.8,98,1936,"Comedy, Romance",8706,"1936-10-07","Jack Conway",NA,NA,NA
 "tt0027996",NA,NA,"Mr. Deeds Goes to Town","https://www.imdb.com/title/tt0027996/","movie",7.8,115,1936,"Comedy, Drama, Romance",22894,"1936-04-08","Frank Capra",NA,NA,"Prime Rentals"
 "tt0028216",NA,NA,"San Francisco","https://www.imdb.com/title/tt0028216/","movie",7.2,115,1936,"Drama, Music, Romance",5990,"1936-06-24","W.S. Van Dyke",NA,NA,NA
@@ -4931,7 +4932,7 @@
 "tt0055895",NA,NA,"Days of Wine and Roses","https://www.imdb.com/title/tt0055895/","movie",7.8,117,1962,"Drama",13756,"1962-12-25","Blake Edwards",NA,NA,"Prime Rentals"
 "tt0055032",NA,NA,"Jules et Jim","https://www.imdb.com/title/tt0055032/","movie",7.7,105,1962,"Drama, Romance",43866,"1962-01-23","François Truffaut",NA,NA,"Prime Rentals"
 "tt0056291",NA,NA,"Nóz w wodzie","https://www.imdb.com/title/tt0056291/","movie",7.4,94,1962,"Drama, Thriller",23230,"1962-03-09","Roman Polanski",NA,NA,NA
-"tt0056197",NA,NA,"The Longest Day","https://www.imdb.com/title/tt0056197/","movie",7.7,178,1962,"Action, Drama, History, War",58419,"1962-09-25","Andrew Marton, Ken Annakin, Darryl F. Zanuck, Bernhard Wicki, Gerd Oswald",NA,NA,NA
+"tt0056197",NA,NA,"The Longest Day","https://www.imdb.com/title/tt0056197/","movie",7.7,178,1962,"Action, Drama, History, War",58419,"1962-09-25","Andrew Marton, Ken Annakin, Darryl F. Zanuck, Gerd Oswald, Bernhard Wicki",NA,NA,NA
 "tt0056196",NA,NA,"Long Day's Journey Into Night","https://www.imdb.com/title/tt0056196/","movie",7.5,174,1962,"Drama",5765,"1962-05-31","Sidney Lumet",NA,NA,"Prime Rentals"
 "tt0056412",NA,NA,"Ride the High Country","https://www.imdb.com/title/tt0056412/","movie",7.4,94,1962,"Drama, Western",14615,"1962-05-09","Sam Peckinpah",NA,NA,NA
 "tt0054225",NA,NA,"La ragazza con la valigia","https://www.imdb.com/title/tt0054225/","movie",7.5,121,1961,"Drama, Romance",2371,"1961-02-09","Valerio Zurlini",NA,NA,NA
@@ -4998,7 +4999,7 @@
 "tt0040765",NA,NA,"The Search","https://www.imdb.com/title/tt0040765/","movie",7.8,104,1948,"Drama, War",4704,"1948-02-06","Fred Zinnemann",NA,NA,"Prime Rentals"
 "tt0040795",NA,NA,"Sitting Pretty","https://www.imdb.com/title/tt0040795/","movie",7.4,83,1948,"Comedy, Family",2658,"1948-03-10","Walter Lang",NA,NA,"Prime Rentals"
 "tt0040866",NA,NA,"La terra trema","https://www.imdb.com/title/tt0040866/","movie",7.8,160,1948,"Drama",5540,"1948-09-02","Luchino Visconti",NA,NA,"Prime Rentals"
-"tt0039402",NA,NA,"The Fugitive","https://www.imdb.com/title/tt0039402/","movie",6.3,104,1947,"Drama, History",2535,"1947-11-11","Emilio Fernández, John Ford",NA,NA,"Prime Rentals"
+"tt0039402",NA,NA,"The Fugitive","https://www.imdb.com/title/tt0039402/","movie",6.3,104,1947,"Drama, History",2535,"1947-11-11","John Ford, Emilio Fernández",NA,NA,"Prime Rentals"
 "tt0039631",NA,NA,"Monsieur Verdoux","https://www.imdb.com/title/tt0039631/","movie",7.8,124,1947,"Comedy, Crime, Drama",18827,"1947-04-11","Charles Chaplin",NA,NA,"Prime Rentals"
 "tt0039969",NA,NA,"The Voice of the Turtle","https://www.imdb.com/title/tt0039969/","movie",6.8,103,1947,"Comedy, Romance",787,"1947-12-25","Irving Rapper",NA,NA,"Prime Rentals"
 "tt0038303",NA,NA,"Anna and the King of Siam","https://www.imdb.com/title/tt0038303/","movie",7,128,1946,"Biography, Drama, Romance",2566,"1946-06-20","John Cromwell",NA,NA,"Prime Rentals"
@@ -5073,7 +5074,7 @@
 "tt0034241",NA,NA,"Sun Valley Serenade","https://www.imdb.com/title/tt0034241/","movie",7.1,86,1941,"Comedy",1886,"1941-08-21","H. Bruce Humberstone",NA,NA,NA
 "tt0033464",NA,NA,"The Chocolate Soldier","https://www.imdb.com/title/tt0033464/","movie",6,102,1941,"Musical",331,"1941-10-31","Roy Del Ruth",NA,NA,NA
 "tt0033331",NA,NA,"Aloma of the South Seas","https://www.imdb.com/title/tt0033331/","movie",5.4,78,1941,"Drama",174,"1941-08-27","Alfred Santell",NA,NA,NA
-"tt0033389",NA,NA,"Billy the Kid","https://www.imdb.com/title/tt0033389/","movie",5.7,94,1941,"Western",1058,"1941-05-30","Frank Borzage, David Miller",NA,NA,NA
+"tt0033389",NA,NA,"Billy the Kid","https://www.imdb.com/title/tt0033389/","movie",5.7,94,1941,"Western",1058,"1941-05-30","David Miller, Frank Borzage",NA,NA,NA
 "tt0033537",NA,NA,"Dive Bomber","https://www.imdb.com/title/tt0033537/","movie",6.5,132,1941,"Drama, Romance, War",2000,"1941-08-12","Michael Curtiz",NA,NA,NA
 "tt0033828",NA,NA,"A Letter from Home","https://www.imdb.com/title/tt0033828/","short",6.7,17,1941,"Short, Drama",72,"1941-12-01","Carol Reed",NA,NA,NA
 "tt0033833",NA,NA,"Life of a Thoroughbred","https://www.imdb.com/title/tt0033833/","short",NA,11,1941,"Short, Documentary",NA,"","Tom Cummiskey",NA,NA,NA
@@ -5371,7 +5372,7 @@
 "tt2028578",NA,NA,"The Tsunami and the Cherry Blossom","https://www.imdb.com/title/tt2028578/","short",7.7,39,2011,"Documentary, Short",367,"2011-09-12","Lucy Walker",NA,NA,NA
 "tt6386210",NA,NA,"Revolting Rhymes: Revolting Rhymes Part One","https://www.imdb.com/title/tt6386210/","tvEpisode",7.6,29,2016,"Animation, Comedy, Drama, Fantasy",1911,"2016-12-26","Jakob Schuh, Bin-Han To, Jan Lachauer",NA,NA,NA
 "tt5952382",NA,NA,"Abacus: Small Enough to Jail","https://www.imdb.com/title/tt5952382/","movie",7.1,88,2016,"Documentary",2916,"2016-09-11","Steve James",NA,NA,NA
-"tt6333074",NA,NA,"Last Men in Aleppo","https://www.imdb.com/title/tt6333074/","movie",7.4,104,2017,"Documentary, War",3002,"2017-01-23","Feras Fayyad, Steen Johannessen",NA,NA,NA
+"tt6333074",NA,NA,"Last Men in Aleppo","https://www.imdb.com/title/tt6333074/","movie",7.4,104,2017,"Documentary, War",3002,"2017-01-23","Steen Johannessen, Feras Fayyad",NA,NA,NA
 "tt5873150",NA,NA,"Strong Island","https://www.imdb.com/title/tt5873150/","movie",6.4,107,2017,"Documentary, Crime",4122,"2017-01-23","Yance Ford",NA,NA,NA
 "tt5095260",NA,NA,"Heaven Is a Traffic Jam on the 405","https://www.imdb.com/title/tt5095260/","short",7.4,40,2016,"Documentary, Short, Biography",901,"2016-10-31","Frank Stiefel",NA,NA,"Prime Rentals"
 "tt6519356",NA,NA,"Edith+Eddie","https://www.imdb.com/title/tt6519356/","short",7,29,2017,"Documentary, Short",741,"2017-03-02","Laura Checkoway",NA,NA,NA
@@ -5426,7 +5427,7 @@
 "tt0055257",NA,NA,"One-Eyed Jacks","https://www.imdb.com/title/tt0055257/","movie",7.1,141,1961,"Drama, Western",12829,"1961-03-30","Marlon Brando",NA,NA,NA
 "tt1613750",NA,NA,"Kon-Tiki","https://www.imdb.com/title/tt1613750/","movie",7.1,118,2012,"Action, Adventure, Biography, Drama, History",51411,"2012-08-18","Espen Sandberg, Joachim Rønning",NA,NA,NA
 "tt0096316",NA,NA,"Tucker: The Man and His Dream","https://www.imdb.com/title/tt0096316/","movie",6.9,110,1988,"Biography, Comedy, Drama",21435,"1988-08-12","Francis Ford Coppola",NA,NA,NA
-"tt0031397",NA,NA,"Gulliver's Travels","https://www.imdb.com/title/tt0031397/","movie",6.6,76,1939,"Animation, Adventure, Comedy, Family, Fantasy, Musical, Romance",4716,"1939-12-18","Grim Natwick, Roland Crandall, Dave Fleischer, Tom Palmer, Orestes Calpini, Thomas Johnson, Winfield Hoskins, Robert G. Leffingwell, Seymour Kneitel, Frank Kelling, Willard Bowsky, William Henning",NA,NA,NA
+"tt0031397",NA,NA,"Gulliver's Travels","https://www.imdb.com/title/tt0031397/","movie",6.6,76,1939,"Animation, Adventure, Comedy, Family, Fantasy, Musical, Romance",4716,"1939-12-18","Grim Natwick, Roland Crandall, Dave Fleischer, Orestes Calpini, Tom Palmer, Thomas Johnson, Winfield Hoskins, Robert G. Leffingwell, Frank Kelling, Seymour Kneitel, Willard Bowsky, William Henning",NA,NA,NA
 "tt0093818",NA,NA,"Radio Days","https://www.imdb.com/title/tt0093818/","movie",7.4,88,1987,"Comedy",35506,"1987-01-24","Woody Allen",NA,NA,NA
 "tt2024519",NA,NA,"The Broken Circle Breakdown","https://www.imdb.com/title/tt2024519/","movie",7.7,111,2012,"Drama, Music, Romance",42737,"2012-10-10","Felix van Groeningen",NA,NA,NA
 "tt0095801",NA,NA,"Out of Rosenheim","https://www.imdb.com/title/tt0095801/","movie",7.4,95,1987,"Comedy, Drama",14823,"1987-11-12","Percy Adlon",NA,NA,NA
@@ -5480,7 +5481,7 @@
 "tt0036430",NA,NA,"This Is the Army","https://www.imdb.com/title/tt0036430/","movie",5.8,121,1943,"Musical",1306,"1943-07-29","Michael Curtiz",NA,NA,"Prime"
 "tt0037193",NA,NA,"The Princess and the Pirate","https://www.imdb.com/title/tt0037193/","movie",6.8,94,1944,"Adventure, Comedy, Romance",2382,"1944-11-01","Sidney Lanfield, David Butler",NA,NA,NA
 "tt0065702",NA,NA,"Erinnerungen an die Zukunft","https://www.imdb.com/title/tt0065702/","movie",6.3,92,1970,"Documentary",1709,"1970-04-26","Harald Reinl",NA,NA,NA
-"tt0036886",NA,NA,"Guest in the House","https://www.imdb.com/title/tt0036886/","movie",6.2,121,1944,"Drama, Film-Noir, Music, Mystery",990,"1944-12-08","Lewis Milestone, John Brahm, John Cromwell, André De Toth",NA,NA,NA
+"tt0036886",NA,NA,"Guest in the House","https://www.imdb.com/title/tt0036886/","movie",6.2,121,1944,"Drama, Film-Noir, Music, Mystery",990,"1944-12-08","John Brahm, Lewis Milestone, John Cromwell, André De Toth",NA,NA,NA
 "tt0033029",NA,NA,"Second Chorus","https://www.imdb.com/title/tt0033029/","movie",5.7,84,1940,"Comedy, Musical, Romance",1705,"1940-12-03","H.C. Potter",NA,NA,NA
 "tt0041994",NA,NA,"Tulsa","https://www.imdb.com/title/tt0041994/","movie",6.1,90,1949,"Drama, Western",1330,"1949-04-13","Stuart Heisler",NA,NA,NA
 "tt0037420",NA,NA,"Up in Arms","https://www.imdb.com/title/tt0037420/","movie",6.2,105,1944,"Comedy, Musical",1104,"1944-02-17","Elliott Nugent",NA,NA,NA
@@ -5569,7 +5570,7 @@
 "tt10893378",NA,NA,"Merrily We Roll Along","https://www.imdb.com/title/tt10893378/","movie",NA,NA,NA,"Comedy, Musical",NA,"","Richard Linklater",NA,NA,NA
 "tt15799524",NA,NA,"The History of Sound","https://www.imdb.com/title/tt15799524/","movie",NA,NA,NA,"Romance",NA,"","Oliver Hermanus",NA,NA,NA
 "tt0020668",NA,NA,"The Bat Whispers","https://www.imdb.com/title/tt0020668/","movie",6.3,83,1930,"Crime, Drama, Horror, Mystery, Thriller",1103,"1930-11-13","Roland West",NA,NA,NA
-"tt0112651",NA,NA,"The Celluloid Closet","https://www.imdb.com/title/tt0112651/","movie",7.8,102,1995,"Documentary, History",7413,"1995-09-13","Rob Epstein, Jeffrey Friedman",NA,NA,NA
+"tt0112651",NA,NA,"The Celluloid Closet","https://www.imdb.com/title/tt0112651/","movie",7.8,102,1995,"Documentary, History",7413,"1995-09-13","Jeffrey Friedman, Rob Epstein",NA,NA,NA
 "tt0052296",NA,NA,"A Time to Love and a Time to Die","https://www.imdb.com/title/tt0052296/","movie",7.6,132,1958,"Drama, Romance, War",3577,"1958-06-24","Douglas Sirk",NA,NA,NA
 "tt13287846",NA,NA,"Napoleon","https://www.imdb.com/title/tt13287846/","movie",NA,158,2023,"Action, Adventure, Biography, Drama, History, War",NA,"2023-11-20","Ridley Scott",NA,NA,NA
 "tt7130916",NA,NA,"Dicks: The Musical","https://www.imdb.com/title/tt7130916/","movie",7.2,86,2023,"Comedy, Musical",79,"2023-09-07","Larry Charles",NA,NA,NA
@@ -5685,7 +5686,7 @@
 "tt0021404",NA,NA,"The Song of the Flame","https://www.imdb.com/title/tt0021404/","movie",5.1,96,1930,"Musical, Romance",69,"1930-05-25","Alan Crosland",NA,NA,NA
 "tt0021281",NA,NA,"Raffles","https://www.imdb.com/title/tt0021281/","movie",6.4,72,1930,"Adventure, Crime, Drama, History, Romance, Thriller",1093,"1930-07-11","Harry d'Abbadie d'Arrast, George Fitzmaurice",NA,NA,NA
 "tt0021025",NA,NA,"King of Jazz","https://www.imdb.com/title/tt0021025/","movie",6.7,99,1930,"Comedy, Musical",1562,"1930-04-20","John Murray Anderson, Walter Lantz",NA,NA,NA
-"tt0020960",NA,NA,"Hell's Angels","https://www.imdb.com/title/tt0020960/","movie",7.3,127,1930,"Drama, War",5814,"1930-05-27","Howard Hughes, James Whale, Edmund Goulding",NA,NA,NA
+"tt0020960",NA,NA,"Hell's Angels","https://www.imdb.com/title/tt0020960/","movie",7.3,127,1930,"Drama, War",5814,"1930-05-27","Edmund Goulding, James Whale, Howard Hughes",NA,NA,NA
 "tt0020744",NA,NA,"The Case of Sergeant Grischa","https://www.imdb.com/title/tt0020744/","movie",6.4,91,1930,"Drama, History, Romance, War",69,"1930-02-23","Herbert Brenon",NA,NA,NA
 "tt0020594",NA,NA,"With Byrd at the South Pole","https://www.imdb.com/title/tt0020594/","movie",6.9,82,1930,"Documentary, Adventure",397,"1930-06-19","",NA,NA,NA
 "tt0020358",NA,NA,"Sally","https://www.imdb.com/title/tt0020358/","movie",6,103,1929,"Musical",419,"1929-12-23","John Francis Dillon",NA,NA,NA
@@ -5768,7 +5769,7 @@
 "tt1379182",NA,NA,"Kynodontas","https://www.imdb.com/title/tt1379182/","movie",7.2,97,2009,"Drama, Thriller",104370,"2009-05-18","Yorgos Lanthimos",NA,NA,NA
 "tt1340107",NA,NA,"Hævnen","https://www.imdb.com/title/tt1340107/","movie",7.6,118,2010,"Drama, Romance",41271,"2010-08-26","Susanne Bier",NA,NA,NA
 "tt1274300",NA,NA,"The Tempest","https://www.imdb.com/title/tt1274300/","movie",5.3,110,2010,"Comedy, Drama, Fantasy, Romance",8192,"2010-09-11","Julie Taymor",NA,NA,NA
-"tt1268204",NA,NA,"Waste Land","https://www.imdb.com/title/tt1268204/","movie",7.8,99,2010,"Documentary",9345,"2010-01-24","João Jardim, Lucy Walker, Karen Harley",NA,NA,NA
+"tt1268204",NA,NA,"Waste Land","https://www.imdb.com/title/tt1268204/","movie",7.8,99,2010,"Documentary",9345,"2010-01-24","Lucy Walker, João Jardim, Karen Harley",NA,NA,NA
 "tt1255953",NA,NA,"Incendies","https://www.imdb.com/title/tt1255953/","movie",8.3,131,2010,"Drama, Mystery, War",191463,"2010-09-03","Denis Villeneuve",NA,NA,NA
 "tt1229381",NA,NA,"Hors la loi","https://www.imdb.com/title/tt1229381/","movie",6.6,138,2010,"Crime, Drama, War",4086,"2010-05-21","Rachid Bouchareb",NA,NA,NA
 "tt1226236",NA,NA,"Io sono l'amore","https://www.imdb.com/title/tt1226236/","movie",7,120,2009,"Drama, Romance",23719,"2009-09-05","Luca Guadagnino",NA,NA,NA
@@ -5779,7 +5780,7 @@
 "tt0248912",NA,NA,"Into the Arms of Strangers: Stories of the Kindertransport","https://www.imdb.com/title/tt0248912/","movie",7.7,122,2000,"Documentary, History, War",1929,"2000-09-07","Mark Jonathan Harris",NA,NA,"Prime Rentals"
 "tt0240912",NA,NA,"Sound and Fury","https://www.imdb.com/title/tt0240912/","movie",7.8,80,2000,"Documentary",1066,"2000-01-21","Josh Aronson",NA,NA,NA
 "tt0240885",NA,NA,"Scottsboro: An American Tragedy","https://www.imdb.com/title/tt0240885/","movie",7.5,84,2000,"Documentary, History",378,"2000-01-21","Barak Goodman, Daniel Anker",NA,NA,NA
-"tt0236447",NA,NA,"Long Night's Journey Into Day","https://www.imdb.com/title/tt0236447/","movie",7.5,94,2000,"Documentary",281,"2000-01-29","Frances Reid, Deborah Hoffmann",NA,NA,NA
+"tt0236447",NA,NA,"Long Night's Journey Into Day","https://www.imdb.com/title/tt0236447/","movie",7.5,94,2000,"Documentary",281,"2000-01-29","Deborah Hoffmann, Frances Reid",NA,NA,NA
 "tt0234288",NA,NA,"Musíme si pomáhat","https://www.imdb.com/title/tt0234288/","movie",7.6,120,2000,"Comedy, Drama, War",5328,"2000-03-16","Jan Hrebejk",NA,NA,NA
 "tt0216787",NA,NA,"Le goût des autres","https://www.imdb.com/title/tt0216787/","movie",7.2,112,2000,"Comedy, Drama, Romance",10306,"2000-03-01","Agnès Jaoui",NA,NA,NA
 "tt0216131",NA,NA,"Quiero ser (I want to be...)","https://www.imdb.com/title/tt0216131/","short",7.2,35,2000,"Short, Drama",377,"2000-06-24","Florian Gallenberger",NA,NA,NA
@@ -5792,7 +5793,7 @@
 "tt0097142",NA,NA,"Dad","https://www.imdb.com/title/tt0097142/","movie",6.3,117,1989,"Comedy, Drama",5208,"1989-10-27","Gary David Goldberg",NA,NA,NA
 "tt0097123",NA,NA,"Crimes and Misdemeanors","https://www.imdb.com/title/tt0097123/","movie",7.8,104,1989,"Comedy, Drama",60347,"1989-10-12","Woody Allen",NA,NA,NA
 "tt0097120",NA,NA,"Crack USA: County Under Siege","https://www.imdb.com/title/tt0097120/","short",6.6,42,1989,"Documentary, Short",80,"","Bill Guttentag, Vince DiPersio",NA,NA,NA
-"tt0097099",NA,NA,"Common Threads: Stories from the Quilt","https://www.imdb.com/title/tt0097099/","movie",8.1,79,1989,"Documentary, Biography, History",1046,"1989-10-07","Rob Epstein, Jeffrey Friedman",NA,NA,"Prime Rentals"
+"tt0097099",NA,NA,"Common Threads: Stories from the Quilt","https://www.imdb.com/title/tt0097099/","movie",8.1,79,1989,"Documentary, Biography, History",1046,"1989-10-07","Jeffrey Friedman, Rob Epstein",NA,NA,"Prime Rentals"
 "tt0082869",NA,NA,"Outland","https://www.imdb.com/title/tt0082869/","movie",6.6,109,1981,"Action, Crime, Sci-Fi, Thriller, Western",31769,"1981-05-01","Peter Hyams",NA,NA,NA
 "tt0082587",NA,NA,"Journey for Survival","https://www.imdb.com/title/tt0082587/","short",5.2,15,1981,"Documentary, Short",34,"1981-10-31","Dick Young",NA,NA,NA
 "tt0082507",NA,NA,"Heartbeeps","https://www.imdb.com/title/tt0082507/","movie",4.2,78,1981,"Comedy, Sci-Fi",1639,"1981-12-18","Allan Arkush",NA,NA,NA
@@ -5875,7 +5876,7 @@
 "tt0041840",NA,NA,"Sand","https://www.imdb.com/title/tt0041840/","movie",5.3,78,1949,"Action, Drama, Western",123,"1949-08-04","Louis King",NA,NA,NA
 "tt0041817",NA,NA,"Roller Derby Girl","https://www.imdb.com/title/tt0041817/","short",5.9,10,1949,"Documentary, Short, Sport",58,"1949-07-08","Justin Herman",NA,NA,NA
 "tt0041767",NA,NA,"Prince of Foxes","https://www.imdb.com/title/tt0041767/","movie",6.9,107,1949,"Adventure, Drama, Romance",1940,"1949-11-08","Henry King",NA,NA,NA
-"tt0041746",NA,NA,"Pinky","https://www.imdb.com/title/tt0041746/","movie",7.2,102,1949,"Drama",3363,"1949-09-29","John Ford, Elia Kazan",NA,NA,NA
+"tt0041746",NA,NA,"Pinky","https://www.imdb.com/title/tt0041746/","movie",7.2,102,1949,"Drama",3363,"1949-09-29","Elia Kazan, John Ford",NA,NA,NA
 "tt0041737",NA,NA,"Passport to Pimlico","https://www.imdb.com/title/tt0041737/","movie",7.1,84,1949,"Comedy",5153,"1949-04-28","Henry Cornelius",NA,NA,NA
 "tt0041687",NA,NA,"Neptune's Daughter","https://www.imdb.com/title/tt0041687/","movie",6.3,95,1949,"Comedy, Musical, Romance, Sport",1714,"1949-05-25","Edward Buzzell",NA,NA,"Prime Rentals"
 "tt0041672",NA,NA,"My Foolish Heart","https://www.imdb.com/title/tt0041672/","movie",6.8,98,1949,"Drama, Romance",1261,"1949-12-25","Mark Robson",NA,NA,NA
@@ -6039,7 +6040,7 @@
 "tt0028777",NA,NA,"Deep South","https://www.imdb.com/title/tt0028777/","short",NA,20,1937,"Short",NA,"","Leslie Goodwins",NA,NA,NA
 "tt0028772",NA,NA,"A Day at the Races","https://www.imdb.com/title/tt0028772/","movie",7.5,111,1937,"Comedy, Family, Musical, Sport",14373,"1937-06-11","Sam Wood",NA,NA,NA
 "tt0028757",NA,NA,"A Damsel in Distress","https://www.imdb.com/title/tt0028757/","movie",6.8,101,1937,"Comedy, Music, Romance",2317,"1937-11-19","George Stevens",NA,NA,"Prime Rentals"
-"tt0028739",NA,NA,"Conquest","https://www.imdb.com/title/tt0028739/","movie",6.5,113,1937,"Drama, History, Music, Mystery, Romance",1647,"1937-10-22","Gustav Machatý, Clarence Brown",NA,NA,NA
+"tt0028739",NA,NA,"Conquest","https://www.imdb.com/title/tt0028739/","movie",6.5,113,1937,"Drama, History, Music, Mystery, Romance",1647,"1937-10-22","Clarence Brown, Gustav Machatý",NA,NA,NA
 "tt0028587",NA,NA,"Artists and Models","https://www.imdb.com/title/tt0028587/","movie",6,97,1937,"Comedy, Musical",371,"1937-08-04","Raoul Walsh",NA,NA,NA
 "tt0028566",NA,NA,"Ali Baba Goes to Town","https://www.imdb.com/title/tt0028566/","movie",6.4,81,1937,"Comedy, Fantasy, Musical",613,"1937-10-15","David Butler",NA,NA,NA
 "tt0027367",NA,NA,"Black Legion","https://www.imdb.com/title/tt0027367/","movie",6.9,83,1937,"Crime, Drama, Film-Noir",3865,"1937-01-16","Michael Curtiz, Archie Mayo",NA,NA,NA
@@ -6049,7 +6050,7 @@
 "tt0027902",NA,NA,"Lloyds of London","https://www.imdb.com/title/tt0027902/","movie",6.9,118,1936,"Drama, History, Romance, War",1201,"1936-11-25","Henry King",NA,NA,NA
 "tt0027686",NA,NA,"Gold Diggers of 1937","https://www.imdb.com/title/tt0027686/","movie",6.4,101,1936,"Comedy, Musical, Romance",1209,"1936-12-26","Lloyd Bacon",NA,NA,NA
 "tt0027678",NA,NA,"Give Me Liberty","https://www.imdb.com/title/tt0027678/","short",6.1,22,1936,"Short, Biography, Drama, History",272,"1936-12-19","B. Reeves Eason",NA,NA,NA
-"tt0027665",NA,NA,"General Spanky","https://www.imdb.com/title/tt0027665/","movie",5.9,71,1936,"Comedy, Family, War",436,"1936-12-11","Fred C. Newmeyer, Gordon Douglas",NA,NA,NA
+"tt0027665",NA,NA,"General Spanky","https://www.imdb.com/title/tt0027665/","movie",5.9,71,1936,"Comedy, Family, War",436,"1936-12-11","Gordon Douglas, Fred C. Newmeyer",NA,NA,NA
 "tt0027657",NA,NA,"The Garden of Allah","https://www.imdb.com/title/tt0027657/","movie",5.8,79,1936,"Adventure, Drama, Mystery, Romance",1674,"1936-10-15","Richard Boleslawski",NA,NA,NA
 "tt0027616",NA,NA,"La Fiesta de Santa Barbara","https://www.imdb.com/title/tt0027616/","short",5.9,19,1935,"Short, Comedy, Music",331,"1935-12-07","Louis Lewyn",NA,NA,NA
 "tt0027556",NA,NA,"Dummy Ache","https://www.imdb.com/title/tt0027556/","short",5.8,18,1936,"Comedy, Short",61,"1936-07-10","Leslie Goodwins",NA,NA,NA
@@ -6140,7 +6141,7 @@
 "tt1487120",NA,NA,"The Last Truck: Closing of a GM Plant","https://www.imdb.com/title/tt1487120/","tvMovie",6.9,40,2009,"Documentary",461,"2009-07-08","Steven Bognar, Julia Reichert",NA,NA,NA
 "tt1430809",NA,NA,"China's Unnatural Disaster: The Tears of Sichuan Province","https://www.imdb.com/title/tt1430809/","tvMovie",7.3,38,2009,"Documentary",411,"2009-05-07","Matthew O'Neill, Jon Alpert",NA,NA,NA
 "tt1333634",NA,NA,"Burma VJ: Reporter i et lukket land","https://www.imdb.com/title/tt1333634/","movie",7.9,84,2008,"Documentary, History, News",2532,"2008-11-12","Anders Østergaard",NA,NA,NA
-"tt1319726",NA,NA,"The Most Dangerous Man in America: Daniel Ellsberg and the Pentagon Papers","https://www.imdb.com/title/tt1319726/","movie",7.7,92,2009,"Documentary",2428,"2009-09-11","Rick Goldsmith, Judith Ehrlich",NA,NA,NA
+"tt1319726",NA,NA,"The Most Dangerous Man in America: Daniel Ellsberg and the Pentagon Papers","https://www.imdb.com/title/tt1319726/","movie",7.7,92,2009,"Documentary",2428,"2009-09-11","Judith Ehrlich, Rick Goldsmith",NA,NA,NA
 "tt1305806",NA,NA,"El secreto de sus ojos","https://www.imdb.com/title/tt1305806/","movie",8.2,129,2009,"Drama, Mystery, Romance, Thriller",219186,"2009-08-13","Juan José Campanella",NA,NA,NA
 "tt1286537",NA,NA,"Food, Inc.","https://www.imdb.com/title/tt1286537/","movie",7.8,94,2008,"Documentary, News",52065,"2008-09-07","Robert Kenner",NA,NA,NA
 "tt1235166",NA,NA,"Un prophète","https://www.imdb.com/title/tt1235166/","movie",7.8,155,2009,"Crime, Drama",101603,"2009-05-16","Jacques Audiard",NA,NA,NA
@@ -6162,7 +6163,7 @@
 "tt1280548",NA,NA,"Spielzeugland","https://www.imdb.com/title/tt1280548/","short",7.7,14,2007,"Short, Drama, War",3093,"2007-08-29","Jochen Alexander Freydank",NA,NA,NA
 "tt1252486",NA,NA,"The Garden","https://www.imdb.com/title/tt1252486/","movie",7.3,80,2008,"Documentary",776,"2008-06-18","Scott Hamilton Kennedy",NA,NA,NA
 "tt1219675",NA,NA,"Auf der Strecke","https://www.imdb.com/title/tt1219675/","short",7.5,30,2007,"Short, Drama",438,"2007-10-24","Reto Caffi",NA,NA,NA
-"tt1186020",NA,NA,"Manon sur le bitume","https://www.imdb.com/title/tt1186020/","short",7.5,15,2007,"Short, Drama, Romance",360,"2007-12-31","Olivier Pont, Elizabeth Marre",NA,NA,NA
+"tt1186020",NA,NA,"Manon sur le bitume","https://www.imdb.com/title/tt1186020/","short",7.5,15,2007,"Short, Drama, Romance",360,"2007-12-31","Elizabeth Marre, Olivier Pont",NA,NA,NA
 "tt1185616",NA,NA,"Vals Im Bashir","https://www.imdb.com/title/tt1185616/","movie",8,90,2008,"Documentary, Animation, Biography, Drama, History, Mystery, War",59920,"2008-05-15","Ari Folman",NA,NA,NA
 "tt1173745",NA,NA,"Revanche","https://www.imdb.com/title/tt1173745/","movie",7.5,121,2008,"Crime, Drama, Romance, Thriller",15602,"2008-02-10","Götz Spielmann",NA,NA,NA
 "tt1157685",NA,NA,"The Betrayal - Nerakhoon","https://www.imdb.com/title/tt1157685/","movie",7,96,2008,"Documentary",467,"2008-01-21","Thavisouk Phrasavath, Ellen Kuras",NA,NA,NA
@@ -6205,7 +6206,7 @@
 "tt0387877",NA,NA,"The Black Dahlia","https://www.imdb.com/title/tt0387877/","movie",5.6,121,2006,"Crime, Drama, Mystery, Thriller",76588,"2006-08-09","Brian De Palma",NA,NA,NA
 "tt0240200",NA,NA,"Water","https://www.imdb.com/title/tt0240200/","movie",7.7,117,2005,"Drama",15321,"2005-09-08","Deepa Mehta",NA,NA,NA
 "tt0762119",NA,NA,"The Mushroom Club","https://www.imdb.com/title/tt0762119/","short",6.6,35,2005,"Documentary, Short",83,"2005-03-15","Steven Okazaki",NA,NA,NA
-"tt0480247",NA,NA,"God Sleeps in Rwanda","https://www.imdb.com/title/tt0480247/","short",7.3,28,2005,"Documentary, Short",144,"2005-08-15","Stacy Sherman, Kimberlee Acquaro",NA,NA,NA
+"tt0480247",NA,NA,"God Sleeps in Rwanda","https://www.imdb.com/title/tt0480247/","short",7.3,28,2005,"Documentary, Short",144,"2005-08-15","Kimberlee Acquaro, Stacy Sherman",NA,NA,NA
 "tt0469146",NA,NA,"The Mysterious Geographic Explorations of Jasper Morello","https://www.imdb.com/title/tt0469146/","short",7.7,26,2005,"Animation, Short, Adventure, Mystery, Sci-Fi",2427,"2005-01-20","Anthony Lucas",NA,NA,NA
 "tt0461847",NA,NA,"Síðasti bærinn","https://www.imdb.com/title/tt0461847/","short",7.6,17,2004,"Short, Drama",1308,"2004-08-21","Rúnar Rúnarsson",NA,NA,NA
 "tt0457496",NA,NA,"Street Fight","https://www.imdb.com/title/tt0457496/","movie",7.9,83,2005,"Documentary",2127,"2005-04-23","Marshall Curry",NA,NA,NA
@@ -6246,7 +6247,7 @@
 "tt0340071",NA,NA,"Der er en yndig mand","https://www.imdb.com/title/tt0340071/","short",6.8,30,2002,"Comedy, Short",722,"2002-10-02","Martin Strange-Hansen",NA,NA,NA
 "tt0329245",NA,NA,"Johnny Flynton","https://www.imdb.com/title/tt0329245/","short",6.3,37,2002,"Drama, Short",182,"2002-09-21","Lexi Alexander",NA,NA,NA
 "tt0325193",NA,NA,"The Collector of Bedford Street","https://www.imdb.com/title/tt0325193/","short",8.1,36,2002,"Documentary, Short",85,"2002-06-01","Alice Elliott",NA,NA,NA
-"tt0316013",NA,NA,"Prisoner of Paradise","https://www.imdb.com/title/tt0316013/","movie",7.5,96,2002,"Documentary, Biography",422,"2002-12-11","Stuart Sender, Malcolm Clarke",NA,NA,NA
+"tt0316013",NA,NA,"Prisoner of Paradise","https://www.imdb.com/title/tt0316013/","movie",7.5,96,2002,"Documentary, Biography",422,"2002-12-11","Malcolm Clarke, Stuart Sender",NA,NA,NA
 "tt0311519",NA,NA,"Mies vailla menneisyyttä","https://www.imdb.com/title/tt0311519/","movie",7.6,97,2002,"Comedy, Drama, Romance",24480,"2002-03-01","Aki Kaurismäki",NA,NA,NA
 "tt0303350",NA,NA,"Inja","https://www.imdb.com/title/tt0303350/","short",7,17,2002,"Drama, Short",403,"2002-01-31","Steve Pasvolsky",NA,NA,NA
 "tt0303281",NA,NA,"Daughter from Danang","https://www.imdb.com/title/tt0303281/","movie",7.5,83,2002,"Documentary, War",635,"2002-01-11","Vicente Franco, Gail Dolgin",NA,NA,NA
@@ -6258,7 +6259,7 @@
 "tt0309061",NA,NA,"War Photographer","https://www.imdb.com/title/tt0309061/","movie",7.9,96,2001,"Documentary, War",4288,"2001-12-31","Christian Frei",NA,NA,NA
 "tt0308899",NA,NA,"Sing!","https://www.imdb.com/title/tt0308899/","short",6.2,36,2001,"Short, Documentary",43,"2001-12-31","Freida Lee Mock",NA,NA,NA
 "tt0289073",NA,NA,"Artists and Orphans: A True Drama","https://www.imdb.com/title/tt0289073/","short",4.4,40,2001,"Documentary, Short",42,"2001-04-30","Lianne Klapper-McNally",NA,NA,NA
-"tt0282864",NA,NA,"Promises","https://www.imdb.com/title/tt0282864/","movie",8.3,106,2001,"Documentary",2697,"2001-01-30","Justine Shapiro, B.Z. Goldberg, Carlos Bolado",NA,NA,NA
+"tt0282864",NA,NA,"Promises","https://www.imdb.com/title/tt0282864/","movie",8.3,106,2001,"Documentary",2697,"2001-01-30","B.Z. Goldberg, Justine Shapiro, Carlos Bolado",NA,NA,NA
 "tt0274622",NA,NA,"LaLee's Kin: The Legacy of Cotton","https://www.imdb.com/title/tt0274622/","tvMovie",7.6,89,2001,"Documentary",254,"2001-01-19","Deborah Dickson, Susan Froemke, Albert Maysles",NA,NA,NA
 "tt0264476",NA,NA,"Children Underground","https://www.imdb.com/title/tt0264476/","movie",8.2,104,2001,"Documentary",2439,"2001-01-16","Edet Belzberg",NA,NA,NA
 "tt0280580",NA,NA,"Curtain Call","https://www.imdb.com/title/tt0280580/","short",7.6,38,2000,"Short, Documentary",55,"2000-06-13","Charles Braverman",NA,NA,NA
@@ -6335,7 +6336,7 @@
 "tt0032209",NA,NA,"Angels Over Broadway","https://www.imdb.com/title/tt0032209/","movie",6.5,79,1940,"Adventure, Comedy, Crime, Drama",1313,"1940-10-02","Lee Garmes, Ben Hecht",NA,NA,NA
 "tt0032181",NA,NA,"Abe Lincoln in Illinois","https://www.imdb.com/title/tt0032181/","movie",7.3,110,1940,"Biography, Drama, History",2016,"1940-01-22","John Cromwell",NA,NA,NA
 "tt0032850",NA,NA,"North West Mounted Police","https://www.imdb.com/title/tt0032850/","movie",6.4,126,1940,"Drama, Romance, Western",1821,"1940-10-21","Cecil B. DeMille",NA,NA,NA
-"tt0032851",NA,NA,"'Northwest Passage' (Book I -- Rogers' Rangers)","https://www.imdb.com/title/tt0032851/","movie",7,126,1940,"Adventure, Drama, History, Romance, War, Western",3793,"1940-02-20","W.S. Van Dyke, King Vidor, Jack Conway",NA,NA,NA
+"tt0032851",NA,NA,"'Northwest Passage' (Book I -- Rogers' Rangers)","https://www.imdb.com/title/tt0032851/","movie",7,126,1940,"Adventure, Drama, History, Romance, War, Western",3793,"1940-02-20","W.S. Van Dyke, Jack Conway, King Vidor",NA,NA,NA
 "tt0032871",NA,NA,"One Million B.C.","https://www.imdb.com/title/tt0032871/","movie",5.7,80,1940,"Adventure, Fantasy, Romance, Sci-Fi",1660,"1940-04-05","Hal Roach Jr., Hal Roach",NA,NA,NA
 "tt0032946",NA,NA,"Primrose Path","https://www.imdb.com/title/tt0032946/","movie",6.8,93,1940,"Drama, Music, Mystery, Romance",1739,"1940-03-22","Gregory La Cava",NA,NA,NA
 "tt0032953",NA,NA,"Puss Gets the Boot","https://www.imdb.com/title/tt0032953/","short",7.6,9,1940,"Animation, Short, Comedy",2321,"1940-02-10","Joseph Barbera, William Hanna",NA,NA,NA
@@ -6482,7 +6483,7 @@
 "tt0102368",NA,NA,"Madame Bovary","https://www.imdb.com/title/tt0102368/","movie",6.6,143,1991,"Drama, Romance",4374,"1991-04-03","Claude Chabrol",NA,NA,NA
 "tt0102320",NA,NA,"A Little Vicious","https://www.imdb.com/title/tt0102320/","short",7.9,30,1991,"Documentary, Short",69,"1991-05-22","Immy Humes",NA,NA,NA
 "tt0102268",NA,NA,"Last Breeze of Summer","https://www.imdb.com/title/tt0102268/","short",7,30,1991,"Drama, Short",52,"","Arik Caspi",NA,NA,NA
-"tt0102114",NA,NA,"In the Shadow of the Stars","https://www.imdb.com/title/tt0102114/","movie",6.5,93,1991,"Documentary",220,"1991-08-14","Allie Light, Irving Saraf",NA,NA,"Prime Rentals"
+"tt0102114",NA,NA,"In the Shadow of the Stars","https://www.imdb.com/title/tt0102114/","movie",6.5,93,1991,"Documentary",220,"1991-08-14","Irving Saraf, Allie Light",NA,NA,"Prime Rentals"
 "tt0108515",NA,NA,"The War Room","https://www.imdb.com/title/tt0108515/","movie",7.4,96,1993,"Documentary, History",4400,"1993-09-14","D.A. Pennebaker, Chris Hegedus",NA,NA,NA
 "tt0108498",NA,NA,"La vis","https://www.imdb.com/title/tt0108498/","short",7.4,20,1993,"Short",165,"1993-05-31","Didier Flamand",NA,NA,NA
 "tt0108494",NA,NA,"The Village","https://www.imdb.com/title/tt0108494/","short",7.5,14,1993,"Animation, Short",466,"1993-05-31","Mark Baker",NA,NA,NA
@@ -6696,7 +6697,7 @@
 "tt0070224",NA,NA,"L'invitation","https://www.imdb.com/title/tt0070224/","movie",7.1,100,1973,"Comedy, Drama",664,"1973-05-15","Claude Goretta",NA,NA,NA
 "tt0070135",NA,NA,"The Great American Cowboy","https://www.imdb.com/title/tt0070135/","movie",6.6,89,1974,"Documentary, Sport",132,"1974-08-14","Kieth Merrill",NA,NA,NA
 "tt0070086",NA,NA,"Der Fußgänger","https://www.imdb.com/title/tt0070086/","movie",6.7,98,1973,"Drama",279,"1973-09-06","Maximilian Schell",NA,NA,NA
-"tt0070071",NA,NA,"Frank Film","https://www.imdb.com/title/tt0070071/","short",6,9,1973,"Animation, Short, Biography",761,"1973-04-13","Caroline Mouris, Frank Mouris",NA,NA,NA
+"tt0070071",NA,NA,"Frank Film","https://www.imdb.com/title/tt0070071/","short",6,9,1973,"Animation, Short, Biography",761,"1973-04-13","Frank Mouris, Caroline Mouris",NA,NA,NA
 "tt0069946",NA,NA,"The Day of the Dolphin","https://www.imdb.com/title/tt0069946/","movie",6,104,1973,"Drama, Sci-Fi, Thriller",3448,"1973-12-19","Mike Nichols",NA,NA,NA
 "tt0069891",NA,NA,"Clockmaker","https://www.imdb.com/title/tt0069891/","short",NA,26,1971,"Short",NA,"1971-10-31","Richard Gayer",NA,NA,NA
 "tt0069883",NA,NA,"Cinderella Liberty","https://www.imdb.com/title/tt0069883/","movie",6.7,117,1973,"Drama, Romance",2418,"1973-12-18","Mark Rydell",NA,NA,NA
@@ -6707,7 +6708,7 @@
 "tt0069757",NA,NA,"Background","https://www.imdb.com/title/tt0069757/","short",5.1,20,1973,"Documentary, Animation, Short",19,"","Carmen D'Avino",NA,NA,NA
 "tt0069699",NA,NA,"Always a New Beginning","https://www.imdb.com/title/tt0069699/","movie",6.1,90,1974,"Documentary",32,"1974-03-31","John D. Goodell",NA,NA,NA
 "tt0068883",NA,NA,"Ludwig","https://www.imdb.com/title/tt0068883/","movie",7.5,238,1973,"Biography, Drama, History",5793,"1973-01-18","Luchino Visconti",NA,NA,NA
-"tt0067960",NA,NA,"Walls of Fire","https://www.imdb.com/title/tt0067960/","movie",NA,80,1971,"Documentary",NA,"1971-01-04","Herbert Kline, Edmund Penney",NA,NA,NA
+"tt0067960",NA,NA,"Walls of Fire","https://www.imdb.com/title/tt0067960/","movie",NA,80,1971,"Documentary",NA,"1971-01-04","Edmund Penney, Herbert Kline",NA,NA,NA
 "tt0069422",NA,NA,"Tup Tup","https://www.imdb.com/title/tt0069422/","short",6,10,1972,"Animation, Short",235,"1972-12-31","Nedeljko Dragic, Aldo Raparelli",NA,NA,NA
 "tt0077890",NA,NA,"The Magic of Lassie","https://www.imdb.com/title/tt0077890/","movie",5.5,100,1978,"Drama, Family, Musical",666,"1978-07-27","Don Chaffey",NA,NA,NA
 "tt0077696",NA,NA,"Hooper","https://www.imdb.com/title/tt0077696/","movie",6.4,99,1978,"Action, Comedy",7662,"1978-07-28","Hal Needham",NA,NA,NA
@@ -6795,7 +6796,7 @@
 "tt0056626",NA,NA,"Two for the Seesaw","https://www.imdb.com/title/tt0056626/","movie",6.7,119,1962,"Drama, Romance",1937,"1962-11-21","Robert Wise",NA,NA,NA
 "tt0056671",NA,NA,"Walk on the Wild Side","https://www.imdb.com/title/tt0056671/","movie",6.7,114,1962,"Drama, Romance",2791,"1962-02-21","Edward Dmytryk",NA,NA,NA
 "tt0056556",NA,NA,"Taras Bulba","https://www.imdb.com/title/tt0056556/","movie",6.3,122,1962,"Adventure, Drama, History, Romance, War",4387,"1962-11-21","J. Lee Thompson",NA,NA,NA
-"tt0056700",NA,NA,"The Wonderful World of the Brothers Grimm","https://www.imdb.com/title/tt0056700/","movie",6.4,135,1962,"Animation, Adventure, Biography, Comedy, Drama, Family, Fantasy, Musical, Romance",2075,"1962-08-07","Henry Levin, George Pal",NA,NA,NA
+"tt0056700",NA,NA,"The Wonderful World of the Brothers Grimm","https://www.imdb.com/title/tt0056700/","movie",6.4,135,1962,"Animation, Adventure, Biography, Comedy, Drama, Family, Fantasy, Musical, Romance",2075,"1962-08-07","George Pal, Henry Levin",NA,NA,NA
 "tt1534484",NA,NA,"Pan","https://www.imdb.com/title/tt1534484/","short",6.6,23,1962,"Short",10,"1962-11-02","Herman van der Horst",NA,NA,NA
 "tt0056545",NA,NA,"A Symposium on Popular Songs","https://www.imdb.com/title/tt0056545/","short",6.5,19,1962,"Animation, Short, Comedy, Family, Music",361,"1962-12-19","Wolfgang Reitherman, Bill Justice",NA,NA,NA
 "tt0056267",NA,NA,"My Geisha","https://www.imdb.com/title/tt0056267/","movie",6.5,119,1962,"Comedy, Drama, Romance",1576,"1962-01-18","Jack Cardiff",NA,NA,NA
@@ -6807,9 +6808,9 @@
 "tt0035703",NA,NA,"Cabin in the Sky","https://www.imdb.com/title/tt0035703/","movie",7.1,98,1943,"Comedy, Drama, Fantasy, Musical",3253,"1943-03-25","Busby Berkeley, Vincente Minnelli",NA,NA,NA
 "tt0035689",NA,NA,"Bombardier","https://www.imdb.com/title/tt0035689/","movie",6,99,1943,"Drama, War",882,"1943-05-14","Richard Wallace, Lambert Hillyer",NA,NA,NA
 "tt0035634",NA,NA,"Amphibious Fighters","https://www.imdb.com/title/tt0035634/","short",5.4,10,1943,"Short",38,"1943-07-02","Russell T. Ervin",NA,NA,NA
-"tt0035631",NA,NA,"The Amazing Mrs. Holliday","https://www.imdb.com/title/tt0035631/","movie",6.4,96,1943,"Comedy, Drama, Music, Romance, War",390,"1943-02-19","Bruce Manning, Jean Renoir",NA,NA,NA
+"tt0035631",NA,NA,"The Amazing Mrs. Holliday","https://www.imdb.com/title/tt0035631/","movie",6.4,96,1943,"Comedy, Drama, Music, Romance, War",390,"1943-02-19","Jean Renoir, Bruce Manning",NA,NA,NA
 "tt0035616",NA,NA,"Air Force","https://www.imdb.com/title/tt0035616/","movie",7,124,1943,"Action, Drama, History, War",3758,"1943-02-03","Howard Hawks",NA,NA,"Prime Rentals"
-"tt0035608",NA,NA,"Action in the North Atlantic","https://www.imdb.com/title/tt0035608/","movie",7,126,1943,"Drama, War",4539,"1943-05-21","Lloyd Bacon, Byron Haskin, Raoul Walsh",NA,NA,NA
+"tt0035608",NA,NA,"Action in the North Atlantic","https://www.imdb.com/title/tt0035608/","movie",7,126,1943,"Drama, War",4539,"1943-05-21","Raoul Walsh, Lloyd Bacon, Byron Haskin",NA,NA,NA
 "tt0035602",NA,NA,"The 500 Hats of Bartholomew Cubbins","https://www.imdb.com/title/tt0035602/","short",6.5,9,1943,"Animation, Short, Comedy",118,"1943-04-30","George Pal",NA,NA,NA
 "tt0035078",NA,NA,"The Moon and Sixpence","https://www.imdb.com/title/tt0035078/","movie",6.7,89,1942,"Drama, Romance",862,"1942-09-05","Albert Lewin",NA,NA,NA
 "tt0037313",NA,NA,"Step Lively","https://www.imdb.com/title/tt0037313/","movie",6,88,1944,"Comedy, Music, Romance",629,"1944-07-26","Tim Whelan",NA,NA,NA
@@ -6989,7 +6990,7 @@
 "tt0093388",NA,NA,"Language Says It All","https://www.imdb.com/title/tt0093388/","short",7,25,1987,"Documentary, Short",35,"","Rhyena Halpern",NA,NA,NA
 "tt0093277",NA,NA,"Ironweed","https://www.imdb.com/title/tt0093277/","movie",6.7,143,1987,"Drama",9766,"1987-12-18","Hector Babenco",NA,NA,NA
 "tt0093254",NA,NA,"In the Wee Wee Hours...","https://www.imdb.com/title/tt0093254/","short",7.1,20,1987,"Documentary, Short",27,"","Izak Ben-Meir",NA,NA,NA
-"tt0093173",NA,NA,"Hellfire: A Journey from Hiroshima","https://www.imdb.com/title/tt0093173/","movie",7.2,58,1986,"Documentary",62,"1986-12-31","John Junkerman, Michael Camerini, James MacDonald",NA,NA,NA
+"tt0093173",NA,NA,"Hellfire: A Journey from Hiroshima","https://www.imdb.com/title/tt0093173/","movie",7.2,58,1986,"Documentary",62,"1986-12-31","Michael Camerini, John Junkerman, James MacDonald",NA,NA,NA
 "tt0093148",NA,NA,"Harry and the Hendersons","https://www.imdb.com/title/tt0093148/","movie",6.1,110,1987,"Comedy, Family, Fantasy",37852,"1987-06-05","William Dear",NA,NA,NA
 "tt0093145",NA,NA,"Happy New Year","https://www.imdb.com/title/tt0093145/","movie",5.8,85,1987,"Comedy, Crime, Romance",722,"1987-08-07","John G. Avildsen",NA,NA,NA
 "tt0093105",NA,NA,"Good Morning, Vietnam","https://www.imdb.com/title/tt0093105/","movie",7.3,121,1987,"Biography, Comedy, Drama, War",150709,"1987-12-23","Barry Levinson",NA,NA,NA
@@ -7089,18 +7090,18 @@
 "tt0076085",NA,NA,"Una giornata particolare","https://www.imdb.com/title/tt0076085/","movie",8.1,106,1977,"Drama",15452,"1977-05-19","Ettore Scola",NA,NA,NA
 "tt0076036",NA,NA,"Floating Free","https://www.imdb.com/title/tt0076036/","short",6.1,11,1978,"Documentary, Short",51,"1978-10-31","Jerry Butts",NA,NA,NA
 "tt0076032",NA,NA,"First Edition","https://www.imdb.com/title/tt0076032/","short",6,30,1977,"Documentary, Short",38,"","Helen Whitney",NA,NA,NA
-"tt0075953",NA,NA,"A Doonesbury Special","https://www.imdb.com/title/tt0075953/","short",6.4,30,1977,"Animation, Short",213,"1977-11-27","John Hubley, Faith Hubley, Garry Trudeau",NA,NA,NA
+"tt0075953",NA,NA,"A Doonesbury Special","https://www.imdb.com/title/tt0075953/","short",6.4,30,1977,"Animation, Short",213,"1977-11-27","John Hubley, Garry Trudeau, Faith Hubley",NA,NA,NA
 "tt0075925",NA,NA,"The Deep","https://www.imdb.com/title/tt0075925/","movie",6.2,123,1977,"Adventure, Mystery, Thriller",13414,"1977-06-17","Peter Yates",NA,NA,NA
 "tt0075839",NA,NA,"The Children of Theatre Street","https://www.imdb.com/title/tt0075839/","movie",7,90,1977,"Documentary",178,"1977-05-09","Earle Mack, Robert Dornhelm",NA,NA,NA
 "tt0075648",NA,NA,"Airport '77","https://www.imdb.com/title/tt0075648/","movie",5.8,114,1977,"Action, Drama, Thriller",12011,"1977-03-11","Jerry Jameson",NA,NA,NA
 "tt0075645",NA,NA,"Agueda Martinez: Our People, Our Country","https://www.imdb.com/title/tt0075645/","short",6.7,16,1977,"Documentary, Short",47,"","Esperanza Vasquez",NA,NA,NA
-"tt0075372",NA,NA,"Union Maids","https://www.imdb.com/title/tt0075372/","movie",6.7,50,1976,"Documentary",128,"1976-10-21","Julia Reichert, Miles Mogulescu, Jim Klein",NA,NA,NA
+"tt0075372",NA,NA,"Union Maids","https://www.imdb.com/title/tt0075372/","movie",6.7,50,1976,"Documentary",128,"1976-10-21","Julia Reichert, Jim Klein, Miles Mogulescu",NA,NA,NA
 "tt0074896",NA,NA,"The Message","https://www.imdb.com/title/tt0074896/","movie",8.1,177,1976,"Biography, Drama, History, War",50053,"1976-07-30","Moustapha Akkad",NA,NA,NA
 "tt0075359",NA,NA,"Two-Minute Warning","https://www.imdb.com/title/tt0075359/","movie",6.2,115,1976,"Action, Crime, Drama, Mystery, Thriller",4299,"1976-11-12","Larry Peerce",NA,NA,NA
 "tt0075223",NA,NA,"Silver Streak","https://www.imdb.com/title/tt0075223/","movie",6.9,114,1976,"Action, Comedy, Crime, Romance, Thriller",21411,"1976-12-03","Arthur Hiller",NA,NA,NA
 "tt0075066",NA,NA,"The Pink Panther Strikes Again","https://www.imdb.com/title/tt0075066/","movie",7.2,103,1976,"Comedy, Crime",31429,"1976-12-15","Blake Edwards",NA,NA,NA
 "tt0075043",NA,NA,"The Passover Plot","https://www.imdb.com/title/tt0075043/","movie",3.8,108,1976,"Drama",161,"1976-10-29","Michael Campus",NA,NA,NA
-"tt0074215",NA,NA,"Blackwood","https://www.imdb.com/title/tt0074215/","short",6.2,28,1976,"Documentary, Short",72,"","Tony Ianzelo, Andy Thomson",NA,NA,NA
+"tt0074215",NA,NA,"Blackwood","https://www.imdb.com/title/tt0074215/","short",6.2,28,1976,"Documentary, Short",72,"","Andy Thomson, Tony Ianzelo",NA,NA,NA
 "tt0074134",NA,NA,"American Shoeshine","https://www.imdb.com/title/tt0074134/","short",5.3,30,1976,"Documentary, Short",27,"1976-11-30","Sparky Greene",NA,NA,NA
 "tt0071688",NA,NA,"Jakob der Lügner","https://www.imdb.com/title/tt0071688/","movie",7.1,100,1974,"Comedy, Crime, Drama, War",1367,"1974-12-22","Frank Beyer",NA,NA,NA
 "tt0070889",NA,NA,"Volcano: An Inquiry Into the Life and Death of Malcolm Lowry","https://www.imdb.com/title/tt0070889/","movie",7.1,100,1976,"Documentary",222,"1976-04-07","John Kramer, Donald Brittain",NA,NA,NA
@@ -7152,7 +7153,7 @@
 "tt0071566",NA,NA,"Gold","https://www.imdb.com/title/tt0071566/","movie",5.7,120,1974,"Adventure, Thriller",2435,"1974-09-05","Peter R. Hunt",NA,NA,NA
 "tt0071484",NA,NA,"The Family That Dwelt Apart","https://www.imdb.com/title/tt0071484/","short",6.7,8,1973,"Animation, Short, Comedy",227,"1973-10-31","Yvon Mallette",NA,NA,NA
 "tt0071151",NA,NA,"Antonia: A Portrait of the Woman","https://www.imdb.com/title/tt0071151/","movie",6.7,58,1974,"Documentary, Biography",118,"1974-09-18","Judy Collins, Jill Godmilow",NA,NA,NA
-"tt0071088",NA,NA,"Ha-Makah Hashmonim V'Echad","https://www.imdb.com/title/tt0071088/","movie",7.1,92,1974,"Documentary",63,"1974-08-29","Haim Gouri, David Bergman, Jacques Ehrlich",NA,NA,NA
+"tt0071088",NA,NA,"Ha-Makah Hashmonim V'Echad","https://www.imdb.com/title/tt0071088/","movie",7.1,92,1974,"Documentary",63,"1974-08-29","David Bergman, Haim Gouri, Jacques Ehrlich",NA,NA,NA
 "tt0068891",NA,NA,"Macskajáték","https://www.imdb.com/title/tt0068891/","movie",6.5,115,1974,"Drama, Music",249,"1974-05-10","Károly Makk",NA,NA,NA
 "tt0070842",NA,NA,"Turks fruit","https://www.imdb.com/title/tt0070842/","movie",7.1,108,1973,"Drama, Romance",11639,"1973-02-22","Paul Verhoeven",NA,NA,NA
 "tt0070814",NA,NA,"Tom Sawyer","https://www.imdb.com/title/tt0070814/","movie",6.4,103,1973,"Adventure, Musical, Family",2504,"1973-03-14","Don Taylor",NA,NA,NA
@@ -7353,7 +7354,7 @@
 "tt0052961",NA,NA,"Kapò","https://www.imdb.com/title/tt0052961/","movie",7.6,117,1960,"Drama, War",2552,"1960-09-07","Gillo Pontecorvo",NA,NA,NA
 "tt0053282",NA,NA,"Skyscraper","https://www.imdb.com/title/tt0053282/","short",7.4,20,1960,"Short, Documentary",264,"1960-04-26","Irving Jacoby, Willard Van Dyke, D.A. Pennebaker, Wheaton Galentine, Shirley Clarke",NA,NA,NA
 "tt0052809",NA,NA,"The Five Pennies","https://www.imdb.com/title/tt0052809/","movie",7.1,117,1959,"Biography, Drama, Music",2097,"1959-06-18","Melville Shavelson",NA,NA,NA
-"tt0052751",NA,NA,"Donald in Mathmagic Land","https://www.imdb.com/title/tt0052751/","short",7.8,27,1959,"Animation, Short, Family, Fantasy",2426,"1959-06-26","Ben Sharpsteen, Wolfgang Reitherman, Jack Hannah, Joshua Meador, Hamilton Luske, Clyde Geronimi, Les Clark, Wilfred Jackson, Norman Ferguson",NA,NA,NA
+"tt0052751",NA,NA,"Donald in Mathmagic Land","https://www.imdb.com/title/tt0052751/","short",7.8,27,1959,"Animation, Short, Family, Fantasy",2426,"1959-06-26","Ben Sharpsteen, Wolfgang Reitherman, Jack Hannah, Joshua Meador, Hamilton Luske, Les Clark, Clyde Geronimi, Wilfred Jackson, Norman Ferguson",NA,NA,NA
 "tt0052673",NA,NA,"Career","https://www.imdb.com/title/tt0052673/","movie",6.9,105,1959,"Drama",708,"1959-10-07","Joseph Anthony",NA,NA,NA
 "tt0052627",NA,NA,"The Big Fisherman","https://www.imdb.com/title/tt0052627/","movie",5.4,180,1959,"Drama, History",456,"1959-08-04","Frank Borzage",NA,NA,NA
 "tt0052621",NA,NA,"Between the Tides","https://www.imdb.com/title/tt0052621/","short",7,20,1958,"Documentary, Short",61,"1958-08-31","Ralph Keene",NA,NA,NA
@@ -7413,7 +7414,7 @@
 "tt0047250",NA,NA,"Le mouton à cinq pattes","https://www.imdb.com/title/tt0047250/","movie",6.7,104,1954,"Comedy",693,"1954-07-11","Henri Verneuil",NA,NA,NA
 "tt0046889",NA,NA,"The Dam Busters","https://www.imdb.com/title/tt0046889/","movie",7.4,124,1955,"Drama, History, War",11125,"1955-05-16","Michael Anderson",NA,NA,NA
 "tt0045030",NA,NA,"The Pickwick Papers","https://www.imdb.com/title/tt0045030/","movie",6.9,109,1952,"Comedy, Drama",605,"1952-11-14","Noel Langley",NA,NA,NA
-"tt0047585",NA,NA,"Thursday's Children","https://www.imdb.com/title/tt0047585/","short",7.3,21,1954,"Documentary, Short",395,"1954-05-31","Lindsay Anderson, Guy Brenton",NA,NA,NA
+"tt0047585",NA,NA,"Thursday's Children","https://www.imdb.com/title/tt0047585/","short",7.3,21,1954,"Documentary, Short",395,"1954-05-31","Guy Brenton, Lindsay Anderson",NA,NA,NA
 "tt0047578",NA,NA,"This Mechanical Age","https://www.imdb.com/title/tt0047578/","short",6.2,10,1954,"Documentary, Short, Comedy",69,"1954-08-28","Robert Youngson",NA,NA,NA
 "tt0047550",NA,NA,"Susan Slept Here","https://www.imdb.com/title/tt0047550/","movie",6.5,98,1954,"Comedy, Drama, Romance",2087,"1954-07-14","Frank Tashlin",NA,NA,NA
 "tt0047531",NA,NA,"Strauss Fantasy","https://www.imdb.com/title/tt0047531/","short",6.9,10,1954,"Short, Music",115,"1954-06-15","",NA,NA,NA
@@ -7443,7 +7444,7 @@
 "tt0046446",NA,NA,"Torch Song","https://www.imdb.com/title/tt0046446/","movie",5.6,90,1953,"Drama, Music, Romance",1488,"1953-10-01","Charles Walters",NA,NA,NA
 "tt0046435",NA,NA,"Titanic","https://www.imdb.com/title/tt0046435/","movie",7,98,1953,"Drama, History, Romance",7551,"1953-04-11","Jean Negulesco",NA,NA,NA
 "tt0046398",NA,NA,"Take the High Ground!","https://www.imdb.com/title/tt0046398/","movie",6,101,1953,"Drama, War",1098,"1953-09-21","Richard Brooks",NA,NA,NA
-"tt0046374",NA,NA,"The Story of Three Loves","https://www.imdb.com/title/tt0046374/","movie",6.8,122,1953,"Drama, Fantasy, Music, Romance",1450,"1953-03-05","Gottfried Reinhardt, Vincente Minnelli",NA,NA,NA
+"tt0046374",NA,NA,"The Story of Three Loves","https://www.imdb.com/title/tt0046374/","movie",6.8,122,1953,"Drama, Fantasy, Music, Romance",1450,"1953-03-05","Vincente Minnelli, Gottfried Reinhardt",NA,NA,NA
 "tt0046330",NA,NA,"Small Town Girl","https://www.imdb.com/title/tt0046330/","movie",6.3,92,1953,"Music, Musical, Romance",920,"1953-04-10","László Kardos",NA,NA,NA
 "tt0046204",NA,NA,"The President's Lady","https://www.imdb.com/title/tt0046204/","movie",6.8,96,1953,"Biography, Drama",959,"1953-05-21","Henry Levin",NA,NA,NA
 "tt0046154",NA,NA,"Overture to The Merry Wives of Windsor","https://www.imdb.com/title/tt0046154/","short",6.2,9,1953,"Short, Music",152,"1953-12-22","",NA,NA,NA
@@ -7546,7 +7547,7 @@
 "tt0039432",NA,NA,"Goodbye, Miss Turlock","https://www.imdb.com/title/tt0039432/","short",6.5,11,1948,"Short, Family",244,"1948-01-24","Edward L. Cahn",NA,NA,NA
 "tt0039425",NA,NA,"Give Us the Earth!","https://www.imdb.com/title/tt0039425/","short",5.6,21,1947,"Documentary, Short",150,"1947-06-21","Gunther von Fritsch",NA,NA,NA
 "tt0039394",NA,NA,"The Foxes of Harrow","https://www.imdb.com/title/tt0039394/","movie",6.5,117,1947,"Action, Drama, Romance",568,"1947-09-24","John M. Stahl",NA,NA,NA
-"tt0039391",NA,NA,"Forever Amber","https://www.imdb.com/title/tt0039391/","movie",6.5,138,1947,"Adventure, Drama, Romance",1557,"1947-10-22","John M. Stahl, Otto Preminger",NA,NA,NA
+"tt0039391",NA,NA,"Forever Amber","https://www.imdb.com/title/tt0039391/","movie",6.5,138,1947,"Adventure, Drama, Romance",1557,"1947-10-22","Otto Preminger, John M. Stahl",NA,NA,NA
 "tt0039377",NA,NA,"Fiesta","https://www.imdb.com/title/tt0039377/","movie",5.9,104,1947,"Drama, Musical, Romance, Sport",636,"1947-06-12","Richard Thorpe",NA,NA,NA
 "tt0039370",NA,NA,"The Farmer's Daughter","https://www.imdb.com/title/tt0039370/","movie",7.2,97,1947,"Comedy, Drama, Romance",2816,"1947-03-25","H.C. Potter",NA,NA,NA
 "tt0039349",NA,NA,"The Egg and I","https://www.imdb.com/title/tt0039349/","movie",7,108,1947,"Comedy, Romance",3024,"1947-03-21","Chester Erskine",NA,NA,NA
@@ -7659,7 +7660,7 @@
 "tt0030643",NA,NA,"Le quai des brumes","https://www.imdb.com/title/tt0030643/","movie",7.7,91,1938,"Crime, Drama, Romance, Thriller",9805,"1938-05-17","Marcel Carné",NA,NA,NA
 "tt0031309",NA,NA,"La fin du jour","https://www.imdb.com/title/tt0031309/","movie",7.8,99,1939,"Drama",1018,"1939-03-24","Julien Duvivier",NA,NA,NA
 "tt0028980",NA,NA,"Regain","https://www.imdb.com/title/tt0028980/","movie",7.4,127,1937,"Drama, Romance",483,"1937-10-29","Marcel Pagnol",NA,NA,NA
-"tt0163797",NA,NA,"Professor Mamlok","https://www.imdb.com/title/tt0163797/","movie",6.9,100,1938,"Drama",54,"1938-09-05","Gerbert Rappaport, Adolf Minkin",NA,NA,NA
+"tt0163797",NA,NA,"Professor Mamlok","https://www.imdb.com/title/tt0163797/","movie",6.9,100,1938,"Drama",54,"1938-09-05","Adolf Minkin, Gerbert Rappaport",NA,NA,NA
 "tt0029405",NA,NA,"Pyotr pervyy I","https://www.imdb.com/title/tt0029405/","movie",7.2,96,1937,"Biography, Drama, History, War",220,"1937-08-31","Vladimir Petrov",NA,NA,NA
 "tt0158645",NA,NA,"La guerre des gosses","https://www.imdb.com/title/tt0158645/","movie",7,87,1936,"Drama",18,"1936-10-27","Jacques Daroy",NA,NA,NA
 "tt0029706",NA,NA,"Un carnet de bal","https://www.imdb.com/title/tt0029706/","movie",7.4,144,1937,"Drama",902,"1937-09-09","Julien Duvivier",NA,NA,NA
@@ -7731,7 +7732,7 @@
 "tt2121382",NA,NA,"Turist","https://www.imdb.com/title/tt2121382/","movie",7.2,120,2014,"Comedy, Drama",64281,"2014-05-18","Ruben Östlund",NA,NA,NA
 "tt2764784",NA,NA,"Phoenix","https://www.imdb.com/title/tt2764784/","movie",7.3,98,2014,"Drama, History, Music, Romance",20168,"2014-09-05","Christian Petzold",NA,NA,NA
 "tt3486542",NA,NA,"Mediterranea","https://www.imdb.com/title/tt3486542/","movie",6.6,107,2015,"Drama",1763,"2015-05-19","Jonas Carpignano",NA,NA,NA
-"tt3086442",NA,NA,"Ich seh, Ich seh","https://www.imdb.com/title/tt3086442/","movie",6.7,99,2014,"Horror, Mystery, Thriller",58696,"2014-08-30","Severin Fiala, Veronika Franz",NA,NA,NA
+"tt3086442",NA,NA,"Ich seh, Ich seh","https://www.imdb.com/title/tt3086442/","movie",6.7,99,2014,"Horror, Mystery, Thriller",58696,"2014-08-30","Veronika Franz, Severin Fiala",NA,NA,NA
 "tt2425486",NA,NA,"Gloria","https://www.imdb.com/title/tt2425486/","movie",6.9,110,2013,"Comedy, Drama, Romance",9245,"2013-02-10","Sebastián Lelio",NA,NA,NA
 "tt2364975",NA,NA,"Vi är bäst!","https://www.imdb.com/title/tt2364975/","movie",7.1,102,2013,"Drama, Music",11166,"2013-08-31","Lukas Moodysson",NA,NA,NA
 "tt1545759",NA,NA,"À bout portant","https://www.imdb.com/title/tt1545759/","movie",6.8,84,2010,"Action, Crime, Drama, Thriller",14508,"2010-11-04","Fred Cavayé",NA,NA,NA
@@ -7892,7 +7893,7 @@
 "tt0026409",NA,NA,"The Gilded Lily","https://www.imdb.com/title/tt0026409/","movie",6.8,80,1935,"Comedy, Romance",749,"1935-01-25","Wesley Ruggles",NA,NA,NA
 "tt0026191",NA,NA,"Ceiling Zero","https://www.imdb.com/title/tt0026191/","movie",6.7,95,1936,"Adventure, Drama, Romance",764,"1936-01-16","Howard Hawks",NA,NA,NA
 "tt0027977",NA,NA,"Modern Times","https://www.imdb.com/title/tt0027977/","movie",8.5,87,1936,"Comedy, Drama, Romance",255418,"1936-02-05","Charles Chaplin",NA,NA,NA
-"tt0027518",NA,NA,"The Devil Is a Sissy","https://www.imdb.com/title/tt0027518/","movie",6.7,92,1936,"Comedy, Drama",531,"1936-09-18","Rowland Brown, W.S. Van Dyke",NA,NA,NA
+"tt0027518",NA,NA,"The Devil Is a Sissy","https://www.imdb.com/title/tt0027518/","movie",6.7,92,1936,"Comedy, Drama",531,"1936-09-18","W.S. Van Dyke, Rowland Brown",NA,NA,NA
 "tt0027700",NA,NA,"The Green Pastures","https://www.imdb.com/title/tt0027700/","movie",7,93,1936,"Drama",880,"1936-07-15","Marc Connelly, William Keighley",NA,NA,NA
 "tt0028141",NA,NA,"The Prisoner of Shark Island","https://www.imdb.com/title/tt0028141/","movie",7.2,96,1936,"Biography, Drama, History",2459,"1936-02-12","John Ford",NA,NA,NA
 "tt0030774",NA,NA,"South Riding","https://www.imdb.com/title/tt0030774/","movie",6.7,85,1938,"Drama, Romance",173,"1938-01-04","Victor Saville",NA,NA,NA
@@ -7916,10 +7917,10 @@
 "tt0033623",NA,NA,"The Forgotten Village","https://www.imdb.com/title/tt0033623/","movie",6.8,67,1941,"Documentary, Drama",97,"1941-11-18","Alexander Hammid, Herbert Kline",NA,NA,NA
 "tt0033811",NA,NA,"The Land","https://www.imdb.com/title/tt0033811/","short",7.4,43,1942,"Documentary, Short",98,"1942-04-30","Robert J. Flaherty",NA,NA,NA
 "tt0034116",NA,NA,"Road to Zanzibar","https://www.imdb.com/title/tt0034116/","movie",6.7,91,1941,"Adventure, Comedy, Musical, Romance",3339,"1941-04-09","Victor Schertzinger",NA,NA,NA
-"tt0034428",NA,NA,"Across the Pacific","https://www.imdb.com/title/tt0034428/","movie",6.8,97,1942,"Action, Adventure, Drama, Romance, War",5375,"1942-09-04","John Huston, Vincent Sherman",NA,NA,NA
+"tt0034428",NA,NA,"Across the Pacific","https://www.imdb.com/title/tt0034428/","movie",6.8,97,1942,"Action, Adventure, Drama, Romance, War",5375,"1942-09-04","Vincent Sherman, John Huston",NA,NA,NA
 "tt0033686",NA,NA,"H.M. Pulham, Esq.","https://www.imdb.com/title/tt0033686/","movie",6.9,120,1941,"Drama, Romance",1408,"1941-12-03","King Vidor",NA,NA,NA
 "tt0034890",NA,NA,"In This Our Life","https://www.imdb.com/title/tt0034890/","movie",7.3,97,1942,"Drama",5219,"1942-05-07","Raoul Walsh, John Huston",NA,NA,NA
-"tt0034923",NA,NA,"Journey for Margaret","https://www.imdb.com/title/tt0034923/","movie",7.2,81,1942,"Drama, Romance, War",946,"1942-12-17","Herbert Kline, W.S. Van Dyke",NA,NA,NA
+"tt0034923",NA,NA,"Journey for Margaret","https://www.imdb.com/title/tt0034923/","movie",7.2,81,1942,"Drama, Romance, War",946,"1942-12-17","W.S. Van Dyke, Herbert Kline",NA,NA,NA
 "tt0035272",NA,NA,"Roxie Hart","https://www.imdb.com/title/tt0035272/","movie",6.9,75,1942,"Comedy",1885,"1942-02-20","William A. Wellman",NA,NA,NA
 "tt0035415",NA,NA,"Tales of Manhattan","https://www.imdb.com/title/tt0035415/","movie",7.3,118,1942,"Comedy, Drama, Romance",2456,"1942-08-05","Julien Duvivier",NA,NA,NA
 "tt0035020",NA,NA,"The Male Animal","https://www.imdb.com/title/tt0035020/","movie",6.6,101,1942,"Comedy, Romance",1406,"1942-03-12","Elliott Nugent",NA,NA,NA
@@ -7936,7 +7937,7 @@
 "tt0185893",NA,NA,"Attack! Battle of New Britain","https://www.imdb.com/title/tt0185893/","movie",6.4,54,1944,"Documentary, Action, War",106,"1944-06-20","",NA,NA,NA
 "tt0185911",NA,NA,"The Battle for the Marianas","https://www.imdb.com/title/tt0185911/","short",5.2,20,1944,"War, Documentary, Short",18,"1944-09-19","Gordon Hollingshead",NA,NA,NA
 "tt0036152",NA,NA,"The Memphis Belle: A Story of a Flying Fortress","https://www.imdb.com/title/tt0036152/","movie",7.3,45,1944,"Documentary, History, War",1821,"1944-04-13","William Wyler",NA,NA,NA
-"tt0037404",NA,NA,"Tunisian Victory","https://www.imdb.com/title/tt0037404/","movie",6.7,75,1944,"Documentary, War",670,"1944-03-16","John Boulting, Roy Boulting, Frank Capra, John Huston, Hugh Stewart",NA,NA,NA
+"tt0037404",NA,NA,"Tunisian Victory","https://www.imdb.com/title/tt0037404/","movie",6.7,75,1944,"Documentary, War",670,"1944-03-16","John Boulting, Roy Boulting, Frank Capra, Hugh Stewart, John Huston",NA,NA,NA
 "tt0035440",NA,NA,"Thunder Rock","https://www.imdb.com/title/tt0035440/","movie",6.6,112,1942,"Drama, Fantasy, War",789,"1942-12-04","Roy Boulting",NA,NA,NA
 "tt0037604",NA,NA,"The Clock","https://www.imdb.com/title/tt0037604/","movie",7.3,90,1945,"Comedy, Drama, Romance",3935,"1945-03-22","Vincente Minnelli, Fred Zinnemann",NA,NA,NA
 "tt0037871",NA,NA,"Die letzte Chance","https://www.imdb.com/title/tt0037871/","movie",6.6,113,1945,"Drama, War",455,"1945-05-26","Leopold Lindtberg",NA,NA,NA
@@ -7950,7 +7951,7 @@
 "tt0039417",NA,NA,"Germania anno zero","https://www.imdb.com/title/tt0039417/","movie",7.8,78,1948,"Drama, History, War",13372,"1948-07-09","Roberto Rossellini",NA,NA,NA
 "tt0041481",NA,NA,"Home of the Brave","https://www.imdb.com/title/tt0041481/","movie",7,88,1949,"Drama, War",771,"1949-05-12","Mark Robson",NA,NA,NA
 "tt0041513",NA,NA,"Intruder in the Dust","https://www.imdb.com/title/tt0041513/","movie",7.6,87,1949,"Crime, Drama, Family, Film-Noir",2533,"1949-10-10","Clarence Brown",NA,NA,NA
-"tt0040335",NA,NA,"Quartet","https://www.imdb.com/title/tt0040335/","movie",7.3,120,1948,"Drama, Romance",980,"1948-10-27","Ralph Smart, Ken Annakin, Harold French, Arthur Crabtree",NA,NA,NA
+"tt0040335",NA,NA,"Quartet","https://www.imdb.com/title/tt0040335/","movie",7.3,120,1948,"Drama, Romance",980,"1948-10-27","Ken Annakin, Ralph Smart, Harold French, Arthur Crabtree",NA,NA,NA
 "tt0042428",NA,NA,"Edge of Doom","https://www.imdb.com/title/tt0042428/","movie",6.4,99,1950,"Crime, Drama, Film-Noir",892,"1950-08-03","Mark Robson",NA,NA,NA
 "tt0044601",NA,NA,"Face to Face","https://www.imdb.com/title/tt0044601/","movie",6.1,89,1952,"Western, Drama",93,"1952-11-30","John Brahm, Bretaigne Windust",NA,NA,NA
 "tt0046031",NA,NA,"The Man Between","https://www.imdb.com/title/tt0046031/","movie",7,100,1953,"Crime, Drama, Film-Noir, Romance, Thriller",2415,"1953-09-25","Carol Reed",NA,NA,NA
@@ -7984,7 +7985,7 @@
 "tt0058142",NA,NA,"Girl with Green Eyes","https://www.imdb.com/title/tt0058142/","movie",7,91,1964,"Drama, Romance",1399,"1964-05-14","Desmond Davis",NA,NA,NA
 "tt0057917",NA,NA,"The Carpetbaggers","https://www.imdb.com/title/tt0057917/","movie",6.5,150,1964,"Drama, Romance",2430,"1964-04-09","Edward Dmytryk",NA,NA,NA
 "tt0059037",NA,NA,"The Cincinnati Kid","https://www.imdb.com/title/tt0059037/","movie",7.2,102,1965,"Drama",17832,"1965-10-15","Sam Peckinpah, Norman Jewison",NA,NA,NA
-"tt0055024",NA,NA,"It Happened Here","https://www.imdb.com/title/tt0055024/","movie",6.7,101,1964,"Drama, Sci-Fi, War",1245,"1964-10-17","Andrew Mollo, Kevin Brownlow",NA,NA,NA
+"tt0055024",NA,NA,"It Happened Here","https://www.imdb.com/title/tt0055024/","movie",6.7,101,1964,"Drama, Sci-Fi, War",1245,"1964-10-17","Kevin Brownlow, Andrew Mollo",NA,NA,NA
 "tt0060562",NA,NA,"John F. Kennedy: Years of Lightning, Day of Drums","https://www.imdb.com/title/tt0060562/","movie",7.9,85,1965,"Documentary",100,"1965-01-22","Bruce Herschensohn",NA,NA,NA
 "tt0059709",NA,NA,"Shakespeare-Wallah","https://www.imdb.com/title/tt0059709/","movie",6.8,120,1965,"Drama, Romance",840,"1965-06-30","James Ivory",NA,NA,NA
 "tt0061502",NA,NA,"The Comedians","https://www.imdb.com/title/tt0061502/","movie",6.3,150,1967,"Drama",2286,"1967-10-31","Peter Glenville",NA,NA,NA
@@ -8171,7 +8172,6 @@
 "tt2294677",NA,NA,"In a World...","https://www.imdb.com/title/tt2294677/","movie",6.7,93,2013,"Comedy",32771,"2013-01-20","Lake Bell",NA,NA,NA
 "tt2094890",NA,NA,"Mother of George","https://www.imdb.com/title/tt2094890/","movie",6.5,107,2013,"Drama",1260,"2013-01-18","Andrew Dosunmu",NA,NA,NA
 "tt2094064",NA,NA,"Much Ado About Nothing","https://www.imdb.com/title/tt2094064/","movie",7,109,2012,"Comedy, Drama, Romance",17036,"2012-09-08","Joss Whedon",NA,NA,NA
-"tt1935179",NA,NA,"Mud","https://www.imdb.com/title/tt1935179/","movie",7.4,130,2012,"Adventure, Drama",186613,"2012-05-26","Jeff Nichols",NA,NA,NA
 "tt2023690",NA,NA,"Sightseers","https://www.imdb.com/title/tt2023690/","movie",6.5,88,2012,"Adventure, Comedy, Crime, Horror, Romance",29945,"2012-05-23","Ben Wheatley",NA,NA,NA
 "tt1817273",NA,NA,"The Place Beyond the Pines","https://www.imdb.com/title/tt1817273/","movie",7.3,140,2012,"Crime, Drama, Thriller",285303,"2012-09-07","Derek Cianfrance",NA,NA,NA
 "tt2937898",NA,NA,"A Most Violent Year","https://www.imdb.com/title/tt2937898/","movie",7,125,2014,"Action, Crime, Drama, Thriller",76547,"2014-11-06","J.C. Chandor",NA,NA,NA
@@ -8598,7 +8598,7 @@
 "tt5213138",NA,NA,"Ajoomma","https://www.imdb.com/title/tt5213138/","movie",6.9,90,2022,"Adventure, Comedy, Drama, Romance",294,"2022-10-07","Shuming He",NA,NA,NA
 "tt6443330",NA,NA,"Cinema Sabaya","https://www.imdb.com/title/tt6443330/","movie",7.1,91,2021,"Drama",337,"2021-08-25","Orit Fouks Rotem",NA,NA,NA
 "tt6902394",NA,NA,"Feng zai qi shi","https://www.imdb.com/title/tt6902394/","movie",6,144,2022,"Crime, Drama, Thriller",475,"2022-08-15","Philip Yung",NA,NA,NA
-"tt7265490",NA,NA,"Memory Box","https://www.imdb.com/title/tt7265490/","movie",6.7,102,2021,"Drama",761,"2021-06-11","Khalil Joreige, Joana Hadjithomas",NA,NA,NA
+"tt7265490",NA,NA,"Memory Box","https://www.imdb.com/title/tt7265490/","movie",6.7,102,2021,"Drama",761,"2021-06-11","Joana Hadjithomas, Khalil Joreige",NA,NA,NA
 "tt9623736",NA,NA,"Ainaa Jhyal Ko Putali","https://www.imdb.com/title/tt9623736/","movie",8,96,2020,"Drama",185,"2020-10-26","Sujit Bidari",NA,NA,NA
 "tt9673176",NA,NA,"Winners","https://www.imdb.com/title/tt9673176/","movie",7.5,85,2022,"Drama, Family",71,"2022-08-13","Hassan Nazer",NA,NA,NA
 "tt9681686",NA,NA,"Chhello Show","https://www.imdb.com/title/tt9681686/","movie",7.5,110,2021,"Drama",4243,"2021-06-10","Pan Nalin",NA,NA,NA
@@ -8826,7 +8826,7 @@
 "tt0078298",NA,NA,"Sonámbulos","https://www.imdb.com/title/tt0078298/","movie",5.1,96,1978,"Drama",126,"1978-09-25","Manuel Gutiérrez Aragón",NA,NA,NA
 "tt0079118",NA,NA,"Eskimo Limon","https://www.imdb.com/title/tt0079118/","movie",6.4,95,1978,"Comedy, Drama, Romance",3574,"1978-02-28","Boaz Davidson",NA,NA,NA
 "tt0079659",NA,NA,"Okupacija u 26 slika","https://www.imdb.com/title/tt0079659/","movie",7.5,116,1978,"Drama, Romance, War",1001,"1978-06-30","Lordan Zafranovic",NA,NA,NA
-"tt0124002",NA,NA,"Mig og Charly","https://www.imdb.com/title/tt0124002/","movie",6.4,98,1978,"Drama",463,"1978-03-19","Henning Kristiansen, Morten Arnfred",NA,NA,NA
+"tt0124002",NA,NA,"Mig og Charly","https://www.imdb.com/title/tt0124002/","movie",6.4,98,1978,"Drama",463,"1978-03-19","Morten Arnfred, Henning Kristiansen",NA,NA,NA
 "tt0337698",NA,NA,"Promise of Love","https://www.imdb.com/title/tt0337698/","movie",5.3,148,1978,"Drama, Romance",30,"1978-08-30","Sarky Mouradian",NA,NA,NA
 "tt1101669",NA,NA,"Urs Al-Zayn","https://www.imdb.com/title/tt1101669/","movie",6.8,90,1976,"Drama",21,"1976-12-31","Khalid Al Siddiq",NA,NA,NA
 "tt0077165",NA,NA,"Angi Vera","https://www.imdb.com/title/tt0077165/","movie",7.2,96,1978,"Drama, Romance",377,"1978-11-18","Pál Gábor",NA,NA,NA
@@ -8849,3 +8849,566 @@
 "tt0477657",NA,NA,"Gassan","https://www.imdb.com/title/tt0477657/","movie",NA,103,1979,"Drama",NA,"1979-10-20","Tetsutaro Murano",NA,NA,NA
 "tt0087301",NA,NA,"Fu rong zhen","https://www.imdb.com/title/tt0087301/","movie",8.1,164,1987,"Drama, History, Romance",1264,"1987-03-05","Jin Xie",NA,NA,NA
 "tt0089288",NA,NA,"Un hombre de éxito","https://www.imdb.com/title/tt0089288/","movie",6.6,116,1986,"Drama",96,"1986-12-31","Humberto Solás",NA,NA,NA
+"tt7552938",NA,NA,"Mis 500 locos","https://www.imdb.com/title/tt7552938/","movie",7.8,93,2020,"Drama, History",42,"2020-09-15","Leticia Tonos",NA,NA,NA
+"tt7557258",NA,NA,"Derë e hapur","https://www.imdb.com/title/tt7557258/","movie",6.5,78,2019,"Drama",73,"2019-08-19","Florenc Papas",NA,NA,NA
+"tt7716120",NA,NA,"Und morgen die ganze Welt","https://www.imdb.com/title/tt7716120/","movie",6,111,2020,"Crime, Drama, Romance",3533,"2020-09-10","Julia von Heinz",NA,NA,NA
+"tt7937168",NA,NA,"La trinchera infinita","https://www.imdb.com/title/tt7937168/","movie",7.2,147,2019,"Drama, History, Thriller",7190,"2019-09-22","Aitor Arregi, Jon Garaño, Jose Mari Goenaga",NA,NA,NA
+"tt7945450",NA,NA,"Notturno","https://www.imdb.com/title/tt7945450/","movie",6.6,100,2020,"Documentary",1288,"2020-09-08","Gianfranco Rosi",NA,NA,NA
+"tt8019498",NA,NA,"Causa Justa","https://www.imdb.com/title/tt8019498/","movie",5.1,95,2019,"Drama, War",113,"2019-10-31","Luis Pacheco, Luis Franco Brantley",NA,NA,NA
+"tt8241872",NA,NA,"Vitalina Varela","https://www.imdb.com/title/tt8241872/","movie",6.8,124,2019,"Drama",2424,"2019-08-14","Pedro Costa",NA,NA,NA
+"tt8514696",NA,NA,"Nova Lituania","https://www.imdb.com/title/tt8514696/","movie",6.6,96,2019,"Drama, History",964,"2019-06-30","Karolis Kaupinis",NA,NA,NA
+"tt8721556",NA,NA,"Jallikattu","https://www.imdb.com/title/tt8721556/","movie",7.3,95,2019,"Action, Crime, Thriller",8981,"2019-09-06","Lijo Jose Pellissery",NA,NA,NA
+"tt8777758",NA,NA,"Montevideo","https://www.imdb.com/title/tt8777758/","movie",6.6,94,2019,"Drama, Thriller",47,"2019-02-19","Paúl Venegas",NA,NA,NA
+"tt8910408",NA,NA,"Songs of Solomon","https://www.imdb.com/title/tt8910408/","movie",6.1,103,2020,"Drama",1376,"2020-11-26","Arman Nshanian",NA,NA,NA
+"tt8955708",NA,NA,"Exil","https://www.imdb.com/title/tt8955708/","movie",6.6,121,2020,"Drama, Mystery, Thriller",1046,"2020-01-27","Visar Morina",NA,NA,NA
+"tt8958304",NA,NA,"Iti, Tomari Dhaka","https://www.imdb.com/title/tt8958304/","movie",6.9,134,2018,"Drama",750,"2018-10-07","Rahat Rahman, Saleh Sobhan Auneem, Mir Mukarram Hossain, Syed Ahmed Shawki, Golam Kibria Farooki, Krishnendu Chattopadhyay, Robiul Alam Robi, Nuhash Humayun, Tanvir Ahsan, Abdullah Al Noor, Abdul Qaiyum Leon, Mahmudul Islam",NA,NA,NA
+"tt9000302",NA,NA,"Perempuan tanah jahanam","https://www.imdb.com/title/tt9000302/","movie",6.6,106,2019,"Horror, Mystery, Thriller",6817,"2019-10-10","Joko Anwar",NA,NA,NA
+"tt9077352",NA,NA,"Die Adern der Welt","https://www.imdb.com/title/tt9077352/","movie",6.9,96,2020,"Drama, Family",425,"2020-02-23","Byambasuren Davaa",NA,NA,NA
+"tt9248118",NA,NA,"Matar a un Muerto","https://www.imdb.com/title/tt9248118/","movie",6.8,87,2019,"Thriller",70,"2019-09-05","Hugo Giménez",NA,NA,NA
+"tt9249886",NA,NA,"Agnes Joy","https://www.imdb.com/title/tt9249886/","movie",6.1,92,2019,"Drama",307,"2019-10-05","Silja Hauksdóttir",NA,NA,NA
+"tt9253672",NA,NA,"Toorbos","https://www.imdb.com/title/tt9253672/","movie",7.1,120,2019,"Drama",71,"2019-08-24","Rene van Rooyen",NA,NA,NA
+"tt9349882",NA,NA,"The Milkmaid","https://www.imdb.com/title/tt9349882/","movie",6.7,136,2020,"Drama",37,"2020-11-27","Desmond Ovbiagele",NA,NA,NA
+"tt9392618",NA,NA,"Willow","https://www.imdb.com/title/tt9392618/","movie",7.2,101,2019,"Drama",1013,"2019-10-19","Milcho Manchevski",NA,NA,NA
+"tt9415108",NA,NA,"The Auschwitz Report","https://www.imdb.com/title/tt9415108/","movie",6.6,94,2021,"Drama, History, War",2623,"2021-03-16","Peter Bebjak",NA,NA,NA
+"tt9620986",NA,NA,"Arracht","https://www.imdb.com/title/tt9620986/","movie",7,90,2019,"Drama",472,"2019-11-29","Tom Sullivan",NA,NA,NA
+"tt9686154",NA,NA,"You Will Die at Twenty","https://www.imdb.com/title/tt9686154/","movie",7.1,103,2019,"Drama",2601,"2019-08-31","Amjad Abu Alala",NA,NA,NA
+"tt9738784",NA,NA,"Persischstunden","https://www.imdb.com/title/tt9738784/","movie",7.4,127,2020,"Drama, War",11119,"2020-02-22","Vadim Perelman",NA,NA,NA
+"tt9812614",NA,NA,"Håp","https://www.imdb.com/title/tt9812614/","movie",7.3,125,2019,"Drama, Romance",2405,"2019-09-07","Maria Sødahl",NA,NA,NA
+"tt9822706",NA,NA,"Re dai yu","https://www.imdb.com/title/tt9822706/","movie",6.8,103,2019,"Drama, Romance",1450,"2019-09-08","Anthony Chen",NA,NA,NA
+"tt9839670",NA,NA,"River Tales","https://www.imdb.com/title/tt9839670/","movie",6.3,82,2020,"Documentary",12,"2020-03-14","Julie Schroell",NA,NA,NA
+"tt9845110",NA,NA,"Deux","https://www.imdb.com/title/tt9845110/","movie",7.2,99,2019,"Drama, Romance",3578,"2019-09-07","Filippo Meneghetti",NA,NA,NA
+"tt9850050",NA,NA,"Charter","https://www.imdb.com/title/tt9850050/","movie",6.2,94,2020,"Drama",1452,"2020-01-26","Amanda Kernell",NA,NA,NA
+"tt10075830",NA,NA,"M for Malaysia","https://www.imdb.com/title/tt10075830/","movie",5.4,92,2019,"Documentary",153,"2019-05-15","Dian Lee, Ineza Roussille",NA,NA,NA
+"tt10122392",NA,NA,"Incitement","https://www.imdb.com/title/tt10122392/","movie",7,123,2019,"Thriller",811,"2019-09-07","Yaron Zilberman",NA,NA,NA
+"tt10199640",NA,NA,"Dylda","https://www.imdb.com/title/tt10199640/","movie",7.2,130,2019,"Drama, War",12116,"2019-05-16","Kantemir Balagov",NA,NA,NA
+"tt10199664",NA,NA,"Adam","https://www.imdb.com/title/tt10199664/","movie",7.2,98,2019,"Drama",1714,"2019-05-20","Maryam Touzani",NA,NA,NA
+"tt10260042",NA,NA,"Antigone","https://www.imdb.com/title/tt10260042/","movie",7,109,2019,"Crime, Drama",1828,"2019-09-09","Sophie Deraspe",NA,NA,NA
+"tt10298454",NA,NA,"Así habló el cambista","https://www.imdb.com/title/tt10298454/","movie",6.3,97,2019,"Comedy, Drama",298,"2019-09-08","Federico Veiroj",NA,NA,NA
+"tt10384744",NA,NA,"La odisea de los giles","https://www.imdb.com/title/tt10384744/","movie",7.2,116,2019,"Adventure, Comedy, Crime, Drama, History, Thriller",12244,"2019-08-15","Sebastián Borensztein",NA,NA,NA
+"tt10417642",NA,NA,"Verdict","https://www.imdb.com/title/tt10417642/","movie",7.4,126,2019,"Crime, Drama",611,"2019-08-28","Raymund Ribay Gutierrez",NA,NA,NA
+"tt10449094",NA,NA,"Otan o Vagner synantise tis domates","https://www.imdb.com/title/tt10449094/","movie",7.5,52,2019,"Documentary",195,"2019-02-12","Marianna Economou",NA,NA,NA
+"tt10523404",NA,NA,"Todos cambiamos","https://www.imdb.com/title/tt10523404/","movie",6.6,93,2019,"Drama",67,"2019-08-15","Arturo Montenegro",NA,NA,NA
+"tt10627720",NA,NA,"Ne Zha zhi mo tong jiang shi","https://www.imdb.com/title/tt10627720/","movie",7.4,110,2019,"Animation, Action, Adventure, Family, Fantasy, Thriller",8398,"2019-07-11","Yu Yang",NA,NA,NA
+"tt10665234",NA,NA,"Sin","https://www.imdb.com/title/tt10665234/","movie",5.5,106,2019,"Drama",138,"2019-08-16","Ines Tanovic",NA,NA,NA
+"tt10713448",NA,NA,"Hava, Maryam, Ayesha","https://www.imdb.com/title/tt10713448/","movie",6.2,83,2019,"Drama",210,"2019-09-06","Sahraa Karimi",NA,NA,NA
+"tt10715974",NA,NA,"Shindisi","https://www.imdb.com/title/tt10715974/","movie",7.3,101,2019,"Drama, History, War",887,"2019-09-05","Dito Tsintsadze",NA,NA,NA
+"tt10860558",NA,NA,"Baglilik Asli","https://www.imdb.com/title/tt10860558/","movie",5.2,135,2019,"Drama",467,"2019-09-20","Semih Kaplanoglu",NA,NA,NA
+"tt11011540",NA,NA,"Issiq non","https://www.imdb.com/title/tt11011540/","movie",6.5,87,2018,"Drama",22,"2018-12-18","Umid Khamdamov",NA,NA,NA
+"tt11050404",NA,NA,"Kazakh Khanate - Golden Throne","https://www.imdb.com/title/tt11050404/","movie",6.2,111,2019,"Action, Drama, History, War",69,"2019-03-21","I. Kolyada, Rustem Abdrashev, Prince Oak Oakleyski",NA,NA,NA
+"tt1667354",NA,NA,"The Painted Bird","https://www.imdb.com/title/tt1667354/","movie",7.3,169,2019,"Drama, Horror, Thriller, War",7204,"2019-09-03","Václav Marhoul",NA,NA,NA
+"tt2395469",NA,NA,"Gully Boy","https://www.imdb.com/title/tt2395469/","movie",7.9,154,2019,"Drama, Music, Romance",42950,"2019-02-09","Zoya Akhtar",NA,NA,NA
+"tt4488744",NA,NA,"Un Traductor","https://www.imdb.com/title/tt4488744/","movie",7,107,2018,"Drama",914,"2018-01-19","Rodrigo Barriuso, Sebastián Barriuso",NA,NA,NA
+"tt4766630",NA,NA,"Wolkenbruchs wunderliche Reise in die Arme einer Schickse","https://www.imdb.com/title/tt4766630/","movie",6.6,94,2018,"Comedy, Drama",4796,"2018-09-29","Michael Steiner",NA,NA,NA
+"tt4792240",NA,NA,"Izmedju dana i noci","https://www.imdb.com/title/tt4792240/","movie",4.4,77,2018,"Drama, Mystery",77,"2018-09-01","Andro Martinovic",NA,NA,NA
+"tt5045746",NA,NA,"Buoyancy","https://www.imdb.com/title/tt5045746/","movie",7.3,93,2019,"Crime, Drama",1437,"2019-02-08","Rodd Rathjen",NA,NA,NA
+"tt5496628",NA,NA,"In the Life of Music","https://www.imdb.com/title/tt5496628/","movie",7,92,2018,"Drama, Family, History, Music, Romance, War",107,"2018-05-05","Caylee So, Sok Visal",NA,NA,NA
+"tt5593384",NA,NA,"Tõde ja õigus","https://www.imdb.com/title/tt5593384/","movie",8,165,2019,"Drama",4806,"2019-02-22","Tanel Toom",NA,NA,NA
+"tt5697990",NA,NA,"The Mover","https://www.imdb.com/title/tt5697990/","movie",6.9,90,2018,"Drama, History, War",565,"2018-10-18","Davis Simanis Jr.",NA,NA,NA
+"tt5791098",NA,NA,"Tel Aviv on Fire","https://www.imdb.com/title/tt5791098/","movie",6.7,100,2018,"Comedy, Drama, Romance",2519,"2018-09-02","Sameh Zoabi",NA,NA,NA
+"tt6062774",NA,NA,"Monos","https://www.imdb.com/title/tt6062774/","movie",6.8,102,2019,"Adventure, Drama, Thriller",18484,"2019-01-27","Alejandro Landes",NA,NA,NA
+"tt6131414",NA,NA,"Araña","https://www.imdb.com/title/tt6131414/","movie",6.3,105,2019,"Crime, Drama, Thriller",905,"2019-08-15","Andrés Wood",NA,NA,NA
+"tt6313896",NA,NA,"Alpha","https://www.imdb.com/title/tt6313896/","movie",5.8,90,2019,"Crime, Drama, Fantasy",75,"2019-04-26","Nasiruddin Yousuff",NA,NA,NA
+"tt6463320",NA,NA,"Zana","https://www.imdb.com/title/tt6463320/","movie",7.3,97,2019,"Drama, Mystery, Thriller",4687,"2019-09-07","Antoneta Kastrati",NA,NA,NA
+"tt6592296",NA,NA,"Hölmö nuori sydän","https://www.imdb.com/title/tt6592296/","movie",6.2,102,2018,"Drama",907,"2018-09-15","Selma Vilhunen",NA,NA,NA
+"tt6599184",NA,NA,"Delegacioni","https://www.imdb.com/title/tt6599184/","movie",6.6,77,2018,"Drama",182,"2018-10-15","Bujar Alimani",NA,NA,NA
+"tt6708834",NA,NA,"El despertar de las hormigas","https://www.imdb.com/title/tt6708834/","movie",6.5,94,2019,"Drama",650,"2019-02-12","Antonella Sudasassi",NA,NA,NA
+"tt6821342",NA,NA,"The Steed","https://www.imdb.com/title/tt6821342/","movie",7.4,110,2019,"Action, Adventure, Family",147,"2019-01-05","Erdenebileg Ganbold",NA,NA,NA
+"tt6857084",NA,NA,"La mala noche","https://www.imdb.com/title/tt6857084/","movie",5.8,95,2019,"Drama, Thriller",236,"2019-03-09","Gabriela Calvache",NA,NA,NA
+"tt6971114",NA,NA,"Al-murashahat al-muthalia","https://www.imdb.com/title/tt6971114/","movie",6.7,104,2019,"Comedy, Drama",1963,"2019-08-28","Haifaa Al-Mansour",NA,NA,NA
+"tt7144186",NA,NA,"Tu me manques","https://www.imdb.com/title/tt7144186/","movie",7.3,110,2019,"Drama, Romance",711,"2019-07-27","Rodrigo Bellott",NA,NA,NA
+"tt7319496",NA,NA,"Ut og stjæle hester","https://www.imdb.com/title/tt7319496/","movie",6.5,123,2019,"Drama, Mystery",3181,"2019-02-09","Hans Petter Moland",NA,NA,NA
+"tt7385140",NA,NA,"Finding Farideh","https://www.imdb.com/title/tt7385140/","movie",7.2,88,2018,"Documentary",244,"2018-04-20","Kourosh Ataee, Azadeh Moussavi",NA,NA,NA
+"tt7523630",NA,NA,"Debut","https://www.imdb.com/title/tt7523630/","movie",7.8,80,2017,"Documentary",47,"2017-12-31","Anastasiya Miroshnichenko",NA,NA,NA
+"tt7533152",NA,NA,"The Boy Who Harnessed the Wind","https://www.imdb.com/title/tt7533152/","movie",7.6,113,2019,"Biography, Drama, History",42698,"2019-01-25","Chiwetel Ejiofor",NA,NA,NA
+"tt7537960",NA,NA,"Weldi","https://www.imdb.com/title/tt7537960/","movie",6.5,104,2018,"Drama",460,"2018-05-13","Mohamed Ben Attia",NA,NA,NA
+"tt7689186",NA,NA,"Let There Be Light","https://www.imdb.com/title/tt7689186/","movie",7.2,93,2019,"Drama",506,"2019-06-30","Marko Skop",NA,NA,NA
+"tt7707314",NA,NA,"Lionheart","https://www.imdb.com/title/tt7707314/","movie",5.7,95,2018,"Comedy",1538,"2018-09-07","Genevieve Nnaji",NA,NA,NA
+"tt7725384",NA,NA,"1982","https://www.imdb.com/title/tt7725384/","movie",6.7,100,2019,"Drama, History, Romance, Sci-Fi",1155,"2019-09-08","Oualid Mouaness",NA,NA,NA
+"tt7736478",NA,NA,"Il traditore","https://www.imdb.com/title/tt7736478/","movie",7.1,153,2019,"Biography, Crime, Drama",12583,"2019-05-23","Marco Bellocchio",NA,NA,NA
+"tt7761590",NA,NA,"Retablo","https://www.imdb.com/title/tt7761590/","movie",7.5,95,2017,"Drama",1935,"2017-08-07","Alvaro Delgado Aparicio",NA,NA,NA
+"tt7866918",NA,NA,"Poisonous Roses","https://www.imdb.com/title/tt7866918/","movie",5.7,70,2018,"Drama",205,"2018-04-12","Ahmed Fawzi Saleh",NA,NA,NA
+"tt7909444",NA,NA,"Ága","https://www.imdb.com/title/tt7909444/","movie",7.2,96,2018,"Drama",1518,"2018-02-23","Milko Lazarov",NA,NA,NA
+"tt7921248",NA,NA,"La Gomera","https://www.imdb.com/title/tt7921248/","movie",6.4,97,2019,"Comedy, Crime, Drama, Thriller",6407,"2019-05-18","Corneliu Porumboiu",NA,NA,NA
+"tt7991628",NA,NA,"Mali","https://www.imdb.com/title/tt7991628/","movie",6.2,90,2018,"Crime, Drama",292,"2018-07-20","Antonio Nuic",NA,NA,NA
+"tt8161166",NA,NA,"Kralj Petar I","https://www.imdb.com/title/tt8161166/","movie",6.7,125,2018,"Biography, Drama, History, War",1903,"2018-12-05","Petar Ristovski",NA,NA,NA
+"tt8239806",NA,NA,"So duk 2: Tin dei duei kuet","https://www.imdb.com/title/tt8239806/","movie",6,99,2019,"Action, Crime",1453,"2019-07-05","Herman Yau",NA,NA,NA
+"tt8266040",NA,NA,"Subira","https://www.imdb.com/title/tt8266040/","movie",5.4,99,2018,"Drama",80,"2018-11-29","Ravneet Sippy Chadha",NA,NA,NA
+"tt8331988",NA,NA,"La camarista","https://www.imdb.com/title/tt8331988/","movie",7,102,2018,"Drama",1994,"2018-09-08","Lila Avilés",NA,NA,NA
+"tt8359842",NA,NA,"It Must Be Heaven","https://www.imdb.com/title/tt8359842/","movie",7,102,2019,"Comedy, Drama",5359,"2019-05-24","Elia Suleiman",NA,NA,NA
+"tt8378126",NA,NA,"Dronningen","https://www.imdb.com/title/tt8378126/","movie",7.1,127,2019,"Drama",13420,"2019-01-26","May el-Toukhy",NA,NA,NA
+"tt8386898",NA,NA,"Instinct","https://www.imdb.com/title/tt8386898/","movie",6,98,2019,"Drama, Thriller",2767,"2019-08-12","Halina Reijn",NA,NA,NA
+"tt8396182",NA,NA,"Aurora","https://www.imdb.com/title/tt8396182/","movie",7.1,98,2018,"Comedy, Drama, Mystery",185,"2018-10-06","Bekzat Pirmatov",NA,NA,NA
+"tt8413192",NA,NA,"El proyeccionista","https://www.imdb.com/title/tt8413192/","movie",6.4,94,2019,"Drama, Mystery, Thriller",210,"2019-03-02","José María Cabral",NA,NA,NA
+"tt8439860",NA,NA,"A Herdade","https://www.imdb.com/title/tt8439860/","movie",6.7,166,2019,"Drama, Thriller",1509,"2019-09-05","Tiago Guedes",NA,NA,NA
+"tt8442402",NA,NA,"Knuckle City","https://www.imdb.com/title/tt8442402/","movie",6.5,124,2019,"Crime",127,"2019-07-18","Jahmil X.T. Qubeka",NA,NA,NA
+"tt0006864",NA,NA,"Intolerance: Love's Struggle Throughout the Ages","https://www.imdb.com/title/tt0006864/","movie",7.7,163,1916,"Drama, History",16556,"1916-09-05","D.W. Griffith",NA,NA,NA
+"tt0014341",NA,NA,"Our Hospitality","https://www.imdb.com/title/tt0014341/","movie",7.8,65,1923,"Comedy, Romance, Thriller",12291,"1923-11-25","John G. Blystone, Buster Keaton",NA,NA,NA
+"tt0015163",NA,NA,"The Navigator","https://www.imdb.com/title/tt0015163/","movie",7.6,59,1924,"Action, Comedy, Romance",10847,"1924-09-28","Donald Crisp, Buster Keaton",NA,NA,NA
+"tt0019421",NA,NA,"Steamboat Bill, Jr.","https://www.imdb.com/title/tt0019421/","movie",7.8,70,1928,"Action, Comedy, Drama, Family, Romance",15802,"1928-04-05","Charles Reisner, Buster Keaton",NA,NA,NA
+"tt0024196",NA,NA,"Jofroi","https://www.imdb.com/title/tt0024196/","movie",7.1,52,1933,"Comedy",99,"1933-12-16","Marcel Pagnol",NA,NA,NA
+"tt0024962",NA,NA,"The Rise of Catherine the Great","https://www.imdb.com/title/tt0024962/","movie",6.3,95,1934,"Biography, Drama, History",705,"1934-01-16","Alexander Korda, Paul Czinner",NA,NA,NA
+"tt0025561",NA,NA,"Nieuwe gronden","https://www.imdb.com/title/tt0025561/","short",7.2,36,1933,"Documentary, Short",272,"1933-12-14","Joris Ivens",NA,NA,NA
+"tt0025898",NA,NA,"Toni","https://www.imdb.com/title/tt0025898/","movie",7.2,84,1935,"Crime, Drama, Romance",2067,"1935-02-22","Jean Renoir",NA,NA,NA
+"tt0026778",NA,NA,"A Night at the Opera","https://www.imdb.com/title/tt0026778/","movie",7.8,96,1935,"Comedy, Music, Musical",34344,"1935-11-01","Sam Wood, Edmund Goulding",NA,NA,NA
+"tt0027660",NA,NA,"The Gay Desperado","https://www.imdb.com/title/tt0027660/","movie",6.1,86,1936,"Comedy",301,"1936-10-02","Rouben Mamoulian",NA,NA,NA
+"tt0027688",NA,NA,"Le golem","https://www.imdb.com/title/tt0027688/","movie",6.3,83,1936,"Fantasy, Horror",255,"1936-02-06","Julien Duvivier",NA,NA,NA
+"tt0028116",NA,NA,"Pokolenie pobediteley","https://www.imdb.com/title/tt0028116/","movie",5.9,100,1936,"Drama, History",20,"1936-11-05","Vera Stroyeva",NA,NA,NA
+"tt0030252",NA,NA,"Hôtel du Nord","https://www.imdb.com/title/tt0030252/","movie",7.6,95,1938,"Comedy, Drama, Romance",3099,"1938-12-10","Marcel Carné",NA,NA,NA
+"tt0030410",NA,NA,"A Man to Remember","https://www.imdb.com/title/tt0030410/","movie",7,79,1938,"Drama, Music, Romance",465,"1938-10-14","Garson Kanin",NA,NA,NA
+"tt0030534",NA,NA,"Les otages","https://www.imdb.com/title/tt0030534/","movie",6.8,105,1939,"Drama, War",101,"1939-03-23","Raymond Bernard",NA,NA,NA
+"tt0031750",NA,NA,"The Old Maid","https://www.imdb.com/title/tt0031750/","movie",7.5,95,1939,"Drama",4006,"1939-08-16","Edmund Goulding",NA,NA,NA
+"tt0032337",NA,NA,"Chlen pravitelstva","https://www.imdb.com/title/tt0032337/","movie",7,99,1940,"Drama",86,"1940-03-08","Iosif Kheifits, Aleksandr Zarkhi",NA,NA,NA
+"tt0033853",NA,NA,"Love on the Dole","https://www.imdb.com/title/tt0033853/","movie",6.6,98,1941,"Drama",575,"1941-04-02","John Baxter",NA,NA,NA
+"tt0034184",NA,NA,"Shining Victory","https://www.imdb.com/title/tt0034184/","movie",6.5,80,1941,"Drama",810,"1941-05-30","Irving Rapper",NA,NA,NA
+"tt0034920",NA,NA,"Joe Smith, American","https://www.imdb.com/title/tt0034920/","movie",6.2,63,1942,"Drama, Romance, War",299,"1942-02-28","Richard Thorpe",NA,NA,NA
+"tt0035230",NA,NA,"4 passi fra le nuvole","https://www.imdb.com/title/tt0035230/","movie",7.5,95,1942,"Comedy, Drama",504,"1942-12-24","Alessandro Blasetti",NA,NA,NA
+"tt0038289",NA,NA,"I See a Dark Stranger","https://www.imdb.com/title/tt0038289/","movie",7,112,1946,"Drama, Thriller, War",1672,"1946-07-04","Frank Launder",NA,NA,NA
+"tt0038824",NA,NA,"Panique","https://www.imdb.com/title/tt0038824/","movie",7.9,99,1946,"Crime, Drama",2432,"1946-09-30","Julien Duvivier",NA,NA,NA
+"tt0039632",NA,NA,"Monsieur Vincent","https://www.imdb.com/title/tt0039632/","movie",7,111,1947,"Biography, Drama, History",965,"1947-09-15","Maurice Cloche",NA,NA,NA
+"tt0039811",NA,NA,"The Senator Was Indiscreet","https://www.imdb.com/title/tt0039811/","movie",6.5,88,1947,"Comedy",685,"1947-12-26","George S. Kaufman",NA,NA,NA
+"tt0040079",NA,NA,"Affaire Blum","https://www.imdb.com/title/tt0040079/","movie",7.8,109,1948,"Drama, Crime",68,"1948-12-03","Erich Engel",NA,NA,NA
+"tt0040092",NA,NA,"L'amore","https://www.imdb.com/title/tt0040092/","movie",6.9,69,1948,"Drama",1859,"1948-08-21","Roberto Rossellini",NA,NA,NA
+"tt0040674",NA,NA,"Ostatni etap","https://www.imdb.com/title/tt0040674/","movie",7.2,105,1948,"Drama, History, War",651,"1948-03-28","Wanda Jakubowska",NA,NA,NA
+"tt0041271",NA,NA,"Cuori senza frontiere","https://www.imdb.com/title/tt0041271/","movie",6.1,87,1950,"Drama",66,"1950-08-31","Luigi Zampa",NA,NA,NA
+"tt0041579",NA,NA,"The Last Days of Dolwyn","https://www.imdb.com/title/tt0041579/","movie",7,95,1949,"Drama",297,"1949-04-13","Emlyn Williams",NA,NA,NA
+"tt0041776",NA,NA,"The Queen of Spades","https://www.imdb.com/title/tt0041776/","movie",7.1,95,1949,"Drama, Fantasy, Horror",2283,"1949-03-18","Thorold Dickinson",NA,NA,NA
+"tt0042395",NA,NA,"Devil's Doorway","https://www.imdb.com/title/tt0042395/","movie",7.2,84,1950,"Western",1839,"1950-08-18","Anthony Mann",NA,NA,NA
+"tt0042625",NA,NA,"Justice est faite","https://www.imdb.com/title/tt0042625/","movie",7.1,105,1950,"Drama, Mystery",421,"1950-09-20","André Cayatte",NA,NA,NA
+"tt0047171",NA,NA,"Les lettres de mon moulin","https://www.imdb.com/title/tt0047171/","movie",6.9,160,1954,"Comedy, Drama",120,"1954-11-05","Marcel Pagnol",NA,NA,NA
+"tt0048133",NA,NA,"Les grandes manoeuvres","https://www.imdb.com/title/tt0048133/","movie",6.7,106,1955,"Comedy, Drama, Romance",1114,"1955-08-31","René Clair",NA,NA,NA
+"tt0048449",NA,NA,"One Froggy Evening","https://www.imdb.com/title/tt0048449/","short",8.4,7,1955,"Animation, Short, Comedy, Family, Fantasy, Musical",6011,"1955-12-31","Chuck Jones",NA,NA,NA
+"tt0050237",NA,NA,"Celui qui doit mourir","https://www.imdb.com/title/tt0050237/","movie",7.5,122,1957,"Drama",902,"1957-05-04","Jules Dassin",NA,NA,NA
+"tt0051742",NA,NA,"Hot Spell","https://www.imdb.com/title/tt0051742/","movie",7,86,1958,"Drama",576,"1958-05-21","George Cukor, Daniel Mann",NA,NA,NA
+"tt0051913",NA,NA,"The Matchmaker","https://www.imdb.com/title/tt0051913/","movie",6.8,103,1958,"Romance, Comedy",1182,"1958-07-23","Joseph Anthony",NA,NA,NA
+"tt0053242",NA,NA,"Sapphire","https://www.imdb.com/title/tt0053242/","movie",7.2,92,1959,"Crime, Drama, Mystery, Thriller",2133,"1959-04-21","Basil Dearden",NA,NA,NA
+"tt0055320",NA,NA,"Il posto","https://www.imdb.com/title/tt0055320/","movie",7.9,93,1961,"Drama",6503,"1961-09-01","Ermanno Olmi",NA,NA,NA
+"tt0058003",NA,NA,"Il deserto rosso","https://www.imdb.com/title/tt0058003/","movie",7.5,117,1964,"Drama",17230,"1964-09-07","Michelangelo Antonioni",NA,NA,NA
+"tt0059817",NA,NA,"Tôkyô orinpikku","https://www.imdb.com/title/tt0059817/","movie",7.8,170,1965,"Documentary, Sport",2104,"1965-03-20","Kon Ichikawa",NA,NA,NA
+"tt0059874",NA,NA,"La vie à l'envers","https://www.imdb.com/title/tt0059874/","movie",7.3,92,1964,"Drama",336,"1964-05-31","Alain Jessua",NA,NA,NA
+"tt0061537",NA,NA,"Csillagosok, katonák","https://www.imdb.com/title/tt0061537/","movie",7.6,90,1967,"Drama, War",3826,"1967-11-04","Miklós Jancsó",NA,NA,NA
+"tt0062185",NA,NA,"Reflections in a Golden Eye","https://www.imdb.com/title/tt0062185/","movie",6.7,108,1967,"Drama, Romance, Thriller",8096,"1967-10-11","John Huston",NA,NA,NA
+"tt0062310",NA,NA,"Lo straniero","https://www.imdb.com/title/tt0062310/","movie",7.1,104,1967,"Drama",2998,"1967-09-06","Luchino Visconti",NA,NA,NA
+"tt0062425",NA,NA,"Up the Down Staircase","https://www.imdb.com/title/tt0062425/","movie",7.3,124,1967,"Drama",2412,"1967-06-28","Robert Mulligan",NA,NA,NA
+"tt0062663",NA,NA,"L'amour fou","https://www.imdb.com/title/tt0062663/","movie",7.4,252,1969,"Drama, Romance",743,"1969-01-15","Jacques Rivette",NA,NA,NA
+"tt0062732",NA,NA,"The Birthday Party","https://www.imdb.com/title/tt0062732/","movie",6.4,123,1968,"Drama, Mystery, Thriller",1096,"1968-12-09","William Friedkin",NA,NA,NA
+"tt0062792",NA,NA,"Charlie Bubbles","https://www.imdb.com/title/tt0062792/","movie",6.3,89,1968,"Comedy, Drama",828,"1968-02-11","Albert Finney",NA,NA,NA
+"tt0063456",NA,NA,"Pretty Poison","https://www.imdb.com/title/tt0063456/","movie",7,89,1968,"Comedy, Crime, Romance, Thriller",3883,"1968-07-19","Noel Black",NA,NA,NA
+"tt0063531",NA,NA,"Den røde kappe","https://www.imdb.com/title/tt0063531/","movie",6.1,100,1967,"Adventure, Drama",162,"1967-01-16","Gabriel Axel",NA,NA,NA
+"tt0064253",NA,NA,"Downhill Racer","https://www.imdb.com/title/tt0064253/","movie",6.3,101,1969,"Drama, Sport",5256,"1969-10-28","Michael Ritchie",NA,NA,NA
+"tt0064652",NA,NA,"Medium Cool","https://www.imdb.com/title/tt0064652/","movie",7.2,111,1969,"Drama",4635,"1969-08-27","Haskell Wexler",NA,NA,NA
+"tt0064754",NA,NA,"Oh! What a Lovely War","https://www.imdb.com/title/tt0064754/","movie",7,144,1969,"Comedy, Musical, War",3220,"1969-04-10","Richard Attenborough",NA,NA,NA
+"tt0065380",NA,NA,"Alex in Wonderland","https://www.imdb.com/title/tt0065380/","movie",5.4,110,1970,"Comedy, Drama",961,"1970-12-17","Paul Mazursky",NA,NA,NA
+"tt0065492",NA,NA,"Brewster McCloud","https://www.imdb.com/title/tt0065492/","movie",6.9,105,1970,"Comedy, Crime, Fantasy",5503,"1970-12-05","Robert Altman",NA,NA,NA
+"tt0066826",NA,NA,"The Touch","https://www.imdb.com/title/tt0066826/","movie",6.3,115,1971,"Drama",2135,"1971-06-26","Ingmar Bergman",NA,NA,NA
+"tt0066986",NA,NA,"Desperate Characters","https://www.imdb.com/title/tt0066986/","movie",6.2,97,1971,"Drama",346,"1971-06-30","Frank D. Gilroy",NA,NA,NA
+"tt0067204",NA,NA,"The Hired Hand","https://www.imdb.com/title/tt0067204/","movie",6.9,90,1971,"Drama, Western",3659,"1971-07-16","Peter Fonda",NA,NA,NA
+"tt0067357",NA,NA,"The Raging Moon","https://www.imdb.com/title/tt0067357/","movie",6.9,112,1971,"Drama, Romance",648,"1971-01-21","Bryan Forbes",NA,NA,NA
+"tt0067893",NA,NA,"Two-Lane Blacktop","https://www.imdb.com/title/tt0067893/","movie",7.2,102,1971,"Drama",13216,"1971-07-07","Monte Hellman",NA,NA,NA
+"tt0068369",NA,NA,"Child's Play","https://www.imdb.com/title/tt0068369/","movie",6.2,100,1972,"Drama, Mystery, Thriller",1583,"1972-12-12","Sidney Lumet",NA,NA,NA
+"tt0068450",NA,NA,"A Day in the Death of Joe Egg","https://www.imdb.com/title/tt0068450/","movie",6.8,106,1972,"Comedy, Drama",566,"1972-05-31","Peter Medak",NA,NA,NA
+"tt0068509",NA,NA,"Drive, He Said","https://www.imdb.com/title/tt0068509/","movie",5.7,90,1971,"Comedy, Drama, Sport",1719,"1971-05-24","Jack Nicholson",NA,NA,NA
+"tt0070061",NA,NA,"Film d'amore e d'anarchia, ovvero 'stamattina alle 10 in via dei Fiori nella nota casa di tolleranza...'","https://www.imdb.com/title/tt0070061/","movie",7.7,124,1973,"Comedy, Drama, Romance",3444,"1973-02-22","Lina Wertmüller",NA,NA,NA
+"tt0070959",NA,NA,"État de siège","https://www.imdb.com/title/tt0070959/","movie",7.7,130,1972,"Crime, Drama, Mystery, Thriller",5908,"1972-12-30","Costa-Gavras",NA,NA,NA
+"tt0074963",NA,NA,"Next Stop, Greenwich Village","https://www.imdb.com/title/tt0074963/","movie",7,111,1976,"Comedy, Drama",2417,"1976-02-04","Paul Mazursky",NA,NA,NA
+"tt0075364",NA,NA,"La dernière femme","https://www.imdb.com/title/tt0075364/","movie",6.4,112,1976,"Drama",1442,"1976-04-21","Marco Ferreri",NA,NA,NA
+"tt0075784",NA,NA,"A Bridge Too Far","https://www.imdb.com/title/tt0075784/","movie",7.4,175,1977,"Drama, History, War",60211,"1977-06-15","Richard Attenborough",NA,NA,NA
+"tt0076574",NA,NA,"Providence","https://www.imdb.com/title/tt0076574/","movie",7.5,110,1977,"Drama",3441,"1977-01-25","Alain Resnais",NA,NA,NA
+"tt0077473",NA,NA,"Kravgi gynaikon","https://www.imdb.com/title/tt0077473/","movie",6.8,110,1978,"Drama",385,"1978-05-21","Jules Dassin",NA,NA,NA
+"tt0078488",NA,NA,"Who Is Killing the Great Chefs of Europe?","https://www.imdb.com/title/tt0078488/","movie",6.4,112,1978,"Comedy, Crime, Mystery",2545,"1978-09-13","Ted Kotcheff",NA,NA,NA
+"tt0078490",NA,NA,"Who'll Stop the Rain","https://www.imdb.com/title/tt0078490/","movie",6.7,126,1978,"Action, Crime, Drama, Thriller, War",3164,"1978-05-21","Karel Reisz",NA,NA,NA
+"tt0079592",NA,NA,"Murder by Decree","https://www.imdb.com/title/tt0079592/","movie",6.8,124,1979,"Crime, Mystery, Thriller",6321,"1979-02-01","Bob Clark",NA,NA,NA
+"tt0079668",NA,NA,"The Onion Field","https://www.imdb.com/title/tt0079668/","movie",6.8,126,1979,"Crime, Drama",5636,"1979-09-07","Harold Becker",NA,NA,NA
+"tt0079807",NA,NA,"Richard Pryor: Live in Concert","https://www.imdb.com/title/tt0079807/","movie",8,78,1979,"Documentary, Comedy",5695,"1979-01-26","Jeff Margolis",NA,NA,NA
+"tt0080149",NA,NA,"Woyzeck","https://www.imdb.com/title/tt0080149/","movie",7,80,1979,"Drama",10305,"1979-05-22","Werner Herzog",NA,NA,NA
+"tt0080801",NA,NA,"The Gods Must Be Crazy","https://www.imdb.com/title/tt0080801/","movie",7.3,109,1980,"Adventure, Comedy",58743,"1980-09-10","Jamie Uys",NA,NA,NA
+"tt0081071",NA,NA,"The Long Riders","https://www.imdb.com/title/tt0081071/","movie",6.9,100,1980,"Biography, Crime, Drama, Western",12427,"1980-05-15","Walter Hill",NA,NA,NA
+"tt0081420",NA,NA,"Return of the Secaucus Seven","https://www.imdb.com/title/tt0081420/","movie",7,104,1980,"Drama",2172,"1980-03-14","John Sayles",NA,NA,NA
+"tt0081696",NA,NA,"Urban Cowboy","https://www.imdb.com/title/tt0081696/","movie",6.4,132,1980,"Drama, Romance, Western",16295,"1980-06-06","James Bridges",NA,NA,NA
+"tt0082001",NA,NA,"All Night Long","https://www.imdb.com/title/tt0082001/","movie",5.5,87,1981,"Comedy, Drama, Romance",1962,"1981-03-06","Jean-Claude Tramont",NA,NA,NA
+"tt0082085",NA,NA,"Blow Out","https://www.imdb.com/title/tt0082085/","movie",7.4,108,1981,"Crime, Drama, Mystery, Thriller",60103,"1981-07-07","Brian De Palma",NA,NA,NA
+"tt0082766",NA,NA,"Mommie Dearest","https://www.imdb.com/title/tt0082766/","movie",6.6,129,1981,"Biography, Drama",17698,"1981-09-18","Frank Perry",NA,NA,NA
+"tt0083015",NA,NA,"S.O.B.","https://www.imdb.com/title/tt0083015/","movie",6.4,122,1981,"Comedy, Drama",6353,"1981-06-26","Blake Edwards",NA,NA,NA
+"tt0083232",NA,NA,"True Confessions","https://www.imdb.com/title/tt0083232/","movie",6.3,108,1981,"Crime, Drama",8639,"1981-09-24","Ulu Grosbard",NA,NA,NA
+"tt0083511",NA,NA,"48 Hrs.","https://www.imdb.com/title/tt0083511/","movie",6.9,96,1982,"Action, Comedy, Crime, Drama, Thriller",83278,"1982-12-08","Walter Hill",NA,NA,NA
+"tt0083745",NA,NA,"Come Back to the 5 & Dime Jimmy Dean, Jimmy Dean","https://www.imdb.com/title/tt0083745/","movie",7.1,109,1982,"Comedy, Drama",5057,"1982-08-25","Robert Altman",NA,NA,NA
+"tt0084675",NA,NA,"Shoot the Moon","https://www.imdb.com/title/tt0084675/","movie",6.8,124,1982,"Drama",3030,"1982-01-22","Alan Parker",NA,NA,NA
+"tt0085439",NA,NA,"Diner","https://www.imdb.com/title/tt0085439/","tvMovie",6.9,30,1983,"Comedy",168,"1983-08-08","Barry Levinson",NA,NA,NA
+"tt0085724",NA,NA,"Independence Day","https://www.imdb.com/title/tt0085724/","movie",6.5,110,1983,"Drama, Romance",558,"1983-01-21","Robert Mandel",NA,NA,NA
+"tt0085809",NA,NA,"Koyaanisqatsi","https://www.imdb.com/title/tt0085809/","movie",8.2,86,1982,"Documentary, Music",40674,"1982-04-27","Godfrey Reggio",NA,NA,NA
+"tt0086242",NA,NA,"Sasameyuki","https://www.imdb.com/title/tt0086242/","movie",7.2,140,1983,"Drama, Romance",1677,"1983-05-21","Kon Ichikawa",NA,NA,NA
+"tt0086355",NA,NA,"Star 80","https://www.imdb.com/title/tt0086355/","movie",6.8,103,1983,"Biography, Drama",7822,"1983-03-30","Bob Fosse",NA,NA,NA
+"tt0086491",NA,NA,"Twilight Zone: The Movie","https://www.imdb.com/title/tt0086491/","movie",6.4,101,1983,"Horror, Sci-Fi",40325,"1983-06-24","George Miller, Joe Dante, John Landis, Steven Spielberg",NA,NA,NA
+"tt0086873",NA,NA,"All of Me","https://www.imdb.com/title/tt0086873/","movie",6.6,93,1984,"Comedy, Fantasy, Romance",19482,"1984-09-07","Carl Reiner",NA,NA,NA
+"tt0086984",NA,NA,"Body Double","https://www.imdb.com/title/tt0086984/","movie",6.8,114,1984,"Crime, Drama, Mystery, Thriller",36920,"1984-10-15","Brian De Palma",NA,NA,NA
+"tt0087054",NA,NA,"Choose Me","https://www.imdb.com/title/tt0087054/","movie",6.7,106,1984,"Comedy, Drama, Romance",3040,"1984-05-31","Alan Rudolph",NA,NA,NA
+"tt0087072",NA,NA,"Comfort and Joy","https://www.imdb.com/title/tt0087072/","movie",6.7,106,1984,"Comedy",2280,"1984-08-14","Bill Forsyth",NA,NA,NA
+"tt0087100",NA,NA,"Crimes of Passion","https://www.imdb.com/title/tt0087100/","movie",6.4,107,1984,"Drama, Romance, Thriller",8145,"1984-10-19","Ken Russell",NA,NA,NA
+"tt0087193",NA,NA,"Efter repetitionen","https://www.imdb.com/title/tt0087193/","tvMovie",7.1,70,1984,"Drama",2858,"1984-04-09","Ingmar Bergman",NA,NA,NA
+"tt0087231",NA,NA,"The Falcon and the Snowman","https://www.imdb.com/title/tt0087231/","movie",6.8,131,1985,"Biography, Crime, Drama, Thriller",12370,"1985-01-19","John Schlesinger",NA,NA,NA
+"tt0087747",NA,NA,"Moscow on the Hudson","https://www.imdb.com/title/tt0087747/","movie",6.5,115,1984,"Comedy, Drama, Romance",12798,"1984-03-30","Paul Mazursky",NA,NA,NA
+"tt0087843",NA,NA,"Once Upon a Time in America","https://www.imdb.com/title/tt0087843/","movie",8.3,229,1984,"Crime, Drama",370700,"1984-05-20","Sergio Leone",NA,NA,NA
+"tt0089816",NA,NA,"Plenty","https://www.imdb.com/title/tt0089816/","movie",6,121,1985,"Drama",3321,"1985-09-10","Fred Schepisi",NA,NA,NA
+"tt0090209",NA,NA,"Trouble in Mind","https://www.imdb.com/title/tt0090209/","movie",6.4,111,1985,"Comedy, Crime, Drama, Thriller",2344,"1985-12-11","Alan Rudolph",NA,NA,NA
+"tt0090310",NA,NA,"Wetherby","https://www.imdb.com/title/tt0090310/","movie",6.5,102,1985,"Drama, Mystery",1696,"1985-02-28","David Hare",NA,NA,NA
+"tt0090568",NA,NA,"8 Million Ways to Die","https://www.imdb.com/title/tt0090568/","movie",5.7,115,1986,"Action, Crime, Drama, Thriller",5739,"1986-04-25","Hal Ashby",NA,NA,NA
+"tt0090966",NA,NA,"Down and Out in Beverly Hills","https://www.imdb.com/title/tt0090966/","movie",6.2,103,1986,"Comedy",20094,"1986-01-31","Paul Mazursky",NA,NA,NA
+"tt0091726",NA,NA,"Partisans of Vilna","https://www.imdb.com/title/tt0091726/","movie",8.3,130,1986,"Documentary",97,"1986-09-07","Joshua Waletzky",NA,NA,NA
+"tt0091983",NA,NA,"Something Wild","https://www.imdb.com/title/tt0091983/","movie",6.9,114,1986,"Comedy, Crime, Romance, Thriller",20393,"1986-11-07","Jonathan Demme",NA,NA,NA
+"tt0092963",NA,NA,"Yuki yukite, shingun","https://www.imdb.com/title/tt0092963/","movie",8.1,122,1987,"Documentary",2048,"1987-02-28","Kazuo Hara",NA,NA,NA
+"tt0093218",NA,NA,"Hotet","https://www.imdb.com/title/tt0093218/","movie",7.5,71,1987,"Documentary",33,"1987-04-03","Stefan Jarl",NA,NA,NA
+"tt0093225",NA,NA,"Housekeeping","https://www.imdb.com/title/tt0093225/","movie",7.2,116,1987,"Comedy, Drama",2810,"1987-09-30","Bill Forsyth",NA,NA,NA
+"tt0093431",NA,NA,"The Lonely Passion of Judith Hearne","https://www.imdb.com/title/tt0093431/","movie",7,116,1987,"Drama, Romance",1183,"1987-12-23","Jack Clayton",NA,NA,NA
+"tt0093776",NA,NA,"Prick Up Your Ears","https://www.imdb.com/title/tt0093776/","movie",7.1,105,1987,"Biography, Drama",6460,"1987-04-17","Stephen Frears",NA,NA,NA
+"tt0093886",NA,NA,"Roxanne","https://www.imdb.com/title/tt0093886/","movie",6.6,107,1987,"Comedy, Romance",47222,"1987-06-19","Fred Schepisi",NA,NA,NA
+"tt0094035",NA,NA,"The Stepfather","https://www.imdb.com/title/tt0094035/","movie",6.7,89,1987,"Horror, Thriller",17596,"1987-01-23","Joseph Ruben",NA,NA,NA
+"tt0094155",NA,NA,"Tin Men","https://www.imdb.com/title/tt0094155/","movie",6.6,112,1987,"Comedy, Drama",9646,"1987-02-18","Barry Levinson",NA,NA,NA
+"tt0094331",NA,NA,"Wish You Were Here","https://www.imdb.com/title/tt0094331/","movie",6.8,88,1987,"Comedy, Drama",3152,"1987-05-21","David Leland",NA,NA,NA
+"tt0094663",NA,NA,"Another Woman","https://www.imdb.com/title/tt0094663/","movie",7.2,81,1988,"Drama",14782,"1988-10-14","Woody Allen",NA,NA,NA
+"tt0094675",NA,NA,"Ariel","https://www.imdb.com/title/tt0094675/","movie",7.5,72,1988,"Comedy, Crime, Romance",7429,"1988-10-21","Aki Kaurismäki",NA,NA,NA
+"tt0094884",NA,NA,"Clean and Sober","https://www.imdb.com/title/tt0094884/","movie",6.7,124,1988,"Drama",6965,"1988-08-10","Glenn Gordon Caron",NA,NA,NA
+"tt0095037",NA,NA,"Distant Voices, Still Lives","https://www.imdb.com/title/tt0095037/","movie",7.4,84,1988,"Drama, Music",4885,"1988-05-13","Terence Davies",NA,NA,NA
+"tt0095186",NA,NA,"Full Moon in Blue Water","https://www.imdb.com/title/tt0095186/","movie",5.6,95,1988,"Comedy, Drama, Romance",787,"1988-09-20","Peter Masterson",NA,NA,NA
+"tt0095305",NA,NA,"High Tide","https://www.imdb.com/title/tt0095305/","movie",7.1,104,1987,"Drama",951,"1987-07-30","Gillian Armstrong",NA,NA,NA
+"tt0095631",NA,NA,"Midnight Run","https://www.imdb.com/title/tt0095631/","movie",7.5,126,1988,"Action, Comedy, Crime, Thriller",91756,"1988-07-11","Martin Brest",NA,NA,NA
+"tt0095649",NA,NA,"The Moderns","https://www.imdb.com/title/tt0095649/","movie",6.6,126,1988,"Comedy, Drama, Romance",1940,"1988-04-15","Alan Rudolph",NA,NA,NA
+"tt0095927",NA,NA,"Punchline","https://www.imdb.com/title/tt0095927/","movie",5.9,128,1988,"Comedy, Drama, Romance",9098,"1988-10-07","David Seltzer",NA,NA,NA
+"tt0096161",NA,NA,"Split Decisions","https://www.imdb.com/title/tt0096161/","movie",5.2,95,1988,"Action, Drama, Sport",1078,"1988-02-11","David Drury",NA,NA,NA
+"tt0096464",NA,NA,"A World Apart","https://www.imdb.com/title/tt0096464/","movie",7.1,112,1988,"Drama",1748,"1988-05-31","Chris Menges",NA,NA,NA
+"tt0096923",NA,NA,"The Big Bang","https://www.imdb.com/title/tt0096923/","movie",6.4,81,1989,"Documentary",203,"1989-09-08","James Toback",NA,NA,NA
+"tt0097027",NA,NA,"Casualties of War","https://www.imdb.com/title/tt0097027/","movie",7.1,113,1989,"Action, Crime, Drama, War",47319,"1989-08-18","Brian De Palma",NA,NA,NA
+"tt0097108",NA,NA,"The Cook, the Thief, His Wife & Her Lover","https://www.imdb.com/title/tt0097108/","movie",7.5,124,1989,"Crime, Drama",40633,"1989-09-04","Peter Greenaway",NA,NA,NA
+"tt0097626",NA,NA,"Johnny Handsome","https://www.imdb.com/title/tt0097626/","movie",6.1,94,1989,"Crime, Drama, Thriller",10763,"1989-09-12","Walter Hill",NA,NA,NA
+"tt0097714",NA,NA,"Last Exit to Brooklyn","https://www.imdb.com/title/tt0097714/","movie",6.8,102,1989,"Drama",6714,"1989-07-26","Uli Edel",NA,NA,NA
+"tt0097722",NA,NA,"Lean on Me","https://www.imdb.com/title/tt0097722/","movie",7.4,108,1989,"Drama",22491,"1989-03-03","John G. Avildsen",NA,NA,NA
+"tt0097884",NA,NA,"Milou en mai","https://www.imdb.com/title/tt0097884/","movie",7.2,107,1990,"Comedy, Romance",3372,"1990-01-24","Louis Malle",NA,NA,NA
+"tt0098465",NA,NA,"Thelonious Monk: Straight, No Chaser","https://www.imdb.com/title/tt0098465/","movie",7.6,90,1988,"Documentary, Biography, Music",1298,"1988-10-25","Charlotte Zwerin",NA,NA,NA
+"tt0098596",NA,NA,"La vie et rien d'autre","https://www.imdb.com/title/tt0098596/","movie",7.5,135,1989,"Drama, War",2083,"1989-09-06","Bertrand Tavernier",NA,NA,NA
+"tt0098725",NA,NA,"Sweetie","https://www.imdb.com/title/tt0098725/","movie",6.7,97,1989,"Comedy, Drama",5118,"1989-05-17","Jane Campion",NA,NA,NA
+"tt0099520",NA,NA,"Everybody Wins","https://www.imdb.com/title/tt0099520/","movie",5.1,97,1990,"Drama, Mystery, Thriller",1293,"1990-01-19","Karel Reisz",NA,NA,NA
+"tt0099763",NA,NA,"Henry: Portrait of a Serial Killer","https://www.imdb.com/title/tt0099763/","movie",7,83,1986,"Biography, Crime, Drama, Horror, Thriller",39451,"1986-09-24","John McNaughton",NA,NA,NA
+"tt0100134",NA,NA,"Men Don't Leave","https://www.imdb.com/title/tt0100134/","movie",6.6,115,1990,"Comedy, Drama",2708,"1990-02-02","Paul Brickman",NA,NA,NA
+"tt0100143",NA,NA,"Miami Blues","https://www.imdb.com/title/tt0100143/","movie",6.4,97,1990,"Comedy, Crime, Drama, Thriller",9922,"1990-04-20","George Armitage",NA,NA,NA
+"tt0100594",NA,NA,"The Sheltering Sky","https://www.imdb.com/title/tt0100594/","movie",6.7,138,1990,"Adventure, Drama",13531,"1990-10-25","Bernardo Bertolucci",NA,NA,NA
+"tt0100791",NA,NA,"To Sleep with Anger","https://www.imdb.com/title/tt0100791/","movie",7.2,102,1990,"Drama",2856,"1990-01-22","Charles Burnett",NA,NA,NA
+"tt0100924",NA,NA,"Where the Heart Is","https://www.imdb.com/title/tt0100924/","movie",5.9,107,1990,"Comedy, Drama",1757,"1990-02-23","John Boorman",NA,NA,NA
+"tt0101453",NA,NA,"Billy Bathgate","https://www.imdb.com/title/tt0101453/","movie",5.9,106,1991,"Crime, Drama, Thriller",12538,"1991-11-01","Robert Benton",NA,NA,NA
+"tt0102307",NA,NA,"Light Sleeper","https://www.imdb.com/title/tt0102307/","movie",6.9,103,1992,"Crime, Drama",8958,"1992-01-24","Paul Schrader",NA,NA,NA
+"tt0102370",NA,NA,"Madonna: Truth or Dare","https://www.imdb.com/title/tt0102370/","movie",6.4,120,1991,"Documentary, Music",9907,"1991-05-10","Alek Keshishian",NA,NA,NA
+"tt0102469",NA,NA,"Mortal Thoughts","https://www.imdb.com/title/tt0102469/","movie",5.7,103,1991,"Mystery, Thriller",9428,"1991-04-19","Alan Rudolph",NA,NA,NA
+"tt0102511",NA,NA,"Naked Lunch","https://www.imdb.com/title/tt0102511/","movie",6.9,115,1991,"Drama",55446,"1991-12-12","David Cronenberg",NA,NA,NA
+"tt0103129",NA,NA,"Truly Madly Deeply","https://www.imdb.com/title/tt0103129/","movie",7.2,106,1990,"Comedy, Drama, Fantasy, Music, Romance",9840,"1990-11-10","Anthony Minghella",NA,NA,NA
+"tt0103759",NA,NA,"Bad Lieutenant","https://www.imdb.com/title/tt0103759/","movie",7,96,1992,"Crime, Drama, Thriller",46529,"1992-05-14","Abel Ferrara",NA,NA,NA
+"tt0103817",NA,NA,"Black Harvest","https://www.imdb.com/title/tt0103817/","movie",7.7,90,1992,"Documentary",365,"1992-04-04","Robin Anderson, Bob Connolly",NA,NA,NA
+"tt0104350",NA,NA,"Den goda viljan","https://www.imdb.com/title/tt0104350/","movie",7.7,180,1992,"Biography, Drama, Romance",3424,"1992-05-31","Bille August",NA,NA,NA
+"tt0104503",NA,NA,"In the Soup","https://www.imdb.com/title/tt0104503/","movie",7.1,96,1992,"Comedy, Drama",4197,"1992-01-31","Alexandre Rockwell",NA,NA,NA
+"tt0104693",NA,NA,"Laws of Gravity","https://www.imdb.com/title/tt0104693/","movie",6.7,100,1992,"Crime, Drama",1156,"1992-03-21","Nick Gomez",NA,NA,NA
+"tt0105114",NA,NA,"El patrullero","https://www.imdb.com/title/tt0105114/","movie",7.1,104,1991,"Crime, Drama",910,"1991-12-28","Alex Cox",NA,NA,NA
+"tt0105268",NA,NA,"Rock Hudson's Home Movies","https://www.imdb.com/title/tt0105268/","movie",6,63,1992,"Documentary, Biography",511,"1992-06-10","Mark Rappaport",NA,NA,NA
+"tt0105764",NA,NA,"Visions of Light","https://www.imdb.com/title/tt0105764/","movie",7.7,92,1992,"Documentary, History",3312,"1992-05-14","Stuart Samuels, Todd McCarthy, Arnold Glassman",NA,NA,NA
+"tt0106579",NA,NA,"Clean, Shaven","https://www.imdb.com/title/tt0106579/","movie",7,79,1993,"Crime, Drama, Thriller",5896,"1993-09-05","Lodge Kerrigan",NA,NA,NA
+"tt0106661",NA,NA,"A Dangerous Woman","https://www.imdb.com/title/tt0106661/","movie",5.7,102,1993,"Drama, Romance",2021,"1993-09-10","Stephen Gyllenhaal",NA,NA,NA
+"tt0106926",NA,NA,"Flesh and Bone","https://www.imdb.com/title/tt0106926/","movie",6.2,126,1993,"Drama, Mystery, Romance",6131,"1993-11-05","Steve Kloves",NA,NA,NA
+"tt0107233",NA,NA,"It's All True: Based on an Unfinished Film by Orson Welles","https://www.imdb.com/title/tt0107233/","movie",7.2,87,1993,"Documentary",849,"1993-10-15","Myron Meisel, Orson Welles, Bill Krohn, Richard Wilson",NA,NA,NA
+"tt0107472",NA,NA,"Die Macht der Bilder: Leni Riefenstahl","https://www.imdb.com/title/tt0107472/","movie",8,183,1993,"Documentary, Biography, History",3078,"1993-09-11","Ray Müller",NA,NA,NA
+"tt0107473",NA,NA,"Mad Dog and Glory","https://www.imdb.com/title/tt0107473/","movie",6.2,97,1993,"Comedy, Crime, Drama, Romance",22553,"1993-03-01","John McNaughton",NA,NA,NA
+"tt0107653",NA,NA,"Naked","https://www.imdb.com/title/tt0107653/","movie",7.7,131,1993,"Comedy, Drama",42664,"1993-05-14","Mike Leigh",NA,NA,NA
+"tt0107796",NA,NA,"Le pays des sourds","https://www.imdb.com/title/tt0107796/","movie",7.6,99,1992,"Documentary",361,"1992-11-30","Nicolas Philibert",NA,NA,NA
+"tt0108000",NA,NA,"Ruby in Paradise","https://www.imdb.com/title/tt0108000/","movie",6.9,114,1993,"Drama, Romance",3192,"1993-01-31","Victor Nunez",NA,NA,NA
+"tt0108323",NA,NA,"Theremin: An Electronic Odyssey","https://www.imdb.com/title/tt0108323/","movie",7.3,83,1993,"Documentary, Biography, History, Music",980,"1993-08-29","Steven M. Martin",NA,NA,NA
+"tt0108330",NA,NA,"This Boy's Life","https://www.imdb.com/title/tt0108330/","movie",7.3,115,1993,"Biography, Drama",57242,"1993-04-09","Michael Caton-Jones",NA,NA,NA
+"tt0108451",NA,NA,"Untamed Heart","https://www.imdb.com/title/tt0108451/","movie",6.8,102,1993,"Drama, Romance",14916,"1993-02-12","Tony Bill",NA,NA,NA
+"tt0109382",NA,NA,"Caro diario","https://www.imdb.com/title/tt0109382/","movie",7.2,100,1993,"Biography, Comedy, Drama",8775,"1993-11-12","Nanni Moretti",NA,NA,NA
+"tt0109424",NA,NA,"Chung Hing sam lam","https://www.imdb.com/title/tt0109424/","movie",8,102,1994,"Comedy, Crime, Drama, Mystery, Romance",91729,"1994-07-14","Kar-Wai Wong",NA,NA,NA
+"tt0109504",NA,NA,"Crooklyn","https://www.imdb.com/title/tt0109504/","movie",7,115,1994,"Comedy, Drama",11117,"1994-05-09","Spike Lee",NA,NA,NA
+"tt0110074",NA,NA,"The Hudsucker Proxy","https://www.imdb.com/title/tt0110074/","movie",7.2,111,1994,"Comedy, Drama, Fantasy",84130,"1994-01-27","Ethan Coen, Joel Coen",NA,NA,NA
+"tt0110091",NA,NA,"I Like It Like That","https://www.imdb.com/title/tt0110091/","movie",6.7,104,1994,"Comedy, Drama, Romance",1811,"1994-09-12","Darnell Martin",NA,NA,NA
+"tt0110588",NA,NA,"Mrs. Parker and the Vicious Circle","https://www.imdb.com/title/tt0110588/","movie",6.4,125,1994,"Biography, Drama",4824,"1994-05-31","Alan Rudolph",NA,NA,NA
+"tt0111252",NA,NA,"Spanking the Monkey","https://www.imdb.com/title/tt0111252/","movie",6.3,100,1994,"Comedy, Drama",6675,"1994-01-31","David O. Russell",NA,NA,NA
+"tt0112688",NA,NA,"Clockers","https://www.imdb.com/title/tt0112688/","movie",6.9,128,1995,"Crime, Drama, Mystery",23268,"1995-09-05","Spike Lee",NA,NA,NA
+"tt0112817",NA,NA,"Dead Man","https://www.imdb.com/title/tt0112817/","movie",7.5,121,1995,"Adventure, Drama, Fantasy, Western",101935,"1995-05-27","Jim Jarmusch",NA,NA,NA
+"tt0112857",NA,NA,"Devil in a Blue Dress","https://www.imdb.com/title/tt0112857/","movie",6.8,102,1995,"Crime, Drama, Mystery, Thriller",22771,"1995-09-16","Carl Franklin",NA,NA,NA
+"tt0113537",NA,NA,"Kicking and Screaming","https://www.imdb.com/title/tt0113537/","movie",6.7,96,1995,"Comedy, Drama, Romance",14690,"1995-10-04","Noah Baumbach",NA,NA,NA
+"tt0114069",NA,NA,"Outbreak","https://www.imdb.com/title/tt0114069/","movie",6.6,127,1995,"Action, Drama, Thriller",135624,"1995-03-06","Wolfgang Petersen",NA,NA,NA
+"tt0114323",NA,NA,"Safe","https://www.imdb.com/title/tt0114323/","movie",7.1,119,1995,"Drama",16399,"1995-01-25","Todd Haynes",NA,NA,NA
+"tt0114594",NA,NA,"Swimming with Sharks","https://www.imdb.com/title/tt0114594/","movie",7,93,1994,"Comedy, Crime",24925,"1994-09-10","George Huang",NA,NA,NA
+"tt0114681",NA,NA,"To Die For","https://www.imdb.com/title/tt0114681/","movie",6.8,106,1995,"Comedy, Crime, Drama, Thriller",51548,"1995-05-20","Gus Van Sant",NA,NA,NA
+"tt0114938",NA,NA,"Wild Bill","https://www.imdb.com/title/tt0114938/","movie",5.8,98,1995,"Action, Biography, Drama, Western",7643,"1995-12-01","Walter Hill",NA,NA,NA
+"tt0115005",NA,NA,"Tian yu","https://www.imdb.com/title/tt0115005/","movie",7.4,99,1998,"Drama",3634,"1998-02-19","Joan Chen",NA,NA,NA
+"tt0115632",NA,NA,"Basquiat","https://www.imdb.com/title/tt0115632/","movie",6.9,107,1996,"Biography, Drama",21643,"1996-08-09","Julian Schnabel",NA,NA,NA
+"tt0115736",NA,NA,"Bound","https://www.imdb.com/title/tt0115736/","movie",7.3,109,1996,"Crime, Thriller",59422,"1996-08-31","Lilly Wachowski, Lana Wachowski",NA,NA,NA
+"tt0115847",NA,NA,"Caught","https://www.imdb.com/title/tt0115847/","movie",6.5,110,1996,"Drama, Thriller",1666,"1996-01-24","Robert M. Young",NA,NA,NA
+"tt0116102",NA,NA,"Different for Girls","https://www.imdb.com/title/tt0116102/","movie",7,97,1996,"Comedy, Drama, Romance",2021,"1996-01-18","Richard Spence",NA,NA,NA
+"tt0116324",NA,NA,"Flirting with Disaster","https://www.imdb.com/title/tt0116324/","movie",6.7,92,1996,"Comedy",19707,"1996-03-22","David O. Russell",NA,NA,NA
+"tt0116594",NA,NA,"I Shot Andy Warhol","https://www.imdb.com/title/tt0116594/","movie",6.6,103,1996,"Biography, Drama",7035,"1996-01-20","Mary Harron",NA,NA,NA
+"tt0116650",NA,NA,"Irma Vep","https://www.imdb.com/title/tt0116650/","movie",7,99,1996,"Comedy, Drama",9267,"1996-05-15","Olivier Assayas",NA,NA,NA
+"tt0116745",NA,NA,"Kansas City","https://www.imdb.com/title/tt0116745/","movie",6.3,116,1996,"Crime, Drama, Music, Thriller",5320,"1996-05-15","Robert Altman",NA,NA,NA
+"tt0117773",NA,NA,"The Substance of Fire","https://www.imdb.com/title/tt0117773/","movie",6.1,97,1996,"Drama",662,"1996-09-11","Daniel J. Sullivan",NA,NA,NA
+"tt0117802",NA,NA,"Swingers","https://www.imdb.com/title/tt0117802/","movie",7.2,96,1996,"Comedy, Drama",86836,"1996-08-31","Doug Liman",NA,NA,NA
+"tt0118044",NA,NA,"Unhook the Stars","https://www.imdb.com/title/tt0118044/","movie",6.5,103,1996,"Drama, Romance",2319,"1996-09-04","Nick Cassavetes",NA,NA,NA
+"tt0118163",NA,NA,"The Whole Wide World","https://www.imdb.com/title/tt0118163/","movie",7,111,1996,"Biography, Drama, Romance",3946,"1996-01-31","Dan Ireland",NA,NA,NA
+"tt0118845",NA,NA,"Chun gwong cha sit","https://www.imdb.com/title/tt0118845/","movie",7.7,96,1997,"Drama, Romance",32902,"1997-05-17","Kar-Wai Wong",NA,NA,NA
+"tt0118958",NA,NA,"The Deli","https://www.imdb.com/title/tt0118958/","movie",5.5,99,1997,"Comedy, Drama",391,"1997-09-05","John A. Gallagher",NA,NA,NA
+"tt0119138",NA,NA,"Follow Me Home","https://www.imdb.com/title/tt0119138/","movie",7,100,1996,"Drama",223,"1996-01-31","Peter Bratt",NA,NA,NA
+"tt0119225",NA,NA,"Gridlock'd","https://www.imdb.com/title/tt0119225/","movie",6.9,91,1997,"Comedy, Crime, Drama",16434,"1997-01-29","Vondie Curtis-Hall",NA,NA,NA
+"tt0119250",NA,NA,"Hana-bi","https://www.imdb.com/title/tt0119250/","movie",7.7,103,1997,"Crime, Drama, Romance, Thriller",32532,"1997-09-03","Takeshi Kitano",NA,NA,NA
+"tt0119361",NA,NA,"In the Company of Men","https://www.imdb.com/title/tt0119361/","movie",7.1,97,1997,"Comedy, Drama",14152,"1997-01-19","Neil LaBute",NA,NA,NA
+"tt0119517",NA,NA,"Your Friends and Neighbors","https://www.imdb.com/title/tt0119517/","movie",6.3,100,1998,"Comedy, Drama, Romance",8289,"1998-08-19","Neil LaBute",NA,NA,NA
+"tt0119574",NA,NA,"Love and Death on Long Island","https://www.imdb.com/title/tt0119574/","movie",6.9,93,1997,"Comedy, Drama",4121,"1997-05-11","Richard Kwietniowski",NA,NA,NA
+"tt0119778",NA,NA,"Next Stop Wonderland","https://www.imdb.com/title/tt0119778/","movie",6.6,104,1998,"Comedy, Drama, Romance",5073,"1998-01-17","Brad Anderson",NA,NA,NA
+"tt0119934",NA,NA,"Without Limits","https://www.imdb.com/title/tt0119934/","movie",7.2,117,1998,"Biography, Drama, Sport",7441,"1998-09-11","Robert Towne",NA,NA,NA
+"tt0120017",NA,NA,"Riding the Rails","https://www.imdb.com/title/tt0120017/","movie",7.6,72,1997,"Documentary, History",170,"1997-01-31","Michael Uys, Lexy Lovell",NA,NA,NA
+"tt0120126",NA,NA,"Sick: The Life & Death of Bob Flanagan, Supermasochist","https://www.imdb.com/title/tt0120126/","movie",7.5,90,1997,"Documentary",1705,"1997-01-31","Kirby Dick",NA,NA,NA
+"tt0120197",NA,NA,"Star Maps","https://www.imdb.com/title/tt0120197/","movie",5.7,86,1997,"Comedy, Drama",1043,"1997-01-31","Miguel Arteta",NA,NA,NA
+"tt0120275",NA,NA,"The Tango Lesson","https://www.imdb.com/title/tt0120275/","movie",6.7,100,1997,"Drama, Music, Romance",2474,"1997-08-29","Sally Potter",NA,NA,NA
+"tt0120303",NA,NA,"Telling Lies in America","https://www.imdb.com/title/tt0120303/","movie",6.2,101,1997,"Drama, Music",2385,"1997-08-02","Guy Ferland",NA,NA,NA
+"tt0120321",NA,NA,"Smoke Signals","https://www.imdb.com/title/tt0120321/","movie",7.2,89,1998,"Comedy, Drama",12324,"1998-01-16","Chris Eyre",NA,NA,NA
+"tt0120490",NA,NA,"Welcome to Sarajevo","https://www.imdb.com/title/tt0120490/","movie",6.7,103,1997,"Drama, War",7777,"1997-05-09","Michael Winterbottom",NA,NA,NA
+"tt0120613",NA,NA,"A Walk on the Moon","https://www.imdb.com/title/tt0120613/","movie",6.6,107,1999,"Drama, Romance",9100,"1999-01-29","Tony Goldwyn",NA,NA,NA
+"tt0120735",NA,NA,"Lock, Stock and Two Smoking Barrels","https://www.imdb.com/title/tt0120735/","movie",8.1,107,1998,"Action, Comedy, Crime",608080,"1998-08-23","Guy Ritchie",NA,NA,NA
+"tt0120793",NA,NA,"A Price Above Rubies","https://www.imdb.com/title/tt0120793/","movie",6.5,117,1998,"Drama, Romance",2947,"1998-01-22","Boaz Yakin",NA,NA,NA
+"tt0120865",NA,NA,"This Is My Father","https://www.imdb.com/title/tt0120865/","movie",6.9,119,1998,"Drama, Romance",1823,"1998-06-14","Paul Quinn",NA,NA,NA
+"tt0122264",NA,NA,"The Spirit of Christmas","https://www.imdb.com/title/tt0122264/","short",7.5,5,1995,"Animation, Comedy, Short",4013,"1995-12-25","Trey Parker, Matt Stone",NA,NA,NA
+"tt0125980",NA,NA,"Passion in the Desert","https://www.imdb.com/title/tt0125980/","movie",6.3,91,1997,"Adventure, Drama",915,"1997-08-31","Lavinia Currier",NA,NA,NA
+"tt0126250",NA,NA,"Cookie's Fortune","https://www.imdb.com/title/tt0126250/","movie",6.8,118,1999,"Comedy, Drama",13663,"1999-01-22","Robert Altman",NA,NA,NA
+"tt0126344",NA,NA,"I Went Down","https://www.imdb.com/title/tt0126344/","movie",6.8,107,1997,"Action, Comedy, Crime, Drama",2255,"1997-10-03","Paddy Breathnach",NA,NA,NA
+"tt0130200",NA,NA,"Public Housing","https://www.imdb.com/title/tt0130200/","movie",7.9,200,1997,"Documentary",272,"1997-10-04","Frederick Wiseman",NA,NA,NA
+"tt0137439",NA,NA,"Conte d'automne","https://www.imdb.com/title/tt0137439/","movie",7.4,112,1998,"Comedy, Drama, Romance",5999,"1998-09-07","Éric Rohmer",NA,NA,NA
+"tt0138537",NA,NA,"Man of the Century","https://www.imdb.com/title/tt0138537/","movie",7,77,1999,"Comedy, Romance",1274,"1999-01-24","Adam Abraham",NA,NA,NA
+"tt0139239",NA,NA,"Go","https://www.imdb.com/title/tt0139239/","movie",7.2,102,1999,"Comedy, Crime",74079,"1999-02-20","Doug Liman",NA,NA,NA
+"tt0144715",NA,NA,"Holy Smoke","https://www.imdb.com/title/tt0144715/","movie",5.9,115,1999,"Comedy, Drama",15518,"1999-09-04","Jane Campion",NA,NA,NA
+"tt0145046",NA,NA,"Little Dieter Needs to Fly","https://www.imdb.com/title/tt0145046/","movie",8,80,1997,"Documentary, Biography, Drama, War",6670,"1997-08-29","Werner Herzog",NA,NA,NA
+"tt0150230",NA,NA,"The Cruise","https://www.imdb.com/title/tt0150230/","movie",7.6,76,1998,"Documentary",1909,"1998-09-12","Bennett Miller",NA,NA,NA
+"tt0152800",NA,NA,"T.R.A.N.S.I.T.","https://www.imdb.com/title/tt0152800/","short",7.3,12,1998,"Animation, Drama, Mystery, Short",221,"1998-10-11","Piet Kroon",NA,NA,NA
+"tt0162830",NA,NA,"Twin Falls Idaho","https://www.imdb.com/title/tt0162830/","movie",7.1,111,1999,"Drama",5213,"1999-01-24","Michael Polish",NA,NA,NA
+"tt0164085",NA,NA,"Limbo","https://www.imdb.com/title/tt0164085/","movie",7,126,1999,"Adventure, Drama, Thriller",6249,"1999-05-22","John Sayles",NA,NA,NA
+"tt0164181",NA,NA,"Stir of Echoes","https://www.imdb.com/title/tt0164181/","movie",6.9,99,1999,"Horror, Mystery, Thriller",85812,"1999-07-28","David Koepp",NA,NA,NA
+"tt0171587",NA,NA,"Obrazy starého sveta","https://www.imdb.com/title/tt0171587/","movie",8.1,70,1972,"Documentary",779,"1972-07-10","Dusan Hanák",NA,NA,NA
+"tt0173772",NA,NA,"Il mio viaggio in Italia","https://www.imdb.com/title/tt0173772/","movie",8.2,246,1999,"Documentary",3452,"1999-09-11","Martin Scorsese",NA,NA,NA
+"tt0185016",NA,NA,"The World at War","https://www.imdb.com/title/tt0185016/","movie",6.8,66,1942,"Documentary",46,"1942-09-03","Lowell Mellett",NA,NA,NA
+"tt0189630",NA,NA,"Kadosh","https://www.imdb.com/title/tt0189630/","movie",6.9,110,1999,"Comedy, Drama",1933,"1999-05-11","Amos Gitai",NA,NA,NA
+"tt0192335",NA,NA,"Mr. Death: The Rise and Fall of Fred A. Leuchter, Jr.","https://www.imdb.com/title/tt0192335/","movie",7.5,91,1999,"Documentary, Biography",5738,"1999-09-16","Errol Morris",NA,NA,NA
+"tt0196216",NA,NA,"Small Time Crooks","https://www.imdb.com/title/tt0196216/","movie",6.7,94,2000,"Comedy, Crime",40241,"2000-05-19","Woody Allen",NA,NA,NA
+"tt0199129",NA,NA,"The Visit","https://www.imdb.com/title/tt0199129/","movie",6.3,107,2000,"Drama",281,"2000-06-17","Jordan Walker-Pearlman",NA,NA,NA
+"tt0200427",NA,NA,"Diamond Men","https://www.imdb.com/title/tt0200427/","movie",6.9,100,2000,"Drama",1793,"2000-10-31","Dan Cohen",NA,NA,NA
+"tt0200720",NA,NA,"The House of Mirth","https://www.imdb.com/title/tt0200720/","movie",7,135,2000,"Romance, Drama",7902,"2000-08-05","Terence Davies",NA,NA,NA
+"tt0202641",NA,NA,"Two Family House","https://www.imdb.com/title/tt0202641/","movie",7.2,108,2000,"Comedy, Drama, Romance",1711,"2000-01-21","Raymond De Felitta",NA,NA,NA
+"tt0208196",NA,NA,"Happy Accidents","https://www.imdb.com/title/tt0208196/","movie",7.2,110,2000,"Comedy, Romance",10154,"2000-01-25","Brad Anderson",NA,NA,NA
+"tt0212604",NA,NA,"Tully","https://www.imdb.com/title/tt0212604/","movie",7.3,102,2000,"Drama",1972,"2000-04-14","Hilary Birmingham",NA,NA,NA
+"tt0215369",NA,NA,"Xi zao","https://www.imdb.com/title/tt0215369/","movie",7.5,92,1999,"Comedy, Drama",4182,"1999-09-14","Yang Zhang",NA,NA,NA
+"tt0215545",NA,NA,"Bamboozled","https://www.imdb.com/title/tt0215545/","movie",6.6,135,2000,"Comedy, Drama, Music",12094,"2000-09-18","Spike Lee",NA,NA,NA
+"tt0235327",NA,NA,"Dark Days","https://www.imdb.com/title/tt0235327/","movie",7.7,82,2000,"Documentary",7113,"2000-01-27","Marc Singer",NA,NA,NA
+"tt0236388",NA,NA,"The Original Kings of Comedy","https://www.imdb.com/title/tt0236388/","movie",6.8,115,2000,"Comedy, Documentary",5982,"2000-08-10","Spike Lee",NA,NA,NA
+"tt0240913",NA,NA,"Sous le sable","https://www.imdb.com/title/tt0240913/","movie",7,92,2000,"Drama, Mystery",11335,"2000-09-11","François Ozon",NA,NA,NA
+"tt0242587",NA,NA,"L.I.E.","https://www.imdb.com/title/tt0242587/","movie",7.1,97,2001,"Crime, Drama",10376,"2001-01-20","Michael Cuesta",NA,NA,NA
+"tt0246677",NA,NA,"Heaven","https://www.imdb.com/title/tt0246677/","movie",7,97,2002,"Crime, Drama, Romance, Thriller",26386,"2002-02-06","Tom Tykwer",NA,NA,NA
+"tt0250323",NA,NA,"The Deep End","https://www.imdb.com/title/tt0250323/","movie",6.5,101,2001,"Crime, Drama, Mystery, Romance, Thriller",11947,"2001-01-21","Scott McGehee, David Siegel",NA,NA,NA
+"tt0253840",NA,NA,"The Triumph of Love","https://www.imdb.com/title/tt0253840/","movie",5.8,112,2001,"Comedy, Romance",1623,"2001-09-06","Clare Peploe",NA,NA,NA
+"tt0254099",NA,NA,"The Anniversary Party","https://www.imdb.com/title/tt0254099/","movie",6.3,115,2001,"Comedy, Drama, Romance",8634,"2001-05-15","Jennifer Jason Leigh, Alan Cumming",NA,NA,NA
+"tt0255094",NA,NA,"Dayereh","https://www.imdb.com/title/tt0255094/","movie",7.4,90,2000,"Drama",6616,"2000-09-07","Jafar Panahi",NA,NA,NA
+"tt0256408",NA,NA,"Startup.com","https://www.imdb.com/title/tt0256408/","movie",7.1,107,2001,"Documentary",3454,"2001-01-21","Jehane Noujaim, Chris Hegedus",NA,NA,NA
+"tt0259393",NA,NA,"Lantana","https://www.imdb.com/title/tt0259393/","movie",7.2,121,2001,"Drama, Mystery, Romance",20132,"2001-06-08","Ray Lawrence",NA,NA,NA
+"tt0261066",NA,NA,"Piñero","https://www.imdb.com/title/tt0261066/","movie",6.2,103,2001,"Biography, Drama",1386,"2001-08-31","Leon Ichaso",NA,NA,NA
+"tt0262432",NA,NA,"George Washington","https://www.imdb.com/title/tt0262432/","movie",7.2,89,2000,"Drama",8597,"2000-02-10","David Gordon Green",NA,NA,NA
+"tt0264616",NA,NA,"Frailty","https://www.imdb.com/title/tt0264616/","movie",7.2,100,2001,"Crime, Drama, Thriller",89035,"2001-11-17","Bill Paxton",NA,NA,NA
+"tt0270288",NA,NA,"Confessions of a Dangerous Mind","https://www.imdb.com/title/tt0270288/","movie",7,113,2002,"Biography, Comedy, Crime, Drama, Romance, Thriller",91338,"2002-12-11","George Clooney",NA,NA,NA
+"tt0271219",NA,NA,"Tadpole","https://www.imdb.com/title/tt0271219/","movie",6.2,78,2002,"Comedy, Drama, Romance",6220,"2002-01-11","Gary Winick",NA,NA,NA
+"tt0273435",NA,NA,"Ararat","https://www.imdb.com/title/tt0273435/","movie",6.3,115,2002,"Drama, War",14765,"2002-05-20","Atom Egoyan",NA,NA,NA
+"tt0276276",NA,NA,"Lawless Heart","https://www.imdb.com/title/tt0276276/","movie",6.7,99,2001,"Comedy, Drama, Romance",1419,"2001-08-05","Tom Hunsinger, Neil Hunter",NA,NA,NA
+"tt0279065",NA,NA,"L'emploi du temps","https://www.imdb.com/title/tt0279065/","movie",7.3,134,2001,"Drama",4955,"2001-09-04","Laurent Cantet",NA,NA,NA
+"tt0280801",NA,NA,"Jung (War) in the Land of the Mujaheddin","https://www.imdb.com/title/tt0280801/","movie",8,114,2001,"Documentary, War",90,"2001-10-09","Fabrizio Lazzaretti, Alberto Vendemmiati",NA,NA,NA
+"tt0283431",NA,NA,"Safar-e Ghandehar","https://www.imdb.com/title/tt0283431/","movie",6.8,85,2001,"Drama",7033,"2001-05-11","Mohsen Makhmalbaf",NA,NA,NA
+"tt0286179",NA,NA,"Sunshine State","https://www.imdb.com/title/tt0286179/","movie",6.8,141,2002,"Drama, Romance",4197,"2002-05-19","John Sayles",NA,NA,NA
+"tt0292963",NA,NA,"Before the Devil Knows You're Dead","https://www.imdb.com/title/tt0292963/","movie",7.3,117,2007,"Crime, Drama, Thriller",109195,"2007-09-07","Sidney Lumet",NA,NA,NA
+"tt0295238",NA,NA,"Personal Velocity: Three Portraits","https://www.imdb.com/title/tt0295238/","movie",6.5,86,2002,"Drama, Romance",3842,"2002-01-12","Rebecca Miller",NA,NA,NA
+"tt0296166",NA,NA,"Real Women Have Curves","https://www.imdb.com/title/tt0296166/","movie",6.9,90,2002,"Comedy, Drama",8042,"2002-01-13","Patricia Cardoso",NA,NA,NA
+"tt0298744",NA,NA,"Auto Focus","https://www.imdb.com/title/tt0298744/","movie",6.7,105,2002,"Biography, Crime, Drama",14703,"2002-09-08","Paul Schrader",NA,NA,NA
+"tt0300015",NA,NA,"I Capture the Castle","https://www.imdb.com/title/tt0300015/","movie",6.8,113,2003,"Drama, Romance",7897,"2003-01-11","Tim Fywell",NA,NA,NA
+"tt0303321",NA,NA,"The Cockettes","https://www.imdb.com/title/tt0303321/","movie",7.4,102,2002,"Documentary",621,"2002-01-16","David Weissman, Bill Weber",NA,NA,NA
+"tt0303353",NA,NA,"The Kid Stays in the Picture","https://www.imdb.com/title/tt0303353/","movie",7.3,93,2002,"Documentary, Biography",7878,"2002-01-18","Brett Morgen, Nanette Burstein",NA,NA,NA
+"tt0305489",NA,NA,"Domestic Violence","https://www.imdb.com/title/tt0305489/","movie",7.9,196,2001,"Documentary",323,"2001-09-04","Frederick Wiseman",NA,NA,NA
+"tt0308129",NA,NA,"Conspiracy of Silence","https://www.imdb.com/title/tt0308129/","movie",6.5,90,2003,"Crime, Drama, Thriller",410,"2003-05-15","John Deery",NA,NA,NA
+"tt0314630",NA,NA,"The Secret Lives of Dentists","https://www.imdb.com/title/tt0314630/","movie",6.4,104,2002,"Drama",3517,"2002-09-09","Alan Rudolph",NA,NA,NA
+"tt0314725",NA,NA,"Standing in the Shadows of Motown","https://www.imdb.com/title/tt0314725/","movie",7.8,108,2002,"Documentary, Music",3823,"2002-05-11","Paul Justman",NA,NA,NA
+"tt0317052",NA,NA,"AKA","https://www.imdb.com/title/tt0317052/","movie",6.3,123,2002,"Drama, Romance",1243,"2002-01-19","Duncan Roy",NA,NA,NA
+"tt0318025",NA,NA,"Ren xiao yao","https://www.imdb.com/title/tt0318025/","movie",6.8,112,2002,"Comedy, Drama",2528,"2002-05-23","Zhangke Jia",NA,NA,NA
+"tt0318202",NA,NA,"Être et avoir","https://www.imdb.com/title/tt0318202/","movie",7.8,104,2002,"Documentary, Family",8312,"2002-05-19","Nicolas Philibert",NA,NA,NA
+"tt0318411",NA,NA,"The Magdalene Sisters","https://www.imdb.com/title/tt0318411/","movie",7.7,114,2002,"Drama",28200,"2002-08-30","Peter Mullan",NA,NA,NA
+"tt0319470",NA,NA,"The Guys","https://www.imdb.com/title/tt0319470/","movie",6.3,84,2002,"Drama",1409,"2002-09-11","Jim Simpson",NA,NA,NA
+"tt0323944",NA,NA,"Shattered Glass","https://www.imdb.com/title/tt0323944/","movie",7.1,94,2003,"Drama, History",37142,"2003-08-10","Billy Ray",NA,NA,NA
+"tt0327753",NA,NA,"Funny Ha Ha","https://www.imdb.com/title/tt0327753/","movie",6.4,90,2002,"Comedy, Drama, Romance",2876,"2002-09-30","Andrew Bujalski",NA,NA,NA
+"tt0328802",NA,NA,"11'09''01 - September 11","https://www.imdb.com/title/tt0328802/","movie",6.9,134,2002,"Drama",5884,"2002-09-05","Mira Nair, Danis Tanovic, Youssef Chahine, Amos Gitai, Sean Penn, Samira Makhmalbaf, Ken Loach, Claude Lelouch, Alejandro G. Iñárritu, Shôhei Imamura, Idrissa Ouedraogo",NA,NA,NA
+"tt0337876",NA,NA,"Birth","https://www.imdb.com/title/tt0337876/","movie",6.2,100,2004,"Drama, Fantasy, Mystery, Thriller",38606,"2004-09-08","Jonathan Glazer",NA,NA,NA
+"tt0340376",NA,NA,"The Statement","https://www.imdb.com/title/tt0340376/","movie",6.2,114,2003,"Drama, Thriller",5463,"2003-12-12","Norman Jewison",NA,NA,NA
+"tt0342275",NA,NA,"A Decade Under the Influence","https://www.imdb.com/title/tt0342275/","movie",7.6,138,2003,"Documentary",2790,"2003-01-19","Ted Demme, Richard LaGravenese",NA,NA,NA
+"tt0344273",NA,NA,"Rois et reine","https://www.imdb.com/title/tt0344273/","movie",7,150,2004,"Comedy, Drama, Romance",4003,"2004-09-03","Arnaud Desplechin",NA,NA,NA
+"tt0347048",NA,NA,"Gegen die Wand","https://www.imdb.com/title/tt0347048/","movie",7.9,121,2004,"Drama, Romance",56784,"2004-02-12","Fatih Akin",NA,NA,NA
+"tt0357110",NA,NA,"The Ballad of Jack and Rose","https://www.imdb.com/title/tt0357110/","movie",6.5,112,2005,"Drama",12078,"2005-01-23","Rebecca Miller",NA,NA,NA
+"tt0360845",NA,NA,"Notre musique","https://www.imdb.com/title/tt0360845/","movie",6.8,80,2004,"Drama",3108,"2004-05-18","Jean-Luc Godard",NA,NA,NA
+"tt0363579",NA,NA,"Down to the Bone","https://www.imdb.com/title/tt0363579/","movie",6.7,104,2004,"Drama",2423,"2004-01-15","Debra Granik",NA,NA,NA
+"tt0368658",NA,NA,"Stage Beauty","https://www.imdb.com/title/tt0368658/","movie",7.1,106,2004,"Drama",10654,"2004-05-08","Richard Eyre",NA,NA,NA
+"tt0372806",NA,NA,"Bright Leaves","https://www.imdb.com/title/tt0372806/","movie",7.1,107,2003,"Documentary, Biography, Comedy, Drama",656,"2003-05-23","Ross McElwee",NA,NA,NA
+"tt0374583",NA,NA,"Comme une image","https://www.imdb.com/title/tt0374583/","movie",6.8,110,2004,"Comedy, Drama, Music, Romance",5451,"2004-05-16","Agnès Jaoui",NA,NA,NA
+"tt0383028",NA,NA,"Synecdoche, New York","https://www.imdb.com/title/tt0383028/","movie",7.5,124,2008,"Drama",96878,"2008-05-23","Charlie Kaufman",NA,NA,NA
+"tt0390538",NA,NA,"Tarnation","https://www.imdb.com/title/tt0390538/","movie",7.1,88,2003,"Documentary, Biography",6727,"2003-10-19","Jonathan Caouette",NA,NA,NA
+"tt0404030",NA,NA,"Everything Is Illuminated","https://www.imdb.com/title/tt0404030/","movie",7.4,106,2005,"Comedy, Drama",59729,"2005-09-03","Liev Schreiber",NA,NA,NA
+"tt0405296",NA,NA,"A Scanner Darkly","https://www.imdb.com/title/tt0405296/","movie",7,100,2006,"Animation, Comedy, Crime, Drama, Mystery, Sci-Fi, Thriller",116207,"2006-05-25","Richard Linklater",NA,NA,NA
+"tt0415978",NA,NA,"Me and You and Everyone We Know","https://www.imdb.com/title/tt0415978/","movie",7.2,91,2005,"Comedy, Drama",37208,"2005-01-31","Miranda July",NA,NA,NA
+"tt0420260",NA,NA,"Tonî Takitani","https://www.imdb.com/title/tt0420260/","movie",7.3,75,2004,"Drama",4828,"2004-08-11","Jun Ichikawa",NA,NA,NA
+"tt0427309",NA,NA,"The Great Debaters","https://www.imdb.com/title/tt0427309/","movie",7.5,126,2007,"Biography, Drama, Romance",61761,"2007-12-11","Denzel Washington",NA,NA,NA
+"tt0430105",NA,NA,"Four Brothers","https://www.imdb.com/title/tt0430105/","movie",6.8,109,2005,"Action, Crime, Drama, Mystery, Thriller",154482,"2005-07-01","John Singleton",NA,NA,NA
+"tt0435776",NA,NA,"The White Diamond","https://www.imdb.com/title/tt0435776/","movie",7.5,88,2004,"Documentary",4911,"2004-11-13","Werner Herzog",NA,NA,NA
+"tt0436078",NA,NA,"The Aristocrats","https://www.imdb.com/title/tt0436078/","movie",6.4,89,2005,"Documentary, Comedy",16993,"2005-01-31","Paul Provenza, Penn Jillette",NA,NA,NA
+"tt0460829",NA,NA,"Inland Empire","https://www.imdb.com/title/tt0460829/","movie",6.8,180,2006,"Drama, Fantasy, Mystery, Thriller",60982,"2006-09-06","David Lynch",NA,NA,NA
+"tt0466893",NA,NA,"Margaret","https://www.imdb.com/title/tt0466893/","movie",6.5,150,2011,"Drama",18069,"2011-09-30","Kenneth Lonergan",NA,NA,NA
+"tt0469641",NA,NA,"World Trade Center","https://www.imdb.com/title/tt0469641/","movie",6,129,2006,"Drama, History, Thriller",87017,"2006-08-09","Oliver Stone",NA,NA,NA
+"tt0475420",NA,NA,"The Untold Story of Emmett Louis Till","https://www.imdb.com/title/tt0475420/","movie",7.7,70,2005,"Documentary, Biography",509,"2005-08-17","Keith Beauchamp",NA,NA,NA
+"tt0826711",NA,NA,"Le voyage du ballon rouge","https://www.imdb.com/title/tt0826711/","movie",6.5,115,2007,"Drama, Family",4151,"2007-05-17","Hsiao-Hsien Hou",NA,NA,NA
+"tt0836700",NA,NA,"L'heure d'été","https://www.imdb.com/title/tt0836700/","movie",7.2,103,2008,"Drama, Family",8059,"2008-03-03","Olivier Assayas",NA,NA,NA
+"tt0842929",NA,NA,"Paranoid Park","https://www.imdb.com/title/tt0842929/","movie",6.6,85,2007,"Crime, Drama, Mystery",31707,"2007-03-31","Gus Van Sant",NA,NA,NA
+"tt0859765",NA,NA,"San xia hao ren","https://www.imdb.com/title/tt0859765/","movie",7.3,111,2006,"Drama",7167,"2006-09-06","Zhangke Jia",NA,NA,NA
+"tt0889671",NA,NA,"Trumbo","https://www.imdb.com/title/tt0889671/","movie",7.4,96,2007,"Documentary, Biography",1231,"2007-09-10","Peter Askin",NA,NA,NA
+"tt0913425",NA,NA,"Los abrazos rotos","https://www.imdb.com/title/tt0913425/","movie",7.2,127,2009,"Drama, Romance, Thriller",42370,"2009-03-17","Pedro Almodóvar",NA,NA,NA
+"tt0974554",NA,NA,"Elegy","https://www.imdb.com/title/tt0974554/","movie",6.7,112,2008,"Drama, Romance",23081,"2008-02-10","Isabel Coixet",NA,NA,NA
+"tt0977855",NA,NA,"Fair Game","https://www.imdb.com/title/tt0977855/","movie",6.8,108,2010,"Biography, Drama, Thriller",50643,"2010-05-20","Doug Liman",NA,NA,NA
+"tt1032821",NA,NA,"Tyson","https://www.imdb.com/title/tt1032821/","movie",7.4,90,2008,"Documentary, Biography, Sport",12866,"2008-05-31","James Toback",NA,NA,NA
+"tt1032854",NA,NA,"L'avocat de la terreur","https://www.imdb.com/title/tt1032854/","movie",7.1,135,2007,"Documentary, Biography, History",1681,"2007-05-18","Barbet Schroeder",NA,NA,NA
+"tt1048171",NA,NA,"Séraphine","https://www.imdb.com/title/tt1048171/","movie",7.4,125,2008,"Biography, Drama",6477,"2008-08-28","Martin Provost",NA,NA,NA
+"tt1049402",NA,NA,"Howl","https://www.imdb.com/title/tt1049402/","movie",6.6,84,2010,"Biography, Drama, Romance",13332,"2010-01-21","Jeffrey Friedman, Rob Epstein",NA,NA,NA
+"tt1095217",NA,NA,"The Bad Lieutenant: Port of Call - New Orleans","https://www.imdb.com/title/tt1095217/","movie",6.6,122,2009,"Crime, Drama",80295,"2009-09-04","Werner Herzog",NA,NA,NA
+"tt1100048",NA,NA,"35 rhums","https://www.imdb.com/title/tt1100048/","movie",7.1,100,2008,"Drama",5158,"2008-08-29","Claire Denis",NA,NA,NA
+"tt1124052",NA,NA,"Nanjing! Nanjing!","https://www.imdb.com/title/tt1124052/","movie",7.7,132,2009,"Drama, History, War",11573,"2009-04-22","Chuan Lu",NA,NA,NA
+"tt1129435",NA,NA,"Les plages d'Agnès","https://www.imdb.com/title/tt1129435/","movie",8,112,2008,"Documentary, Biography",4552,"2008-09-03","Agnès Varda",NA,NA,NA
+"tt1153690",NA,NA,"Ballast","https://www.imdb.com/title/tt1153690/","movie",6.9,96,2008,"Drama",2413,"2008-01-19","Lance Hammer",NA,NA,NA
+"tt1156173",NA,NA,"Vincere","https://www.imdb.com/title/tt1156173/","movie",6.8,128,2009,"Biography, Drama, Romance",5830,"2009-05-19","Marco Bellocchio",NA,NA,NA
+"tt1157605",NA,NA,"Anvil: The Story of Anvil","https://www.imdb.com/title/tt1157605/","movie",7.9,80,2008,"Documentary, Biography, Drama, Music",16671,"2008-01-18","Sacha Gervasi",NA,NA,NA
+"tt1189073",NA,NA,"La piel que habito","https://www.imdb.com/title/tt1189073/","movie",7.6,120,2011,"Drama, Horror, Mystery, Thriller",162411,"2011-05-19","Pedro Almodóvar",NA,NA,NA
+"tt12094720",NA,NA,"City Hall","https://www.imdb.com/title/tt12094720/","movie",7.4,272,2020,"Documentary",717,"2020-09-08","Frederick Wiseman",NA,NA,NA
+"tt1232790",NA,NA,"Of Time and the City","https://www.imdb.com/title/tt1232790/","movie",7.2,74,2008,"Documentary, Biography",2203,"2008-05-19","Terence Davies",NA,NA,NA
+"tt1244754",NA,NA,"Conviction","https://www.imdb.com/title/tt1244754/","movie",7.2,107,2010,"Biography, Crime, Drama",45570,"2010-09-11","Tony Goldwyn",NA,NA,NA
+"tt1287878",NA,NA,"Shi","https://www.imdb.com/title/tt1287878/","movie",7.8,139,2010,"Drama",13267,"2010-05-13","Lee Chang-dong",NA,NA,NA
+"tt1319744",NA,NA,"The Interrupters","https://www.imdb.com/title/tt1319744/","movie",7.5,125,2011,"Documentary, Crime",3607,"2011-01-21","Steve James",NA,NA,NA
+"tt13204490",NA,NA,"Petite maman","https://www.imdb.com/title/tt13204490/","movie",7.4,73,2021,"Drama, Fantasy",16070,"2021-06-02","Céline Sciamma",NA,NA,NA
+"tt1321865",NA,NA,"Carlos","https://www.imdb.com/title/tt1321865/","tvMiniSeries",7.6,334,2010,"Biography, Crime, Drama, Thriller",14247,"2010-05-19","",NA,NA,NA
+"tt1372686",NA,NA,"Coriolanus","https://www.imdb.com/title/tt1372686/","movie",6.1,123,2011,"Drama, Thriller, War",33194,"2011-02-14","Ralph Fiennes",NA,NA,NA
+"tt1389127",NA,NA,"Texas Killing Fields","https://www.imdb.com/title/tt1389127/","movie",5.7,105,2011,"Crime, Drama, History, Thriller",21489,"2011-09-09","Ami Canaan Mann",NA,NA,NA
+"tt14034966",NA,NA,"Gûzen to sôzô","https://www.imdb.com/title/tt14034966/","movie",7.5,121,2021,"Drama, Romance",8794,"2021-03-23","Ryûsuke Hamaguchi",NA,NA,NA
+"tt14300912",NA,NA,"Procession","https://www.imdb.com/title/tt14300912/","movie",7.2,118,2021,"Documentary",1382,"2021-09-03","Robert Greene",NA,NA,NA
+"tt1441326",NA,NA,"Martha Marcy May Marlene","https://www.imdb.com/title/tt1441326/","movie",6.8,102,2011,"Drama, Mystery, Thriller",55254,"2011-01-21","Sean Durkin",NA,NA,NA
+"tt1441395",NA,NA,"Under the Skin","https://www.imdb.com/title/tt1441395/","movie",6.3,108,2013,"Drama, Horror, Mystery, Sci-Fi, Thriller",153212,"2013-08-29","Jonathan Glazer",NA,NA,NA
+"tt1512201",NA,NA,"Gui tu lie che","https://www.imdb.com/title/tt1512201/","movie",7.6,85,2009,"Documentary, Drama",3707,"2009-11-22","Lixin Fan",NA,NA,NA
+"tt1527186",NA,NA,"Melancholia","https://www.imdb.com/title/tt1527186/","movie",7.1,135,2011,"Drama, Sci-Fi",192450,"2011-05-18","Lars von Trier",NA,NA,NA
+"tt1571222",NA,NA,"A Dangerous Method","https://www.imdb.com/title/tt1571222/","movie",6.4,99,2011,"Biography, Drama, Romance, Thriller",107596,"2011-09-02","David Cronenberg",NA,NA,NA
+"tt1623008",NA,NA,"The Arbor","https://www.imdb.com/title/tt1623008/","movie",7.3,94,2010,"Documentary, Biography, Drama",2117,"2010-04-25","Clio Barnard",NA,NA,NA
+"tt1664894",NA,NA,"Cave of Forgotten Dreams","https://www.imdb.com/title/tt1664894/","movie",7.4,90,2010,"Documentary, History",17455,"2010-09-13","Werner Herzog",NA,NA,NA
+"tt1667905",NA,NA,"In film nist","https://www.imdb.com/title/tt1667905/","movie",7.4,75,2011,"Documentary",5604,"2011-05-20","Mojtaba Mirtahmasb, Jafar Panahi",NA,NA,NA
+"tt1700844",NA,NA,"The Deep Blue Sea","https://www.imdb.com/title/tt1700844/","movie",6.2,98,2011,"Drama, Romance",16528,"2011-09-11","Terence Davies",NA,NA,NA
+"tt1746153",NA,NA,"Crime After Crime","https://www.imdb.com/title/tt1746153/","movie",7.6,95,2011,"Documentary, Biography, Crime, News",555,"2011-01-24","Yoav Potash",NA,NA,NA
+"tt1951181",NA,NA,"The Immigrant","https://www.imdb.com/title/tt1951181/","movie",6.6,120,2013,"Drama, Romance",33368,"2013-05-24","James Gray",NA,NA,NA
+"tt1964773",NA,NA,"Hide Your Smiling Faces","https://www.imdb.com/title/tt1964773/","movie",6,81,2013,"Drama",1812,"2013-02-10","Daniel Patrick Carbone",NA,NA,NA
+"tt1972663",NA,NA,"Into the Abyss","https://www.imdb.com/title/tt1972663/","movie",7.3,107,2011,"Documentary, Crime, Drama",17219,"2011-09-02","Werner Herzog",NA,NA,NA
+"tt20259142",NA,NA,"Mistérios de Lisboa - O Filme","https://www.imdb.com/title/tt20259142/","movie",7.4,266,2010,"Drama",104,"2010-09-17","Raúl Ruiz",NA,NA,NA
+"tt2076220",NA,NA,"Holy Motors","https://www.imdb.com/title/tt2076220/","movie",7,115,2012,"Drama, Fantasy",48500,"2012-05-23","Leos Carax",NA,NA,NA
+"tt2083383",NA,NA,"Trouble with the Curve","https://www.imdb.com/title/tt2083383/","movie",6.8,111,2012,"Drama, Sport",67279,"2012-09-19","Robert Lorenz",NA,NA,NA
+"tt2101441",NA,NA,"Spring Breakers","https://www.imdb.com/title/tt2101441/","movie",5.3,94,2012,"Crime, Drama, Thriller",147649,"2012-09-05","Harmony Korine",NA,NA,NA
+"tt2219650",NA,NA,"Seymour: An Introduction","https://www.imdb.com/title/tt2219650/","movie",7.5,84,2014,"Documentary, Biography, Music",1137,"2014-09-10","Ethan Hawke",NA,NA,NA
+"tt2332522",NA,NA,"Leviathan","https://www.imdb.com/title/tt2332522/","movie",6.5,87,2012,"Documentary",3720,"2012-08-09","Verena Paravel, Lucien Castaing-Taylor",NA,NA,NA
+"tt2380247",NA,NA,"The Central Park Five","https://www.imdb.com/title/tt2380247/","movie",7.7,119,2012,"Documentary, Crime, History",7878,"2012-05-24","Ken Burns, Sarah Burns, David McMahon",NA,NA,NA
+"tt2392830",NA,NA,"A Quiet Passion","https://www.imdb.com/title/tt2392830/","movie",6.5,125,2016,"Biography, Drama",6184,"2016-02-14","Terence Davies",NA,NA,NA
+"tt2396224",NA,NA,"It's Such a Beautiful Day","https://www.imdb.com/title/tt2396224/","movie",8.2,62,2012,"Animation, Comedy, Drama, Fantasy, Horror, Mystery, Sci-Fi, Thriller",15457,"2012-08-24","Don Hertzfeldt",NA,NA,NA
+"tt2400275",NA,NA,"Adieu au langage","https://www.imdb.com/title/tt2400275/","movie",5.8,70,2014,"Drama, Fantasy",6216,"2014-05-21","Jean-Luc Godard",NA,NA,NA
+"tt2452254",NA,NA,"Clouds of Sils Maria","https://www.imdb.com/title/tt2452254/","movie",6.8,124,2014,"Drama",30893,"2014-05-23","Olivier Assayas",NA,NA,NA
+"tt2752688",NA,NA,"Rosewater","https://www.imdb.com/title/tt2752688/","movie",6.6,103,2014,"Biography, Drama",10968,"2014-08-29","Jon Stewart",NA,NA,NA
+"tt2762506",NA,NA,"Bacurau","https://www.imdb.com/title/tt2762506/","movie",7.3,131,2019,"Action, Adventure, Drama, Horror, Mystery, Thriller, Western",30029,"2019-05-15","Juliano Dornelles, Kleber Mendonça Filho",NA,NA,NA
+"tt2852400",NA,NA,"Tian zhu ding","https://www.imdb.com/title/tt2852400/","movie",7.1,130,2013,"Action, Drama",12479,"2013-05-17","Zhangke Jia",NA,NA,NA
+"tt2891174",NA,NA,"99 Homes","https://www.imdb.com/title/tt2891174/","movie",7.1,112,2014,"Crime, Drama",36321,"2014-08-29","Ramin Bahrani",NA,NA,NA
+"tt3091552",NA,NA,"At Berkeley","https://www.imdb.com/title/tt3091552/","movie",7.3,244,2013,"Documentary",698,"2013-09-02","Frederick Wiseman",NA,NA,NA
+"tt3119416",NA,NA,"Jiao you","https://www.imdb.com/title/tt3119416/","movie",6.9,138,2013,"Drama",3020,"2013-09-05","Ming-liang Tsai",NA,NA,NA
+"tt3263996",NA,NA,"The Overnighters","https://www.imdb.com/title/tt3263996/","movie",7.4,102,2014,"Documentary, Drama",2535,"2014-01-17","Jesse Moss",NA,NA,NA
+"tt3385524",NA,NA,"Stan & Ollie","https://www.imdb.com/title/tt3385524/","movie",7.2,98,2018,"Biography, Comedy, Drama, Family, History",39408,"2018-10-21","Jon S. Baird",NA,NA,NA
+"tt3464896",NA,NA,"Small Axe","https://www.imdb.com/title/tt3464896/","tvMiniSeries",7.9,407,2020,"Drama, History",5043,"2020-09-25","",NA,NA,NA
+"tt3720794",NA,NA,"National Gallery","https://www.imdb.com/title/tt3720794/","movie",7.3,180,2014,"Documentary",1638,"2014-05-17","Frederick Wiseman",NA,NA,NA
+"tt3721954",NA,NA,"Maudie","https://www.imdb.com/title/tt3721954/","movie",7.6,115,2016,"Biography, Drama, Romance",20282,"2016-09-02","Aisling Walsh",NA,NA,NA
+"tt4120176",NA,NA,"L'avenir","https://www.imdb.com/title/tt4120176/","movie",6.9,102,2016,"Drama",14534,"2016-02-13","Mia Hansen-Løve",NA,NA,NA
+"tt4218572",NA,NA,"Widows","https://www.imdb.com/title/tt4218572/","movie",6.8,129,2018,"Crime, Drama, Thriller",102843,"2018-09-08","Steve McQueen",NA,NA,NA
+"tt4468634",NA,NA,"Certain Women","https://www.imdb.com/title/tt4468634/","movie",6.4,107,2016,"Drama",14602,"2016-01-24","Kelly Reichardt",NA,NA,NA
+"tt4516162",NA,NA,"Martin Eden","https://www.imdb.com/title/tt4516162/","movie",7,129,2019,"Drama, Romance",7393,"2019-09-02","Pietro Marcello",NA,NA,NA
+"tt4666726",NA,NA,"Christine","https://www.imdb.com/title/tt4666726/","movie",6.9,119,2016,"Biography, Drama",16513,"2016-01-23","Antonio Campos",NA,NA,NA
+"tt4916630",NA,NA,"Just Mercy","https://www.imdb.com/title/tt4916630/","movie",7.6,137,2019,"Biography, Crime, Drama",74164,"2019-09-06","Destin Daniel Cretton",NA,NA,NA
+"tt4936064",NA,NA,"In Jackson Heights","https://www.imdb.com/title/tt4936064/","movie",7.2,190,2015,"Documentary",706,"2015-09-04","Frederick Wiseman",NA,NA,NA
+"tt4936450",NA,NA,"Bacalaureat","https://www.imdb.com/title/tt4936450/","movie",7.3,128,2016,"Crime, Drama",14544,"2016-05-19","Cristian Mungiu",NA,NA,NA
+"tt4971344",NA,NA,"Les frères Sisters","https://www.imdb.com/title/tt4971344/","movie",6.9,122,2018,"Drama, Western",69223,"2018-09-02","Jacques Audiard",NA,NA,NA
+"tt5215486",NA,NA,"Dawson City: Frozen Time","https://www.imdb.com/title/tt5215486/","movie",7.6,120,2016,"Documentary, History",2114,"2016-09-05","Bill Morrison",NA,NA,NA
+"tt5247022",NA,NA,"Paterson","https://www.imdb.com/title/tt5247022/","movie",7.3,118,2016,"Comedy, Drama, Romance",87468,"2016-05-16","Jim Jarmusch",NA,NA,NA
+"tt5362988",NA,NA,"Wind River","https://www.imdb.com/title/tt5362988/","movie",7.7,107,2017,"Crime, Drama, Mystery, Thriller, Western",271068,"2017-01-21","Taylor Sheridan",NA,NA,NA
+"tt5375040",NA,NA,"Cameraperson","https://www.imdb.com/title/tt5375040/","movie",7.4,102,2016,"Documentary, Biography, History, News, War",3110,"2016-01-26","Kirsten Johnson",NA,NA,NA
+"tt6209282",NA,NA,"Ex Libris","https://www.imdb.com/title/tt6209282/","movie",7.4,197,2017,"Documentary",1380,"2017-09-04","Frederick Wiseman",NA,NA,NA
+"tt6379314",NA,NA,"Let It Fall: Los Angeles 1982-1992","https://www.imdb.com/title/tt6379314/","movie",7.8,144,2017,"Documentary, History",820,"2017-04-21","John Ridley",NA,NA,NA
+"tt6705860",NA,NA,"Diane","https://www.imdb.com/title/tt6705860/","movie",6.7,95,2018,"Drama",1620,"2018-04-22","Kent Jones",NA,NA,NA
+"tt6859352",NA,NA,"Support the Girls","https://www.imdb.com/title/tt6859352/","movie",6.4,93,2018,"Comedy, Drama",8137,"2018-03-09","Andrew Bujalski",NA,NA,NA
+"tt7280898",NA,NA,"22 July","https://www.imdb.com/title/tt7280898/","movie",6.8,143,2018,"Crime, Drama, History, Thriller",36806,"2018-09-05","Paul Greengrass",NA,NA,NA
+"tt7298400",NA,NA,"Jiang hu er nü","https://www.imdb.com/title/tt7298400/","movie",7,136,2018,"Crime, Drama, Romance",10283,"2018-05-11","Zhangke Jia",NA,NA,NA
+"tt7472352",NA,NA,"Shirkers","https://www.imdb.com/title/tt7472352/","movie",7.4,97,2018,"Documentary",5567,"2018-01-21","Sandi Tan",NA,NA,NA
+"tt7689484",NA,NA,"On Her Shoulders","https://www.imdb.com/title/tt7689484/","movie",7.3,95,2018,"Documentary, Biography",520,"2018-01-20","Alexandria Bombach",NA,NA,NA
+"tt7939766",NA,NA,"I'm Thinking of Ending Things","https://www.imdb.com/title/tt7939766/","movie",6.6,134,2020,"Drama, Thriller",97181,"2020-08-28","Charlie Kaufman",NA,NA,NA
+"tt8526872",NA,NA,"Dolemite Is My Name","https://www.imdb.com/title/tt8526872/","movie",7.2,118,2019,"Biography, Comedy, Drama",64223,"2019-09-07","Craig Brewer",NA,NA,NA
+"tt8633464",NA,NA,"After Yang","https://www.imdb.com/title/tt8633464/","movie",6.7,96,2021,"Drama, Sci-Fi",20837,"2021-07-08","Kogonada",NA,NA,NA
+"tt8893974",NA,NA,"Passing","https://www.imdb.com/title/tt8893974/","movie",6.7,98,2021,"Drama",16272,"2021-01-30","Rebecca Hall",NA,NA,NA
+"tt9577852",NA,NA,"Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese","https://www.imdb.com/title/tt9577852/","movie",7.6,142,2019,"Documentary, Biography, History, Music",7380,"2019-06-11","Martin Scorsese",NA,NA,NA
+"tt3096782",NA,NA,"O Grande Circo Místico","https://www.imdb.com/title/tt3096782/","movie",5.2,105,2018,"Drama",633,"2018-05-12","Carlos Diegues",NA,NA,NA
+"tt4610378",NA,NA,"Bankier van het verzet","https://www.imdb.com/title/tt4610378/","movie",6.9,123,2018,"Biography, Drama, War",10363,"2018-03-08","Joram Lürsen",NA,NA,NA
+"tt4830786",NA,NA,"The Cakemaker","https://www.imdb.com/title/tt4830786/","movie",7.3,113,2017,"Drama, Romance",5035,"2017-07-04","Ofir Raul Graizer",NA,NA,NA
+"tt5209478",NA,NA,"Burnout","https://www.imdb.com/title/tt5209478/","movie",5.2,112,2017,"Drama",426,"2017-10-11","Nour Eddine Lakhmari",NA,NA,NA
+"tt5238514",NA,NA,"Izgrednici","https://www.imdb.com/title/tt5238514/","movie",6.3,107,2017,"Drama, Thriller",183,"2017-10-22","Dejan Zecevic",NA,NA,NA
+"tt5328694",NA,NA,"A Son of Man","https://www.imdb.com/title/tt5328694/","movie",5.9,93,2018,"Adventure, Drama, Family",203,"2018-09-17","Jamaicanoproblem, Pablo Agüero",NA,NA,NA
+"tt5455410",NA,NA,"Gutland","https://www.imdb.com/title/tt5455410/","movie",6.1,107,2017,"Drama, Mystery, Thriller",1359,"2017-09-08","Govinda Van Maele",NA,NA,NA
+"tt5513920",NA,NA,"No Bed of Roses","https://www.imdb.com/title/tt5513920/","movie",6.1,85,2017,"Drama",2074,"2017-06-22","Mostofa Sarwar Farooki",NA,NA,NA
+"tt5656980",NA,NA,"Medea","https://www.imdb.com/title/tt5656980/","movie",5.9,70,2017,"Drama",128,"2017-04-24","Alexandra Latishev Salazar",NA,NA,NA
+"tt5708028",NA,NA,"Cocote","https://www.imdb.com/title/tt5708028/","movie",6.5,106,2017,"Drama",340,"2017-08-03","Nelson Carlo de Los Santos Arias",NA,NA,NA
+"tt5855772",NA,NA,"Napszállta","https://www.imdb.com/title/tt5855772/","movie",6.3,142,2018,"Drama, History",4534,"2018-09-03","László Nemes",NA,NA,NA
+"tt5923026",NA,NA,"Marlina Si Pembunuh dalam Empat Babak","https://www.imdb.com/title/tt5923026/","movie",6.9,93,2017,"Drama, Thriller, Western",3321,"2017-05-24","Mouly Surya",NA,NA,NA
+"tt5974454",NA,NA,"Zin'naariyâ!","https://www.imdb.com/title/tt5974454/","movie",6.8,96,2015,"Drama, Romance",61,"2015-03-31","Rahmatou Keïta",NA,NA,NA
+"tt6061558",NA,NA,"Ivan","https://www.imdb.com/title/tt6061558/","movie",7,91,2017,"Drama",313,"2017-09-13","Janez Burger",NA,NA,NA
+"tt6107516",NA,NA,"La familia","https://www.imdb.com/title/tt6107516/","movie",6.8,82,2017,"Drama",453,"2017-05-23","Gustavo Rondón Córdova",NA,NA,NA
+"tt6131208",NA,NA,"Sergio & Serguéi","https://www.imdb.com/title/tt6131208/","movie",6.5,93,2017,"Drama",491,"2017-09-08","Ernesto Daranas",NA,NA,NA
+"tt6194984",NA,NA,"Vezdesushtiyat","https://www.imdb.com/title/tt6194984/","movie",7.4,120,2017,"Drama",1381,"2017-10-13","Ilian Djevelekov",NA,NA,NA
+"tt6207878",NA,NA,"Bedoone Tarikh, Bedoone Emza","https://www.imdb.com/title/tt6207878/","movie",7.2,99,2017,"Drama, Mystery, Thriller",6332,"2017-02-01","Vahid Jalilvand",NA,NA,NA
+"tt6213284",NA,NA,"I Am Not a Witch","https://www.imdb.com/title/tt6213284/","movie",6.9,93,2017,"Comedy, Drama",4090,"2017-05-25","Rungano Nyoni",NA,NA,NA
+"tt6213758",NA,NA,"The Journey","https://www.imdb.com/title/tt6213758/","movie",5.3,82,2017,"Drama, Thriller",407,"2017-09-07","Mohamed Al Daradji",NA,NA,NA
+"tt6280368",NA,NA,"Võta või jäta","https://www.imdb.com/title/tt6280368/","movie",7.4,102,2018,"Drama",874,"2018-09-14","Liina Trishkina",NA,NA,NA
+"tt6313378",NA,NA,"La douleur","https://www.imdb.com/title/tt6313378/","movie",6.3,127,2017,"Biography, Drama, War",1367,"2017-08-27","Emmanuel Finkiel",NA,NA,NA
+"tt6324614",NA,NA,"Sobibor","https://www.imdb.com/title/tt6324614/","movie",6.4,118,2018,"Drama, History, Thriller, War",5653,"2018-05-03","Konstantin Khabenskiy",NA,NA,NA
+"tt6386748",NA,NA,"Pájaros de verano","https://www.imdb.com/title/tt6386748/","movie",7.5,125,2018,"Crime, Drama",12908,"2018-05-09","Cristina Gallego, Ciro Guerra",NA,NA,NA
+"tt6505968",NA,NA,"Armomurhaaja","https://www.imdb.com/title/tt6505968/","movie",6.7,85,2017,"Comedy, Drama, Horror, Thriller",2225,"2017-09-07","Teemu Nikki",NA,NA,NA
+"tt6568868",NA,NA,"Ghost Hunting","https://www.imdb.com/title/tt6568868/","movie",7,94,2017,"Documentary",249,"2017-02-12","Raed Andoni",NA,NA,NA
+"tt6628102",NA,NA,"Ahlat Agaci","https://www.imdb.com/title/tt6628102/","movie",8,188,2018,"Drama",26632,"2018-05-18","Nuri Bilge Ceylan",NA,NA,NA
+"tt6665464",NA,NA,"Martesa","https://www.imdb.com/title/tt6665464/","movie",6.8,97,2017,"Drama, Romance",683,"2017-11-28","Blerta Zeqiri",NA,NA,NA
+"tt6697634",NA,NA,"Peregrinação","https://www.imdb.com/title/tt6697634/","movie",5.7,108,2017,"Adventure, Drama",207,"2017-11-01","João Botelho",NA,NA,NA
+"tt6768578",NA,NA,"Dogman","https://www.imdb.com/title/tt6768578/","movie",7.2,103,2018,"Crime, Drama, Thriller",28887,"2018-05-16","Matteo Garrone",NA,NA,NA
+"tt6776572",NA,NA,"Aala Kaf Ifrit","https://www.imdb.com/title/tt6776572/","movie",7.1,100,2017,"Crime, Drama, Thriller",2615,"2017-05-19","Kaouther Ben Hania",NA,NA,NA
+"tt6789126",NA,NA,"Ruben Blades Is Not My Name","https://www.imdb.com/title/tt6789126/","movie",7.3,85,2018,"Documentary",207,"2018-03-10","Abner Benaim",NA,NA,NA
+"tt6792282",NA,NA,"La noche de 12 años","https://www.imdb.com/title/tt6792282/","movie",7.5,122,2018,"Adventure, Biography, Crime, Drama, History",10742,"2018-09-01","Álvaro Brechner",NA,NA,NA
+"tt6793580",NA,NA,"Campeones","https://www.imdb.com/title/tt6793580/","movie",7.2,124,2018,"Comedy, Drama, Family, Sport",11563,"2018-04-03","Javier Fesser",NA,NA,NA
+"tt6835498",NA,NA,"Khrustal","https://www.imdb.com/title/tt6835498/","movie",7,95,2018,"Drama",1848,"2018-07-01","Darya Zhuk",NA,NA,NA
+"tt6835808",NA,NA,"The Road to Sunrise","https://www.imdb.com/title/tt6835808/","movie",6.5,145,2017,"Drama",14,"2017-11-03","Shemu Joyah",NA,NA,NA
+"tt6846432",NA,NA,"Yom el-Din","https://www.imdb.com/title/tt6846432/","movie",7.3,97,2018,"Adventure, Comedy, Drama",1838,"2018-05-09","Abu Bakr Shawky",NA,NA,NA
+"tt6878882",NA,NA,"Hong hai xing dong","https://www.imdb.com/title/tt6878882/","movie",6.6,142,2018,"Action, Drama, Thriller, War",7847,"2018-02-16","Dante Lam",NA,NA,NA
+"tt6917210",NA,NA,"Buffalo Boys","https://www.imdb.com/title/tt6917210/","movie",5.7,102,2018,"Action, Drama, History, Thriller",1306,"2018-07-14","Mike Wiluan",NA,NA,NA
+"tt6982352",NA,NA,"Never Leave Me","https://www.imdb.com/title/tt6982352/","movie",6.6,96,2017,"Drama",846,"2017-12-06","Aida Begic",NA,NA,NA
+"tt7010412",NA,NA,"The Great Buddha+","https://www.imdb.com/title/tt7010412/","movie",7.5,102,2017,"Comedy, Crime, Drama",4706,"2017-06-29","Hsin-yao Huang",NA,NA,NA
+"tt7083846",NA,NA,"Jirga","https://www.imdb.com/title/tt7083846/","movie",6.3,78,2018,"Drama, War",427,"2018-06-08","Benjamin Gilmour",NA,NA,NA
+"tt7204348",NA,NA,"El ángel","https://www.imdb.com/title/tt7204348/","movie",6.9,118,2018,"Biography, Crime, Drama",11453,"2018-05-11","Luis Ortega",NA,NA,NA
+"tt7213936",NA,NA,"Hva vil folk si","https://www.imdb.com/title/tt7213936/","movie",7.4,106,2017,"Drama",5858,"2017-09-09","Iram Haq",NA,NA,NA
+"tt7279188",NA,NA,"Kona fer í stríð","https://www.imdb.com/title/tt7279188/","movie",7.4,101,2018,"Adventure, Comedy, Drama, Thriller",11056,"2018-05-12","Benedikt Erlingsson",NA,NA,NA
+"tt7279250",NA,NA,"Iskra","https://www.imdb.com/title/tt7279250/","movie",6.4,81,2017,"Drama, Thriller",78,"2017-08-02","Gojko Berkuljan",NA,NA,NA
+"tt7297966",NA,NA,"Village Rockstars","https://www.imdb.com/title/tt7297966/","movie",7.2,87,2017,"Drama",1017,"2017-09-08","Rima Das",NA,NA,NA
+"tt7333918",NA,NA,"...Y de Pronto el Amanecer","https://www.imdb.com/title/tt7333918/","movie",7.4,195,2017,"Drama",103,"2017-08-30","Silvio Caiozzi",NA,NA,NA
+"tt7368554",NA,NA,"Tlmocník","https://www.imdb.com/title/tt7368554/","movie",6.8,113,2018,"Comedy, Drama",569,"2018-02-23","Martin Sulík",NA,NA,NA
+"tt7416536",NA,NA,"Sew the Winter to My Skin","https://www.imdb.com/title/tt7416536/","movie",5.4,132,2018,"Action, Adventure",158,"2018-09-08","Jahmil X.T. Qubeka",NA,NA,NA
+"tt7457870",NA,NA,"Yellow Is Forbidden","https://www.imdb.com/title/tt7457870/","movie",6.7,97,2018,"Documentary, Biography",93,"2018-04-21","Pietra Brettkelly",NA,NA,NA
+"tt7473406",NA,NA,"Polyxeni: Mia istoria apo tin Poli","https://www.imdb.com/title/tt7473406/","movie",5.9,100,2017,"Drama",182,"2017-11-10","Dora Masklavanou",NA,NA,NA
+"tt7495440",NA,NA,"Wonderful Losers: A Different World","https://www.imdb.com/title/tt7495440/","movie",7.5,71,2017,"Documentary, Sport",664,"2017-10-13","Arunas Matelis",NA,NA,NA
+"tt7514020",NA,NA,"Cô Ba Sài Gòn","https://www.imdb.com/title/tt7514020/","movie",6.6,100,2017,"Comedy, Drama, Fantasy",439,"2017-10-14","Buu Loc Tran, Kay Nguyen",NA,NA,NA
+"tt7565614",NA,NA,"Namme","https://www.imdb.com/title/tt7565614/","movie",7.4,91,2017,"Drama",250,"2017-10-29","Zaza Khalvashi",NA,NA,NA
+"tt7610008",NA,NA,"Iscelitel","https://www.imdb.com/title/tt7610008/","movie",7.6,104,2017,"Comedy, Drama",1369,"2017-11-09","Gjorce Stavreski",NA,NA,NA
+"tt7678486",NA,NA,"Tunku kyrsyk","https://www.imdb.com/title/tt7678486/","movie",6.8,90,2017,"Drama",44,"2017-11-26","Temirbek Birnazarov",NA,NA,NA
+"tt7715988",NA,NA,"Cake","https://www.imdb.com/title/tt7715988/","movie",7.5,125,2018,"Drama, Mystery, Romance",1217,"2018-03-29","Asim Abbasi",NA,NA,NA
