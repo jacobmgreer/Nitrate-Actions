@@ -2,10 +2,6 @@ library(tidyverse)
 library(magrittr)
 library(numform)
 library(scales)
-#library(rvest)
-#library(jsonlite)
-#library(httr)
-#library(lubridate)
 
 options(readr.show_col_types = FALSE)
 options(warn=-1)
@@ -18,18 +14,7 @@ myratings <-
   left_join(., read.csv("https://www.imdb.com/list/ls507032905/export") %>% select(Const, Modified) %>% rename(Theater = Modified), by=join_by(Const)) %>%
   select(-c(Position,Description,Created,Modified)) %>%
   distinct(Const, .keep_all = TRUE) %>%
-  arrange(desc(Date.Rated)) %>%
-  left_join(.,
-            bind_rows(read_csv("raw-lists/Prime-Free-Oscar.csv"),
-                      read_csv("raw-lists/Prime-Free-Times.csv")) %>%
-              mutate(Service = "Prime") %>%
-              distinct %>%
-              bind_rows(., anti_join(bind_rows(
-                read_csv("raw-lists/Prime-Rentals-Oscar.csv"),
-                read_csv("raw-lists/Prime-Rentals-Times.csv")) %>% distinct,
-                bind_rows(
-                  read_csv("raw-lists/Prime-Free-Oscar.csv"),
-                  read_csv("raw-lists/Prime-Free-Times.csv")) %>% distinct) %>% mutate(Service = "Prime Rentals")), by=join_by(Const)) %T>%
+  arrange(desc(Date.Rated)) %T>%
   write.csv(.,"ratings/formatted.csv", row.names = FALSE)
 
 ## Oscar Ceremony Data for Summary and Graph
@@ -179,7 +164,7 @@ Oscars.Awards <-
   OscarsCorrected %>%
   filter(!is.na(Const)) %>%
   mutate(AwardWinner = ifelse(AwardWinner == "Winner",TRUE,FALSE)) %>%
-  select(AwardCeremony, AwardType, AwardWinner, Const, Your.Rating, Service) %>%
+  select(AwardCeremony, AwardType, AwardWinner, Const, Your.Rating) %>%
   distinct %>%
   dplyr::group_by(Const) %>%
   dplyr::mutate(
@@ -226,20 +211,12 @@ Oscars.Awards <-
         any(Seen == FALSE & is.na(AwardWinner)),
         n_distinct(Const[Seen == FALSE & is.na(AwardWinner)]),
         0),
-    Nominee.Per = round(Nominee.Y/(Nominee.Y+Nominee.N), digits=2),
-    On.Prime.Free = n_distinct(Const[Service == "Prime"]),
-    Prime.Free.Y = n_distinct(Const[Seen == TRUE & Service == "Prime"]),
-    Prime.Free.N = n_distinct(Const[Seen == FALSE & Service == "Prime"]),
-    Prime.Free.Per = round(Prime.Free.Y/On.Prime.Free, digits=2),
-    On.Prime.Rental = n_distinct(Const[Service == "Prime Rentals"]),
-    Prime.Rental.Y = n_distinct(Const[Seen == TRUE & Service == "Prime Rentals"]),
-    Prime.Rental.N = n_distinct(Const[Seen == FALSE & Service == "Prime Rentals"]),
-    Prime.Rental.Per = round(Prime.Rental.Y/On.Prime.Rental, digits=2)) %T>%
+    Nominee.Per = round(Nominee.Y/(Nominee.Y+Nominee.N), digits=2)) %T>%
   write.csv(.,"datasets/Oscars/Oscars-Summary-Awards.csv", row.names = FALSE)
 
 Oscars.Films <-
   OscarsCorrected %>%
-  group_by(AwardCeremony, Const, Title, Year, Your.Rating, Runtime..mins., Genres, Directors, Writer, Actors, Plot, Language, Country, Awards, Poster, IMDb.Rating, Num.Votes, Title.Type, Date.Rated, Service, AFI, Theater) %>%
+  group_by(AwardCeremony, Const, Title, Year, Your.Rating, Runtime..mins., Genres, Directors, Writer, Actors, Plot, Language, Country, Awards, Poster, IMDb.Rating, Num.Votes, Title.Type, Date.Rated, AFI, Theater) %>%
   summarize(
     Nominations = n_distinct(AwardCategory),
     Losses = n_distinct(AwardCategory[is.na(AwardWinner)]),
