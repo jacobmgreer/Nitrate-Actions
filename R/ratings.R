@@ -10,24 +10,26 @@ options(warn=-1)
 myratings <-
   read.csv("ratings/ratings.csv") %>%
   bind_rows(., read.csv("https://www.imdb.com/list/ls003235325/export")) %>%
-  left_join(., read.csv("https://www.imdb.com/list/ls507245240/export") %>% select(Const, Modified) %>% rename(AFI = Modified), by=join_by(Const)) %>%
-  left_join(., read.csv("https://www.imdb.com/list/ls507032905/export") %>% select(Const, Modified) %>% rename(Theater = Modified), by=join_by(Const)) %>%
-  select(-c(Position,Description,Created,Modified)) %>%
+  #left_join(., read.csv("https://www.imdb.com/list/ls507245240/export") %>% select(Const, Modified) %>% rename(AFI = Modified), by=join_by(Const)) %>%
+  #left_join(., read.csv("https://www.imdb.com/list/ls507032905/export") %>% select(Const, Modified) %>% rename(Theater = Modified), by=join_by(Const)) %>%
+  select(-c(Position, Description, Created, Modified, Genres, Directors, Release.Date, URL)) %>%
+  rename(Runtime = Runtime..mins.) %>%
   distinct(Const, .keep_all = TRUE) %>%
   arrange(desc(Date.Rated)) %T>%
-  write.csv(.,"ratings/formatted.csv", row.names = FALSE)
+  write.csv(., "ratings/formatted.csv", row.names = FALSE)
 
 ## Oscar Ceremony Data for Summary and Graph
 OscarsCorrected <-
-  left_join(read_csv("raw-lists/OscarCeremonies.csv"), myratings, by="Const") %T>%
-  write.csv(.,"datasets/Oscars/OscarsTracking.csv", row.names = FALSE)
+  left_join(read_csv("raw-lists/OscarCeremonies.csv"), myratings, by=c("FilmID" = "Const")) %>%
+  select(!c(Runtime, Year, Title.Type, Title, Date.Rated)) %T>%
+  write.csv(., "datasets/Oscars/OscarsTracking.csv", row.names = FALSE)
 OscarSummary <-
   OscarsCorrected %>%
-  filter(!is.na(Const)) %>%
+  filter(!is.na(FilmID)) %>%
   mutate(AwardWinner = ifelse(AwardWinner == "Winner",TRUE,FALSE)) %>%
-  select(AwardCeremony, AwardWinner, Const, Your.Rating) %>%
+  select(AwardCeremony, AwardWinner, FilmID, Your.Rating) %>%
   distinct %>%
-  dplyr::group_by(Const) %>%
+  dplyr::group_by(FilmID) %>%
   dplyr::mutate(
     filmwon=ifelse(any(AwardWinner),TRUE,FALSE),
     filmwon=ifelse(all(is.na(filmwon)),FALSE,filmwon)
@@ -47,7 +49,7 @@ OscarSummary <-
         any(Seen == TRUE & AwardWinner == TRUE),
         ifelse(
           any(AwardWinner == TRUE),
-          n_distinct(Const[Seen == TRUE & AwardWinner == TRUE]),
+          n_distinct(FilmID[Seen == TRUE & AwardWinner == TRUE]),
           NA),
         NA),
     Winner.N =
@@ -55,141 +57,110 @@ OscarSummary <-
         any(Seen == FALSE & AwardWinner == TRUE),
         ifelse(
           any(AwardWinner == TRUE),
-          n_distinct(Const[Seen == FALSE & AwardWinner == TRUE]),
+          n_distinct(FilmID[Seen == FALSE & AwardWinner == TRUE]),
           NA),
         NA),
     Nominee.Y =
       ifelse(
         any(Seen == TRUE & is.na(AwardWinner)),
-        n_distinct(Const[Seen == TRUE & is.na(AwardWinner)]),
+        n_distinct(FilmID[Seen == TRUE & is.na(AwardWinner)]),
         NA),
     Nominee.N =
       ifelse(
         any(Seen == FALSE & is.na(AwardWinner)),
-        n_distinct(Const[Seen == FALSE & is.na(AwardWinner)]),
+        n_distinct(FilmID[Seen == FALSE & is.na(AwardWinner)]),
         NA)) %>%
   arrange(Year) %>%
   select(-Year) %T>%
   write.csv(.,"datasets/Oscars/Oscars-Chart-Data.csv", row.names = FALSE)
 
 ## Oscar Summary by Ceremony
-Oscars.Ceremonies <-
+OCSumQuery <-
   OscarsCorrected %>%
-  filter(!is.na(Const)) %>%
-  filter(!AwardType %in% c("Writing, Title","Director,Assistant","Direction, Dance")) %>%
-  select(AwardCeremony, AwardType, Const, Your.Rating) %>%
+  filter(!is.na(FilmID)) %>%
+  filter(!AwardType %in% c("Writing, Title", "Director,Assistant", "Direction, Dance")) %>%
+  select(AwardCeremony, AwardType, FilmID, Your.Rating) %>%
   distinct %>%
-  dplyr::group_by(Const) %>%
-  mutate(Seen = ifelse(is.na(Your.Rating), FALSE, TRUE)) %>%
+  dplyr::group_by(FilmID) %>%
+  mutate(Seen = ifelse(is.na(Your.Rating), FALSE, TRUE))
+
+Oscars.Ceremonies <-
+  OCSumQuery %>%
   dplyr::group_by(AwardCeremony, AwardType) %>%
-  dplyr::summarise(Percentage = round(n_distinct(Const[Seen == TRUE]) / n_distinct(Const), digits = 1)) %>%
+  dplyr::summarise(Percentage = round(n_distinct(FilmID[Seen == TRUE]) / n_distinct(FilmID), digits = 1)) %>%
   spread(., AwardType, Percentage, fill = NA) %>%
   left_join(
-    .,
-    OscarsCorrected %>%
-      filter(!is.na(Const)) %>%
-      filter(!AwardType %in% c("Writing, Title","Director,Assistant","Direction, Dance")) %>%
-      select(AwardCeremony, Const, Your.Rating) %>%
-      distinct %>%
-      dplyr::group_by(Const) %>%
-      mutate(Seen = ifelse(is.na(Your.Rating), FALSE, TRUE)) %>%
-      dplyr::group_by(AwardCeremony) %>%
-      dplyr::summarize(
-        Films.Y = n_distinct(Const[Seen == TRUE]),
-        Films.N = n_distinct(Const[Seen == FALSE]),
-        Films = n_distinct(Const),
-        Percentage = percent(n_distinct(Const[Seen == TRUE]) / n_distinct(Const), accuracy = 1))
-  ) %>%
+    OCSumQuery %>%
+    dplyr::group_by(AwardCeremony) %>%
+    dplyr::summarize(
+      Films.Y = n_distinct(FilmID[Seen == TRUE]),
+      Films.N = n_distinct(FilmID[Seen == FALSE]),
+      Films = n_distinct(FilmID),
+      Percentage = percent(n_distinct(FilmID[Seen == TRUE]) / n_distinct(FilmID), accuracy = 1))) %>%
   bind_rows(
-    .,
-    OscarsCorrected %>%
-      filter(!is.na(Const)) %>%
-      filter(!AwardType %in% c("Writing, Title","Director,Assistant","Direction, Dance")) %>%
-      select(AwardCeremony, AwardType, Const, Your.Rating) %>%
-      distinct %>%
-      dplyr::group_by(Const) %>%
-      mutate(Seen = ifelse(is.na(Your.Rating), FALSE, TRUE)) %>%
-      dplyr::group_by(AwardType) %>%
-      dplyr::summarize(AwardCeremony = "Not Seen", Films.N = n_distinct(Const[Seen == FALSE])) %>%
-      spread(., AwardType, Films.N, fill = NA)
-  ) %>%
+    OCSumQuery %>%
+    dplyr::group_by(AwardType) %>%
+    dplyr::summarize(
+      AwardCeremony = "Not Seen",
+      Films.N = n_distinct(FilmID[Seen == FALSE])) %>%
+    spread(., AwardType, Films.N, fill = NA)) %>%
   bind_rows(
-    .,
-    OscarsCorrected %>%
-      filter(!is.na(Const)) %>%
-      filter(!AwardType %in% c("Writing, Title","Director,Assistant","Direction, Dance")) %>%
-      select(AwardCeremony, AwardType, Const, Your.Rating) %>%
-      distinct %>%
-      dplyr::group_by(Const) %>%
-      mutate(Seen = ifelse(is.na(Your.Rating), FALSE, TRUE)) %>%
-      dplyr::group_by(AwardType) %>%
-      dplyr::summarize(AwardCeremony = "Seen", Films.Y = n_distinct(Const[Seen == TRUE])) %>%
-      spread(., AwardType, Films.Y, fill = NA)
-  ) %>%
+    OCSumQuery %>%
+    dplyr::group_by(AwardType) %>%
+    dplyr::summarize(
+      AwardCeremony = "Seen",
+      Films.Y = n_distinct(FilmID[Seen == TRUE])) %>%
+    spread(., AwardType, Films.Y, fill = NA)) %>%
   bind_rows(
-    .,
-    OscarsCorrected %>%
-      filter(!is.na(Const)) %>%
-      filter(!AwardType %in% c("Writing, Title","Director,Assistant","Direction, Dance")) %>%
-      select(AwardCeremony, AwardType, Const, Your.Rating) %>%
-      distinct %>%
-      dplyr::group_by(Const) %>%
-      mutate(
-        Seen = ifelse(is.na(Your.Rating), FALSE, TRUE)) %>%
-      dplyr::group_by(AwardType) %>%
-      dplyr::summarize(
-        AwardCeremony = "Total",
-        Film = n_distinct(Const)) %>%
-      spread(., AwardType, Film, fill = NA) %>%
-      left_join(.,
-                OscarsCorrected %>%
-                  filter(!is.na(Const)) %>%
-                  filter(!AwardType %in% c("Writing, Title","Director,Assistant","Direction, Dance")) %>%
-                  select(AwardCeremony, AwardType, Const, Your.Rating) %>%
-                  distinct %>%
-                  dplyr::group_by(Const) %>%
-                  mutate(
-                    Seen = ifelse(is.na(Your.Rating), FALSE, TRUE)) %>%
-                  dplyr::group_by(AwardCeremony = "Total") %>%
-                  dplyr::summarize(
-                    Films.Y = n_distinct(Const[Seen == TRUE]),
-                    Films.N = n_distinct(Const[Seen == FALSE]),
-                    Films = n_distinct(Const),
-                    Percentage = percent(n_distinct(Const[Seen == TRUE]) / n_distinct(Const), accuracy = 1)))
-  ) %T>%
+    OCSumQuery %>%
+    dplyr::group_by(AwardType) %>%
+    dplyr::summarize(
+      AwardCeremony = "Total",
+      Film = n_distinct(FilmID)) %>%
+    spread(., AwardType, Film, fill = NA) %>%
+    left_join(
+      OCSumQuery %>%
+        dplyr::group_by(AwardCeremony = "Total") %>%
+        dplyr::summarize(
+          Films.Y = n_distinct(FilmID[Seen == TRUE]),
+          Films.N = n_distinct(FilmID[Seen == FALSE]),
+          Films = n_distinct(FilmID),
+          Percentage = percent(n_distinct(FilmID[Seen == TRUE]) / n_distinct(FilmID), accuracy = 1)))) %>%
+  arrange(AwardCeremony) %T>%
   write.csv(.,"datasets/Oscars/Oscars-Summary-Ceremonies.csv", row.names = FALSE)
 
 ## Oscar Summary by Award
 Oscars.Awards <-
   OscarsCorrected %>%
-  filter(!is.na(Const)) %>%
-  mutate(AwardWinner = ifelse(AwardWinner == "Winner",TRUE,FALSE)) %>%
-  select(AwardCeremony, AwardType, AwardWinner, Const, Your.Rating) %>%
+  filter(!is.na(FilmID)) %>%
+  mutate(AwardWinner = ifelse(AwardWinner == "Winner", TRUE, FALSE)) %>%
+  select(AwardCeremony, AwardType, AwardWinner, FilmID, Your.Rating) %>%
   distinct %>%
-  dplyr::group_by(Const) %>%
+  dplyr::group_by(FilmID) %>%
   dplyr::mutate(
-    filmwon=ifelse(any(AwardWinner),TRUE,FALSE),
-    filmwon=ifelse(all(is.na(filmwon)),FALSE,filmwon)
+    filmwon=ifelse(any(AwardWinner), TRUE, FALSE),
+    filmwon=ifelse(all(is.na(filmwon)), FALSE, filmwon)
   ) %>%
-  dplyr::mutate(keep_row=ifelse(filmwon,AwardWinner,TRUE)) %>%
+  dplyr::mutate(
+    keep_row=ifelse(filmwon, AwardWinner, TRUE)) %>%
   dplyr::filter(!(filmwon == TRUE & is.na(keep_row))) %>%
   ungroup %>%
   mutate(
     Seen = ifelse(is.na(Your.Rating), FALSE, TRUE),
     Year = sub('.*-', '', AwardCeremony),
     Ceremony = ifelse(f_ordinal(sub("\\-.*", "", str_remove(AwardCeremony, "^0+"))) == 13, "13th", f_ordinal(sub("\\-.*", "", str_remove(AwardCeremony, "^0+")))),
-    Menu = paste0("<h5>",AwardType,"</h5>")) %>%
+    Menu = paste0("<h5>", AwardType, "</h5>")) %>%
   dplyr::group_by(AwardType) %>%
   dplyr::summarise(
-    Films = n_distinct(Const),
-    Films.Y = n_distinct(Const[Seen == TRUE]),
-    Films.N = n_distinct(Const[Seen == FALSE]),
+    Films = n_distinct(FilmID),
+    Films.Y = n_distinct(FilmID[Seen == TRUE]),
+    Films.N = n_distinct(FilmID[Seen == FALSE]),
     Winner.Y =
       ifelse(
         any(Seen == TRUE & AwardWinner == TRUE),
         ifelse(
           any(AwardWinner == TRUE),
-          n_distinct(Const[Seen == TRUE & AwardWinner == TRUE]),
+          n_distinct(FilmID[Seen == TRUE & AwardWinner == TRUE]),
           0),
         0),
     Winner.N =
@@ -197,26 +168,26 @@ Oscars.Awards <-
         any(Seen == FALSE & AwardWinner == TRUE),
         ifelse(
           any(AwardWinner == TRUE),
-          n_distinct(Const[Seen == FALSE & AwardWinner == TRUE]),
+          n_distinct(FilmID[Seen == FALSE & AwardWinner == TRUE]),
           0),
         0),
     Winner.Per = round(Winner.Y/(Winner.Y+Winner.N), digits=2),
     Nominee.Y =
       ifelse(
         any(Seen == TRUE & is.na(AwardWinner)),
-        n_distinct(Const[Seen == TRUE & is.na(AwardWinner)]),
+        n_distinct(FilmID[Seen == TRUE & is.na(AwardWinner)]),
         0),
     Nominee.N =
       ifelse(
         any(Seen == FALSE & is.na(AwardWinner)),
-        n_distinct(Const[Seen == FALSE & is.na(AwardWinner)]),
+        n_distinct(FilmID[Seen == FALSE & is.na(AwardWinner)]),
         0),
     Nominee.Per = round(Nominee.Y/(Nominee.Y+Nominee.N), digits=2)) %T>%
   write.csv(.,"datasets/Oscars/Oscars-Summary-Awards.csv", row.names = FALSE)
 
 Oscars.Films <-
   OscarsCorrected %>%
-  group_by(AwardCeremony, Const, Title, Year, Your.Rating, Runtime..mins., Genres, Directors, Writer, Actors, Plot, Language, Country, Awards, Poster, IMDb.Rating, Num.Votes, Title.Type, Date.Rated, AFI, Theater) %>%
+  group_by(AwardCeremony, FilmID, FilmName, Your.Rating, IMDb.Rating, Num.Votes) %>%
   summarize(
     Nominations = n_distinct(AwardCategory),
     Losses = n_distinct(AwardCategory[is.na(AwardWinner)]),
@@ -336,19 +307,3 @@ List.Ebert <-
     mutate(Decade = paste0(10 * floor(Year/10),"s")) %>%
     mutate(Seen = ifelse(is.na(Your.Rating), "No", "Yes")) %T>%
     write.csv(.,"datasets/GreatFilmsEbert/Data.csv", row.names = FALSE)
-
-## AFI Top 100 from 1998
-List.AFI.1998 <-
-  left_join(read_csv("raw-lists/afi1998.csv"), myratings, by="Const") %>%
-    mutate(Decade = paste0(10 * floor(Year/10),"s")) %>%
-    mutate(Seen = ifelse(is.na(Your.Rating), "No", "Yes")) %T>%
-    write.csv(.,"datasets/AFITop100/1998/Data.csv", row.names = FALSE)
-
-## AFI Top 100 from 2007
-List.AFI.2007 <-
-  left_join(read_csv("raw-lists/afi2007.csv"), myratings, by="Const") %>%
-    mutate(Decade = paste0(10 * floor(Year/10),"s")) %>%
-    mutate(Seen = ifelse(is.na(Your.Rating), "No", "Yes")) %T>%
-    write.csv(.,"datasets/AFITop100/2007/Data.csv", row.names = FALSE)
-
-#mutate(Decade = floor(as.numeric(ItemYear)/10)*10)
