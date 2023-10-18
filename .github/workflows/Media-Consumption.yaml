@@ -4,7 +4,7 @@ on:
     paths:
       - 'ratings/ratings.csv'
 
-#on: [workflow_dispatch]
+# on: [workflow_dispatch]
 
 # on:
 #   schedule:
