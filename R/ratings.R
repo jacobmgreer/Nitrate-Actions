@@ -194,6 +194,19 @@ Oscars.Films <-
     Wins = Nominations - Losses) %T>%
   write.csv(.,"datasets/Oscars/Oscars-Summary-Films.csv", row.names = FALSE)
 
+## AMPAS-International Data for Summary and Graph
+combinedAMPASIntl <-
+  left_join(read_csv("raw-lists/International-Submissions.csv"), myratings, by="Const") %>%
+  mutate(Seen = ifelse(is.na(Your.Rating), "No", "Yes")) %T>%
+  write.csv(.,"datasets/AMPAS-International/Data.csv", row.names = FALSE)
+combinedAMPASIntl %>%
+  dplyr::group_by(Ceremony) %>%
+  dplyr::summarize(
+    Y = n_distinct(Const[Seen == "Yes"]),
+    N = n_distinct(Const[Seen == "No"])) %>%
+  select(Ceremony, Y, N) %>%
+  write.csv(.,"datasets/AMPAS-International/Summary.csv", row.names = FALSE)
+
 ## NYT-1000 Data for Summary and Graph
 combinedNYT1000 <-
   left_join(read_csv("raw-lists/nyt1000.csv"), myratings, by="Const") %>%
