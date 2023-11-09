@@ -197,7 +197,9 @@ Oscars.Films <-
 ## AMPAS-International Data for Summary and Graph
 combinedAMPASIntl <-
   left_join(read_csv("raw-lists/International-Submissions.csv"), myratings, by="Const") %>%
-  mutate(Seen = ifelse(is.na(Your.Rating), "No", "Yes")) %T>%
+  mutate(
+    Seen = ifelse(is.na(Your.Rating), "No", "Yes"),
+    Ceremony = paste0(Ceremony, "-", Ceremony + 1928)) %T>%
   write.csv(.,"datasets/AMPAS-International/Data.csv", row.names = FALSE)
 combinedAMPASIntl %>%
   dplyr::group_by(Ceremony) %>%
