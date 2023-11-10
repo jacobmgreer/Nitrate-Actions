@@ -15,7 +15,7 @@
 "01-1929","tt0018578","Wings",8,7.6,14065,2,0,2
 "01-1929","tt0018806","The Crowd",7,8.1,8928,2,2,0
 "01-1929","tt0018945","Glorious Betsy",5,5.8,142,1,1,0
-"01-1929","tt0019071","The Last Command",NA,8,4368,2,1,1
+"01-1929","tt0019071","The Last Command",NA,8,4367,2,1,1
 "01-1929","tt0019217","The Noose",NA,6.7,81,1,1,0
 "01-1929","tt0019304","The Racket",NA,6.6,1482,1,1,0
 "01-1929","tt0019344","Sadie Thompson",NA,7.2,2782,2,2,0
@@ -54,7 +54,7 @@
 "03-1930","tt0018674","The Barker",NA,7.1,117,1,1,0
 "03-1930","tt0018792","The Cop",NA,6.2,50,1,1,0
 "03-1930","tt0018907","4 Devils",NA,7.1,258,1,1,0
-"03-1930","tt0019237","Our Dancing Daughters",NA,6.7,1917,2,2,0
+"03-1930","tt0019237","Our Dancing Daughters",NA,6.7,1916,2,2,0
 "03-1930","tt0019257","The Patriot",NA,NA,NA,5,4,1
 "03-1930","tt0019348","Sal of Singapore",NA,5.5,52,1,1,0
 "03-1930","tt0019398","Skyscraper",NA,5.8,138,1,1,0
@@ -89,7 +89,7 @@
 "04-1931","tt0021301","The Right to Love",NA,5.7,54,1,1,0
 "04-1931","tt0021322","The Royal Family of Broadway",NA,6.1,419,1,1,0
 "04-1931","tt0021549","Whoopee!",NA,6.4,1148,1,1,0
-"04-1931","tt0021746","Cimarron",NA,5.8,6737,7,4,3
+"04-1931","tt0021746","Cimarron",NA,5.8,6736,7,4,3
 "04-1931","tt0021770","The Criminal Code",NA,6.9,1319,1,1,0
 "04-1931","tt0021826","East Lynne",NA,5.8,308,1,1,0
 "04-1931","tt0021885","A Free Soul",NA,6.6,2872,3,2,1
@@ -138,7 +138,7 @@
 "06-1934","tt0023488","Smilin' Through",NA,6.9,1508,1,1,0
 "06-1934","tt0023794","Berkeley Square",NA,6.5,956,1,1,0
 "06-1934","tt0023854","Building a Building",7,7,1089,1,1,0
-"06-1934","tt0023876","Cavalcade",NA,5.8,5718,4,1,3
+"06-1934","tt0023876","Cavalcade",NA,5.8,5717,4,1,3
 "06-1934","tt0024034","42nd Street",7,7.3,12758,2,2,0
 "06-1934","tt0024069","Gold Diggers of 1933",NA,7.7,8942,1,1,0
 "06-1934","tt0024231","Krakatoa",7,6.7,43,1,0,1
@@ -168,11 +168,11 @@
 "07-1935","tt0025019","La Cucaracha",NA,5.7,359,1,0,1
 "07-1935","tt0025124","Flirtation Walk",NA,5.6,813,2,2,0
 "07-1935","tt0025164","The Gay Divorcee",NA,7.4,8400,5,4,1
-"07-1935","tt0025238","Here Comes the Navy",NA,6.2,1126,1,1,0
+"07-1935","tt0025238","Here Comes the Navy",NA,6.2,1125,1,1,0
 "07-1935","tt0025251","Hide-Out",NA,6.9,864,1,1,0
 "07-1935","tt0025260","Holiday Land",4,5.8,198,1,1,0
 "07-1935","tt0025272","The House of Rothschild",NA,6.5,1276,1,1,0
-"07-1935","tt0025301","Imitation of Life",NA,7.5,5454,3,3,0
+"07-1935","tt0025301","Imitation of Life",NA,7.5,5453,3,3,0
 "07-1935","tt0025316","It Happened One Night",8,8.1,109619,5,0,5
 "07-1935","tt0025332","Jolly Little Elves",6,6,229,1,1,0
 "07-1935","tt0025423","The Lost Patrol",NA,6.8,3534,1,1,0
@@ -221,12 +221,12 @@
 "08-1936","tt0026571","King of Burlesque",NA,6.2,223,1,1,0
 "08-1936","tt0026643","The Lives of a Bengal Lancer",NA,7,3175,7,6,1
 "08-1936","tt0026654","Love Me Forever",NA,6,141,1,1,0
-"08-1936","tt0026714","A Midsummer Night's Dream",NA,6.8,3812,4,2,2
-"08-1936","tt0026725","Les Misérables",NA,7.7,3837,4,4,0
+"08-1936","tt0026714","A Midsummer Night's Dream",NA,6.8,3811,4,2,2
+"08-1936","tt0026725","Les Misérables",NA,7.7,3836,4,4,0
 "08-1936","tt0026752","Mutiny on the Bounty",7,7.6,24365,6,5,1
 "08-1936","tt0026768","Naughty Marietta",NA,6.5,1492,2,1,1
 "08-1936","tt0026803","Oh, My Nerves",NA,5,15,1,1,0
-"08-1936","tt0026866","Peter Ibbetson",NA,6.9,2500,1,1,0
+"08-1936","tt0026866","Peter Ibbetson",NA,6.9,2499,1,1,0
 "08-1936","tt0026893","Private Worlds",NA,6.4,381,1,1,0
 "08-1936","tt0026942","Roberta",NA,7,3593,1,1,0
 "08-1936","tt0026955","Ruggles of Red Gap",NA,7.6,4382,1,1,0
@@ -239,7 +239,7 @@
 "08-1936","tt0027212","Who Killed Cock Robin?",6,6.9,852,1,1,0
 "09-1937","tt0026880","Popular Science",NA,4.7,15,1,1,0
 "09-1937","tt0027075","A Tale of Two Cities",NA,7.8,6159,2,2,0
-"09-1937","tt0027260","After the Thin Man",NA,7.6,11840,1,1,0
+"09-1937","tt0027260","After the Thin Man",NA,7.6,11839,1,1,0
 "09-1937","tt0027300","Anthony Adverse",NA,6.3,1962,7,3,4
 "09-1937","tt0027331","Banjo on My Knee",NA,6.1,651,1,1,0
 "09-1937","tt0027385","Bored of Education",5,6.9,352,1,0,1
@@ -265,7 +265,7 @@
 "09-1937","tt0027902","Lloyd's of London",NA,6.9,1184,2,2,0
 "09-1937","tt0027930","The Magnificent Brute",NA,5.8,68,1,1,0
 "09-1937","tt0027988","Moscow Moods",NA,7.5,14,1,1,0
-"09-1937","tt0027996","Mr. Deeds Goes to Town",NA,7.8,22771,5,4,1
+"09-1937","tt0027996","Mr. Deeds Goes to Town",NA,7.8,22770,5,4,1
 "09-1937","tt0028010","My Man Godfrey",8,7.9,25852,6,6,0
 "09-1937","tt0028057","The Old Mill Pond",2,5.6,318,1,1,0
 "09-1937","tt0028063","One in a Million",NA,6,325,1,1,0
@@ -282,7 +282,7 @@
 "09-1937","tt0028352","The Texas Rangers",NA,6.6,818,1,1,0
 "09-1937","tt0028354","That Girl from Paris",NA,5.7,368,1,1,0
 "09-1937","tt0028355","Theodora Goes Wild",NA,7.1,2853,2,2,0
-"09-1937","tt0028356","These Three",NA,7.4,2956,1,1,0
+"09-1937","tt0028356","These Three",NA,7.4,2955,1,1,0
 "09-1937","tt0028373","Three Smart Girls",NA,6.6,1487,3,3,0
 "09-1937","tt0028401","The Trail of the Lonesome Pine",NA,6.8,1337,1,1,0
 "09-1937","tt0028455","Valiant Is the Word for Carrie",NA,6.3,224,1,1,0
@@ -406,7 +406,7 @@
 "12-1940","tt0031066","Babes in Arms",3,6.3,2805,2,2,0
 "12-1940","tt0031067","Bachelor Mother",8,7.5,4422,1,1,0
 "12-1940","tt0031074","Balalaika",NA,6.2,349,1,1,0
-"12-1940","tt0031088","Beau Geste",NA,7.5,6424,2,2,0
+"12-1940","tt0031088","Beau Geste",NA,7.5,6423,2,2,0
 "12-1940","tt0031128","Busy Little Bears",NA,6.5,22,1,0,1
 "12-1940","tt0031137","Captain Fury",NA,6.1,314,1,1,0
 "12-1940","tt0031210","Dark Victory",8,7.4,11977,3,3,0
@@ -433,7 +433,7 @@
 "12-1940","tt0031725","Ninotchka",6,7.8,22326,4,4,0
 "12-1940","tt0031737","Nurse Edith Cavell",NA,6.5,388,1,1,0
 "12-1940","tt0031742","Of Mice and Men",7,7.8,6620,4,4,0
-"12-1940","tt0031762","Only Angels Have Wings",NA,7.6,15237,1,1,0
+"12-1940","tt0031762","Only Angels Have Wings",NA,7.6,15236,1,1,0
 "12-1940","tt0031790","Peace on Earth",10,7.5,1662,1,1,0
 "12-1940","tt0031803","The Pointer",6,6.7,658,1,1,0
 "12-1940","tt0031826","The Private Lives of Elizabeth and Essex",NA,7,6070,5,5,0
@@ -461,12 +461,12 @@
 "13-1941","tt0032220","Arise, My Love",NA,6.8,993,4,3,1
 "13-1941","tt0032221","Arizona",NA,6.8,1425,2,2,0
 "13-1941","tt0032246","Behind the News",NA,5.3,80,1,1,0
-"13-1941","tt0032256","Bitter Sweet",NA,5.8,539,2,2,0
+"13-1941","tt0032256","Bitter Sweet",NA,5.8,538,2,2,0
 "13-1941","tt0032264","The Blue Bird",NA,6.2,1923,2,2,0
-"13-1941","tt0032273","Boom Town",NA,7,3710,2,2,0
+"13-1941","tt0032273","Boom Town",NA,7,3709,2,2,0
 "13-1941","tt0032276","The Boys from Syracuse",NA,5.9,147,2,2,0
 "13-1941","tt0032304","Captain Caution",NA,5.4,342,1,1,0
-"13-1941","tt0032349","Comrade X",NA,6.5,1739,1,1,0
+"13-1941","tt0032349","Comrade X",NA,6.5,1738,1,1,0
 "13-1941","tt0032383","Dark Command",NA,6.7,2946,2,2,0
 "13-1941","tt0032410","Down Argentine Way",NA,6.4,1332,3,3,0
 "13-1941","tt0032412","Dr. Cyclops",NA,6.4,2819,1,1,0
@@ -504,7 +504,7 @@
 "13-1941","tt0032953","Puss Gets the Boot",NA,7.6,2321,1,1,0
 "13-1941","tt0032960","Quicker'n a Wink",NA,7.1,367,1,0,1
 "13-1941","tt0032976","Rebecca",9,8.1,143774,11,9,2
-"13-1941","tt0032986","Rhythm on the River",NA,6.8,403,1,1,0
+"13-1941","tt0032986","Rhythm on the River",NA,6.8,402,1,1,0
 "13-1941","tt0033028","The Sea Hawk",NA,7.6,10525,4,4,0
 "13-1941","tt0033029","Second Chorus",NA,5.7,1691,2,2,0
 "13-1941","tt0033037","Service with the Colors",2,5.2,195,1,1,0
@@ -570,7 +570,7 @@
 "14-1942","tt0033749","Ice-Capades",NA,5.4,73,1,1,0
 "14-1942","tt0033787","King of the Zombies",NA,5.2,2445,1,1,0
 "14-1942","tt0033788","Kings of the Turf",NA,5.3,195,1,1,0
-"14-1942","tt0033802","Ladies in Retirement",NA,7.1,1689,2,2,0
+"14-1942","tt0033802","Ladies in Retirement",NA,7.1,1688,2,2,0
 "14-1942","tt0033803","Lady Be Good",NA,6.4,1114,1,0,1
 "14-1942","tt0033804","The Lady Eve",6,7.7,22889,1,1,0
 "14-1942","tt0033814","Las Vegas Nights",NA,5.3,155,1,1,0
@@ -595,7 +595,7 @@
 "14-1942","tt0034106","Ridin' on a Rainbow",NA,5.4,168,1,1,0
 "14-1942","tt0034127","The Rookie Bear",NA,6.2,243,1,1,0
 "14-1942","tt0034143","Sagebrush and Silver",NA,NA,NA,1,1,0
-"14-1942","tt0034162","The Sea Wolf",NA,7.5,4318,1,1,0
+"14-1942","tt0034162","The Sea Wolf",NA,7.5,4317,1,1,0
 "14-1942","tt0034167","Sergeant York",6,7.7,19428,11,9,2
 "14-1942","tt0034193","Sis Hopkins",NA,6,149,1,1,0
 "14-1942","tt0034198","Skylark",NA,6.2,612,1,1,0
@@ -611,7 +611,7 @@
 "14-1942","tt0034263","The Tanks Are Coming",NA,5.6,275,1,1,0
 "14-1942","tt0034264","Tanks a Million",NA,5.9,289,1,1,0
 "14-1942","tt0034272","That Hamilton Woman",6,7.2,4942,4,3,1
-"14-1942","tt0034274","That Uncertain Feeling",NA,6.6,2913,1,1,0
+"14-1942","tt0034274","That Uncertain Feeling",NA,6.6,2912,1,1,0
 "14-1942","tt0034285","This Woman Is Mine",NA,5.5,136,1,1,0
 "14-1942","tt0034299","Tom, Dick and Harry",NA,6.4,1172,1,1,0
 "14-1942","tt0034303","Topper Returns",NA,6.8,3307,2,2,0
@@ -625,7 +625,7 @@
 "15-1943","tt0015864","The Gold Rush",9,8.1,116383,2,2,0
 "15-1943","tt0033490","The Corsican Brothers",NA,6.5,744,1,1,0
 "15-1943","tt0033627","49th Parallel",7,7.3,7376,3,2,1
-"15-1943","tt0033704","Hellzapoppin'",NA,7.4,3396,1,1,0
+"15-1943","tt0033704","Hellzapoppin'",NA,7.4,3395,1,1,0
 "15-1943","tt0033766","It Started with Eve",NA,7.6,1767,1,1,0
 "15-1943","tt0033774","Johnny Eager",NA,7,3367,1,0,1
 "15-1943","tt0034175","The Shanghai Gesture",NA,6.6,2912,2,2,0
@@ -669,14 +669,14 @@
 "15-1943","tt0034978","Listen to Britain",5,6.6,1825,1,1,0
 "15-1943","tt0034979","Little Belgium",4,5.2,38,1,1,0
 "15-1943","tt0034981","Little Isles of Freedom",NA,7,12,1,1,0
-"15-1943","tt0035015","The Magnificent Ambersons",NA,7.6,26137,4,4,0
+"15-1943","tt0035015","The Magnificent Ambersons",NA,7.6,26135,4,4,0
 "15-1943","tt0035041","Marines in the Making",5,5.7,223,1,1,0
 "15-1943","tt0035048","The Mayor of 44th Street",NA,5.6,171,1,1,0
 "15-1943","tt0035082","Moontide",NA,6.8,2142,1,1,0
 "15-1943","tt0035085","Moscow Strikes Back",NA,6.7,281,1,0,1
 "15-1943","tt0035088","Mr. Blabbermouth!",NA,5.7,300,1,1,0
 "15-1943","tt0035091","Mister Gardenia Jones",NA,4.6,105,1,1,0
-"15-1943","tt0035093","Mrs. Miniver",NA,7.6,19041,11,6,5
+"15-1943","tt0035093","Mrs. Miniver",NA,7.6,19039,11,6,5
 "15-1943","tt0035103","My Gal Sal",NA,6.2,856,2,1,1
 "15-1943","tt0035105","My Sister Eileen",NA,7,1686,1,1,0
 "15-1943","tt0035113","The Navy Comes Through",NA,6.1,391,1,1,0
@@ -703,7 +703,7 @@
 "15-1943","tt0035431","This Above All",NA,6.6,1354,4,3,1
 "15-1943","tt0035446","To Be or Not to Be",6,8.2,41356,1,1,0
 "15-1943","tt0035447","To the Shores of Tripoli",NA,5.9,953,1,1,0
-"15-1943","tt0035460","Tortilla Flat",NA,6.2,2014,1,1,0
+"15-1943","tt0035460","Tortilla Flat",NA,6.2,2013,1,1,0
 "15-1943","tt0035476","Tulips Shall Grow",8,6.8,586,1,1,0
 "15-1943","tt0035478","Twenty-One Miles",NA,4.4,18,1,1,0
 "15-1943","tt0035493","The United States Marine Band",6,5.8,118,1,1,0
@@ -728,7 +728,7 @@
 "16-1944","tt0035631","The Amazing Mrs. Holliday",NA,6.4,381,1,1,0
 "16-1944","tt0035634","Amphibious Fighters",NA,5.8,23,1,0,1
 "16-1944","tt0035662","Baptism of Fire",NA,5.3,54,1,1,0
-"16-1944","tt0035689","Bombardier",NA,6,884,1,1,0
+"16-1944","tt0035689","Bombardier",NA,6,883,1,1,0
 "16-1944","tt0035703","Cabin in the Sky",NA,7.1,3262,1,1,0
 "16-1944","tt0035724","Cavalcade of Dance",NA,6,150,1,1,0
 "16-1944","tt0035725","Champions Carry on",NA,NA,NA,1,1,0
@@ -741,7 +741,7 @@
 "16-1944","tt0035763","Crash Dive",NA,6.4,1699,1,0,1
 "16-1944","tt0035790","December 7th",NA,6.1,963,1,0,1
 "16-1944","tt0035796","Desert Victory",NA,6.3,361,1,0,1
-"16-1944","tt0035799","Destination Tokyo",NA,7.1,5610,1,1,0
+"16-1944","tt0035799","Destination Tokyo",NA,7.1,5609,1,1,0
 "16-1944","tt0035812","The Dizzy Acrobat",5,6,264,1,1,0
 "16-1944","tt0035860","The Fallen Sparrow",NA,6.6,1926,1,1,0
 "16-1944","tt0035884","Five Graves to Cairo",NA,7.3,6574,3,3,0
@@ -778,7 +778,7 @@
 "16-1944","tt0036301","Report from the Aleutians",NA,6.3,736,1,1,0
 "16-1944","tt0036313","Riding High",NA,4.9,136,1,1,0
 "16-1944","tt0036323","Sahara",NA,7.5,9458,3,3,0
-"16-1944","tt0036326","Saludos Amigos",NA,6,7597,3,3,0
+"16-1944","tt0036326","Saludos Amigos",NA,6,7595,3,3,0
 "16-1944","tt0036340","Seeing Hands",NA,6.7,172,1,1,0
 "16-1944","tt0036342","Shadow of a Doubt",7,7.8,69130,1,1,0
 "16-1944","tt0036363","The Sky's the Limit",NA,6.3,1170,2,2,0
@@ -795,7 +795,7 @@
 "16-1944","tt0036432","Thousands Cheer",NA,6.2,1182,3,3,0
 "16-1944","tt0036445","To the People of the United States",NA,5.1,64,1,1,0
 "16-1944","tt0036448","Tomorrow We Fly",NA,NA,NA,1,1,0
-"16-1944","tt0036497","Victory Through Air Power",NA,6.5,1139,1,1,0
+"16-1944","tt0036497","Victory Through Air Power",NA,6.5,1138,1,1,0
 "16-1944","tt0036512","War Department Report",NA,6.1,41,1,1,0
 "16-1944","tt0036515","Watch on the Rhine",NA,7.1,4802,4,3,1
 "16-1944","tt0036544","Women at War",NA,6.6,68,1,1,0
@@ -824,7 +824,7 @@
 "17-1945","tt0036764","Dog, Cat, and Canary",5,5.6,133,1,1,0
 "17-1945","tt0036775","Double Indemnity",9,8.3,164129,7,7,0
 "17-1945","tt0036777","Dragon Seed",NA,5.9,1312,2,2,0
-"17-1945","tt0036823","The Fighting Lady",NA,7.1,589,1,0,1
+"17-1945","tt0036823","The Fighting Lady",NA,7.1,588,1,0,1
 "17-1945","tt0036824","The Fighting Seabees",NA,6.4,3859,1,1,0
 "17-1945","tt0036829","Fish Fry",4,5.8,156,1,1,0
 "17-1945","tt0036832","Follow the Boys",NA,5.8,495,1,1,0
@@ -846,7 +846,7 @@
 "17-1945","tt0037000","Lady in the Dark",NA,5.9,550,3,3,0
 "17-1945","tt0037002","Lady, Let's Dance",NA,5.6,62,2,2,0
 "17-1945","tt0037008","Laura",8,7.9,50012,5,4,1
-"17-1945","tt0037017","Lifeboat",NA,7.6,30540,3,3,0
+"17-1945","tt0037017","Lifeboat",NA,7.6,30539,3,3,0
 "17-1945","tt0037039","Main Street Today",NA,6,149,1,1,0
 "17-1945","tt0037059","Meet Me in St. Louis",9,7.5,26273,4,4,0
 "17-1945","tt0037070","The Merry Monahans",NA,7,106,1,1,0
@@ -889,7 +889,7 @@
 "17-1945","tt0037470","The Woman of the Town",NA,6,231,1,1,0
 "18-1946","tt0036636","Belle of the Yukon",NA,5.3,453,2,2,0
 "18-1946","tt0036692","Can't Help Singing",NA,6.3,641,2,2,0
-"18-1946","tt0036807","Experiment Perilous",NA,6.3,1996,1,1,0
+"18-1946","tt0036807","Experiment Perilous",NA,6.3,1995,1,1,0
 "18-1946","tt0036840","Frenchman's Creek",NA,6.1,795,1,0,1
 "18-1946","tt0036886","Guest in the House",NA,6.2,978,1,1,0
 "18-1946","tt0036912","Here Come the Waves",NA,6.1,468,1,1,0
@@ -902,7 +902,7 @@
 "18-1946","tt0037510","Along the Rainbow Trail",NA,6.4,12,1,1,0
 "18-1946","tt0037514","Anchors Aweigh",6,7,9238,5,4,1
 "18-1946","tt0037536","The Bells of St. Mary's",6,7.2,8899,8,7,1
-"18-1946","tt0037547","Blood on the Sun",NA,6,2181,1,0,1
+"18-1946","tt0037547","Blood on the Sun",NA,6,2180,1,0,1
 "18-1946","tt0037557","Brewster's Millions",NA,6.6,1441,1,1,0
 "18-1946","tt0037575","Captain Eddie",NA,5.9,163,1,1,0
 "18-1946","tt0037576","Captain Kidd",NA,6.3,1977,1,1,0
@@ -947,7 +947,7 @@
 "18-1946","tt0038059","Screen Snapshots Series 25, No. 1: 25th Anniversary",NA,6.1,31,1,1,0
 "18-1946","tt0038091","Sing Your Way Home",NA,4.9,240,1,1,0
 "18-1946","tt0038104","A Song to Remember",NA,6.6,1584,6,6,0
-"18-1946","tt0038107","The Southerner",NA,7.1,3748,3,3,0
+"18-1946","tt0038107","The Southerner",NA,7.1,3747,3,3,0
 "18-1946","tt0038108","The Spanish Main",NA,6.3,1845,1,1,0
 "18-1946","tt0038109","Spellbound",6,7.5,51142,6,5,1
 "18-1946","tt0038114","Stairway to Light",NA,6.2,249,1,0,1
@@ -959,7 +959,7 @@
 "18-1946","tt0038160","They Were Expendable",NA,7.2,9067,2,2,0
 "18-1946","tt0038162","This Love of Ours",NA,5.7,150,1,1,0
 "18-1946","tt0038165","A Thousand and One Nights",NA,6.1,678,2,2,0
-"18-1946","tt0038166","The Three Caballeros",NA,6.3,15165,2,2,0
+"18-1946","tt0038166","The Three Caballeros",NA,6.3,15164,2,2,0
 "18-1946","tt0038175","To the Shores of Iwo Jima",7,6.5,164,1,1,0
 "18-1946","tt0038178","Tonight and Every Night",NA,6.2,1063,2,2,0
 "18-1946","tt0038190","A Tree Grows in Brooklyn",NA,8,8242,2,1,1
@@ -984,14 +984,14 @@
 "19-1947","tt0038312","Atomic Power",NA,5.3,38,1,1,0
 "19-1947","tt0038363","Blithe Spirit",6,7,7673,1,0,1
 "19-1947","tt0038369","The Blue Dahlia",NA,7.1,9406,1,1,0
-"19-1947","tt0038370","Blue Skies",NA,6.4,1528,2,2,0
+"19-1947","tt0038370","Blue Skies",NA,6.4,1527,2,2,0
 "19-1947","tt0038379","A Boy and His Dog",NA,6.1,241,1,0,1
 "19-1947","tt0038390","Caesar and Cleopatra",NA,6.2,3068,1,1,0
 "19-1947","tt0038395","Canyon Passage",NA,6.9,2590,1,1,0
 "19-1947","tt0038406","Centennial Summer",NA,6.1,414,2,2,0
 "19-1947","tt0038413","Musical Moments from Chopin",5,6.5,230,1,1,0
 "19-1947","tt0038421","College Queen",NA,NA,NA,1,1,0
-"19-1947","tt0038455","The Dark Mirror",NA,7.1,5510,1,1,0
+"19-1947","tt0038455","The Dark Mirror",NA,7.1,5509,1,1,0
 "19-1947","tt0038483","Dive-Hi Champs",NA,5.1,21,1,1,0
 "19-1947","tt0038499","Duel in the Sun",NA,6.7,9288,2,2,0
 "19-1947","tt0038515","Facing Your Danger",NA,6.3,233,1,0,1
@@ -1028,7 +1028,7 @@
 "19-1947","tt0039251","The Cat Concerto",9,8.2,4709,1,0,1
 "20-1948","tt0038574","Great Expectations",9,7.8,25825,5,3,2
 "20-1948","tt0038913","Shoeshine",NA,8,7929,1,1,0
-"20-1948","tt0038969","Song of the South",NA,6.9,14919,2,1,1
+"20-1948","tt0038969","Song of the South",NA,6.9,14918,2,1,1
 "20-1948","tt0039038","The Time, the Place and the Girl",NA,5.9,348,1,1,0
 "20-1948","tt0039169","The Bachelor and the Bobby-Soxer",NA,7.2,9396,1,0,1
 "20-1948","tt0039190","The Bishop's Wife",8,7.6,19616,5,4,1
@@ -1138,7 +1138,7 @@
 "21-1949","tt0040981","You Can't Win",NA,5.6,203,1,1,0
 "21-1949","tt0041592","The Little Orphan",7,7.7,1921,1,0,1
 "21-1949","tt0041661","Mouse Wreckers",6,7.5,800,1,1,0
-"22-1950","tt0038823","Paisan",NA,7.6,9305,1,1,0
+"22-1950","tt0038823","Paisan",NA,7.6,9303,1,1,0
 "22-1950","tt0040076","Adventures of Don Juan",NA,7,3440,2,1,1
 "22-1950","tt0040338","The Fallen Idol",NA,7.6,9422,2,2,0
 "22-1950","tt0040522","Bicycle Thieves",9,8.3,171344,1,1,0
@@ -1157,7 +1157,7 @@
 "22-1950","tt0041242","Chase of Death",NA,NA,NA,1,1,0
 "22-1950","tt0041255","Once More, My Darling",NA,6.7,228,1,1,0
 "22-1950","tt0041257","Come to the Stable",NA,7.1,1528,6,6,0
-"22-1950","tt0041283","Daybreak in Udi",NA,5.1,86,1,0,1
+"22-1950","tt0041283","Daybreak in Udi",NA,5.1,85,1,0,1
 "22-1950","tt0041329","Edward, My Son",NA,6.5,1387,1,1,0
 "22-1950","tt0041380","For Scent-imental Reasons",6,7.2,1900,1,0,1
 "22-1950","tt0041425","The Grass Is Always Greener",NA,6.3,74,1,1,0
@@ -1171,38 +1171,38 @@
 "22-1950","tt0041587","A Letter to Three Wives",8,7.7,10426,3,1,2
 "22-1950","tt0041594","Little Women",NA,7.2,8020,2,1,1
 "22-1950","tt0041599","Look for the Silver Lining",NA,6.3,422,1,1,0
-"22-1950","tt0041615","Madame Bovary",NA,7,2793,1,1,0
+"22-1950","tt0041615","Madame Bovary",NA,7,2792,1,1,0
 "22-1950","tt0041618","The Magic Fluke",5,6.4,170,1,1,0
 "22-1950","tt0041650","Mighty Joe Young",NA,7,5599,1,0,1
 "22-1950","tt0041659","Mother Is a Freshman",NA,6.3,444,1,1,0
 "22-1950","tt0041672","My Foolish Heart",NA,6.8,1250,2,2,0
 "22-1950","tt0041687","Neptune's Daughter",NA,6.3,1690,1,0,1
 "22-1950","tt0041716","On the Town",NA,7.3,18433,1,0,1
-"22-1950","tt0041737","Passport to Pimlico",NA,7.1,5118,1,1,0
+"22-1950","tt0041737","Passport to Pimlico",NA,7.1,5117,1,1,0
 "22-1950","tt0041746","Pinky",NA,7.2,3363,2,2,0
 "22-1950","tt0041767","Prince of Foxes",NA,6.9,1921,2,2,0
 "22-1950","tt0041813","The Rising Tide",3,5.7,41,1,1,0
 "22-1950","tt0041817","Roller Derby Girl",NA,5.8,45,1,1,0
 "22-1950","tt0041840","Sand",NA,5.8,109,1,1,0
 "22-1950","tt0041841","Sands of Iwo Jima",NA,7,11156,4,4,0
-"22-1950","tt0041866","She Wore a Yellow Ribbon",NA,7.2,18883,1,0,1
+"22-1950","tt0041866","She Wore a Yellow Ribbon",NA,7.2,18882,1,0,1
 "22-1950","tt0041889","Snow Carnival",NA,6.1,32,1,1,0
-"22-1950","tt0041890","So Dear to My Heart",NA,6.7,1609,1,1,0
+"22-1950","tt0041890","So Dear to My Heart",NA,6.7,1608,1,1,0
 "22-1950","tt0041891","So Much for So Little",6,6.1,460,1,0,1
 "22-1950","tt0041892","So You Think You're Not Guilty",NA,6,434,1,1,0
 "22-1950","tt0041912","Spills and Chills",NA,6.8,42,1,1,0
 "22-1950","tt0041928","The Stratton Story",NA,7.1,3274,1,0,1
 "22-1950","tt0041978","Toy Tinkers",8,7.5,1415,1,1,0
 "22-1950","tt0041994","Tulsa",NA,6.1,1321,1,1,0
-"22-1950","tt0041996","Twelve O'Clock High",NA,7.7,15485,4,2,2
+"22-1950","tt0041996","Twelve O'Clock High",NA,7.7,15484,4,2,2
 "22-1950","tt0042034","Water Trix",NA,6.1,146,1,1,0
 "22-1950","tt0042041","White Heat",9,8.1,34996,1,1,0
 "22-1950","tt0042046","The Window",7,7.4,4699,1,1,0
 "22-1950","tt0042304","Canary Row",7,7.1,1238,1,1,0
-"23-1951","tt0040737","Bitter Rice",NA,7.6,4716,1,1,0
+"23-1951","tt0040737","Bitter Rice",NA,7.6,4715,1,1,0
 "23-1951","tt0041090","Adam's Rib",6,7.4,22535,1,1,0
 "23-1951","tt0041788","The Red Danube",NA,6.5,699,1,1,0
-"23-1951","tt0041838","Samson and Delilah",NA,6.8,8677,5,3,2
+"23-1951","tt0041838","Samson and Delilah",NA,6.8,8676,5,3,2
 "23-1951","tt0041955","That Forsyte Woman",NA,6.6,1475,1,1,0
 "23-1951","tt0041959","The Third Man",8,8.1,178561,3,2,1
 "23-1951","tt0042192","All About Eve",9,8.2,136409,12,6,6
@@ -1211,7 +1211,7 @@
 "23-1951","tt0042256","The Black Rose",NA,6.2,2418,1,1,0
 "23-1951","tt0042259","Blaze Busters",NA,6,37,1,1,0
 "23-1951","tt0042276","Born Yesterday",9,7.5,12093,5,4,1
-"23-1951","tt0042286","Broken Arrow",NA,7.2,9443,3,3,0
+"23-1951","tt0042286","Broken Arrow",NA,7.2,9442,3,3,0
 "23-1951","tt0042296","Caged",9,7.6,4461,3,3,0
 "23-1951","tt0042310","Captain Carey, U.S.A.",NA,6.5,623,1,0,1
 "23-1951","tt0042332","Cinderella",5,7.3,170383,3,3,0
@@ -1223,7 +1223,7 @@
 "23-1951","tt0042490","The Furies",NA,7.2,3718,1,1,0
 "23-1951","tt0042518","Grandad of Races",NA,5.8,157,1,0,1
 "23-1951","tt0042520","Grandma Moses",NA,6.2,45,1,1,0
-"23-1951","tt0042531","The Gunfighter",NA,7.7,12187,1,1,0
+"23-1951","tt0042531","The Gunfighter",NA,7.7,12186,1,1,0
 "23-1951","tt0042546","Harvey",9,7.9,57498,2,1,1
 "23-1951","tt0042589","I'll Get By",NA,5.9,207,1,1,0
 "23-1951","tt0042592","Beaver Valley",NA,7,360,1,0,1
@@ -1236,7 +1236,7 @@
 "23-1951","tt0042768","My Country 'Tis of Thee",4,5.1,164,1,1,0
 "23-1951","tt0042771","Mystery Street",NA,7.2,3329,1,1,0
 "23-1951","tt0042790","No Sad Songs for Me",NA,6.7,495,1,1,0
-"23-1951","tt0042792","No Way Out",NA,7.4,6023,1,1,0
+"23-1951","tt0042792","No Way Out",NA,7.4,6022,1,1,0
 "23-1951","tt0042819","Our Very Own",NA,6.7,639,1,1,0
 "23-1951","tt0042832","Panic in the Streets",NA,7.2,8594,1,0,1
 "23-1951","tt0042970","Singing Guns",NA,6.3,442,1,1,0
@@ -1279,7 +1279,7 @@
 "24-1952","tt0043592","Golden Girl",NA,5.9,302,1,1,0
 "24-1952","tt0043599","The Great Caruso",NA,6.5,1416,3,2,1
 "24-1952","tt0043633","Here Comes the Groom",NA,6.3,1176,2,1,1
-"24-1952","tt0043660","The House on Telegraph Hill",NA,6.9,3599,1,1,0
+"24-1952","tt0043660","The House on Telegraph Hill",NA,6.9,3598,1,1,0
 "24-1952","tt0043664","I Want You",NA,6.5,594,1,1,0
 "24-1952","tt0043665","I Was a Communist for the F.B.I.",NA,6.1,935,1,1,0
 "24-1952","tt0043709","Kind Lady",NA,7.1,1103,1,1,0
@@ -1311,7 +1311,7 @@
 "24-1952","tt0044821","Lambert the Sheepish Lion",8,7.6,2522,1,1,0
 "25-1953","tt0042876","Rashomon",7,8.2,176592,1,1,0
 "25-1953","tt0043794","The Medium",NA,6.2,192,1,1,0
-"25-1953","tt0044009","The Sea Around Us",NA,6.1,353,1,0,1
+"25-1953","tt0044009","The Sea Around Us",NA,6.1,352,1,0,1
 "25-1953","tt0044314","5 Fingers",NA,7.6,5349,2,2,0
 "25-1953","tt0044331","Affair in Trinidad",NA,6.6,2956,1,1,0
 "25-1953","tt0044381","Athletes of the Saddle",NA,NA,NA,1,1,0
@@ -1329,7 +1329,7 @@
 "25-1953","tt0044621","Flat Top",NA,5.9,531,1,1,0
 "25-1953","tt0044672","The Greatest Show on Earth",NA,6.6,15651,5,3,2
 "25-1953","tt0044685","Hans Christian Andersen",NA,6.8,4111,6,6,0
-"25-1953","tt0044706","High Noon",NA,8,108526,7,3,4
+"25-1953","tt0044706","High Noon",NA,8,108523,7,3,4
 "25-1953","tt0044713","The Hoaxters",NA,5.5,199,1,1,0
 "25-1953","tt0044760","Ivanhoe",NA,6.7,9993,3,3,0
 "25-1953","tt0044765","The Jazz Singer",NA,5.7,400,1,1,0
@@ -1343,7 +1343,7 @@
 "25-1953","tt0044900","The Merry Widow",NA,5.7,657,2,2,0
 "25-1953","tt0044903","Million Dollar Mermaid",NA,6.5,1754,1,1,0
 "25-1953","tt0044905","The Miracle of Our Lady of Fatima",NA,6.7,1397,1,1,0
-"25-1953","tt0044926","Moulin Rouge",NA,7,6269,7,5,2
+"25-1953","tt0044926","Moulin Rouge",NA,7,6266,7,5,2
 "25-1953","tt0044937","My Cousin Rachel",NA,7,3290,4,4,0
 "25-1953","tt0044941","My Son John",NA,5.5,685,1,1,0
 "25-1953","tt0044954","The Narrow Margin",7,7.7,8344,1,1,0
@@ -1351,15 +1351,15 @@
 "25-1953","tt0044958","Neighbours",9,7.9,3782,2,1,1
 "25-1953","tt0045012","Pat and Mike",NA,6.9,6046,1,1,0
 "25-1953","tt0045033","Pink and Blue Blues",4,5.8,133,1,1,0
-"25-1953","tt0045039","Plymouth Adventure",NA,6.2,1608,1,0,1
+"25-1953","tt0045039","Plymouth Adventure",NA,6.2,1607,1,0,1
 "25-1953","tt0045049","The Pride of St. Louis",NA,6.5,765,1,1,0
-"25-1953","tt0045056","The Promoter",NA,7,1723,1,1,0
+"25-1953","tt0045056","The Promoter",NA,7,1721,1,1,0
 "25-1953","tt0045061","The Quiet Man",8,7.7,41284,7,5,2
 "25-1953","tt0045100","The Romance of Transportation in Canada",3,6.3,157,1,1,0
 "25-1953","tt0045108","Royal Scotland",NA,5.7,32,1,1,0
 "25-1953","tt0045152","Singin' in the Rain",6,8.3,254713,2,2,0
 "25-1953","tt0045161","The Sniper",7,7.1,3619,1,1,0
-"25-1953","tt0045162","The Snows of Kilimanjaro",NA,6.1,5716,2,2,0
+"25-1953","tt0045162","The Snows of Kilimanjaro",NA,6.1,5715,2,2,0
 "25-1953","tt0045177","Son of Paleface",NA,6.8,2454,1,1,0
 "25-1953","tt0045186","The Star",NA,7,4075,1,1,0
 "25-1953","tt0045205","Sudden Fear",NA,7.5,7072,4,4,0
@@ -1396,14 +1396,14 @@
 "26-1954","tt0045706","Dream Wife",NA,5.9,2151,1,1,0
 "26-1954","tt0045793","From Here to Eternity",8,7.6,49893,12,4,8
 "26-1954","tt0045858","Herring Hunt",4,5.2,45,1,1,0
-"26-1954","tt0045883","Hondo",NA,7,12081,2,2,0
+"26-1954","tt0045883","Hondo",NA,7,12080,2,2,0
 "26-1954","tt0045891","How to Marry a Millionaire",NA,6.8,24238,1,1,0
 "26-1954","tt0045940","Joy of Living",NA,NA,NA,1,1,0
 "26-1954","tt0045943","Julius Caesar",NA,7.2,12489,5,4,1
 "26-1954","tt0045963","Kiss Me Kate",NA,7,6677,1,1,0
 "26-1954","tt0045966","Knights of the Round Table",NA,6.2,3966,2,2,0
 "26-1954","tt0046000","Lili",NA,7.3,3844,6,5,1
-"26-1954","tt0046004","Little Fugitive",NA,7.5,2973,1,1,0
+"26-1954","tt0046004","Little Fugitive",NA,7.5,2972,1,1,0
 "26-1954","tt0046007","The Living City",5,5.4,37,1,1,0
 "26-1954","tt0046008","The Living Desert",NA,7.4,1666,1,0,1
 "26-1954","tt0046051","Martin Luther",NA,6.8,644,2,2,0
@@ -1438,9 +1438,9 @@
 "26-1954","tt0047001","From A to Z-Z-Z-Z",7,7.6,602,1,1,0
 "27-1955","tt0043686","Forbidden Games",NA,8,12877,1,1,0
 "27-1955","tt0044386","Robinson Crusoe",NA,6.7,4401,1,1,0
-"27-1955","tt0045034","Le Plaisir",NA,7.6,5157,1,1,0
+"27-1955","tt0045034","Le Plaisir",NA,7.6,5156,1,1,0
 "27-1955","tt0045808","Genevieve",NA,7.1,3355,2,2,0
-"27-1955","tt0045935","Gate of Hell",NA,7.1,4132,1,0,1
+"27-1955","tt0045935","Gate of Hell",NA,7.1,4131,1,0,1
 "27-1955","tt0046022","The Earrings of Madame De...",8,7.9,10828,1,1,0
 "27-1955","tt0046159","Bread, Love and Dreams",NA,6.9,2105,1,1,0
 "27-1955","tt0046366","Indiscretion of an American Wife",NA,6.2,3095,1,1,0
@@ -1449,9 +1449,9 @@
 "27-1955","tt0046760","Beauty and the Bull",NA,5.3,129,1,1,0
 "27-1955","tt0046807","Brigadoon",6,6.8,9075,3,3,0
 "27-1955","tt0046808","Broken Lance",NA,6.9,4200,2,1,1
-"27-1955","tt0046816","The Caine Mutiny",NA,7.7,29259,7,7,0
-"27-1955","tt0046828","Carmen Jones",NA,6.8,5767,2,2,0
-"27-1955","tt0046874","The Country Girl",NA,7.2,6456,7,5,2
+"27-1955","tt0046816","The Caine Mutiny",NA,7.7,29258,7,7,0
+"27-1955","tt0046828","Carmen Jones",NA,6.8,5766,2,2,0
+"27-1955","tt0046874","The Country Girl",NA,7.2,6455,7,5,2
 "27-1955","tt0046903","Désirée",NA,6.3,3298,2,2,0
 "27-1955","tt0046949","The Egyptian",NA,6.5,4350,1,1,0
 "27-1955","tt0046963","Executive Suite",NA,7.4,4492,4,4,0
@@ -1510,8 +1510,8 @@
 "28-1956","tt0048131","Good Will to Men",7,7,466,1,1,0
 "28-1956","tt0048140","Guys and Dolls",7,7.1,18757,4,4,0
 "28-1956","tt0048151","Crèvecoeur",NA,6.4,26,1,1,0
-"28-1956","tt0048157","The Unconquered",NA,7.2,143,1,0,1
-"28-1956","tt0048191","I'll Cry Tomorrow",NA,7.2,2406,4,3,1
+"28-1956","tt0048157","The Unconquered",NA,7.1,142,1,0,1
+"28-1956","tt0048191","I'll Cry Tomorrow",NA,7.2,2405,4,3,1
 "28-1956","tt0048210","Interrupted Melody",NA,6.7,1165,3,2,1
 "28-1956","tt0048216","It's Always Fair Weather",NA,7,3811,2,2,0
 "28-1956","tt0048292","The Legend of Rockabye Point",5,7.2,413,1,1,0
@@ -1523,8 +1523,8 @@
 "28-1956","tt0048369","Men Against the Arctic",7,5.7,78,1,0,1
 "28-1956","tt0048380","Mister Roberts",NA,7.6,17937,3,2,1
 "28-1956","tt0048425","No Hunting",5,6.9,458,1,1,0
-"28-1956","tt0048432","Not as a Stranger",NA,6.7,2399,1,1,0
-"28-1956","tt0048445","Oklahoma!",NA,7,13657,4,2,2
+"28-1956","tt0048432","Not as a Stranger",NA,6.7,2398,1,1,0
+"28-1956","tt0048445","Oklahoma!",NA,7,13656,4,2,2
 "28-1956","tt0048447","On the Twelfth Day...",6,7.2,132,1,1,0
 "28-1956","tt0048484","Pete Kelly's Blues",NA,6.3,1477,1,1,0
 "28-1956","tt0048491","Picnic",NA,7,9617,6,4,2
@@ -1553,8 +1553,8 @@
 "29-1957","tt0048166","High Society",NA,6.1,381,1,1,0
 "29-1957","tt0048281","The Ladykillers",6,7.6,30810,1,1,0
 "29-1957","tt0048523","Qivitoq",NA,6.7,298,1,1,0
-"29-1957","tt0048947","Anastasia",NA,7,9075,2,1,1
-"29-1957","tt0048960","Around the World in 80 Days",NA,6.7,29087,8,3,5
+"29-1957","tt0048947","Anastasia",NA,7,9074,2,1,1
+"29-1957","tt0048960","Around the World in 80 Days",NA,6.7,29086,8,3,5
 "29-1957","tt0048973","Baby Doll",NA,7.3,8122,4,4,0
 "29-1957","tt0048977","The Bad Seed",7,7.4,15377,3,3,0
 "29-1957","tt0048980","The Red Balloon",8,8.1,19641,1,0,1
@@ -1570,7 +1570,7 @@
 "29-1957","tt0049102","Crashing the Water Barrier",NA,6,166,1,0,1
 "29-1957","tt0049124","The Dark Wave",NA,NA,NA,2,2,0
 "29-1957","tt0049170","The Eddy Duchin Story",NA,6.8,2116,4,4,0
-"29-1957","tt0049223","Forbidden Planet",NA,7.5,52092,1,1,0
+"29-1957","tt0049223","Forbidden Planet",NA,7.5,52088,1,1,0
 "29-1957","tt0049233","Friendly Persuasion",NA,7.3,7565,6,6,0
 "29-1957","tt0049258","Gerald McBoing! Boing! on Planet Moo",6,6,311,1,1,0
 "29-1957","tt0049259","Gervaise",NA,7.4,1615,1,1,0
@@ -1612,7 +1612,7 @@
 "30-1958","tt0050156","The Bachelor Party",NA,6.7,782,1,1,0
 "30-1958","tt0050188","Mother India",NA,7.8,9713,1,1,0
 "30-1958","tt0050194","Birds Anonymous",7,7.6,1524,1,0,1
-"30-1958","tt0050208","Boy on a Dolphin",NA,6.2,1845,1,1,0
+"30-1958","tt0050208","Boy on a Dolphin",NA,6.2,1844,1,1,0
 "30-1958","tt0050212","The Bridge on the River Kwai",7,8.1,229610,8,1,7
 "30-1958","tt0050255","City of Gold",5,7.1,318,1,1,0
 "30-1958","tt0050306","Designing Woman",6,6.7,5325,1,0,1
@@ -1620,9 +1620,9 @@
 "30-1958","tt0050379","A Farewell to Arms",NA,5.8,2846,1,1,0
 "30-1958","tt0050403","Foothold on Antarctica",6,6.1,26,1,1,0
 "30-1958","tt0050419","Funny Face",7,7,32219,4,4,0
-"30-1958","tt0050468","Gunfight at the O.K. Corral",NA,7.1,16887,2,2,0
+"30-1958","tt0050468","Gunfight at the O.K. Corral",NA,7.1,16886,2,2,0
 "30-1958","tt0050487","A Hatful of Rain",NA,7.2,1461,1,1,0
-"30-1958","tt0050490","Heaven Knows, Mr. Allison",NA,7.3,9308,2,2,0
+"30-1958","tt0050490","Heaven Knows, Mr. Allison",NA,7.3,9307,2,2,0
 "30-1958","tt0050534","A Chairy Tale",8,7.3,1162,1,1,0
 "30-1958","tt0050569","The Joker Is Wild",NA,7,1445,1,0,1
 "30-1958","tt0050631","Les Girls",NA,6.6,3013,3,2,1
@@ -1630,7 +1630,7 @@
 "30-1958","tt0050746","The Devil Strikes at Night",NA,7.2,1535,1,1,0
 "30-1958","tt0050762","Nine Lives",NA,7.2,1858,1,1,0
 "30-1958","tt0050783","Nights of Cabiria",8,8.1,51217,1,0,1
-"30-1958","tt0050800","On the Bowery",NA,7.4,1123,1,1,0
+"30-1958","tt0050800","On the Bowery",NA,7.4,1122,1,1,0
 "30-1958","tt0050802","One Droopy Knight",6,6.7,483,1,1,0
 "30-1958","tt0050815","Pal Joey",NA,6.6,5702,4,4,0
 "30-1958","tt0050837","Perri",NA,6.7,625,1,1,0
@@ -1655,8 +1655,8 @@
 "31-1959","tt0051339","Ama Girls",6,6.4,64,1,0,1
 "31-1959","tt0051366","Antarctic Crossing",NA,6.2,25,1,1,0
 "31-1959","tt0051383","Auntie Mame",7,7.9,12220,6,6,0
-"31-1959","tt0051406","Bell Book and Candle",NA,6.8,12458,2,2,0
-"31-1959","tt0051411","The Big Country",NA,7.9,20236,2,1,1
+"31-1959","tt0051406","Bell Book and Candle",NA,6.8,12457,2,2,0
+"31-1959","tt0051411","The Big Country",NA,7.9,20235,2,1,1
 "31-1959","tt0051427","The Bolshoi Ballet",NA,6.9,54,1,1,0
 "31-1959","tt0051435","The Brothers Karamazov",NA,6.7,3015,1,1,0
 "31-1959","tt0051436","The Buccaneer",NA,6.4,2699,1,1,0
@@ -1665,7 +1665,7 @@
 "31-1959","tt0051496","Cowboy",NA,6.7,3403,1,1,0
 "31-1959","tt0051516","Damn Yankees",NA,7,3333,1,1,0
 "31-1959","tt0051525","The Defiant Ones",9,7.6,17059,8,6,2
-"31-1959","tt0051534","Desire Under the Elms",NA,6.5,1422,1,1,0
+"31-1959","tt0051534","Desire Under the Elms",NA,6.5,1421,1,1,0
 "31-1959","tt0051578","Employees Only",NA,NA,NA,1,1,0
 "31-1959","tt0051658","Gigi",6,6.6,24035,9,0,9
 "31-1959","tt0051667","The Goddess",NA,6.6,1006,1,1,0
@@ -1697,7 +1697,7 @@
 "31-1959","tt0052267","T Is for Tumbleweed",NA,6.4,11,1,1,0
 "31-1959","tt0052278","Teacher's Pet",NA,7.1,4770,2,2,0
 "31-1959","tt0052296","A Time to Love and a Time to Die",NA,7.6,3539,1,1,0
-"31-1959","tt0052303","Torpedo Run",NA,6.4,2485,1,1,0
+"31-1959","tt0052303","Torpedo Run",NA,6.4,2484,1,1,0
 "31-1959","tt0052357","Vertigo",8,8.3,418751,2,2,0
 "31-1959","tt0052389","White Wilderness",NA,5.4,513,2,1,1
 "31-1959","tt0052415","The Young Lions",NA,7.1,8613,3,3,0
@@ -1722,8 +1722,8 @@
 "32-1960","tt0052861","The Great War",NA,8.1,4503,1,1,0
 "32-1960","tt0052876","The Hanging Tree",NA,7.1,4585,1,1,0
 "32-1960","tt0052896","A Hole in the Head",NA,6.2,2766,1,0,1
-"32-1960","tt0052918","Imitation of Life",NA,7.8,17711,1,1,0
-"32-1960","tt0052948","Journey to the Center of the Earth",NA,7,19046,3,3,0
+"32-1960","tt0052918","Imitation of Life",NA,7.8,17710,1,1,0
+"32-1960","tt0052948","Journey to the Center of the Earth",NA,7,19045,3,3,0
 "32-1960","tt0052990","The Last Angry Man",NA,6.9,995,2,2,0
 "32-1960","tt0053001","Li'l Abner",NA,6.7,1456,1,1,0
 "32-1960","tt0053003","Libel",NA,7.1,1522,1,1,0
@@ -1733,7 +1733,7 @@
 "32-1960","tt0053120","Noah's Ark",5,6.2,337,1,1,0
 "32-1960","tt0053125","North by Northwest",8,8.3,340145,3,3,0
 "32-1960","tt0053131","The Nun's Story",7,7.5,11482,8,8,0
-"32-1960","tt0053137","On the Beach",NA,7.1,14136,2,2,0
+"32-1960","tt0053137","On the Beach",NA,7.1,14133,2,2,0
 "32-1960","tt0053143","Operation Petticoat",NA,7.2,15467,1,1,0
 "32-1960","tt0053146","Black Orpheus",7,7.4,12011,1,0,1
 "32-1960","tt0053158","Boy of Two Worlds",NA,6.3,175,1,1,0
@@ -1748,14 +1748,14 @@
 "32-1960","tt0053282","Skyscraper",NA,7.2,238,1,1,0
 "32-1960","tt0053285","Sleeping Beauty",5,7.2,157604,1,1,0
 "32-1960","tt0053291","Some Like It Hot",8,8.2,278268,6,5,1
-"32-1960","tt0053318","Suddenly, Last Summer",NA,7.5,16826,2,2,0
+"32-1960","tt0053318","Suddenly, Last Summer",NA,7.5,16825,2,2,0
 "32-1960","tt0053425","The Violinist",4,5.9,112,1,1,0
 "32-1960","tt0053461","The Young Land",NA,5.4,335,1,1,0
 "32-1960","tt0053462","The Young Philadelphians",NA,7.4,4191,3,3,0
-"33-1961","tt0052893","Hiroshima mon amour",NA,7.8,34934,1,1,0
+"33-1961","tt0052893","Hiroshima mon amour",NA,7.8,34931,1,1,0
 "33-1961","tt0052961","Kapo",NA,7.6,2530,1,1,0
 "33-1961","tt0053580","The Alamo",NA,6.8,17106,7,6,1
-"33-1961","tt0053602","The Angry Silence",NA,7.2,1641,1,1,0
+"33-1961","tt0053602","The Angry Silence",NA,7.2,1640,1,1,0
 "33-1961","tt0053604","The Apartment",8,8.3,191436,10,5,5
 "33-1961","tt0053622","BUtterfield 8",7,6.3,7175,2,1,1
 "33-1961","tt0053645","Bells Are Ringing",NA,6.9,3699,1,1,0
@@ -1767,9 +1767,9 @@
 "33-1961","tt0053750","The Dark at the Top of the Stairs",NA,7.2,813,1,1,0
 "33-1961","tt0053753","Day of the Painter",NA,7.5,41,1,0,1
 "33-1961","tt0053764","The Ninth Circle",NA,7.6,554,1,1,0
-"33-1961","tt0053793","Elmer Gantry",NA,7.7,12472,5,2,3
+"33-1961","tt0053793","Elmer Gantry",NA,7.7,12471,5,2,3
 "33-1961","tt0053796","The Entertainer",7,7.1,3663,1,1,0
-"33-1961","tt0053804","Exodus",NA,6.7,10952,3,2,1
+"33-1961","tt0053804","Exodus",NA,6.7,10951,3,2,1
 "33-1961","tt0053810","The Facts of Life",NA,6.3,1673,5,4,1
 "33-1961","tt0053858","George Grosz' Interregnum",NA,7.5,16,1,1,0
 "33-1961","tt0053866","Giuseppina",7,7,109,1,0,1
@@ -1783,7 +1783,7 @@
 "33-1961","tt0054016","The Last Voyage",NA,6.7,2392,1,1,0
 "33-1961","tt0054022","Let's Make Love",NA,6.4,7889,1,1,0
 "33-1961","tt0054042","Macario",NA,8.3,4148,1,1,0
-"33-1961","tt0054047","The Magnificent Seven",NA,7.7,100340,1,1,0
+"33-1961","tt0054047","The Magnificent Seven",NA,7.7,100338,1,1,0
 "33-1961","tt0054084","Midnight Lace",NA,6.7,5851,1,1,0
 "33-1961","tt0054096","Mouse and Garden",6,6.9,565,1,1,0
 "33-1961","tt0054100","Munro",7,6.8,573,1,0,1
@@ -1799,7 +1799,7 @@
 "33-1961","tt0054326","Sons and Lovers",NA,7.1,1728,7,6,1
 "33-1961","tt0054331","Spartacus",8,7.9,140707,6,2,4
 "33-1961","tt0054335","A Sport Is Born",6,6.2,37,1,1,0
-"33-1961","tt0054353","The Sundowners",NA,7.1,4680,5,5,0
+"33-1961","tt0054353","The Sundowners",NA,7.1,4679,5,5,0
 "33-1961","tt0054354","Sunrise at Campobello",NA,6.8,1463,4,4,0
 "33-1961","tt0054387","The Time Machine",6,7.5,43843,1,0,1
 "33-1961","tt0054412","Tunes of Glory",NA,7.5,4410,1,1,0
@@ -1811,7 +1811,7 @@
 "34-1962","tt0053714","The Sky Above, the Mud Below",NA,7.1,273,1,0,1
 "34-1962","tt0053779","La dolce vita",8,8,76789,4,3,1
 "34-1962","tt0053856","Il generale Della Rovere",NA,7.7,3580,1,1,0
-"34-1962","tt0054594","The Absent Minded Professor",NA,6.7,9021,3,3,0
+"34-1962","tt0054594","The Absent Minded Professor",NA,6.7,9020,3,3,0
 "34-1962","tt0054634","Aquamania",5,6.7,785,1,1,0
 "34-1962","tt0054649","Babes in Toyland",NA,6.1,4617,2,2,0
 "34-1962","tt0054652","Bachelor in Paradise",NA,6.3,1835,1,1,0
@@ -1821,7 +1821,7 @@
 "34-1962","tt0054698","Breakfast at Tiffany's",7,7.6,188605,5,3,2
 "34-1962","tt0054699","Breaking the Language Barrier",NA,NA,NA,1,1,0
 "34-1962","tt0054743","The Children's Hour",7,7.8,17905,5,5,0
-"34-1962","tt0054749","Two Women",NA,7.7,12134,1,0,1
+"34-1962","tt0054749","Two Women",NA,7.7,12132,1,0,1
 "34-1962","tt0054752","Claudelle Inglish",NA,6.1,384,1,1,0
 "34-1962","tt0054767","Cradle of Genius",NA,6.2,19,1,1,0
 "34-1962","tt0054845","Immortal Love",NA,7.3,598,1,1,0
@@ -1831,7 +1831,7 @@
 "34-1962","tt0054866","Fanny",NA,6.8,2585,5,5,0
 "34-1962","tt0054885","Flower Drum Song",NA,6.9,3578,5,5,0
 "34-1962","tt0054940","The Grand Olympics",NA,6.9,124,1,1,0
-"34-1962","tt0054953","The Guns of Navarone",NA,7.5,54153,7,6,1
+"34-1962","tt0054953","The Guns of Navarone",NA,7.5,54152,7,6,1
 "34-1962","tt0054965","Harry and the Butler",NA,7.5,492,1,1,0
 "34-1962","tt0054997","The Hustler",6,8,85494,8,6,2
 "34-1962","tt0055031","Judgment at Nuremberg",7,8.3,82526,10,9,1
@@ -1868,13 +1868,13 @@
 "35-1963","tt0055792","Big City Blues",NA,7.6,51,1,1,0
 "35-1963","tt0055796","Billy Budd",NA,7.8,4799,1,1,0
 "35-1963","tt0055797","Billy Rose's Jumbo",NA,6.1,1679,1,1,0
-"35-1963","tt0055798","Birdman of Alcatraz",NA,7.8,18812,4,4,0
+"35-1963","tt0055798","Birdman of Alcatraz",NA,7.8,18811,4,4,0
 "35-1963","tt0055801","Black Fox: The True Story of Adolf Hitler",NA,6.9,199,1,0,1
 "35-1963","tt0055807","Bon Voyage!",NA,5.6,743,2,2,0
 "35-1963","tt0055820","The Cadillac",NA,NA,NA,1,1,0
 "35-1963","tt0055853","The Cliff Dwellers",NA,NA,NA,1,1,0
 "35-1963","tt0055892","David and Lisa",NA,7.2,3278,2,2,0
-"35-1963","tt0055895","Days of Wine and Roses",NA,7.8,13720,5,4,1
+"35-1963","tt0055895","Days of Wine and Roses",NA,7.8,13719,5,4,1
 "35-1963","tt0055910","Sundays and Cybèle",10,7.8,4682,1,0,1
 "35-1963","tt0055913","Divorce Italian Style",9,8,13794,3,2,1
 "35-1963","tt0055943","A Tribute to Dylan Thomas",5,6,44,1,0,1
@@ -1890,12 +1890,12 @@
 "35-1963","tt0056172","Lawrence of Arabia",9,8.3,307339,10,3,7
 "35-1963","tt0056193","Lolita",8,7.5,106816,1,1,0
 "35-1963","tt0056196","Long Day's Journey Into Night",NA,7.5,5759,1,1,0
-"35-1963","tt0056197","The Longest Day",NA,7.7,58237,5,3,2
-"35-1963","tt0056217","The Man Who Shot Liberty Valance",NA,8.1,80575,1,1,0
+"35-1963","tt0056197","The Longest Day",NA,7.7,58235,5,3,2
+"35-1963","tt0056217","The Man Who Shot Liberty Valance",NA,8.1,80573,1,1,0
 "35-1963","tt0056218","The Manchurian Candidate",10,7.9,78472,2,2,0
 "35-1963","tt0056241","The Miracle Worker",NA,8.1,20013,5,3,2
 "35-1963","tt0056262","The Music Man",8,7.7,18739,6,5,1
-"35-1963","tt0056264","Mutiny on the Bounty",NA,7.2,17417,7,7,0
+"35-1963","tt0056264","Mutiny on the Bounty",NA,7.2,17416,7,7,0
 "35-1963","tt0056267","My Geisha",NA,6.5,1564,1,1,0
 "35-1963","tt0056322","The Given Word",NA,8.3,3772,1,1,0
 "35-1963","tt0056341","Period of Adjustment",8,6.2,1602,1,1,0
@@ -1908,7 +1908,7 @@
 "35-1963","tt0056545","A Symposium on Popular Songs",NA,6.5,343,1,1,0
 "35-1963","tt0056556","Taras Bulba",NA,6.3,4381,1,1,0
 "35-1963","tt0056566","Tender Is the Night",NA,6,864,1,1,0
-"35-1963","tt0056575","That Touch of Mink",NA,6.6,10530,3,3,0
+"35-1963","tt0056575","That Touch of Mink",NA,6.6,10529,3,3,0
 "35-1963","tt0056592","To Kill a Mockingbird",8,8.3,327577,8,5,3
 "35-1963","tt0056626","Two for the Seesaw",NA,6.7,1931,2,2,0
 "35-1963","tt0056671","Walk on the Wild Side",NA,6.7,2789,1,1,0
@@ -1917,7 +1917,7 @@
 "35-1963","tt0057367","Now Hear This",6,6.9,531,1,1,0
 "35-1963","tt1534484","Pan",NA,6.6,10,1,1,0
 "36-1964","tt0055910","Sundays and Cybèle",10,7.8,4682,2,2,0
-"36-1964","tt0056085","How the West Was Won",NA,7,22689,8,5,3
+"36-1964","tt0056085","How the West Was Won",NA,7,22688,8,5,3
 "36-1964","tt0056154","Koto",NA,7.1,195,1,1,0
 "36-1964","tt0056291","Knife in the Water",7,7.4,23155,1,1,0
 "36-1964","tt0056300","Occurrence at Owl Creek Bridge",NA,8.1,4172,1,0,1
@@ -1941,8 +1941,8 @@
 "36-1964","tt0056965","The Critic",7,6.8,1108,1,0,1
 "36-1964","tt0057061","The Five Cities of June",NA,6.7,64,1,1,0
 "36-1964","tt0057090","A Gathering of Eagles",NA,6.1,1081,1,1,0
-"36-1964","tt0057091","The Leopard",NA,7.9,28101,1,1,0
-"36-1964","tt0057115","The Great Escape",NA,8.2,254261,1,1,0
+"36-1964","tt0057091","The Leopard",NA,7.9,28099,1,1,0
+"36-1964","tt0057115","The Great Escape",NA,8.2,254256,1,1,0
 "36-1964","tt0057149","The Home-Made Car",NA,7.7,104,1,1,0
 "36-1964","tt0057163","Hud",8,7.8,23451,7,4,3
 "36-1964","tt0057185","Igra",NA,7,174,1,1,0
@@ -1980,7 +1980,7 @@
 "37-1965","tt0057012","Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",8,8.4,508943,4,4,0
 "37-1965","tt0057171","Yesterday, Today and Tomorrow",7,7.2,9894,1,0,1
 "37-1965","tt0057237","Raven's End",NA,7.4,1676,1,1,0
-"37-1965","tt0057413","The Pink Panther",NA,7,55164,1,1,0
+"37-1965","tt0057413","The Pink Panther",NA,7,55160,1,1,0
 "37-1965","tt0057806","140 Days Under the World",NA,5.9,35,1,1,0
 "37-1965","tt0057812","7 Faces of Dr. Lao",NA,7.1,5277,1,1,0
 "37-1965","tt0057831","Zorba the Greek",NA,7.6,23725,7,4,3
@@ -1990,9 +1990,9 @@
 "37-1965","tt0057898","Breaking the Habit",NA,NA,NA,1,1,0
 "37-1965","tt0057922","Casals Conducts: 1964",NA,5,19,1,0,1
 "37-1965","tt0057933","The Chalk Garden",NA,7.2,2423,1,1,0
-"37-1965","tt0057940","Cheyenne Autumn",NA,6.7,6217,1,1,0
+"37-1965","tt0057940","Cheyenne Autumn",NA,6.7,6216,1,1,0
 "37-1965","tt0057945","Children Without",NA,NA,NA,1,1,0
-"37-1965","tt0057999","Dear Heart",NA,7.2,1790,1,1,0
+"37-1965","tt0057999","Dear Heart",NA,7.2,1789,1,1,0
 "37-1965","tt0058085","The Fall of the Roman Empire",NA,6.7,9893,1,1,0
 "37-1965","tt0058091","Fate Is the Hunter",NA,6.8,1851,1,1,0
 "37-1965","tt0058092","Father Goose",NA,7.3,11838,3,2,1
@@ -2019,10 +2019,10 @@
 "37-1965","tt0058450","The Umbrellas of Cherbourg",9,7.8,30275,1,1,0
 "37-1965","tt0058472","The Pink Phink",7,7.6,1467,1,0,1
 "37-1965","tt0058500","The Pumpkin Eater",NA,7.2,2759,1,1,0
-"37-1965","tt0058529","Robin and the 7 Hoods",NA,6.4,5583,2,2,0
+"37-1965","tt0058529","Robin and the 7 Hoods",NA,6.4,5582,2,2,0
 "37-1965","tt0058541","Sallah",NA,7.2,1143,1,1,0
 "37-1965","tt0058557","Seance on a Wet Afternoon",NA,7.6,7227,1,1,0
-"37-1965","tt0058576","Seven Days in May",NA,7.8,16895,2,2,0
+"37-1965","tt0058576","Seven Days in May",NA,7.8,16893,2,2,0
 "37-1965","tt0058625","Woman in the Dunes",10,8.5,21849,1,1,0
 "37-1965","tt0058672","Topkapi",6,6.9,10402,1,0,1
 "37-1965","tt0058708","The Unsinkable Molly Brown",6,6.6,4149,6,6,0
@@ -2038,7 +2038,7 @@
 "38-1966","tt0058450","The Umbrellas of Cherbourg",9,7.8,30275,4,4,0
 "38-1966","tt0058479","The Pleasure Seekers",NA,5.6,761,1,1,0
 "38-1966","tt0058625","Woman in the Dunes",10,8.5,21849,1,1,0
-"38-1966","tt0058886","The Agony and the Ecstasy",NA,7.1,7831,5,5,0
+"38-1966","tt0058886","The Agony and the Ecstasy",NA,7.1,7830,5,5,0
 "38-1966","tt0058948","The Battle of the Bulge... The Brave Rifles",NA,6.4,75,1,1,0
 "38-1966","tt0059015","Casanova 70",NA,6.4,1325,1,1,0
 "38-1966","tt0059017","Cat Ballou",NA,6.7,15788,5,4,1
@@ -2048,7 +2048,7 @@
 "38-1966","tt0059113","Doctor Zhivago",7,7.9,80596,10,5,5
 "38-1966","tt0059122","The Dot and the Line: A Romance in Lower Mathematics",NA,7.5,1613,1,0,1
 "38-1966","tt0059145","The Eleanor Roosevelt Story",NA,6.4,199,1,0,1
-"38-1966","tt0059183","The Flight of the Phoenix",NA,7.5,21974,2,2,0
+"38-1966","tt0059183","The Flight of the Phoenix",NA,7.5,21973,2,2,0
 "38-1966","tt0059193","The Forth Road Bridge",NA,6.1,19,1,1,0
 "38-1966","tt0059194","Fortress of Peace",NA,7,37,1,1,0
 "38-1966","tt0059214","La gazza ladra",NA,6.4,302,1,1,0
@@ -2082,10 +2082,10 @@
 "38-1966","tt0059814","To Be Alive!",6,7,102,1,0,1
 "38-1966","tt0059825","The Train",8,7.8,18097,1,1,0
 "38-1966","tt0059885","Von Ryan's Express",NA,7.1,14893,1,1,0
-"38-1966","tt0059903","What's New Pussycat",NA,6.1,10801,1,1,0
+"38-1966","tt0059903","What's New Pussycat",NA,6.1,10800,1,1,0
 "38-1966","tt0059926","Yeats Country",NA,6.5,28,1,1,0
 "38-1966","tt0857321","Let My People Go",NA,7.2,33,1,1,0
-"39-1967","tt0058715","The Gospel According to St. Matthew",NA,7.7,13371,3,3,0
+"39-1967","tt0058715","The Gospel According to St. Matthew",NA,7.7,13370,3,3,0
 "39-1967","tt0058946","The Battle of Algiers",9,8.1,64079,1,1,0
 "39-1967","tt0059229","Juliet of the Spirits",7,7.5,14451,2,2,0
 "39-1967","tt0059415","A Blonde in Love",NA,7.5,9200,1,1,0
@@ -2105,9 +2105,9 @@
 "39-1967","tt0060389","The Face of a Genius",NA,NA,NA,1,1,0
 "39-1967","tt0060397","Fantastic Voyage",8,6.8,20344,5,3,2
 "39-1967","tt0060401","Pharaoh",NA,7.3,2224,1,1,0
-"39-1967","tt0060424","The Fortune Cookie",NA,7.2,15209,4,3,1
+"39-1967","tt0060424","The Fortune Cookie",NA,7.2,15208,4,3,1
 "39-1967","tt0060438","A Funny Thing Happened on the Way to the Forum",NA,6.8,9687,1,0,1
-"39-1967","tt0060445","Gambit",NA,7.1,6449,3,3,0
+"39-1967","tt0060445","Gambit",NA,7.1,6448,3,3,0
 "39-1967","tt0060453","Georgy Girl",NA,6.9,4174,4,4,0
 "39-1967","tt0060472","Grand Prix",NA,7.2,10202,3,0,3
 "39-1967","tt0060491","Hawaii",NA,6.5,3472,7,7,0
@@ -2118,16 +2118,16 @@
 "39-1967","tt0060714","Morgan!",NA,6.6,2074,2,2,0
 "39-1967","tt0060736","The Naked Prey",NA,7.3,5672,1,1,0
 "39-1967","tt0060776","The Odds Against",3,5.6,34,1,1,0
-"39-1967","tt0060801","The Oscar",NA,5.2,1438,2,2,0
+"39-1967","tt0060801","The Oscar",NA,5.2,1437,2,2,0
 "39-1967","tt0060814","Is Paris Burning?",NA,6.8,5096,2,2,0
 "39-1967","tt0060834","The Pink Blueprint",6,7.1,403,1,1,0
 "39-1967","tt0060862","The Professionals",NA,7.3,18332,3,3,0
-"39-1967","tt0060897","Return of the Seven",NA,5.5,4643,1,1,0
-"39-1967","tt0060921","The Russians Are Coming the Russians Are Coming",NA,7,9753,4,4,0
+"39-1967","tt0060897","Return of the Seven",NA,5.5,4641,1,1,0
+"39-1967","tt0060921","The Russians Are Coming the Russians Are Coming",NA,7,9751,4,4,0
 "39-1967","tt0060927","Saint Matthew Passion",NA,7,13,1,1,0
-"39-1967","tt0060934","The Sand Pebbles",NA,7.5,16013,8,8,0
-"39-1967","tt0060955","Seconds",NA,7.6,21568,1,1,0
-"39-1967","tt0060983","The Singing Nun",NA,6,1477,1,1,0
+"39-1967","tt0060934","The Sand Pebbles",NA,7.5,16012,8,8,0
+"39-1967","tt0060955","Seconds",NA,7.6,21567,1,1,0
+"39-1967","tt0060983","The Singing Nun",NA,6,1476,1,1,0
 "39-1967","tt0061034","Stop the World: I Want to Get Off",NA,5.1,191,1,1,0
 "39-1967","tt0061128","Turkey the Bridge",NA,7.1,26,1,1,0
 "39-1967","tt0061138","A Man and a Woman",NA,7.5,11511,4,2,2
@@ -2194,9 +2194,9 @@
 "41-1969","tt0062765","Bullitt",7,7.4,74063,2,1,1
 "41-1969","tt0062794","Charly",NA,6.9,7158,1,0,1
 "41-1969","tt0062803","Chitty Chitty Bang Bang",7,6.9,49238,1,1,0
-"41-1969","tt0062873","The Young Girls of Rochefort",NA,7.7,11566,1,1,0
+"41-1969","tt0062873","The Young Girls of Rochefort",NA,7.7,11565,1,1,0
 "41-1969","tt0062906","De Düva: The Dove",NA,7.4,890,1,1,0
-"41-1969","tt0062952","Faces",NA,7.4,11404,3,3,0
+"41-1969","tt0062952","Faces",NA,7.4,11403,3,3,0
 "41-1969","tt0062968","A Few Notes on Our Food Problem",6,6.1,39,1,1,0
 "41-1969","tt0062974","Finian's Rainbow",NA,6.1,4035,2,2,0
 "41-1969","tt0062977","The Fixer",NA,6.8,1437,1,1,0
@@ -2206,11 +2206,11 @@
 "41-1969","tt0063050","The Heart Is a Lonely Hunter",NA,7.6,4642,2,2,0
 "41-1969","tt0063094","Hot Millions",NA,6.8,2248,1,1,0
 "41-1969","tt0063096","The House That Ananda Built",NA,6.2,28,1,1,0
-"41-1969","tt0063121","Ice Station Zebra",NA,6.6,11527,2,2,0
+"41-1969","tt0063121","Ice Station Zebra",NA,6.6,11526,2,2,0
 "41-1969","tt0063141","Isadora",NA,6.9,2531,1,1,0
 "41-1969","tt0063160","Journey Into Self",NA,6.4,111,1,0,1
 "41-1969","tt0063222","Legendary Champions",9,7.5,57,1,1,0
-"41-1969","tt0063227","The Lion in Winter",NA,7.9,33323,7,4,3
+"41-1969","tt0063227","The Lion in Winter",NA,7.9,33322,7,4,3
 "41-1969","tt0063257","The Magic Pear Tree",4,5.9,92,1,1,0
 "41-1969","tt0063262","La maison de Jean-Jacques",NA,6.6,122,1,1,0
 "41-1969","tt0063374","The Odd Couple",7,7.6,36783,2,2,0
@@ -2238,7 +2238,7 @@
 "41-1969","tt0063819","Winnie the Pooh and the Blustery Day",9,7.9,5364,1,0,1
 "41-1969","tt0064773","Other Voices",NA,NA,NA,1,1,0
 "42-1970","tt0062757","The Brothers Karamazov",NA,7.7,876,1,1,0
-"42-1970","tt0064002","Alice's Restaurant",NA,6.2,4580,1,1,0
+"42-1970","tt0064002","Alice's Restaurant",NA,6.2,4579,1,1,0
 "42-1970","tt0064030","Anne of the Thousand Days",NA,7.4,7975,10,9,1
 "42-1970","tt0064043","Arthur Rubinstein: The Love of Life",NA,6.8,130,1,0,1
 "42-1970","tt0064076","Before the Mountain Was Moved",NA,7.1,43,1,1,0
@@ -2247,7 +2247,7 @@
 "42-1970","tt0064100","Bob & Carol & Ted & Alice",NA,6.7,7119,4,4,0
 "42-1970","tt0064115","Butch Cassidy and the Sundance Kid",8,8,223664,7,3,4
 "42-1970","tt0064117","Cactus Flower",NA,7.2,11566,1,0,1
-"42-1970","tt0064118","The Damned",NA,7.4,9670,1,1,0
+"42-1970","tt0064118","The Damned",NA,7.4,9669,1,1,0
 "42-1970","tt0064200","Czechoslovakia 1918-1968",10,6.8,226,1,0,1
 "42-1970","tt0064276","Easy Rider",9,7.3,115261,2,2,0
 "42-1970","tt0064284","Walking",6,6.9,910,1,1,0
@@ -2284,7 +2284,7 @@
 "42-1970","tt0065261","Adalen 31",NA,7.1,1702,1,1,0
 "43-1971","tt0064107","A Boy Named Charlie Brown",8,7.3,5442,1,1,0
 "43-1971","tt0064612","My Night at Maud's",NA,7.8,14133,1,1,0
-"43-1971","tt0064940","Fellini Satyricon",NA,6.8,16955,1,1,0
+"43-1971","tt0064940","Fellini Satyricon",NA,6.8,16954,1,1,0
 "43-1971","tt0065377","Airport",NA,6.6,21148,9,9,0
 "43-1971","tt0065441","The Baby Maker",NA,6,340,1,1,0
 "43-1971","tt0065593","Cromwell",NA,6.9,6753,2,1,1
@@ -2299,7 +2299,7 @@
 "43-1971","tt0065797","The Great White Hope",NA,6.9,2755,2,2,0
 "43-1971","tt0065820","The Hawaiians",NA,6.1,1395,1,1,0
 "43-1971","tt0065838","Hoa Binh",NA,7.3,245,1,1,0
-"43-1971","tt0065872","I Never Sang for My Father",NA,7.4,2941,3,3,0
+"43-1971","tt0065872","I Never Sang for My Father",NA,7.4,2940,3,3,0
 "43-1971","tt0065889","Investigation of a Citizen Above Suspicion",9,8,12832,1,0,1
 "43-1971","tt0065894","Interviews with My Lai Veterans",NA,7.5,258,1,0,1
 "43-1971","tt0065901","Is It Always Right to Be Right?",8,6.3,391,1,0,1
@@ -2308,7 +2308,7 @@
 "43-1971","tt0065944","King: A Filmed Record... Montgomery to Memphis",NA,8.2,552,1,1,0
 "43-1971","tt0065963","The Landlord",NA,6.9,2931,1,1,0
 "43-1971","tt0065976","Let It Be",NA,7.7,6473,1,0,1
-"43-1971","tt0065988","Little Big Man",NA,7.5,37217,1,1,0
+"43-1971","tt0065988","Little Big Man",NA,7.5,37216,1,1,0
 "43-1971","tt0065998","A Long Way from Nowhere",NA,NA,NA,1,1,0
 "43-1971","tt0066011","Love Story",7,6.9,36324,7,6,1
 "43-1971","tt0066016","Lovers and Other Strangers",5,6.6,1317,3,2,1
@@ -2327,7 +2327,7 @@
 "43-1971","tt0066376","Shut Up... I'm Crying",NA,NA,NA,1,1,0
 "43-1971","tt0066406","Sticky My Fingers... Fleet My Feet",NA,6.7,68,1,1,0
 "43-1971","tt0066458","Time Is Running Out",NA,NA,NA,1,1,0
-"43-1971","tt0066473","Tora! Tora! Tora!",NA,7.5,36475,5,4,1
+"43-1971","tt0066473","Tora! Tora! Tora!",NA,7.5,36474,5,4,1
 "43-1971","tt0066491","Tristana",NA,7.4,12574,1,1,0
 "43-1971","tt0066579","Women in Love",NA,7.1,8377,4,3,1
 "43-1971","tt0066580","Woodstock",8,8.1,18196,3,2,1
@@ -2350,17 +2350,17 @@
 "44-1972","tt0066959","The Crunch Bird",3,5.3,541,1,0,1
 "44-1972","tt0066995","Diamonds Are Forever",6,6.5,112028,1,1,0
 "44-1972","tt0067073","Evolution",5,6.3,239,1,1,0
-"44-1972","tt0067093","Fiddler on the Roof",NA,8,46377,8,5,3
+"44-1972","tt0067093","Fiddler on the Roof",NA,8,46375,8,5,3
 "44-1972","tt0067116","The French Connection",8,7.7,131975,8,3,5
 "44-1972","tt0067144","The Go-Between",NA,7.2,6145,1,1,0
 "44-1972","tt0067152","Good Morning",NA,6.3,24,1,1,0
-"44-1972","tt0067197","The Hellstrom Chronicle",NA,7.4,928,1,0,1
+"44-1972","tt0067197","The Hellstrom Chronicle",NA,7.4,927,1,0,1
 "44-1972","tt0067217","The Hospital",NA,7.1,7054,2,1,1
 "44-1972","tt0067309","Klute",7,7.1,28780,2,1,1
 "44-1972","tt0067314","Kotch",NA,6.6,1588,4,4,0
 "44-1972","tt0067328","The Last Picture Show",8,8,51269,6,6,0
 "44-1972","tt0067402","Mary, Queen of Scots",NA,7.1,4711,5,5,0
-"44-1972","tt0067411","McCabe & Mrs. Miller",NA,7.6,26981,1,1,0
+"44-1972","tt0067411","McCabe & Mrs. Miller",NA,7.6,26979,1,1,0
 "44-1972","tt0067445","Death in Venice",NA,7.4,22616,1,1,0
 "44-1972","tt0067483","Nicholas and Alexandra",NA,7.2,5415,6,4,2
 "44-1972","tt0067507","The Numbers Start with the River",NA,4.8,16,1,1,0
@@ -2368,13 +2368,13 @@
 "44-1972","tt0067662","The Rehearsal",NA,6,36,1,1,0
 "44-1972","tt0067731","The Selfish Giant",6,7.1,356,1,1,0
 "44-1972","tt0067733","Sentinels of Silence",NA,7.1,161,2,0,2
-"44-1972","tt0067741","Shaft",NA,6.6,20584,2,1,1
+"44-1972","tt0067741","Shaft",NA,6.6,20583,2,1,1
 "44-1972","tt0067772","Somebody Waiting",NA,6.6,19,1,1,0
 "44-1972","tt0067774","Sometimes a Great Notion",NA,6.9,4345,2,2,0
-"44-1972","tt0067800","Straw Dogs",NA,7.4,63505,1,1,0
+"44-1972","tt0067800","Straw Dogs",NA,7.4,63503,1,1,0
 "44-1972","tt0067803","Summer of '42",NA,7.2,8873,4,3,1
 "44-1972","tt0067805","Sunday Bloody Sunday",6,7,6833,4,4,0
-"44-1972","tt0067919","The Emigrants",NA,8,7215,1,1,0
+"44-1972","tt0067919","The Emigrants",NA,8,7214,1,1,0
 "44-1972","tt0067975","What's the Matter with Helen?",NA,6.3,2197,1,1,0
 "44-1972","tt0067980","Who Is Harry Kellerman and Why Is He Saying Those Terrible Things About Me?",NA,5.4,1044,1,1,0
 "44-1972","tt0067992","Willy Wonka & the Chocolate Factory",8,7.8,215463,1,1,0
@@ -2385,7 +2385,7 @@
 "45-1973","tt0067425","Mi querida señorita",NA,7.1,645,1,1,0
 "45-1973","tt0067778","Murmur of the Heart",NA,7.6,10631,1,1,0
 "45-1973","tt0067793","The Stepmother",NA,4.1,499,1,1,0
-"45-1973","tt0067919","The Emigrants",NA,8,7215,4,4,0
+"45-1973","tt0067919","The Emigrants",NA,8,7214,4,4,0
 "45-1973","tt0068156","1776",NA,7.6,10174,1,1,0
 "45-1973","tt0068161","The Dawns Here Are Quiet",NA,8.1,4649,1,1,0
 "45-1973","tt0068213","I Love You Rosa",NA,6.4,246,1,1,0
@@ -2396,8 +2396,8 @@
 "45-1973","tt0068334","The Candidate",NA,7,11662,2,1,1
 "45-1973","tt0068361","The Discreet Charm of the Bourgeoisie",8,7.8,45647,2,1,1
 "45-1973","tt0068373","A Christmas Carol",NA,7.6,1799,1,0,1
-"45-1973","tt0068473","Deliverance",NA,7.7,117070,3,3,0
-"45-1973","tt0068575","Fat City",NA,7.3,10099,1,1,0
+"45-1973","tt0068473","Deliverance",NA,7.7,117068,3,3,0
+"45-1973","tt0068575","Fat City",NA,7.3,10098,1,1,0
 "45-1973","tt0068614","Frog Story",3,6.5,44,1,1,0
 "45-1973","tt0068646","The Godfather",8,9.2,1963166,9,6,3
 "45-1973","tt0068687","The Heartbreak Kid",NA,7,5416,2,2,0
@@ -2416,7 +2416,7 @@
 "45-1973","tt0069020","Norman Rockwell's World... An American Dream",NA,7,54,1,0,1
 "45-1973","tt0069035","The New Land",NA,8,5093,1,1,0
 "45-1973","tt0069080","Pete 'n' Tillie",NA,6.2,1113,2,2,0
-"45-1973","tt0069113","The Poseidon Adventure",NA,7.1,48130,8,7,1
+"45-1973","tt0069113","The Poseidon Adventure",NA,7.1,48129,8,7,1
 "45-1973","tt0069198","The Ruling Class",4,7.3,6673,1,1,0
 "45-1973","tt0069245","Selling Out",NA,NA,NA,1,1,0
 "45-1973","tt0069271","The Silent Revolution",NA,7.4,24,1,1,0
@@ -2427,7 +2427,7 @@
 "45-1973","tt0069379","The Tide of Traffic",NA,6.1,18,1,1,0
 "45-1973","tt0069404","Travels with My Aunt",5,6.3,2497,4,3,1
 "45-1973","tt0069422","Tup Tup",NA,6,238,1,1,0
-"45-1973","tt0069528","Young Winston",NA,6.7,2853,3,3,0
+"45-1973","tt0069528","Young Winston",NA,6.7,2852,3,3,0
 "46-1974","tt0067960","Walls of Fire",NA,NA,NA,1,1,0
 "46-1974","tt0068883","Ludwig",NA,7.5,5774,1,1,0
 "46-1974","tt0069467","Cries & Whispers",9,8,36197,5,4,1
@@ -2448,7 +2448,7 @@
 "46-1974","tt0070069","Four Stones for Kanemitsu",4,5.7,30,1,1,0
 "46-1974","tt0070071","Frank Film",NA,6,764,1,0,1
 "46-1974","tt0070086","The Pedestrian",NA,6.6,270,1,1,0
-"46-1974","tt0070135","The Great American Cowboy",NA,6.8,120,1,0,1
+"46-1974","tt0070135","The Great American Cowboy",NA,6.9,119,1,0,1
 "46-1974","tt0070224","The Invitation",NA,7.1,656,1,1,0
 "46-1974","tt0070239","Jesus Christ Superstar",NA,7.3,28840,1,1,0
 "46-1974","tt0070248","Jonathan Livingston Seagull",NA,5.8,2262,2,2,0
@@ -2459,9 +2459,9 @@
 "46-1974","tt0070328","Live and Let Die",6,6.7,113263,1,1,0
 "46-1974","tt0070460","Day for Night",8,8,24333,1,0,1
 "46-1974","tt0070500","Paisti ag obair",NA,6,15,1,1,0
-"46-1974","tt0070509","The Paper Chase",NA,7.2,8523,3,2,1
+"46-1974","tt0070509","The Paper Chase",NA,7.2,8522,3,2,1
 "46-1974","tt0070510","Paper Moon",9,8.1,51055,3,3,0
-"46-1974","tt0070511","Papillon",NA,8,136263,1,1,0
+"46-1974","tt0070511","Papillon",NA,8,136262,1,1,0
 "46-1974","tt0070561","Princeton: A Search for Answers",5,6,63,1,0,1
 "46-1974","tt0070574","Pulcinella",NA,6.4,131,1,1,0
 "46-1974","tt0070608","Robin Hood",5,7.5,135725,1,1,0
@@ -2471,8 +2471,8 @@
 "46-1974","tt0070748","Summer Wishes, Winter Dreams",NA,6.4,835,2,2,0
 "46-1974","tt0070814","Tom Sawyer",NA,6.4,2513,3,3,0
 "46-1974","tt0070819","A Touch of Class",5,6.5,3458,5,4,1
-"46-1974","tt0070842","Turkish Delight",NA,7.1,11624,1,1,0
-"46-1974","tt0070849","Last Tango in Paris",NA,6.9,57071,2,2,0
+"46-1974","tt0070842","Turkish Delight",NA,7.1,11623,1,1,0
+"46-1974","tt0070849","Last Tango in Paris",NA,6.9,57068,2,2,0
 "46-1974","tt0070903","The Way We Were",7,7,26740,6,4,2
 "47-1975","tt0068891","Cat's Play",NA,6.6,230,1,1,0
 "47-1975","tt0070460","Day for Night",8,8,24333,3,3,0
@@ -2480,7 +2480,7 @@
 "47-1975","tt0071115","Alice Doesn't Live Here Anymore",7,7.3,26182,3,2,1
 "47-1975","tt0071129","I Remember",8,7.9,45940,1,0,1
 "47-1975","tt0071151","Antonia: A Portrait of the Woman",NA,6.9,106,1,1,0
-"47-1975","tt0071155","The Apprenticeship of Duddy Kravitz",NA,6.8,2625,1,1,0
+"47-1975","tt0071155","The Apprenticeship of Duddy Kravitz",NA,6.8,2624,1,1,0
 "47-1975","tt0071206","Benji",5,6.1,5087,1,1,0
 "47-1975","tt0071230","Blazing Saddles",5,7.7,148009,3,3,0
 "47-1975","tt0071299","The Challenge... A Tribute to Modern Art",NA,7,63,1,1,0
@@ -2493,7 +2493,7 @@
 "47-1975","tt0071360","The Conversation",8,7.8,118215,3,3,0
 "47-1975","tt0071385","Daisy Miller",NA,6.2,1827,1,1,0
 "47-1975","tt0071430","Don't",NA,7.1,53,1,0,1
-"47-1975","tt0071455","Earthquake",NA,5.9,17529,4,3,1
+"47-1975","tt0071455","Earthquake",NA,5.9,17527,4,3,1
 "47-1975","tt0071480","Exploratorium",5,6.2,34,1,1,0
 "47-1975","tt0071484","The Family That Dwelt Apart",NA,6.7,229,1,1,0
 "47-1975","tt0071562","The Godfather Part II",9,9,1332826,9,4,5
@@ -2528,7 +2528,7 @@
 "48-1976","tt0071411","Dersu Uzala",9,8.2,32658,1,0,1
 "48-1976","tt0072037","Scent of a Woman",NA,7.5,5027,2,2,0
 "48-1976","tt0072307","And Now My Love",NA,7.1,775,1,1,0
-"48-1976","tt0072446","The Promised Land",NA,7.8,3907,1,1,0
+"48-1976","tt0072446","The Promised Land",NA,7.8,3906,1,1,0
 "48-1976","tt0072601","Letters from Marusia",NA,7,349,1,1,0
 "48-1976","tt0072646","Angel and Big Joe",5,6.7,102,1,0,1
 "48-1976","tt0072659","Arthur and Lillie",NA,5,12,1,1,0
@@ -2545,13 +2545,13 @@
 "48-1976","tt0072939","The End of the Game",NA,7.4,52,1,0,1
 "48-1976","tt0072973","Farewell, My Lovely",NA,7,9221,1,1,0
 "48-1976","tt0072982","Fighting for Our Lives",NA,6,36,1,1,0
-"48-1976","tt0073012","The Four Musketeers: Milady's Revenge",NA,6.9,11486,1,1,0
+"48-1976","tt0073012","The Four Musketeers: Milady's Revenge",NA,6.9,11487,1,1,0
 "48-1976","tt0073026","Funny Lady",6,6.2,5842,5,5,0
 "48-1976","tt0073053","Give 'em Hell, Harry!",NA,7.4,559,1,1,0
 "48-1976","tt0073068","Great (Isambard Kingdom Brunel)",NA,6.6,354,1,0,1
 "48-1976","tt0073098","Hedda",NA,6.4,356,1,1,0
 "48-1976","tt0073107","Hester Street",NA,7,1770,1,1,0
-"48-1976","tt0073113","The Hindenburg",NA,6.2,6450,3,3,0
+"48-1976","tt0073113","The Hindenburg",NA,6.2,6449,3,3,0
 "48-1976","tt0073114","The Story of Adele H",NA,7.2,8756,1,1,0
 "48-1976","tt0073164","The Incredible Machine",NA,7.1,37,1,1,0
 "48-1976","tt0073190","Once Is Not Enough",NA,4.6,883,1,1,0
@@ -2560,7 +2560,7 @@
 "48-1976","tt0073293","Lies My Father Told Me",NA,6.7,572,1,1,0
 "48-1976","tt0073335","Mahogany",NA,6.1,2169,1,1,0
 "48-1976","tt0073340","The Man Who Skied Down Everest",NA,7.2,639,1,0,1
-"48-1976","tt0073341","The Man Who Would Be King",NA,7.8,51195,4,4,0
+"48-1976","tt0073341","The Man Who Would Be King",NA,7.8,51194,4,4,0
 "48-1976","tt0073345","The Man in the Glass Booth",NA,7,1423,1,1,0
 "48-1976","tt0073392","Millions of Years Ahead of Man",NA,NA,NA,1,1,0
 "48-1976","tt0073402","Monsieur Pointu",NA,6.3,176,1,1,0
@@ -2599,7 +2599,7 @@
 "49-1977","tt0074635","Hollywood on Trial",NA,7.3,244,1,1,0
 "49-1977","tt0074675","In the Region of Ice",NA,6.8,54,1,0,1
 "49-1977","tt0074678","The Incredible Sarah",NA,5.5,231,2,2,0
-"49-1977","tt0074751","King Kong",NA,5.9,34695,2,2,0
+"49-1977","tt0074751","King Kong",NA,5.9,34693,2,2,0
 "49-1977","tt0074765","Kudzu",NA,7.4,38,1,1,0
 "49-1977","tt0074777","The Last Tycoon",7,6.2,9390,1,1,0
 "49-1977","tt0074787","Leisure",NA,6,432,1,0,1
@@ -2614,7 +2614,7 @@
 "49-1977","tt0074991","Obsession",NA,6.7,11324,1,1,0
 "49-1977","tt0074997","Off the Edge",NA,6.5,42,1,1,0
 "49-1977","tt0075005","The Omen",8,7.5,128006,2,1,1
-"49-1977","tt0075029","The Outlaw Josey Wales",NA,7.8,78168,1,1,0
+"49-1977","tt0075029","The Outlaw Josey Wales",NA,7.8,78166,1,1,0
 "49-1977","tt0075040","Seven Beauties",NA,7.7,6348,4,4,0
 "49-1977","tt0075043","The Passover Plot",NA,3.7,149,1,1,0
 "49-1977","tt0075052","People of the Wind",NA,7.5,134,1,1,0
@@ -2622,14 +2622,14 @@
 "49-1977","tt0075148","Rocky",8,8.1,613662,9,6,3
 "49-1977","tt0075194","The Seven-Per-Cent Solution",NA,6.6,4977,2,2,0
 "49-1977","tt0075213","The Shootist",8,7.6,26233,1,1,0
-"49-1977","tt0075223","Silver Streak",NA,6.9,21324,1,1,0
+"49-1977","tt0075223","Silver Streak",NA,6.9,21323,1,1,0
 "49-1977","tt0075265","A Star Is Born",7,6.1,12733,4,3,1
 "49-1977","tt0075273","The Street",6,6.6,814,1,1,0
 "49-1977","tt0075314","Taxi Driver",9,8.2,892988,4,4,0
 "49-1977","tt0075359","Two-Minute Warning",NA,6.2,4288,1,1,0
 "49-1977","tt0075373","Universe",6,7.1,67,1,1,0
 "49-1977","tt0075406","Voyage of the Damned",NA,6.4,3314,3,3,0
-"50-1978","tt0074896","The Message",NA,8.1,49875,1,1,0
+"50-1978","tt0074896","The Message",NA,8.1,49873,1,1,0
 "50-1978","tt0075232","The Slipper and the Rose: The Story of Cinderella",NA,6.9,3082,2,2,0
 "50-1978","tt0075372","Union Maids",NA,6.9,114,1,1,0
 "50-1978","tt0075626","The Absent-Minded Waiter",7,7.4,769,1,1,0
@@ -2637,7 +2637,7 @@
 "50-1978","tt0075648","Airport '77",NA,5.8,12029,2,2,0
 "50-1978","tt0075686","Annie Hall",8,8,273807,5,1,4
 "50-1978","tt0075732","The Bead Game",5,7.1,676,1,1,0
-"50-1978","tt0075824","That Obscure Object of Desire",NA,7.8,24249,2,2,0
+"50-1978","tt0075824","That Obscure Object of Desire",NA,7.8,24246,2,2,0
 "50-1978","tt0075839","The Children of Theatre Street",NA,7,163,1,1,0
 "50-1978","tt0075847","The Sand Castle",6,7.1,1133,1,0,1
 "50-1978","tt0075860","Close Encounters of the Third Kind",8,7.6,212471,8,7,1
@@ -2646,7 +2646,7 @@
 "50-1978","tt0075995","Equus",NA,7.1,8611,3,3,0
 "50-1978","tt0076032","First Edition",NA,6,23,1,1,0
 "50-1978","tt0076036","Floating Free",NA,6.2,36,1,1,0
-"50-1978","tt0076085","A Special Day",NA,8.1,15357,2,2,0
+"50-1978","tt0076085","A Special Day",NA,8.1,15356,2,2,0
 "50-1978","tt0076095","The Goodbye Girl",6,7.4,15755,5,4,1
 "50-1978","tt0076105","Gravity Is My Enemy",NA,7.1,47,1,0,1
 "50-1978","tt0076142","High Grass Circus",NA,6.2,43,1,1,0
@@ -2659,7 +2659,7 @@
 "50-1978","tt0076245","Julia",NA,7.1,10247,10,8,2
 "50-1978","tt0076301","The Late Show",NA,6.9,3135,1,1,0
 "50-1978","tt0076319","A Little Night Music",NA,5.4,895,2,1,1
-"50-1978","tt0076327","Looking for Mr. Goodbar",NA,6.7,8272,2,2,0
+"50-1978","tt0076327","Looking for Mr. Goodbar",NA,6.7,8271,2,2,0
 "50-1978","tt0076348","Madame Rosa",NA,7.2,1543,1,0,1
 "50-1978","tt0076398","Operation Thunderbolt",NA,6.6,998,1,1,0
 "50-1978","tt0076467","Notes on the Popular Arts",NA,6.1,83,1,1,0
@@ -2671,7 +2671,7 @@
 "50-1978","tt0076666","Saturday Night Fever",7,6.8,85291,1,1,0
 "50-1978","tt0076700","The Shetland Experience",NA,6.4,51,1,1,0
 "50-1978","tt0076729","Smokey and the Bandit",6,7,55459,1,1,0
-"50-1978","tt0076740","Sorcerer",NA,7.7,25885,1,1,0
+"50-1978","tt0076740","Sorcerer",NA,7.7,25884,1,1,0
 "50-1978","tt0076742","Spaceborne",6,7,48,1,1,0
 "50-1978","tt0076752","The Spy Who Loved Me",6,7,114096,3,3,0
 "50-1978","tt0076759","Star Wars: Episode IV - A New Hope",7,8.6,1420933,10,4,6
@@ -2700,7 +2700,7 @@
 "51-1979","tt0077663","Heaven Can Wait",6,6.9,22892,9,8,1
 "51-1979","tt0077696","Hooper",NA,6.4,7632,1,1,0
 "51-1979","tt0077711","Autumn Sonata",8,8.1,36853,2,2,0
-"51-1979","tt0077742","Interiors",NA,7.3,20582,5,5,0
+"51-1979","tt0077742","Interiors",NA,7.3,20581,5,5,0
 "51-1979","tt0077890","The Magic of Lassie",NA,5.5,650,1,1,0
 "51-1979","tt0077891","Magyarok",NA,7,347,1,1,0
 "51-1979","tt0077901","Mandy's Grandmother",NA,6.4,23,1,1,0
@@ -2708,7 +2708,7 @@
 "51-1979","tt0077966","Mysterious Castles of Clay",NA,8,84,1,1,0
 "51-1979","tt0078012","Viva Italia!",NA,7,2059,1,1,0
 "51-1979","tt0078017","Oh My Darling ...",4,6.4,187,1,1,0
-"51-1979","tt0078111","Pretty Baby",NA,6.5,12378,1,1,0
+"51-1979","tt0078111","Pretty Baby",NA,6.5,12377,1,1,0
 "51-1979","tt0078122","Get Out Your Handkerchiefs",NA,7,4190,1,0,1
 "51-1979","tt0078140","Raoni",NA,6.5,96,1,1,0
 "51-1979","tt0078168","Rip Van Winkle",NA,6.5,137,1,1,0
@@ -2735,7 +2735,7 @@
 "52-1980","tt0078736","Agatha",NA,6.2,3422,1,1,0
 "52-1980","tt0078748","Alien",10,8.5,926080,2,1,1
 "52-1980","tt0078754","All That Jazz",8,7.8,34257,9,5,4
-"52-1980","tt0078767","The Amityville Horror",NA,6.2,43461,1,1,0
+"52-1980","tt0078767","The Amityville Horror",NA,6.2,43459,1,1,0
 "52-1980","tt0078788","Apocalypse Now",9,8.4,695683,8,6,2
 "52-1980","tt0078841","Being There",9,7.9,76194,2,1,1
 "52-1980","tt0078850","Best Boy",NA,7.8,678,1,0,1
@@ -2745,7 +2745,7 @@
 "52-1980","tt0078885","Board and Care",NA,6.6,56,1,0,1
 "52-1980","tt0078900","Bravery in the Field",NA,7,41,1,1,0
 "52-1980","tt0078902","Breaking Away",8,7.7,24988,5,4,1
-"52-1980","tt0078919","Butch and Sundance: The Early Days",NA,5.7,1653,1,1,0
+"52-1980","tt0078919","Butch and Sundance: The Early Days",NA,5.7,1652,1,1,0
 "52-1980","tt0078950","The Champ",NA,6.8,9083,1,1,0
 "52-1980","tt0078952","Chapter Two",NA,6,1232,1,1,0
 "52-1980","tt0078966","The China Syndrome",NA,7.4,32247,4,4,0
@@ -2761,10 +2761,10 @@
 "52-1980","tt0079402","The Killing Ground",NA,5.8,37,1,1,0
 "52-1980","tt0079414","Koryo Celadon",NA,5.6,27,1,1,0
 "52-1980","tt0079417","Kramer vs. Kramer",8,7.8,151896,8,4,4
-"52-1980","tt0079477","A Little Romance",NA,7.4,6287,2,1,1
+"52-1980","tt0079477","A Little Romance",NA,7.4,6286,2,1,1
 "52-1980","tt0079517","Mama Turns 100",NA,7.1,1334,1,1,0
-"52-1980","tt0079522","Manhattan",NA,7.8,144810,2,2,0
-"52-1980","tt0079550","Meteor",NA,5,7967,1,1,0
+"52-1980","tt0079522","Manhattan",NA,7.8,144805,2,2,0
+"52-1980","tt0079550","Meteor",NA,5,7966,1,1,0
 "52-1980","tt0079574","Moonraker",5,6.2,106672,1,1,0
 "52-1980","tt0079588","The Muppet Movie",6,7.6,38251,2,2,0
 "52-1980","tt0079608","Nails",NA,7.2,102,1,1,0
@@ -2774,7 +2774,7 @@
 "52-1980","tt0079704","Paul Robeson: Tribute to an Artist",9,7.5,457,1,0,1
 "52-1980","tt0079756","The Promise",NA,6.4,810,1,1,0
 "52-1980","tt0079791","Remember Me",NA,4.4,18,1,1,0
-"52-1980","tt0079826","The Rose",NA,6.9,9106,4,4,0
+"52-1980","tt0079826","The Rose",NA,6.9,9105,4,4,0
 "52-1980","tt0079923","Solly's Diner",6,6.8,94,1,1,0
 "52-1980","tt0079945","Star Trek: The Motion Picture",5,6.4,94979,3,3,0
 "52-1980","tt0079948","Starting Over",NA,6.4,3150,2,2,0
@@ -2791,7 +2791,7 @@
 "53-1981","tt0080337","Agee",NA,6.1,47,1,1,0
 "53-1981","tt0080351","Tout rien",6,7.5,410,1,1,0
 "53-1981","tt0080360","Altered States",6,6.9,37540,2,2,0
-"53-1981","tt0080453","The Blue Lagoon",NA,5.8,74952,1,1,0
+"53-1981","tt0080453","The Blue Lagoon",NA,5.8,74951,1,1,0
 "53-1981","tt0080474","Brubaker",NA,7.1,19071,1,1,0
 "53-1981","tt0080549","Coal Miner's Daughter",NA,7.5,19998,7,6,1
 "53-1981","tt0080556","The Competition",NA,6.7,2799,2,2,0
@@ -2799,7 +2799,7 @@
 "53-1981","tt0080610","The Last Metro",NA,7.3,15388,1,1,0
 "53-1981","tt0080643","The Dollar Bottom",NA,6.7,47,1,0,1
 "53-1981","tt0080647","Don't Mess with Bill",NA,NA,NA,1,1,0
-"53-1981","tt0080678","The Elephant Man",NA,8.2,253253,8,8,0
+"53-1981","tt0080678","The Elephant Man",NA,8.2,253252,8,8,0
 "53-1981","tt0080684","Star Wars: Episode V - The Empire Strikes Back",8,8.7,1349710,3,2,1
 "53-1981","tt0080694","The Eruption of Mount St. Helens!",NA,7,173,1,1,0
 "53-1981","tt0080713","Fall Line",NA,6.2,28,1,1,0
@@ -2808,29 +2808,29 @@
 "53-1981","tt0080762","From Mao to Mozart: Isaac Stern in China",NA,7.5,501,1,0,1
 "53-1981","tt0080763","Front Line",NA,8.3,46,1,1,0
 "53-1981","tt0080780","The Yellow Star: The Persecution of the Jews in Europe - 1933-1945",NA,7.3,108,1,1,0
-"53-1981","tt0080798","Gloria",NA,7.1,10997,1,1,0
+"53-1981","tt0080798","Gloria",NA,7.1,10996,1,1,0
 "53-1981","tt0080879","History of the World in Three Minutes Flat",4,5.7,181,1,1,0
 "53-1981","tt0080888","Honeysuckle Rose",NA,6.3,1808,1,1,0
 "53-1981","tt0080928","Inside Moves",NA,7,2213,1,1,0
 "53-1981","tt0080937","It's the Same World",NA,6.6,16,1,1,0
 "53-1981","tt0080974","A Jury of Her Peers",NA,7.2,67,1,1,0
-"53-1981","tt0080979","Kagemusha",NA,7.9,37471,2,2,0
+"53-1981","tt0080979","Kagemusha",NA,7.9,37470,2,2,0
 "53-1981","tt0080987","Karl Hess: Toward Liberty",NA,6.4,70,1,0,1
 "53-1981","tt0081040","The Fly",9,7.5,1946,1,0,1
 "53-1981","tt0081091","Luther Metke at 94",NA,6.7,24,1,1,0
 "53-1981","tt0081150","Melvin and Howard",NA,6.8,5185,3,1,2
 "53-1981","tt0081176","My American Uncle",NA,7.6,6662,1,1,0
 "53-1981","tt0081283","Ordinary People",8,7.7,55397,5,2,3
-"53-1981","tt0081375","Private Benjamin",NA,6.2,28126,3,3,0
+"53-1981","tt0081375","Private Benjamin",NA,6.2,28125,3,3,0
 "53-1981","tt0081398","Raging Bull",8,8.1,371619,8,6,2
 "53-1981","tt0081414","Resurrection",NA,7.1,3349,2,2,0
-"53-1981","tt0081534","Somewhere in Time",NA,7.2,31654,1,1,0
+"53-1981","tt0081534","Somewhere in Time",NA,7.2,31653,1,1,0
 "53-1981","tt0081568","The Stunt Man",NA,7,10228,3,3,0
-"53-1981","tt0081656","Tribute",NA,6.2,819,1,1,0
+"53-1981","tt0081656","Tribute",NA,6.2,818,1,1,0
 "53-1981","tt0081747","When Time Ran Out...",NA,4.5,3084,1,1,0
 "54-1982","tt0080388","Atlantic City",7,7.3,17940,5,5,0
 "54-1982","tt0080855","Heaven's Gate",NA,6.7,16624,1,1,0
-"54-1982","tt0081974","Absence of Malice",NA,6.9,14372,3,3,0
+"54-1982","tt0081974","Absence of Malice",NA,6.9,14371,3,3,0
 "54-1982","tt0081988","Against Wind and Tide: A Cuban Odyssey",NA,6.7,32,1,1,0
 "54-1982","tt0082010","An American Werewolf in London",9,7.5,117269,1,0,1
 "54-1982","tt0082012","Americas in Transition",NA,7.7,41,1,1,0
@@ -2847,11 +2847,11 @@
 "54-1982","tt0082288","Dragonslayer",5,6.6,19473,2,2,0
 "54-1982","tt0082312","Eight Minutes to Midnight: A Portrait of Dr. Helen Caldicott",NA,6.3,20,1,1,0
 "54-1982","tt0082315","El Salvador: Another Vietnam",NA,6.4,44,1,1,0
-"54-1982","tt0082329","Endless Love",NA,4.9,9314,1,1,0
+"54-1982","tt0082329","Endless Love",NA,4.9,9313,1,1,0
 "54-1982","tt0082348","Excalibur",NA,7.3,65664,1,1,0
 "54-1982","tt0082383","First Winter",NA,6.7,137,1,1,0
 "54-1982","tt0082398","For Your Eyes Only",6,6.7,106277,1,1,0
-"54-1982","tt0082416","The French Lieutenant's Woman",NA,6.9,14501,5,5,0
+"54-1982","tt0082416","The French Lieutenant's Woman",NA,6.9,14500,5,5,0
 "54-1982","tt0082443","Genocide",NA,7.3,657,1,0,1
 "54-1982","tt0082474","The Great Muppet Caper",7,7.1,16354,1,1,0
 "54-1982","tt0082507","Heartbeeps",NA,4.2,1634,1,1,0
@@ -2859,7 +2859,7 @@
 "54-1982","tt0082736","Mephisto",8,7.7,11369,1,0,1
 "54-1982","tt0082846","On Golden Pond",7,7.6,34024,10,7,3
 "54-1982","tt0082853","Only When I Laugh",NA,6.4,1589,3,3,0
-"54-1982","tt0082869","Outland",NA,6.6,31731,1,1,0
+"54-1982","tt0082869","Outland",NA,6.6,31730,1,1,0
 "54-1982","tt0082894","Pennies from Heaven",NA,6.5,6039,3,3,0
 "54-1982","tt0082945","Prince of the City",NA,7.4,9211,1,1,0
 "54-1982","tt0082970","Ragtime",NA,7.3,10348,8,8,0
@@ -2872,7 +2872,7 @@
 "54-1982","tt0083293","Violet",NA,6.1,141,1,0,1
 "55-1983","tt0082096","Das Boot",9,8.4,260009,6,6,0
 "55-1983","tt0082206","Coup de torchon",NA,7.4,6552,1,1,0
-"55-1983","tt0082484","Quest for Fire",NA,7.3,23552,1,0,1
+"55-1983","tt0082484","Quest for Fire",NA,7.3,23551,1,0,1
 "55-1983","tt0083525","After the Axe",NA,6.6,61,1,1,0
 "55-1983","tt0083543","Alsino and the Condor",NA,6.2,345,1,1,0
 "55-1983","tt0083564","Annie",5,6.6,48252,2,2,0
@@ -2892,7 +2892,7 @@
 "55-1983","tt0084127","In Our Water",NA,7.4,55,1,1,0
 "55-1983","tt0084136","The Flight of the Eagle",NA,7.2,1190,1,1,0
 "55-1983","tt0084213","The Klan: A Legacy of Hate in America",NA,6.5,34,1,1,0
-"55-1983","tt0084335","Missing",NA,7.7,22708,4,3,1
+"55-1983","tt0084335","Missing",NA,7.7,22707,4,3,1
 "55-1983","tt0084370","My Favorite Year",5,7.3,10242,1,1,0
 "55-1983","tt0084434","An Officer and a Gentleman",6,7,60619,6,4,2
 "55-1983","tt0084445","One from the Heart",NA,6.5,6872,1,1,0
@@ -2902,12 +2902,12 @@
 "55-1983","tt0084672","A Shocking Accident",NA,7,80,1,0,1
 "55-1983","tt0084683","The Silence",NA,7.1,38,1,1,0
 "55-1983","tt0084701","The Snowman",7,8.2,15892,1,1,0
-"55-1983","tt0084707","Sophie's Choice",NA,7.5,51463,5,4,1
+"55-1983","tt0084707","Sophie's Choice",NA,7.5,51459,5,4,1
 "55-1983","tt0084713","Split Cherry Tree",NA,7.1,72,1,1,0
 "55-1983","tt0084722","Sredni Vashtar",NA,7,80,1,1,0
 "55-1983","tt0084764","Tango",7,7.7,2972,1,0,1
 "55-1983","tt0084798","To Live or Let Die",NA,6.9,37,1,1,0
-"55-1983","tt0084805","Tootsie",NA,7.4,112549,9,9,0
+"55-1983","tt0084805","Tootsie",NA,7.4,112547,9,9,0
 "55-1983","tt0084820","Traveling Hopefully",6,6.1,55,1,1,0
 "55-1983","tt0084821","La traviata",NA,7.6,1492,2,2,0
 "55-1983","tt0084827","Tron",7,6.7,127087,2,2,0
@@ -2930,7 +2930,7 @@
 "56-1984","tt0085370","Entre Nous",NA,7,2124,1,1,0
 "56-1984","tt0085380","Cross Creek",NA,6.9,1972,4,4,0
 "56-1984","tt0085461","The Dresser",NA,7.5,5574,4,4,0
-"56-1984","tt0085478","Educating Rita",NA,7.2,14692,3,3,0
+"56-1984","tt0085478","Educating Rita",NA,7.2,14691,3,3,0
 "56-1984","tt0085544","First Contact",NA,7.7,263,1,1,0
 "56-1984","tt0085548","Flamenco at 5:15",7,6.9,201,1,0,1
 "56-1984","tt0085549","Flashdance",7,6.2,58075,3,3,0
@@ -2962,7 +2962,7 @@
 "56-1984","tt0086567","WarGames",8,7.1,107829,3,3,0
 "56-1984","tt0086617","The Year of Living Dangerously",NA,7.1,22492,1,0,1
 "56-1984","tt0086619","Yentl",NA,6.6,15123,4,3,1
-"56-1984","tt0086637","Zelig",NA,7.7,43542,2,2,0
+"56-1984","tt0086637","Zelig",NA,7.7,43540,2,2,0
 "57-1985","tt0085482","El Norte",NA,7.7,5466,1,1,0
 "57-1985","tt0085905","Marlene",NA,7.6,827,1,1,0
 "57-1985","tt0086561","Voenno-polevoy roman",NA,7.2,623,1,1,0
@@ -2970,14 +2970,14 @@
 "57-1985","tt0086859","Against All Odds",NA,5.9,13240,1,1,0
 "57-1985","tt0086879","Amadeus",8,8.4,419402,10,3,7
 "57-1985","tt0086960","Beverly Hills Cop",6,7.4,195483,1,1,0
-"57-1985","tt0086992","The Bostonians",NA,6.2,2332,2,2,0
+"57-1985","tt0086992","The Bostonians",NA,6.2,2331,2,2,0
 "57-1985","tt0087003","Broadway Danny Rose",NA,7.4,26518,2,2,0
 "57-1985","tt0087027","Camila",NA,6.8,1397,1,1,0
 "57-1985","tt0087040","Charade",7,6.9,777,1,0,1
 "57-1985","tt0087049","The Children of Soong Ching Ling",NA,7.6,13,1,1,0
 "57-1985","tt0087067","Code Gray: Ethical Dilemmas in Nursing",NA,6.7,29,1,1,0
 "57-1985","tt0087089","The Cotton Club",NA,6.5,19118,2,2,0
-"57-1985","tt0087091","Country",NA,6.6,2184,1,1,0
+"57-1985","tt0087091","Country",NA,6.6,2183,1,1,0
 "57-1985","tt0087144","Dangerous Moves",NA,6.7,1424,1,0,1
 "57-1985","tt0087156","Doctor DeSoto",6,6.4,121,1,1,0
 "57-1985","tt0087182","Dune",6,6.3,168737,1,1,0
@@ -2989,24 +2989,24 @@
 "57-1985","tt0087468","In the Name of the People",NA,7.8,94,1,1,0
 "57-1985","tt0087469","Indiana Jones and the Temple of Doom",9,7.5,524729,2,1,1
 "57-1985","tt0087538","The Karate Kid",6,7.3,238791,1,1,0
-"57-1985","tt0087553","The Killing Fields",NA,7.8,58152,7,4,3
+"57-1985","tt0087553","The Killing Fields",NA,7.8,58151,7,4,3
 "57-1985","tt0087699","Beyond the Walls",NA,6.7,358,1,1,0
 "57-1985","tt0087755","The Muppets Take Manhattan",5,6.8,22355,1,1,0
 "57-1985","tt0087781","The Natural",6,7.4,51590,4,4,0
 "57-1985","tt0087871","The Painted Door",6,6,80,1,1,0
 "57-1985","tt0087880","Paradise",NA,7.1,326,1,1,0
 "57-1985","tt0087892","A Passage to India",NA,7.3,20025,11,9,2
-"57-1985","tt0087921","Places in the Heart",NA,7.4,12930,7,5,2
+"57-1985","tt0087921","Places in the Heart",NA,7.4,12929,7,5,2
 "57-1985","tt0087932","The Pope of Greenwich Village",NA,6.6,9590,1,1,0
 "57-1985","tt0087957","Purple Rain",8,6.5,23330,1,0,1
 "57-1985","tt0087984","Recollections of Pavlovsk",NA,5.6,20,1,1,0
-"57-1985","tt0088007","The River",NA,6.3,7397,4,4,0
+"57-1985","tt0088007","The River",NA,6.3,7396,4,4,0
 "57-1985","tt0088011","Romancing the Stone",5,6.9,100953,1,1,0
 "57-1985","tt0088090","Double Feature",NA,5.9,316,1,1,0
 "57-1985","tt0088146","A Soldier's Story",NA,7.2,11060,3,3,0
 "57-1985","tt0088153","Songwriter",5,6.2,843,1,1,0
 "57-1985","tt0088161","Splash",4,6.3,81646,1,1,0
-"57-1985","tt0088172","Starman",NA,7,50512,1,1,0
+"57-1985","tt0088172","Starman",NA,7,50511,1,1,0
 "57-1985","tt0088177","The Stone Carvers",NA,6.7,54,1,0,1
 "57-1985","tt0088196","Streetwise",NA,8.2,2781,1,1,0
 "57-1985","tt0088213","Swing Shift",NA,5.9,5286,1,1,0
@@ -3014,8 +3014,8 @@
 "57-1985","tt0088275","The Times of Harvey Milk",8,8.2,6466,1,0,1
 "57-1985","tt0088322","Under the Volcano",8,6.9,6095,2,2,0
 "57-1985","tt0088332","Up",NA,6.3,69,1,0,1
-"57-1985","tt0088414","The Woman in Red",NA,5.9,16738,1,0,1
-"58-1986","tt0088683","Agnes of God",NA,6.6,7893,3,3,0
+"57-1985","tt0088414","The Woman in Red",NA,5.9,16737,1,0,1
+"58-1986","tt0088683","Agnes of God",NA,6.6,7892,3,3,0
 "58-1986","tt0088725","Anna & Bella",6,6.9,1026,1,0,1
 "58-1986","tt0088763","Back to the Future",8,8.5,1272200,4,3,1
 "58-1986","tt0088805","The Big Snit",5,7.2,1918,1,1,0
@@ -3027,12 +3027,12 @@
 "58-1986","tt0088939","The Color Purple",8,7.7,92718,10,10,0
 "58-1986","tt0088957","The Courage to Care",NA,6.5,33,1,1,0
 "58-1986","tt0089225","Graffiti",NA,7.8,40,1,1,0
-"58-1986","tt0089276","The Official Story",NA,7.7,10548,2,1,1
+"58-1986","tt0089276","The Official Story",NA,7.7,10547,2,1,1
 "58-1986","tt0089360","Jagged Edge",NA,6.5,16355,1,1,0
-"58-1986","tt0089385","The Journey of Natty Gann",NA,7,6660,1,1,0
+"58-1986","tt0089385","The Journey of Natty Gann",NA,7,6658,1,1,0
 "58-1986","tt0089408","Keats and His Nightingale: A Blind Date",NA,7.6,14,1,1,0
 "58-1986","tt0089424","Kiss of the Spider Woman",7,7.3,16987,4,3,1
-"58-1986","tt0089457","Ladyhawke",NA,6.9,49902,2,2,0
+"58-1986","tt0089457","Ladyhawke",NA,6.9,49901,2,2,0
 "58-1986","tt0089460","The Mothers of the Plaza of Mayo",NA,7,89,1,1,0
 "58-1986","tt0089535","Making Overtures: The Story of a Community Orchestra",NA,6.4,18,1,1,0
 "58-1986","tt0089560","Mask",7,7.2,31646,1,0,1
@@ -3045,14 +3045,14 @@
 "58-1986","tt0089853","The Purple Rose of Cairo",7,7.7,53993,1,1,0
 "58-1986","tt0089878","Rainbow War",NA,7.8,235,1,1,0
 "58-1986","tt0089880","Rambo: First Blood Part II",6,6.5,178864,1,1,0
-"58-1986","tt0089881","Ran",NA,8.2,132847,4,3,1
-"58-1986","tt0089901","Remo Williams: The Adventure Begins",NA,6.4,13484,1,1,0
+"58-1986","tt0089881","Ran",NA,8.2,132842,4,3,1
+"58-1986","tt0089901","Remo Williams: The Adventure Begins",NA,6.4,13482,1,1,0
 "58-1986","tt0089908","Return to Oz",6,6.7,29633,1,1,0
-"58-1986","tt0089941","Runaway Train",NA,7.2,31972,3,3,0
+"58-1986","tt0089941","Runaway Train",NA,7.2,31970,3,3,0
 "58-1986","tt0089980","Second Class Mail",3,5.6,175,1,1,0
-"58-1986","tt0090022","Silverado",NA,7.2,47464,2,2,0
+"58-1986","tt0090022","Silverado",NA,7.2,47461,2,2,0
 "58-1986","tt0090043","Soldiers in Hiding",NA,7.7,90,1,1,0
-"58-1986","tt0090110","Sweet Dreams",NA,7,5195,1,1,0
+"58-1986","tt0090110","Sweet Dreams",NA,7,5194,1,1,0
 "58-1986","tt0090203","The Trip to Bountiful",NA,7.4,5156,2,1,1
 "58-1986","tt0090206","Three Men and a Cradle",NA,6.6,3848,1,1,0
 "58-1986","tt0090223","Twice in a Lifetime",NA,6.4,1392,1,1,0
@@ -3064,7 +3064,7 @@
 "58-1986","tt0092011","The Statue of Liberty",NA,7.3,694,1,1,0
 "58-1986","tt0092136","Unfinished Business",NA,6.6,54,1,1,0
 "59-1987","tt0088740","Artie Shaw: Time Is All You've Got",NA,7,121,1,0,1
-"59-1987","tt0089469","Legend",NA,6.3,70649,1,1,0
+"59-1987","tt0089469","Legend",NA,6.3,70646,1,1,0
 "59-1987","tt0090257","My Sweet Little Village",NA,7.8,4732,1,1,0
 "59-1987","tt0090554","38",NA,6.2,182,1,1,0
 "59-1987","tt0090555","Crocodile Dundee",5,6.6,112609,1,1,0
@@ -3078,7 +3078,7 @@
 "59-1987","tt0090831","Chile: Hasta Cuando?",NA,6.7,57,1,1,0
 "59-1987","tt0090848","The Clan of the Cave Bear",NA,5.4,6853,1,1,0
 "59-1987","tt0090863","The Color of Money",7,7,91167,4,3,1
-"59-1987","tt0090886","Crimes of the Heart",NA,6.3,4349,3,3,0
+"59-1987","tt0090886","Crimes of the Heart",NA,6.3,4348,3,3,0
 "59-1987","tt0090921","Debonair Dancers",NA,6.4,26,1,1,0
 "59-1987","tt0090965","Down and Out in America",NA,7.2,235,1,0,1
 "59-1987","tt0090985","The Decline of the American Empire",6,7.1,8605,1,1,0
@@ -3087,7 +3087,7 @@
 "59-1987","tt0091082","The Frog, the Dog, and the Devil",NA,6.1,148,1,1,0
 "59-1987","tt0091152","A Greek Tragedy",3,5.4,761,1,0,1
 "59-1987","tt0091167","Hannah and Her Sisters",7,7.8,74909,7,4,3
-"59-1987","tt0091187","Heartbreak Ridge",NA,6.8,47063,1,1,0
+"59-1987","tt0091187","Heartbreak Ridge",NA,6.8,47061,1,1,0
 "59-1987","tt0091217","Hoosiers",8,7.4,49961,2,2,0
 "59-1987","tt0091279","Isaac in America: A Journey with Isaac Bashevis Singer",NA,6.1,115,1,1,0
 "59-1987","tt0091326","The Karate Kid Part II",6,6.1,96656,1,1,0
@@ -3103,7 +3103,7 @@
 "59-1987","tt0091738","Peggy Sue Got Married",6,6.4,39882,3,3,0
 "59-1987","tt0091757","Pirates",NA,6,9247,1,1,0
 "59-1987","tt0091763","Platoon",7,8.1,430497,7,3,4
-"59-1987","tt0091778","Poltergeist II: The Other Side",NA,5.6,29259,1,1,0
+"59-1987","tt0091778","Poltergeist II: The Other Side",NA,5.6,29258,1,1,0
 "59-1987","tt0091787","Precious Images",6,7.5,734,1,0,1
 "59-1987","tt0091833","Red Grooms: Sunflower in a Hothouse",NA,7.6,18,1,1,0
 "59-1987","tt0091867","A Room with a View",6,7.2,46743,8,5,3
@@ -3115,7 +3115,7 @@
 "59-1987","tt0092099","Top Gun",8,6.9,487331,4,3,1
 "59-1987","tt0092229","Witness to Apartheid",NA,7,25,1,1,0
 "59-1987","tt0092235","Women - for America, for the World",6,5.7,60,1,0,1
-"60-1988","tt0089606","My Life as a Dog",NA,7.6,22125,2,2,0
+"60-1988","tt0089606","My Life as a Dog",NA,7.6,22124,2,2,0
 "60-1988","tt0092569","Anna",NA,6.4,791,1,1,0
 "60-1988","tt0092584","Course Completed",NA,5.8,271,1,1,0
 "60-1988","tt0092593","Goodbye, Children",10,8,35542,2,2,0
@@ -3125,7 +3125,7 @@
 "60-1988","tt0092804","Cry Freedom",NA,7.4,14192,3,3,0
 "60-1988","tt0092843","The Dead",NA,7.2,8651,2,2,0
 "60-1988","tt0092890","Dirty Dancing",8,7,248947,1,0,1
-"60-1988","tt0092965","Empire of the Sun",NA,7.7,132114,6,6,0
+"60-1988","tt0092965","Empire of the Sun",NA,7.7,132109,6,6,0
 "60-1988","tt0092999","Eyes on the Prize",9,9.2,713,1,1,0
 "60-1988","tt0093004","The Family",NA,7.4,2428,1,1,0
 "60-1988","tt0093010","Fatal Attraction",6,6.9,94450,6,6,0
@@ -3133,14 +3133,14 @@
 "60-1988","tt0093058","Full Metal Jacket",8,8.3,774201,1,1,0
 "60-1988","tt0093067","Gaby: A True Story",NA,6.8,777,1,1,0
 "60-1988","tt0093084","George and Rosemary",6,6.6,341,1,1,0
-"60-1988","tt0093105","Good Morning, Vietnam",NA,7.3,150235,1,1,0
+"60-1988","tt0093105","Good Morning, Vietnam",NA,7.3,150234,1,1,0
 "60-1988","tt0093145","Happy New Year",NA,5.8,713,1,1,0
 "60-1988","tt0093148","Harry and the Hendersons",NA,6.1,37621,1,0,1
 "60-1988","tt0093173","Hellfire: A Journey from Hiroshima",NA,7.3,47,1,1,0
 "60-1988","tt0093209","Hope and Glory",6,7.3,14174,5,5,0
 "60-1988","tt0093254","In the Wee Wee Hours...",NA,7.4,12,1,1,0
 "60-1988","tt0093260","Innerspace",6,6.8,63912,1,0,1
-"60-1988","tt0093277","Ironweed",NA,6.7,9710,2,2,0
+"60-1988","tt0093277","Ironweed",NA,6.7,9709,2,2,0
 "60-1988","tt0093388","Language Says It All",NA,7,20,1,1,0
 "60-1988","tt0093389","The Last Emperor",6,7.7,109151,9,0,9
 "60-1988","tt0093409","Lethal Weapon",6,7.6,270924,1,1,0
@@ -3148,22 +3148,22 @@
 "60-1988","tt0093488","The Man Who Planted Trees",9,8.5,6004,1,0,1
 "60-1988","tt0093493","Mannequin",3,6,34586,1,1,0
 "60-1988","tt0093509","Matewan",NA,7.9,8673,1,1,0
-"60-1988","tt0093512","Maurice",NA,7.6,22655,1,1,0
+"60-1988","tt0093512","Maurice",NA,7.6,22652,1,1,0
 "60-1988","tt0093565","Moonstruck",8,7.1,65230,6,3,3
 "60-1988","tt0093664","Dark Eyes",NA,7.3,3456,1,1,0
 "60-1988","tt0093668","Pathfinder",NA,7.2,5465,1,1,0
 "60-1988","tt0093773","Predator",6,7.8,443796,1,1,0
 "60-1988","tt0093779","The Princess Bride",6,8,442881,1,1,0
 "60-1988","tt0093817","Radio Bikini",NA,7.5,662,1,1,0
-"60-1988","tt0093818","Radio Days",NA,7.4,35412,2,2,0
+"60-1988","tt0093818","Radio Days",NA,7.4,35411,2,2,0
 "60-1988","tt0093826","Ray's Male Heterosexual Dance Hall",NA,6.8,225,1,0,1
 "60-1988","tt0093870","RoboCop",6,7.6,274283,2,2,0
 "60-1988","tt0093960","Shoeshine",NA,6.8,75,1,1,0
 "60-1988","tt0093975","Silver Into Gold",NA,6.1,19,1,1,0
 "60-1988","tt0094042","A Stitch for Time",NA,6.7,27,1,1,0
-"60-1988","tt0094056","Street Smart",NA,6.3,3697,1,1,0
+"60-1988","tt0094056","Street Smart",NA,6.3,3696,1,1,0
 "60-1988","tt0094119","The Algonquin Round Table: The Ten Year Lunch",NA,6.6,214,1,0,1
-"60-1988","tt0094142","Throw Momma from the Train",NA,6.3,39498,1,1,0
+"60-1988","tt0094142","Throw Momma from the Train",NA,6.3,39497,1,1,0
 "60-1988","tt0094226","The Untouchables",7,7.8,324768,4,3,1
 "60-1988","tt0094291","Wall Street",6,7.3,162516,1,0,1
 "60-1988","tt0094315","The Whales of August",7,7.1,5167,1,1,0
@@ -3175,12 +3175,12 @@
 "61-1989","tt0094606","The Accidental Tourist",5,6.7,17022,4,3,1
 "61-1989","tt0094608","The Accused",7,7.1,38708,1,0,1
 "61-1989","tt0094670","The Appointments of Dennis Jennings",7,7.1,528,1,0,1
-"61-1989","tt0094715","Beaches",NA,7,28355,1,1,0
+"61-1989","tt0094715","Beaches",NA,7,28354,1,1,0
 "61-1989","tt0094721","Beetlejuice",7,7.5,328841,1,0,1
 "61-1989","tt0094737","Big",7,7.3,234874,2,2,0
 "61-1989","tt0094747","Bird",NA,7.1,13206,1,0,1
 "61-1989","tt0094812","Bull Durham",6,7.1,57997,1,1,0
-"61-1989","tt0094819","Buster",NA,5.8,4237,1,1,0
+"61-1989","tt0094819","Buster",NA,5.8,4236,1,1,0
 "61-1989","tt0094825","Cadillac Dreams",NA,6.8,42,1,1,0
 "61-1989","tt0094847","The Cat Came Back",6,7.4,2432,1,1,0
 "61-1989","tt0094864","The Children's Storefront",NA,NA,NA,1,1,0
@@ -3196,14 +3196,14 @@
 "61-1989","tt0095274","A Handful of Dust",NA,6.6,2220,1,1,0
 "61-1989","tt0095276","Hanussen",NA,7.2,1847,1,1,0
 "61-1989","tt0095341","Hôtel Terminus",NA,7.6,1543,1,0,1
-"61-1989","tt0095497","The Last Temptation of Christ",NA,7.5,61364,1,1,0
+"61-1989","tt0095497","The Last Temptation of Christ",NA,7.5,61363,1,1,0
 "61-1989","tt0095515","Let's Get Lost",NA,7.8,2147,1,1,0
 "61-1989","tt0095530","Little Dorrit",NA,7.2,1215,2,2,0
 "61-1989","tt0095593","Married to the Mob",5,6.2,19093,1,1,0
 "61-1989","tt0095606","The Music Teacher",NA,7.1,961,1,1,0
 "61-1989","tt0095638","The Milagro Beanfield War",NA,6.8,6711,1,0,1
 "61-1989","tt0095647","Mississippi Burning",7,7.8,107004,7,6,1
-"61-1989","tt0095675","Women on the Verge of a Nervous Breakdown",NA,7.5,45261,1,1,0
+"61-1989","tt0095675","Women on the Verge of a Nervous Breakdown",NA,7.5,45260,1,1,0
 "61-1989","tt0095801","Bagdad Cafe",NA,7.4,14770,1,1,0
 "61-1989","tt0095892","Portrait of Imogen",NA,7.3,26,1,1,0
 "61-1989","tt0095918","Promises to Keep",NA,7.4,27,1,1,0
@@ -3219,7 +3219,7 @@
 "61-1989","tt0096332","The Unbearable Lightness of Being",NA,7.3,38007,2,2,0
 "61-1989","tt0096438","Who Framed Roger Rabbit",8,7.7,212281,6,3,3
 "61-1989","tt0096440","Who Killed Vincent Chin?",NA,7.5,293,1,1,0
-"61-1989","tt0096446","Willow",NA,7.2,128164,2,2,0
+"61-1989","tt0096446","Willow",NA,7.2,128160,2,2,0
 "61-1989","tt0096463","Working Girl",6,6.8,61046,5,4,1
 "61-1989","tt0096484","You Don't Have to Die",NA,7,72,1,0,1
 "61-1989","tt3294916","Family Gathering",NA,6,16,1,1,0
@@ -3228,7 +3228,7 @@
 "62-1990","tt0095800","The Bear",NA,7.7,18782,1,1,0
 "62-1990","tt0096754","The Abyss",7,7.5,186792,4,3,1
 "62-1990","tt0096761","Adam Clayton Powell",NA,6.9,73,1,1,0
-"62-1990","tt0096764","The Adventures of Baron Munchausen",NA,7.1,55891,4,4,0
+"62-1990","tt0096764","The Adventures of Baron Munchausen",NA,7.1,55889,4,4,0
 "62-1990","tt0096798","Amazon Diary",NA,NA,NA,1,1,0
 "62-1990","tt0096874","Back to the Future Part II",7,7.8,560360,1,1,0
 "62-1990","tt0096880","Balance",10,7.9,5584,1,0,1
@@ -3248,12 +3248,12 @@
 "62-1990","tt0097216","Do the Right Thing",10,8,109618,2,2,0
 "62-1990","tt0097239","Driving Miss Daisy",7,7.3,115607,9,5,4
 "62-1990","tt0097243","A Dry White Season",NA,7,6010,1,1,0
-"62-1990","tt0097276","Enemies, A Love Story",NA,6.6,2506,2,2,0
-"62-1990","tt0097322","The Fabulous Baker Boys",NA,6.9,25352,4,4,0
+"62-1990","tt0097276","Enemies, A Love Story",NA,6.6,2505,2,2,0
+"62-1990","tt0097322","The Fabulous Baker Boys",NA,6.9,25350,4,4,0
 "62-1990","tt0097351","Field of Dreams",6,7.5,125366,3,3,0
 "62-1990","tt0097356","Fine Food, Fine Pastries, Open 6 to 9",7,7,31,1,1,0
 "62-1990","tt0097372","For All Mankind",9,8.1,6329,1,1,0
-"62-1990","tt0097441","Glory",NA,7.8,141532,5,2,3
+"62-1990","tt0097441","Glory",NA,7.8,141528,5,2,3
 "62-1990","tt0097481","Harlem Nights",NA,6.1,24221,1,1,0
 "62-1990","tt0097499","Henry V",7,7.5,31200,3,2,1
 "62-1990","tt0097509","The Hill Farm",7,6.7,309,1,1,0
@@ -3266,16 +3266,16 @@
 "62-1990","tt0097937","My Left Foot",6,7.8,78240,5,3,2
 "62-1990","tt0098067","Parenthood",8,7.1,53606,2,2,0
 "62-1990","tt0098319","Shirley Valentine",NA,7.2,8699,2,2,0
-"62-1990","tt0098384","Steel Magnolias",NA,7.3,61184,1,1,0
+"62-1990","tt0098384","Steel Magnolias",NA,7.3,61183,1,1,0
 "62-1990","tt0098413","Super Chief: The Life and Legacy of Earl Warren",NA,7.3,36,1,1,0
 "62-1990","tt0098575","Valmont",NA,7,14081,1,1,0
 "62-1990","tt0098635","When Harry Met Sally...",6,7.7,234779,1,1,0
 "62-1990","tt0098677","Work Experience",6,6.7,123,1,0,1
 "62-1990","tt0098685","Yad Vashem: Preserving the Past to Ensure the Future",6,6.4,33,1,1,0
-"62-1990","tt0098724","Sex, Lies, and Videotape",NA,7.2,58077,1,1,0
+"62-1990","tt0098724","Sex, Lies, and Videotape",NA,7.2,58075,1,1,0
 "62-1990","tt0100211","Music Box",NA,7.3,8400,1,1,0
 "63-1991","tt0098962","12:01 PM",9,7.6,1473,1,1,0
-"63-1991","tt0099012","Alice",NA,6.6,15054,1,1,0
+"63-1991","tt0099012","Alice",NA,6.6,15052,1,1,0
 "63-1991","tt0099028","American Dream",NA,7.8,986,1,0,1
 "63-1991","tt0099073","Avalon",NA,7.2,6650,4,4,0
 "63-1991","tt0099077","Awakenings",6,7.8,153929,3,3,0
@@ -3285,12 +3285,12 @@
 "63-1991","tt0099191","Burning Down Tomorrow",NA,8,14,1,1,0
 "63-1991","tt0099257","Chimps: So Like Us",NA,7,53,1,1,0
 "63-1991","tt0099317","Creature Comforts",6,7.7,6795,1,0,1
-"63-1991","tt0099334","Cyrano de Bergerac",NA,7.5,25478,5,4,1
+"63-1991","tt0099334","Cyrano de Bergerac",NA,7.5,25477,5,4,1
 "63-1991","tt0099348","Dances with Wolves",7,8,283315,12,5,7
-"63-1991","tt0099371","Days of Thunder",NA,6.1,94356,1,1,0
+"63-1991","tt0099371","Days of Thunder",NA,6.1,94355,1,1,0
 "63-1991","tt0099372","Days of Waiting",NA,7.5,90,1,0,1
 "63-1991","tt0099382","Dear Rosie",NA,6.3,55,1,1,0
-"63-1991","tt0099422","Dick Tracy",NA,6.2,64716,7,4,3
+"63-1991","tt0099422","Dick Tracy",NA,6.2,64715,7,4,3
 "63-1991","tt0099487","Edward Scissorhands",9,7.9,513415,1,1,0
 "63-1991","tt0099566","The Field",NA,7.3,6589,1,1,0
 "63-1991","tt0099582","Flatliners",5,6.5,91595,1,1,0
@@ -3311,25 +3311,25 @@
 "63-1991","tt0100049","Longtime Companion",NA,7.6,6034,1,1,0
 "63-1991","tt0100076","The Lunch Date",8,7.5,1730,1,0,1
 "63-1991","tt0100142","Metropolitan",7,7.3,12061,1,1,0
-"63-1991","tt0100157","Misery",NA,7.8,228239,1,0,1
+"63-1991","tt0100157","Misery",NA,7.8,228235,1,0,1
 "63-1991","tt0100200","Mr. & Mrs. Bridge",NA,6.6,3386,1,1,0
 "63-1991","tt0100389","Open Doors",NA,7.2,982,1,1,0
 "63-1991","tt0100395","Postcards from the Edge",NA,6.7,18956,2,2,0
 "63-1991","tt0100405","Pretty Woman",7,7.1,345804,1,1,0
 "63-1991","tt0100470","Journey of Hope",NA,7.5,2203,1,0,1
-"63-1991","tt0100486","Reversal of Fortune",NA,7.2,17946,3,2,1
+"63-1991","tt0100486","Reversal of Fortune",NA,7.2,17945,3,2,1
 "63-1991","tt0100517","Rose Kennedy: A Life to Remember",NA,6.1,21,1,1,0
 "63-1991","tt0100557","The Nasty Girl",NA,7.3,2723,1,1,0
 "63-1991","tt0100579","Senzeni Na?",NA,6.6,30,1,1,0
 "63-1991","tt0100802","Total Recall",7,7.5,346993,2,2,0
 "63-1991","tt0100900","Waldo Salt: A Screenwriter's Journey",NA,7.1,138,1,1,0
-"63-1991","tt0100935","Wild at Heart",NA,7.2,98857,1,1,0
-"63-1991","tt0100994","Young Guns II",NA,6.5,38290,1,1,0
+"63-1991","tt0100935","Wild at Heart",NA,7.2,98855,1,1,0
+"63-1991","tt0100994","Young Guns II",NA,6.5,38287,1,1,0
 "63-1991","tt0104361","Wallace & Gromit: A Grand Day Out",7,7.7,35724,1,1,0
 "64-1992","tt0099776","Europa Europa",NA,7.6,17195,1,1,0
 "64-1992","tt0101272","The Addams Family",6,6.9,175790,1,1,0
 "64-1992","tt0101393","Backdraft",6,6.7,85850,3,3,0
-"64-1992","tt0101410","Barton Fink",NA,7.6,127062,3,3,0
+"64-1992","tt0101410","Barton Fink",NA,7.6,127059,3,3,0
 "64-1992","tt0101414","Beauty and the Beast",8,8,472255,4,3,1
 "64-1992","tt0101456","Birch Street Gym",NA,6.1,43,1,1,0
 "64-1992","tt0101457","Birdnesters of Thailand",NA,7.5,22,1,1,0
@@ -3339,7 +3339,7 @@
 "64-1992","tt0101526","Children of Nature",NA,7.3,1572,1,1,0
 "64-1992","tt0101540","Cape Fear",6,7.3,210519,2,2,0
 "64-1992","tt0101587","City Slickers",4,6.8,61613,1,0,1
-"64-1992","tt0101605","The Commitments",NA,7.6,37591,1,1,0
+"64-1992","tt0101605","The Commitments",NA,7.6,37590,1,1,0
 "64-1992","tt0101640","Raise the Red Lantern",NA,8.1,34588,1,1,0
 "64-1992","tt0101683","Deadly Deception: General Electric, Nuclear Weapons and Our Environment",NA,6.7,86,1,0,1
 "64-1992","tt0101693","Death on the Job",NA,7,42,1,1,0
@@ -3372,7 +3372,7 @@
 "64-1992","tt0103260","Wild by Law",NA,6.7,30,1,1,0
 "64-1992","tt0108086","Session Man",4,6.4,258,1,0,1
 "65-1993","tt0101270","Adam",7,6.6,629,1,1,0
-"65-1993","tt0101316","The Lover",NA,6.8,23017,1,1,0
+"65-1993","tt0101316","The Lover",NA,6.8,23016,1,1,0
 "65-1993","tt0101811","Enchanted April",NA,7.3,7018,3,3,0
 "65-1993","tt0103176","Close to Eden",NA,7.6,3808,1,1,0
 "65-1993","tt0103639","Aladdin",6,8,452363,4,3,1
@@ -3384,7 +3384,7 @@
 "65-1993","tt0103855","The Bodyguard",5,6.3,144243,1,1,0
 "65-1993","tt0103874","Bram Stoker's Dracula",6,7.4,232662,4,1,3
 "65-1993","tt0103938","Changing Our Minds: The Story of Dr. Evelyn Hooker",NA,6.9,65,1,1,0
-"65-1993","tt0103939","Chaplin",NA,7.5,60889,3,3,0
+"65-1993","tt0103939","Chaplin",NA,7.5,60887,3,3,0
 "65-1993","tt0103985","The Colours of My Father: A Portrait of Sam Borenstein",5,6.3,60,1,1,0
 "65-1993","tt0104007","Contact",NA,6.1,788,1,1,0
 "65-1993","tt0104032","Cruise Control",NA,4.2,62,1,1,0
@@ -3392,13 +3392,13 @@
 "65-1993","tt0104046","Daens",NA,7.6,4322,1,1,0
 "65-1993","tt0104070","Death Becomes Her",7,6.6,127931,1,0,1
 "65-1993","tt0104167","Educating Peter",NA,7.3,206,1,0,1
-"65-1993","tt0104237","Damage",NA,6.7,20005,1,1,0
+"65-1993","tt0104237","Damage",NA,6.7,20004,1,1,0
 "65-1993","tt0104257","A Few Good Men",6,7.7,280328,4,4,0
 "65-1993","tt0104275","Fires of Kuwait",NA,7.3,566,1,1,0
 "65-1993","tt0104348","Glengarry Glen Ross",7,7.7,113255,1,1,0
 "65-1993","tt0104427","Hoffa",NA,6.6,24450,2,2,0
 "65-1993","tt0104454","Howards End",7,7.4,35037,9,6,3
-"65-1993","tt0104466","Husbands and Wives",NA,7.5,30632,2,2,0
+"65-1993","tt0104466","Husbands and Wives",NA,7.5,30631,2,2,0
 "65-1993","tt0104507","Indochine",NA,7,10676,2,1,1
 "65-1993","tt0104669","The Lady in Waiting",7,6.5,51,1,1,0
 "65-1993","tt0104691","The Last of the Mohicans",7,7.7,182172,1,0,1
@@ -3423,14 +3423,14 @@
 "65-1993","tt0105328","Schtonk",NA,7.2,3946,1,1,0
 "65-1993","tt0105335","Screen Play",8,7.4,219,1,1,0
 "65-1993","tt0105506","Swan Song",6,7.4,191,1,1,0
-"65-1993","tt0105629","Toys",NA,5.1,33188,2,2,0
+"65-1993","tt0105629","Toys",NA,5.1,33187,2,2,0
 "65-1993","tt0105690","Under Siege",6,6.5,93335,2,2,0
 "65-1993","tt0105695","Unforgiven",7,8.2,428266,9,5,4
 "65-1993","tt0105805","When Abortion Was Illegal: Untold Stories",NA,6.9,70,1,1,0
 "66-1994","tt0103791","Belle Epoque",NA,7.1,11182,1,0,1
 "66-1994","tt0104403","Hedd Wyn",NA,7.1,443,1,1,0
 "66-1994","tt0106220","Addams Family Values",6,6.8,106740,1,1,0
-"66-1994","tt0106226","The Age of Innocence",NA,7.2,65543,5,4,1
+"66-1994","tt0106226","The Age of Innocence",NA,7.2,65542,5,4,1
 "66-1994","tt0106332","Farewell My Concubine",NA,8.1,32019,2,2,0
 "66-1994","tt0106375","Beethoven's 2nd",3,4.9,29221,1,1,0
 "66-1994","tt0106428","Blindscape",5,6.3,86,1,1,0
@@ -3438,25 +3438,25 @@
 "66-1994","tt0106485","The Broadcast Tapes of Dr. Peter",NA,7.3,52,1,1,0
 "66-1994","tt0106555","Chicks in White Satin",7,6.8,52,1,1,0
 "66-1994","tt0106556","Children of Fate: Life and Death in a Sicilian Family",NA,6.8,51,1,1,0
-"66-1994","tt0106582","Cliffhanger",NA,6.5,137270,3,3,0
+"66-1994","tt0106582","Cliffhanger",NA,6.5,137264,3,3,0
 "66-1994","tt0106673","Dave",6,6.9,56093,1,1,0
 "66-1994","tt0106694","Defending Our Lives",NA,7,75,1,0,1
 "66-1994","tt0106766","Down on the Waterfront",NA,7.8,53,1,1,0
 "66-1994","tt0106881","Fearless",NA,7.1,24041,1,1,0
-"66-1994","tt0106918","The Firm",NA,6.9,143970,2,2,0
+"66-1994","tt0106918","The Firm",NA,6.9,143961,2,2,0
 "66-1994","tt0106939","For Better or for Worse",NA,7.1,38,1,1,0
 "66-1994","tt0106977","The Fugitive",7,7.8,310940,7,6,1
-"66-1994","tt0107004","Geronimo: An American Legend",NA,6.5,13082,1,1,0
+"66-1994","tt0107004","Geronimo: An American Legend",NA,6.5,13081,1,1,0
 "66-1994","tt0107156","The Wedding Banquet",NA,7.6,16718,1,1,0
 "66-1994","tt0107177","I Am a Promise: The Children of Stanton Elementary School",NA,7.1,222,1,0,1
-"66-1994","tt0107206","In the Line of Fire",NA,7.2,111116,3,3,0
+"66-1994","tt0107206","In the Line of Fire",NA,7.2,111111,3,3,0
 "66-1994","tt0107207","In the Name of the Father",10,8.1,183519,7,7,0
 "66-1994","tt0107290","Jurassic Park",9,8.2,1040964,3,0,3
 "66-1994","tt0107574","The Mighty River",NA,7.9,519,1,1,0
 "66-1994","tt0107614","Mrs. Doubtfire",6,7.1,283708,1,0,1
 "66-1994","tt0107617","The Scent of Green Papaya",NA,7.3,9610,1,1,0
 "66-1994","tt0107688","The Nightmare Before Christmas",8,7.9,364788,1,1,0
-"66-1994","tt0107756","Orlando",NA,7.1,18157,2,2,0
+"66-1994","tt0107756","Orlando",NA,7.1,18156,2,2,0
 "66-1994","tt0107818","Philadelphia",7,7.7,253312,4,3,1
 "66-1994","tt0107822","The Piano",8,7.5,93348,8,5,3
 "66-1994","tt0107840","Poetic Justice",NA,6.1,16177,1,1,0
@@ -3464,7 +3464,7 @@
 "66-1994","tt0108052","Schindler's List",8,9,1416007,12,5,7
 "66-1994","tt0108056","Black Rider",7,7.6,1870,1,0,1
 "66-1994","tt0108065","Searching for Bobby Fischer",6,7.4,41717,1,1,0
-"66-1994","tt0108101","Shadowlands",NA,7.3,20118,2,2,0
+"66-1994","tt0108101","Shadowlands",NA,7.3,20117,2,2,0
 "66-1994","tt0108122","Short Cuts",NA,7.7,46770,1,1,0
 "66-1994","tt0108149","Six Degrees of Separation",NA,6.8,22137,1,1,0
 "66-1994","tt0108160","Sleepless in Seattle",5,6.8,186504,2,2,0
@@ -3473,7 +3473,7 @@
 "66-1994","tt0108498","The Screw",NA,7.4,151,1,1,0
 "66-1994","tt0108515","The War Room",NA,7.4,4383,1,1,0
 "66-1994","tt0108550","What's Eating Gilbert Grape",8,7.7,249064,1,1,0
-"66-1994","tt0108551","What's Love Got to Do with It",NA,7.3,24001,2,2,0
+"66-1994","tt0108551","What's Love Got to Do with It",NA,7.3,23999,2,2,0
 "66-1994","tt0108598","Wallace & Gromit: The Wrong Trousers",9,8.3,56304,1,0,1
 "66-1994","tt0110781","Partners",NA,5.7,74,1,1,0
 "66-1994","tt0112917","The Dutch Master",NA,5.4,245,1,1,0
@@ -3487,17 +3487,17 @@
 "67-1995","tt0109306","Blue Sky",NA,6.4,8004,1,0,1
 "67-1995","tt0109308","Blues Highway",NA,6,16,1,1,0
 "67-1995","tt0109348","Bullets Over Broadway",5,7.4,41027,6,6,0
-"67-1995","tt0109444","Clear and Present Danger",NA,6.9,105827,2,2,0
-"67-1995","tt0109446","The Client",NA,6.7,72000,1,1,0
+"67-1995","tt0109444","Clear and Present Danger",NA,6.9,105824,2,2,0
+"67-1995","tt0109446","The Client",NA,6.7,71995,1,1,0
 "67-1995","tt0109465","Complaints of a Dutiful Daughter",NA,7.3,123,1,1,0
-"67-1995","tt0109707","Ed Wood",NA,7.8,181881,2,0,2
+"67-1995","tt0109707","Ed Wood",NA,7.8,181877,2,0,2
 "67-1995","tt0109771","Farinelli",NA,6.8,7161,1,1,0
 "67-1995","tt0109830","Forrest Gump",8,8.8,2193689,13,7,6
 "67-1995","tt0109831","Four Weddings and a Funeral",6,7.1,161697,2,2,0
 "67-1995","tt0109836","Frankenstein",4,6.3,58311,1,1,0
 "67-1995","tt0109839","Freedom on My Mind",9,8,283,1,1,0
 "67-1995","tt0109934","A Great Day in Harlem",NA,7.4,484,1,1,0
-"67-1995","tt0110005","Heavenly Creatures",NA,7.3,66527,1,1,0
+"67-1995","tt0110005","Heavenly Creatures",NA,7.3,66526,1,1,0
 "67-1995","tt0110057","Hoop Dreams",9,8.3,27565,1,1,0
 "67-1995","tt0110148","Interview with the Vampire: The Vampire Chronicles",4,7.5,340668,2,2,0
 "67-1995","tt0110183","The Janitor",4,5.6,143,1,1,0
@@ -3508,20 +3508,20 @@
 "67-1995","tt0110367","Little Women",6,7.3,62065,3,3,0
 "67-1995","tt0110428","The Madness of King George",NA,7.2,17842,4,3,1
 "67-1995","tt0110475","The Mask",7,6.9,409015,1,1,0
-"67-1995","tt0110478","Maverick",NA,7,116878,1,1,0
+"67-1995","tt0110478","Maverick",NA,7,116877,1,1,0
 "67-1995","tt0110480","Maya Lin: A Strong Clear Vision",NA,7.3,523,1,0,1
 "67-1995","tt0110547","The Monk and the Fish",7,7.1,1342,1,1,0
 "67-1995","tt0110638","Nell",NA,6.5,30344,1,1,0
 "67-1995","tt0110684","Nobody's Fool",NA,7.3,22062,2,2,0
 "67-1995","tt0110726","On Hope",NA,6.1,50,1,1,0
-"67-1995","tt0110771","The Paper",NA,6.7,14854,1,1,0
+"67-1995","tt0110771","The Paper",NA,6.7,14853,1,1,0
 "67-1995","tt0110882","Before the Rain",NA,7.9,15626,1,1,0
 "67-1995","tt0110912","Pulp Fiction",8,8.9,2160203,7,6,1
 "67-1995","tt0110932","Quiz Show",8,7.5,72311,4,4,0
 "67-1995","tt0110963","Queen Margot",NA,7.4,18570,1,1,0
 "67-1995","tt0111088","School of the Americas Assassins",NA,6.3,66,1,1,0
 "67-1995","tt0111161","The Shawshank Redemption",8,9.3,2816926,7,7,0
-"67-1995","tt0111257","Speed",NA,7.3,383677,3,1,2
+"67-1995","tt0111257","Speed",NA,7.3,383668,3,1,2
 "67-1995","tt0111295","Straight from the Heart",NA,6,35,1,1,0
 "67-1995","tt0111338","Syrup",NA,6.9,70,1,1,0
 "67-1995","tt0111436","A Time for Justice",NA,6.9,101,1,0,1
@@ -3542,14 +3542,14 @@
 "68-1996","tt0112431","Babe",6,6.9,131709,7,6,1
 "68-1996","tt0112462","Batman Forever",4,5.4,263028,3,3,0
 "68-1996","tt0112573","Braveheart",7,8.3,1073043,10,5,5
-"68-1996","tt0112579","The Bridges of Madison County",NA,7.6,86836,1,1,0
+"68-1996","tt0112579","The Bridges of Madison County",NA,7.6,86835,1,1,0
 "68-1996","tt0112584","Brooms",7,7.1,76,1,1,0
 "68-1996","tt0112641","Casino",7,8.2,549349,1,1,0
 "68-1996","tt0112661","The Chicken from Outer Space",5,7.7,847,1,1,0
 "68-1996","tt0112691","Wallace & Gromit: A Close Shave",9,8.1,42706,1,0,1
-"68-1996","tt0112740","Crimson Tide",NA,7.3,120521,3,3,0
+"68-1996","tt0112740","Crimson Tide",NA,7.3,120517,3,3,0
 "68-1996","tt0112818","Dead Man Walking",8,7.5,99992,4,3,1
-"68-1996","tt0112883","Don Juan DeMarco",NA,6.7,52687,1,1,0
+"68-1996","tt0112883","Don Juan DeMarco",NA,6.7,52686,1,1,0
 "68-1996","tt0112910","Duke of Groove",4,5.8,272,1,1,0
 "68-1996","tt0112958","The End",6,6.1,291,1,1,0
 "68-1996","tt0113138","Gagarin",4,6.8,637,1,1,0
@@ -3561,7 +3561,7 @@
 "68-1996","tt0113670","A Little Princess",NA,7.6,36083,2,2,0
 "68-1996","tt0113671","Little Surprises",NA,7.4,117,1,1,0
 "68-1996","tt0113676","The Living Sea",5,7.1,610,1,1,0
-"68-1996","tt0113720","Love Lessons",NA,6.8,7313,1,1,0
+"68-1996","tt0113720","Love Lessons",NA,6.8,7312,1,1,0
 "68-1996","tt0113819","Mighty Aphrodite",NA,7,42116,2,1,1
 "68-1996","tt0113862","Mr. Holland's Opus",8,7.3,41177,1,1,0
 "68-1996","tt0113896","My Family",NA,7.3,4407,1,1,0
@@ -3623,13 +3623,13 @@
 "69-1997","tt0116886","The Line King: The Al Hirschfeld Story",NA,7.3,429,1,1,0
 "69-1997","tt0116905","Lone Star",NA,7.4,31223,1,1,0
 "69-1997","tt0116980","Mandela",NA,6.9,395,1,1,0
-"69-1997","tt0116999","Marvin's Room",NA,6.7,29518,1,1,0
+"69-1997","tt0116999","Marvin's Room",NA,6.7,29517,1,1,0
 "69-1997","tt0117039","Michael Collins",NA,7.1,33153,2,2,0
 "69-1997","tt0117050","A Chef in Love",NA,6.4,740,1,1,0
 "69-1997","tt0117057","The Mirror Has Two Faces",6,6.6,21330,2,2,0
 "69-1997","tt0117218","The Nutty Professor",6,5.7,121885,1,0,1
 "69-1997","tt0117247","One Fine Day",4,6.5,47922,1,1,0
-"69-1997","tt0117318","The People vs. Larry Flynt",NA,7.3,99273,2,2,0
+"69-1997","tt0117318","The People vs. Larry Flynt",NA,7.3,99271,2,2,0
 "69-1997","tt0117364","The Portrait of a Lady",NA,6.2,12485,2,2,0
 "69-1997","tt0117372","The Preacher's Wife",5,5.7,13207,1,1,0
 "69-1997","tt0117381","Primal Fear",7,7.7,239962,1,1,0
@@ -3666,9 +3666,9 @@
 "70-1998","tt0118749","Boogie Nights",8,7.9,277206,3,3,0
 "70-1998","tt0118880","Con Air",5,6.9,313160,2,2,0
 "70-1998","tt0118884","Contact",9,7.5,287458,1,1,0
-"70-1998","tt0118954","Deconstructing Harry",NA,7.3,47080,1,1,0
-"70-1998","tt0119008","Donnie Brasco",NA,7.7,324540,1,1,0
-"70-1998","tt0119094","Face/Off",NA,7.3,393512,1,1,0
+"70-1998","tt0118954","Deconstructing Harry",NA,7.3,47079,1,1,0
+"70-1998","tt0119008","Donnie Brasco",NA,7.7,324531,1,1,0
+"70-1998","tt0119094","Face/Off",NA,7.3,393505,1,1,0
 "70-1998","tt0119116","The Fifth Element",9,7.6,494806,1,1,0
 "70-1998","tt0119164","The Full Monty",7,7.2,112290,4,3,1
 "70-1998","tt0119177","GATTACA",8,7.7,317281,1,1,0
@@ -3678,9 +3678,9 @@
 "70-1998","tt0119360","In & Out",4,6.4,43520,1,1,0
 "70-1998","tt0119396","Jackie Brown",7,7.5,365671,1,1,0
 "70-1998","tt0119448","Character",NA,7.7,11188,1,0,1
-"70-1998","tt0119485","Kundun",NA,7,29874,4,4,0
+"70-1998","tt0119485","Kundun",NA,7,29872,4,4,0
 "70-1998","tt0119488","L.A. Confidential",8,8.2,604205,9,7,2
-"70-1998","tt0119561","The Long Way Home",NA,7.6,1251,1,0,1
+"70-1998","tt0119561","The Long Way Home",NA,7.6,1250,1,0,1
 "70-1998","tt0119567","The Lost World: Jurassic Park",6,6.5,436378,1,1,0
 "70-1998","tt0119654","Men in Black",8,7.3,598053,3,2,1
 "70-1998","tt0119738","My Best Friend's Wedding",4,6.3,151057,1,1,0
@@ -3694,7 +3694,7 @@
 "70-1998","tt0120402","Ulee's Gold",NA,7,7471,1,1,0
 "70-1998","tt0120472","Waco: The Rules of Engagement",NA,7.9,3694,1,1,0
 "70-1998","tt0120520","The Wings of the Dove",5,7.1,12897,4,4,0
-"70-1998","tt0120885","Wag the Dog",NA,7.1,87321,2,2,0
+"70-1998","tt0120885","Wag the Dog",NA,7.1,87319,2,2,0
 "70-1998","tt0124207","The Thief",NA,7.6,5520,1,1,0
 "70-1998","tt0126249","Colors Straight Up",NA,7.2,76,1,1,0
 "70-1998","tt0127710","The Old Lady and the Pigeons",NA,7.8,2918,1,1,0
@@ -3717,7 +3717,7 @@
 "71-1999","tt0118799","Life Is Beautiful",8,8.6,726791,7,4,3
 "71-1999","tt0118849","Children of Heaven",NA,8.2,78767,1,1,0
 "71-1999","tt0119314","The Horse Whisperer",6,6.7,42916,1,1,0
-"71-1999","tt0119942","Primary Colors",NA,6.7,29791,2,2,0
+"71-1999","tt0119942","Primary Colors",NA,6.7,29790,2,2,0
 "71-1999","tt0120274","Tango",NA,7,3038,1,1,0
 "71-1999","tt0120324","A Simple Plan",6,7.5,74536,2,2,0
 "71-1999","tt0120382","The Truman Show",8,8.2,1155540,3,3,0
@@ -3769,10 +3769,10 @@
 "72-2000","tt0120601","Being John Malkovich",7,7.7,348504,3,3,0
 "72-2000","tt0120616","The Mummy",4,7.1,451465,1,1,0
 "72-2000","tt0120689","The Green Mile",7,8.6,1370125,4,4,0
-"72-2000","tt0120802","The Red Violin",NA,7.6,34149,1,0,1
+"72-2000","tt0120802","The Red Violin",NA,7.6,34147,1,0,1
 "72-2000","tt0120834","Snow Falling on Cedars",6,6.7,14457,1,1,0
 "72-2000","tt0120855","Tarzan",6,7.3,241202,1,0,1
-"72-2000","tt0120866","Titus",NA,7.1,21230,1,1,0
+"72-2000","tt0120866","Titus",NA,7.1,21229,1,1,0
 "72-2000","tt0120915","Star Wars: Episode I - The Phantom Menace",3,6.5,839792,3,3,0
 "72-2000","tt0123964","Life",NA,6.8,53732,1,1,0
 "72-2000","tt0124315","The Cider House Rules",6,7.4,103465,7,5,2
@@ -3791,23 +3791,23 @@
 "72-2000","tt0162661","Sleepy Hollow",6,7.3,377843,3,2,1
 "72-2000","tt0164912","Stuart Little",3,6,145269,1,1,0
 "72-2000","tt0166485","Anna and the King",4,6.7,38457,2,2,0
-"72-2000","tt0166896","The Straight Story",NA,8,95151,1,1,0
-"72-2000","tt0166943","Music of the Heart",NA,6.8,13186,2,2,0
+"72-2000","tt0166896","The Straight Story",NA,8,95150,1,1,0
+"72-2000","tt0166943","Music of the Heart",NA,6.8,13185,2,2,0
 "72-2000","tt0167404","The Sixth Sense",8,8.2,1030179,6,6,0
 "72-2000","tt0169547","American Beauty",9,8.3,1191186,8,3,5
 "72-2000","tt0171804","Boys Don't Cry",8,7.5,101926,2,1,1
 "72-2000","tt0172396","The End of the Affair",NA,7,23652,2,2,0
 "72-2000","tt0172493","Girl, Interrupted",6,7.3,204539,1,0,1
 "72-2000","tt0174856","The Hurricane",NA,7.6,100928,1,1,0
-"72-2000","tt0175880","Magnolia",NA,8,323938,3,3,0
+"72-2000","tt0175880","Magnolia",NA,8,323934,3,3,0
 "72-2000","tt0177023","My Mother Dreams the Satan's Disciples in New York",NA,7,164,1,0,1
 "72-2000","tt0181530","East/West",NA,7.4,5071,1,1,0
 "72-2000","tt0181733","On the Ropes",NA,7.3,478,1,1,0
 "72-2000","tt0181830","Solomon & Gaenor",NA,6.8,1441,1,1,0
 "72-2000","tt0181835","Speaking in Strings",NA,6.7,233,1,1,0
 "72-2000","tt0182789","Bicentennial Man",2,6.9,122700,1,1,0
-"72-2000","tt0185125","All About My Mother",NA,7.8,101326,1,0,1
-"72-2000","tt0186508","Buena Vista Social Club",NA,7.6,20049,1,1,0
+"72-2000","tt0185125","All About My Mother",NA,7.8,101325,1,0,1
+"72-2000","tt0186508","Buena Vista Social Club",NA,7.6,20048,1,1,0
 "72-2000","tt0187859","Genghis Blues",NA,7.8,1419,1,1,0
 "72-2000","tt0191850","Theis and Nico",NA,6.6,93,1,1,0
 "72-2000","tt0192145","Humdrum",5,6.7,416,1,1,0
@@ -3826,8 +3826,8 @@
 "73-2001","tt0120917","The Emperor's New Groove",5,7.4,219066,1,1,0
 "73-2001","tt0141926","U-571",5,6.6,85575,2,1,1
 "73-2001","tt0162222","Cast Away",7,7.8,623676,2,2,0
-"73-2001","tt0164052","Hollow Man",NA,5.8,136366,1,1,0
-"73-2001","tt0168629","Dancer in the Dark",NA,7.9,114798,1,1,0
+"73-2001","tt0164052","Hollow Man",NA,5.8,136364,1,1,0
+"73-2001","tt0168629","Dancer in the Dark",NA,7.9,114796,1,1,0
 "73-2001","tt0170016","How the Grinch Stole Christmas",4,6.3,273476,3,2,1
 "73-2001","tt0172495","Gladiator",6,8.5,1573717,12,7,5
 "73-2001","tt0177971","The Perfect Storm",5,6.5,175249,2,2,0
@@ -3840,19 +3840,19 @@
 "73-2001","tt0186566","Space Cowboys",4,6.5,84888,1,1,0
 "73-2001","tt0187393","The Patriot",6,7.2,288183,3,3,0
 "73-2001","tt0188028","Legacy",NA,6.9,157,1,1,0
-"73-2001","tt0189998","Shadow of the Vampire",NA,6.9,43596,2,2,0
+"73-2001","tt0189998","Shadow of the Vampire",NA,6.9,43595,2,2,0
 "73-2001","tt0190332","Crouching Tiger, Hidden Dragon",8,7.9,278323,10,6,4
 "73-2001","tt0190590","O Brother, Where Art Thou?",6,7.7,324892,2,2,0
 "73-2001","tt0190861","Vatel",NA,6.6,8144,1,1,0
 "73-2001","tt0195685","Erin Brockovich",7,7.4,213187,5,4,1
-"73-2001","tt0203230","You Can Count on Me",NA,7.5,31003,2,2,0
+"73-2001","tt0203230","You Can Count on Me",NA,7.5,31002,2,2,0
 "73-2001","tt0207112","Uma História de Futebol",NA,7.2,186,1,1,0
 "73-2001","tt0208874","The Contender",NA,6.9,24790,2,2,0
 "73-2001","tt0209037","Everybody's Famous!",NA,6.9,3316,1,1,0
 "73-2001","tt0209958","The Cell",4,6.4,107327,1,1,0
 "73-2001","tt0211181","102 Dalmatians",2,4.8,39053,1,1,0
 "73-2001","tt0212338","Meet the Parents",5,7,348718,1,1,0
-"73-2001","tt0213847","Malena",NA,7.4,109422,2,2,0
+"73-2001","tt0213847","Malena",NA,7.4,109415,2,2,0
 "73-2001","tt0216131","Quiero ser (I want to be...)",NA,7.2,362,1,0,1
 "73-2001","tt0216787","The Taste of Others",NA,7.2,10243,1,1,0
 "73-2001","tt0234288","Divided We Fall",NA,7.6,5324,1,1,0
@@ -3881,7 +3881,7 @@
 "74-2002","tt0139654","Training Day",8,7.7,461169,2,1,1
 "74-2002","tt0162346","Ghost World",7,7.3,125096,1,1,0
 "74-2002","tt0166924","Mulholland Drive",7,7.9,375163,1,1,0
-"74-2002","tt0169102","Lagaan: Once Upon a Time in India",NA,8.1,118610,1,1,0
+"74-2002","tt0169102","Lagaan: Once Upon a Time in India",NA,8.1,118609,1,1,0
 "74-2002","tt0182014","Copy Shop",9,7.4,1781,1,1,0
 "74-2002","tt0198781","Monsters, Inc.",8,8.1,955336,4,3,1
 "74-2002","tt0203009","Moulin Rouge!",7,7.6,295169,8,6,2
@@ -3896,7 +3896,7 @@
 "74-2002","tt0243133","The Man Who Wasn't There",NA,7.5,113526,1,1,0
 "74-2002","tt0243155","Bridget Jones's Diary",8,6.8,256651,1,1,0
 "74-2002","tt0247425","In the Bedroom",8,7.4,41738,5,5,0
-"74-2002","tt0248667","Ali",NA,6.7,104031,2,2,0
+"74-2002","tt0248667","Ali",NA,6.7,104030,2,2,0
 "74-2002","tt0248808","For the Birds",7,8,33509,1,0,1
 "74-2002","tt0259711","Vanilla Sky",4,6.9,281159,1,1,0
 "74-2002","tt0264476","Children Underground",NA,8.2,2429,1,1,0
@@ -3911,8 +3911,8 @@
 "74-2002","tt0280707","Gosford Park",6,7.2,92201,6,5,1
 "74-2002","tt0280778","Iris",6,7,18911,3,2,1
 "74-2002","tt0282864","Promises",NA,8.3,2700,1,1,0
-"74-2002","tt0283509","No Man's Land",NA,7.9,48367,1,0,1
-"74-2002","tt0285742","Monster's Ball",NA,7.1,92832,2,1,1
+"74-2002","tt0283509","No Man's Land",NA,7.9,48366,1,0,1
+"74-2002","tt0285742","Monster's Ball",NA,7.1,92830,2,1,1
 "74-2002","tt0289073","Artists and Orphans: A True Drama",NA,4.8,27,1,1,0
 "74-2002","tt0292542","Son of the Bride",NA,7.8,16268,1,1,0
 "74-2002","tt0296874","Strange Invaders",4,6.5,649,1,1,0
@@ -3925,7 +3925,7 @@
 "74-2002","tt0308899","Sing!",NA,6.3,28,1,1,0
 "74-2002","tt0309061","War Photographer",NA,7.9,4266,1,1,0
 "74-2002","tt0309121","Stubble Trouble",4,6,310,1,1,0
-"75-2003","tt0120679","Frida",NA,7.3,93913,6,4,2
+"75-2003","tt0120679","Frida",NA,7.3,93911,6,4,2
 "75-2003","tt0121765","Star Wars: Episode II - Attack of the Clones",3,6.6,743574,1,1,0
 "75-2003","tt0133240","Treasure Planet",6,7.2,128984,1,1,0
 "75-2003","tt0145487","Spider-Man",4,7.4,858485,2,2,0
@@ -3936,7 +3936,7 @@
 "75-2003","tt0217505","Gangs of New York",6,7.5,463775,10,10,0
 "75-2003","tt0245157","Zus & zo",NA,6.1,1672,1,1,0
 "75-2003","tt0245429","Spirited Away",8,8.6,817156,1,0,1
-"75-2003","tt0245574","And Your Mother Too",NA,7.7,127410,1,1,0
+"75-2003","tt0245574","And Your Mother Too",NA,7.7,127409,1,1,0
 "75-2003","tt0250797","Unfaithful",5,6.7,95566,1,1,0
 "75-2003","tt0253474","The Pianist",8,8.5,885010,7,4,3
 "75-2003","tt0257044","Road to Perdition",6,7.7,279943,6,5,1
@@ -3946,17 +3946,17 @@
 "75-2003","tt0264464","Catch Me If You Can",7,8.1,1057211,2,2,0
 "75-2003","tt0268126","Adaptation.",5,7.7,199741,4,3,1
 "75-2003","tt0268380","Ice Age",6,7.5,506082,1,1,0
-"75-2003","tt0268695","The Time Machine",NA,6,128705,1,1,0
+"75-2003","tt0268695","The Time Machine",NA,6,128702,1,1,0
 "75-2003","tt0274558","The Hours",6,7.5,136843,9,8,1
 "75-2003","tt0275847","Lilo & Stitch",8,7.3,205821,1,1,0
 "75-2003","tt0276751","About a Boy",8,7.1,189479,1,1,0
 "75-2003","tt0281850","Gridlock",7,7.4,832,1,1,0
 "75-2003","tt0282120","The Wild Thornberrys",NA,5.6,15117,1,1,0
-"75-2003","tt0287467","Talk to Her",NA,7.9,116235,2,1,1
+"75-2003","tt0287467","Talk to Her",NA,7.9,116234,2,1,1
 "75-2003","tt0297884","Far from Heaven",NA,7.3,48384,4,4,0
 "75-2003","tt0298203","8 Mile",6,7.2,311599,1,0,1
 "75-2003","tt0299658","Chicago",7,7.2,239156,12,7,5
-"75-2003","tt0299977","Hero",NA,7.9,185984,1,1,0
+"75-2003","tt0299977","Hero",NA,7.9,185983,1,1,0
 "75-2003","tt0301727","Winged Migration",NA,7.9,12206,1,1,0
 "75-2003","tt0303281","Daughter from Danang",NA,7.5,614,1,1,0
 "75-2003","tt0303350","Dog",NA,7.1,389,1,1,0
@@ -4034,7 +4034,7 @@
 "77-2005","tt0316654","Spider-Man 2",3,7.5,690096,3,2,1
 "77-2005","tt0317705","The Incredibles",8,8,784694,4,2,2
 "77-2005","tt0318462","The Motorcycle Diaries",6,7.7,103924,2,1,1
-"77-2005","tt0332452","Troy",NA,7.3,558740,1,1,0
+"77-2005","tt0332452","Troy",NA,7.3,558733,1,1,0
 "77-2005","tt0335345","The Passion of the Christ",6,7.2,245258,3,3,0
 "77-2005","tt0338013","Eternal Sunshine of the Spotless Mind",5,8.3,1052129,2,1,1
 "77-2005","tt0338348","The Polar Express",5,6.6,227819,3,3,0
@@ -4046,11 +4046,11 @@
 "77-2005","tt0344510","A Very Long Engagement",7,7.6,75352,2,2,0
 "77-2005","tt0350258","Ray",7,7.7,154864,6,4,2
 "77-2005","tt0362269","Kinsey",6,7.1,50579,1,1,0
-"77-2005","tt0363163","Downfall",NA,8.2,368643,1,1,0
+"77-2005","tt0363163","Downfall",NA,8.2,368640,1,1,0
 "77-2005","tt0368447","The Village",4,6.6,273174,1,1,0
 "77-2005","tt0369339","Collateral",6,7.5,424869,2,2,0
 "77-2005","tt0369702","The Sea Inside",8,8,84308,2,1,1
-"77-2005","tt0372824","The Chorus",NA,7.8,65830,2,2,0
+"77-2005","tt0372824","The Chorus",NA,7.8,65828,2,2,0
 "77-2005","tt0373861","The Story of the Weeping Camel",NA,7.4,6383,1,1,0
 "77-2005","tt0375063","Sideways",7,7.5,198718,5,4,1
 "77-2005","tt0376541","Closer",6,7.2,231565,2,2,0
@@ -4099,8 +4099,8 @@
 "78-2006","tt0388795","Brokeback Mountain",8,7.7,374321,8,5,3
 "78-2006","tt0395972","North Country",6,7.3,44410,2,2,0
 "78-2006","tt0397535","Memoirs of a Geisha",5,7.3,157586,6,3,3
-"78-2006","tt0399146","A History of Violence",NA,7.4,248928,2,2,0
-"78-2006","tt0402399","The New World",NA,6.7,88800,1,1,0
+"78-2006","tt0399146","A History of Violence",NA,7.4,248923,2,2,0
+"78-2006","tt0402399","The New World",NA,6.7,88799,1,1,0
 "78-2006","tt0407265","Transamerica",6,7.4,42129,2,2,0
 "78-2006","tt0407304","War of the Worlds",3,6.5,467385,3,3,0
 "78-2006","tt0408306","Munich",5,7.5,235128,5,5,0
@@ -4111,7 +4111,7 @@
 "78-2006","tt0416320","Match Point",5,7.6,225207,1,1,0
 "78-2006","tt0418773","Junebug",NA,6.9,23284,1,1,0
 "78-2006","tt0424024","Darwin's Nightmare",NA,7.4,5626,1,1,0
-"78-2006","tt0424205","Joyeux Noel",NA,7.7,31117,1,1,0
+"78-2006","tt0424205","Joyeux Noel",NA,7.7,31116,1,1,0
 "78-2006","tt0425458","Six Shooter",6,7.4,13963,1,0,1
 "78-2006","tt0426578","Sophie Scholl: The Final Days",NA,7.6,28378,1,1,0
 "78-2006","tt0427617","Our Time Is Up",NA,7.2,942,1,1,0
@@ -4121,7 +4121,7 @@
 "78-2006","tt0439676","The Death of Kevin Carter: Casualty of the Bang Bang Club",NA,7,168,1,1,0
 "78-2006","tt0443424","9",7,7.7,6800,1,1,0
 "78-2006","tt0443446","Don't Tell",NA,6.4,2565,1,1,0
-"78-2006","tt0445620","Paradise Now",NA,7.4,23856,1,1,0
+"78-2006","tt0445620","Paradise Now",NA,7.4,23854,1,1,0
 "78-2006","tt0449619","The Moon and the Son: An Imagined Conversation",NA,6.9,673,1,0,1
 "78-2006","tt0452139","The Runaway",NA,7,395,1,1,0
 "78-2006","tt0455912","Badgered",6,6.4,724,1,1,0
@@ -4133,7 +4133,7 @@
 "78-2006","tt0480247","God Sleeps in Rwanda",NA,7.3,129,1,1,0
 "78-2006","tt0491795","A Note of Triumph: The Golden Age of Norman Corwin",NA,7.1,131,1,0,1
 "78-2006","tt0762119","The Mushroom Club",NA,6.8,69,1,1,0
-"78-2006","tt1016268","Enron: The Smartest Guys in the Room",NA,7.6,19787,1,1,0
+"78-2006","tt1016268","Enron: The Smartest Guys in the Room",NA,7.6,19786,1,1,0
 "79-2007","tt0206634","Children of Men",7,7.9,520109,3,3,0
 "79-2007","tt0240200","Water",NA,7.7,15243,1,1,0
 "79-2007","tt0317219","Cars",4,7.2,453207,2,2,0
@@ -4152,7 +4152,7 @@
 "79-2007","tt0422720","Marie Antoinette",4,6.5,118215,1,0,1
 "79-2007","tt0436697","The Queen",7,7.3,114860,6,5,1
 "79-2007","tt0438575","West Bank Story",6,7.2,1678,1,0,1
-"79-2007","tt0441909","Volver",NA,7.6,106087,1,1,0
+"79-2007","tt0441909","Volver",NA,7.6,106085,1,1,0
 "79-2007","tt0442001","Binta and the Great Idea",7,7.2,540,1,1,0
 "79-2007","tt0443453","Borat",6,7.4,432026,1,1,0
 "79-2007","tt0443489","Dreamgirls",8,6.6,76254,6,4,2
@@ -4173,7 +4173,7 @@
 "79-2007","tt0468489","Half Nelson",6,7.1,90575,1,1,0
 "79-2007","tt0472043","Apocalypto",6,7.8,325266,3,3,0
 "79-2007","tt0473444","Curse of the Golden Flower",NA,7,45545,1,1,0
-"79-2007","tt0475276","United 93",NA,7.6,109841,2,2,0
+"79-2007","tt0475276","United 93",NA,7.6,109839,2,2,0
 "79-2007","tt0482571","The Prestige",7,8.5,1405428,2,2,0
 "79-2007","tt0486358","Jesus Camp",7,7.4,28564,1,1,0
 "79-2007","tt0489327","Venus",NA,7.1,13333,1,1,0
@@ -4193,14 +4193,14 @@
 "79-2007","tt0982919","Rehearsing a Dream",NA,7,53,1,1,0
 "79-2007","tt4425258","My Country, My Country",NA,7.1,399,1,1,0
 "80-2008","tt0368794","I'm Not There",5,6.8,60485,1,1,0
-"80-2008","tt0381849","3:10 to Yuma",NA,7.7,325951,2,2,0
+"80-2008","tt0381849","3:10 to Yuma",NA,7.7,325949,2,2,0
 "80-2008","tt0382932","Ratatouille",8,8.1,795192,5,4,1
 "80-2008","tt0385752","The Golden Compass",5,6.1,194573,2,1,1
 "80-2008","tt0386032","Sicko",7,8,76500,1,1,0
 "80-2008","tt0401383","The Diving Bell and the Butterfly",9,8,109672,4,4,0
 "80-2008","tt0408236","Sweeney Todd: The Demon Barber of Fleet Street",6,7.3,381755,3,2,1
 "80-2008","tt0414055","Elizabeth: The Golden Age",5,6.8,74173,2,1,1
-"80-2008","tt0416044","Mongol: The Rise of Genghis Khan",NA,7.2,48490,1,1,0
+"80-2008","tt0416044","Mongol: The Rise of Genghis Khan",NA,7.2,48489,1,1,0
 "80-2008","tt0418279","Transformers",5,7,665263,3,3,0
 "80-2008","tt0419887","The Kite Runner",7,7.6,81917,1,1,0
 "80-2008","tt0423294","Surf's Up",6,6.7,88006,1,1,0
@@ -4216,9 +4216,9 @@
 "80-2008","tt0467406","Juno",7,7.5,541603,4,3,1
 "80-2008","tt0469494","There Will Be Blood",9,8.2,623850,8,6,2
 "80-2008","tt0472062","Charlie Wilson's War",5,7,123474,1,1,0
-"80-2008","tt0477051","Norbit",NA,4.2,78028,1,1,0
+"80-2008","tt0477051","Norbit",NA,4.2,78025,1,1,0
 "80-2008","tt0477348","No Country for Old Men",9,8.2,1030322,8,4,4
-"80-2008","tt0478134","In the Valley of Elah",NA,7.2,74513,1,1,0
+"80-2008","tt0478134","In the Valley of Elah",NA,7.2,74512,1,1,0
 "80-2008","tt0488478","12",NA,7.6,15178,1,1,0
 "80-2008","tt0491747","Away from Her",NA,7.5,22865,2,2,0
 "80-2008","tt0758732","Beaufort",NA,6.7,4807,1,1,0
@@ -4237,7 +4237,7 @@
 "80-2008","tt0863136","Peter and The Wolf",6,7.5,4258,1,0,1
 "80-2008","tt0874952","My Love",NA,7.9,1606,1,1,0
 "80-2008","tt0879843","Katyn",NA,7,17191,1,1,0
-"80-2008","tt0907657","Once",NA,7.8,120067,1,0,1
+"80-2008","tt0907657","Once",NA,7.8,120066,1,0,1
 "80-2008","tt0912593","No End in Sight",NA,8.2,8566,1,1,0
 "80-2008","tt0912599","War Dance",NA,7.8,1194,1,1,0
 "80-2008","tt0914369","Freeheld",8,7.7,353,1,0,1
@@ -4252,12 +4252,12 @@
 "80-2008","tt1176466","The Tonto Woman",NA,6.9,637,1,1,0
 "81-2009","tt0371746","Iron Man",6,7.9,1102627,2,2,0
 "81-2009","tt0397892","Bolt",6,6.8,224010,1,1,0
-"81-2009","tt0411477","Hellboy II: The Golden Army",NA,7,282193,1,1,0
+"81-2009","tt0411477","Hellboy II: The Golden Army",NA,7,282192,1,1,0
 "81-2009","tt0421715","The Curious Case of Benjamin Button",6,7.8,681225,13,10,3
 "81-2009","tt0441773","Kung Fu Panda",7,7.6,502012,1,1,0
 "81-2009","tt0455824","Australia",NA,6.6,128035,1,1,0
 "81-2009","tt0468569","The Dark Knight",9,9,2798454,8,6,2
-"81-2009","tt0493464","Wanted",NA,6.7,403269,2,2,0
+"81-2009","tt0493464","Wanted",NA,6.7,403265,2,2,0
 "81-2009","tt0497465","Vicky Cristina Barcelona",7,7.1,265478,1,0,1
 "81-2009","tt0765432","The Baader Meinhof Complex",NA,7.3,39430,1,1,0
 "81-2009","tt0780536","In Bruges",5,7.9,452783,1,1,0
@@ -4274,19 +4274,19 @@
 "81-2009","tt0983242","Lavatory Lovestory",NA,7.1,1725,1,1,0
 "81-2009","tt1010048","Slumdog Millionaire",8,8,867466,9,2,7
 "81-2009","tt1013753","Milk",8,7.5,178147,8,6,2
-"81-2009","tt1034303","Defiance",NA,7.1,153815,1,1,0
+"81-2009","tt1034303","Defiance",NA,7.1,153813,1,1,0
 "81-2009","tt1045670","Happy-Go-Lucky",NA,7,40702,1,1,0
 "81-2009","tt1068646","The Class",NA,7.5,36155,1,1,0
 "81-2009","tt1069238","Departures",7,8,54190,1,0,1
 "81-2009","tt1084950","Rachel Getting Married",6,6.7,50677,1,1,0
 "81-2009","tt1093824","Encounters at the End of the World",NA,7.7,19021,1,1,0
 "81-2009","tt1095191","New Boy",NA,7.1,1193,1,1,0
-"81-2009","tt1125849","The Wrestler",NA,7.9,316232,2,2,0
+"81-2009","tt1125849","The Wrestler",NA,7.9,316228,2,2,0
 "81-2009","tt1149405","Trouble the Water",NA,7.3,2062,1,1,0
 "81-2009","tt1155592","Man on Wire",8,7.7,57986,1,0,1
 "81-2009","tt1157685","The Betrayal",NA,7,453,1,1,0
 "81-2009","tt1173745","Revanche",8,7.5,15663,1,1,0
-"81-2009","tt1185616","Waltz with Bashir",NA,8,59708,1,1,0
+"81-2009","tt1185616","Waltz with Bashir",NA,8,59707,1,1,0
 "81-2009","tt1186020","Manon on the Asphalt",NA,7.5,345,1,1,0
 "81-2009","tt1219675","On the Line",NA,7.5,423,1,1,0
 "81-2009","tt1245104","Presto",8,8.3,25412,1,1,0
@@ -4326,20 +4326,20 @@
 "82-2010","tt1049413","Up",9,8.3,1097203,5,3,2
 "82-2010","tt1054606","The Imaginarium of Doctor Parnassus",NA,6.8,152777,2,2,0
 "82-2010","tt1055369","Transformers: Revenge of the Fallen",3,6,422551,1,1,0
-"82-2010","tt1057500","Invictus",NA,7.3,165826,2,2,0
+"82-2010","tt1057500","Invictus",NA,7.3,165824,2,2,0
 "82-2010","tt1077262","Ajami",NA,7.3,6452,1,1,0
 "82-2010","tt1118511","Wallace & Gromit: A Matter of Loaf and Death",8,7.6,17843,1,1,0
 "82-2010","tt1135503","Julie & Julia",6,7,126589,1,1,0
 "82-2010","tt1136608","District 9",7,7.9,705641,4,4,0
-"82-2010","tt1149362","The White Ribbon",NA,7.8,76509,2,2,0
+"82-2010","tt1149362","The White Ribbon",NA,7.8,76508,2,2,0
 "82-2010","tt1174732","An Education",6,7.3,137232,3,3,0
 "82-2010","tt1193138","Up in the Air",8,7.4,345919,5,5,0
 "82-2010","tt1206488","The Milk of Sorrow",NA,6.7,7277,1,1,0
 "82-2010","tt1226774","In the Loop",NA,7.4,60649,1,1,0
-"82-2010","tt1235166","A Prophet",NA,7.8,101154,1,1,0
+"82-2010","tt1235166","A Prophet",NA,7.8,101153,1,1,0
 "82-2010","tt1263670","Crazy Heart",NA,7.2,93413,3,1,2
 "82-2010","tt1286537","Food, Inc.",NA,7.8,51898,1,1,0
-"82-2010","tt1305806","The Secret in Their Eyes",NA,8.2,218323,1,0,1
+"82-2010","tt1305806","The Secret in Their Eyes",NA,8.2,218322,1,0,1
 "82-2010","tt1313104","The Cove",7,8.4,50898,1,0,1
 "82-2010","tt1315981","A Single Man",7,7.5,116406,1,1,0
 "82-2010","tt1319726","The Most Dangerous Man in America: Daniel Ellsberg and the Pentagon Papers",NA,7.7,2405,1,1,0
@@ -4360,10 +4360,10 @@
 "82-2010","tt1563725","Logorama",7,7.5,6205,1,0,1
 "83-2011","tt0398286","Tangled",6,7.7,481255,1,1,0
 "83-2011","tt0435761","Toy Story 3",7,8.3,874303,5,3,2
-"83-2011","tt0477080","Unstoppable",NA,6.8,204930,1,1,0
+"83-2011","tt0477080","Unstoppable",NA,6.8,204927,1,1,0
 "83-2011","tt0775489","The Illusionist",7,7.5,36201,1,1,0
-"83-2011","tt0780653","The Wolfman",NA,5.8,110185,1,0,1
-"83-2011","tt0840361","The Town",NA,7.5,408059,1,1,0
+"83-2011","tt0780653","The Wolfman",NA,5.8,110181,1,0,1
+"83-2011","tt0840361","The Town",NA,7.5,408052,1,1,0
 "83-2011","tt0842926","The Kids Are All Right",6,7,133447,4,4,0
 "83-2011","tt0892769","How to Train Your Dragon",7,8.1,780237,2,2,0
 "83-2011","tt0926084","Harry Potter and the Deathly Hallows: Part 1",6,7.7,582047,2,2,0
@@ -4372,7 +4372,7 @@
 "83-2011","tt0947798","Black Swan",9,8,804743,5,4,1
 "83-2011","tt0964517","The Fighter",8,7.8,383104,6,5,1
 "83-2011","tt1014759","Alice in Wonderland",4,6.4,433075,3,1,2
-"83-2011","tt1023114","The Way Back",NA,7.3,120504,1,1,0
+"83-2011","tt1023114","The Way Back",NA,7.3,120502,1,1,0
 "83-2011","tt1104001","TRON: Legacy",6,6.8,350336,1,1,0
 "83-2011","tt1120985","Blue Valentine",5,7.3,207432,1,1,0
 "83-2011","tt1164999","Biutiful",NA,7.4,93660,2,2,0
@@ -4380,18 +4380,18 @@
 "83-2011","tt1226236","I Am Love",NA,7,23585,1,1,0
 "83-2011","tt1228705","Iron Man 2",5,6.9,852248,1,1,0
 "83-2011","tt1229381","Outside the Law",NA,6.6,4064,1,1,0
-"83-2011","tt1255953","Incendies",NA,8.3,191073,1,1,0
+"83-2011","tt1255953","Incendies",NA,8.3,191070,1,1,0
 "83-2011","tt1268204","Waste Land",NA,7.8,9309,1,1,0
 "83-2011","tt1274300","The Tempest",NA,5.3,8132,1,1,0
 "83-2011","tt1285016","The Social Network",6,7.8,740043,8,5,3
 "83-2011","tt1313092","Animal Kingdom",NA,7.2,59700,1,1,0
 "83-2011","tt1340107","In a Better World",NA,7.6,41103,1,0,1
 "83-2011","tt1375666","Inception",8,8.8,2483794,8,4,4
-"83-2011","tt1379182","Dogtooth",NA,7.2,104237,1,1,0
+"83-2011","tt1379182","Dogtooth",NA,7.2,104233,1,1,0
 "83-2011","tt1399683","Winter's Bone",7,7.1,147813,4,4,0
 "83-2011","tt1403865","True Grit",6,7.6,352228,10,10,0
 "83-2011","tt1423894","Barney's Version",NA,7.3,25886,1,1,0
-"83-2011","tt1431181","Another Year",NA,7.4,30572,1,1,0
+"83-2011","tt1431181","Another Year",NA,7.4,30571,1,1,0
 "83-2011","tt1461418","The Gruffalo",NA,7.5,7413,1,1,0
 "83-2011","tt1470652","Let's Pollute",4,6.5,639,1,1,0
 "83-2011","tt1504320","The King's Speech",8,8,699613,12,8,4
@@ -4399,7 +4399,7 @@
 "83-2011","tt1509756","The Crush",NA,6.6,1675,1,1,0
 "83-2011","tt1518330","Wish 143",NA,7.2,598,1,1,0
 "83-2011","tt1542344","127 Hours",6,7.5,393821,6,6,0
-"83-2011","tt1555064","Country Strong",NA,6.3,18775,1,1,0
+"83-2011","tt1555064","Country Strong",NA,6.3,18774,1,1,0
 "83-2011","tt1558250","GasLand",NA,7.6,11061,1,1,0
 "83-2011","tt1559549","Restrepo",NA,7.4,24235,1,1,0
 "83-2011","tt1587707","Exit Through the Gift Shop",7,7.9,68121,1,1,0
@@ -4436,12 +4436,12 @@
 "84-2012","tt1340800","Tinker Tailor Soldier Spy",6,7,209395,3,3,0
 "84-2012","tt1399103","Transformers: Dark of the Moon",2,6.2,426489,3,3,0
 "84-2012","tt1417075","In Darkness",NA,7.3,11067,1,1,0
-"84-2012","tt1436562","Rio",NA,6.9,242674,1,1,0
+"84-2012","tt1436562","Rio",NA,6.9,242668,1,1,0
 "84-2012","tt1440266","Pina",NA,7.6,15682,1,1,0
 "84-2012","tt1445520","Footnote",NA,7.1,6250,1,1,0
 "84-2012","tt1454029","The Help",6,8.1,482182,3,3,0
 "84-2012","tt1478338","Bridesmaids",6,6.8,304749,2,2,0
-"84-2012","tt1521197","Anonymous",NA,6.8,41824,1,1,0
+"84-2012","tt1521197","Anonymous",NA,6.8,41823,1,1,0
 "84-2012","tt1532503","Beginners",6,7.2,94117,1,0,1
 "84-2012","tt1536048","W.E.",5,6.2,13441,1,1,0
 "84-2012","tt1554091","A Better Life",7,7.2,16403,1,1,0
@@ -4479,7 +4479,7 @@
 "85-2013","tt0454876","Life of Pi",5,7.9,655324,11,7,4
 "85-2013","tt0848228","The Avengers",5,8,1438274,1,1,0
 "85-2013","tt0903624","The Hobbit: An Unexpected Journey",3,7.8,856572,3,3,0
-"85-2013","tt0975645","Hitchcock",NA,6.8,78420,1,1,0
+"85-2013","tt0975645","Hitchcock",NA,6.8,78419,1,1,0
 "85-2013","tt1024648","Argo",6,7.7,631361,7,4,3
 "85-2013","tt1045658","Silver Linings Playbook",9,7.7,731519,8,7,1
 "85-2013","tt1074638","Skyfall",8,7.8,719843,5,3,2
@@ -4494,7 +4494,7 @@
 "85-2013","tt1613750","Kon-Tiki",7,7.1,51239,1,1,0
 "85-2013","tt1623288","ParaNorman",7,7,108465,1,1,0
 "85-2013","tt1637725","Ted",6,6.9,641657,1,1,0
-"85-2013","tt1649419","The Impossible",NA,7.5,235949,1,1,0
+"85-2013","tt1649419","The Impossible",NA,7.5,235945,1,1,0
 "85-2013","tt1667353","Mirror Mirror",3,5.6,90186,1,1,0
 "85-2013","tt1707386","Les Misérables",6,7.5,341124,8,5,3
 "85-2013","tt1735898","Snow White and the Huntsman",4,6.1,298844,2,2,0
@@ -4532,16 +4532,16 @@
 "86-2014","tt0790636","Dallas Buyers Club",7,7.9,509701,6,3,3
 "86-2014","tt0816442","The Book Thief",NA,7.5,140689,1,1,0
 "86-2014","tt0993846","The Wolf of Wall Street",6,8.2,1524315,5,5,0
-"86-2014","tt1091191","Lone Survivor",NA,7.5,300766,2,2,0
+"86-2014","tt1091191","Lone Survivor",NA,7.5,300764,2,2,0
 "86-2014","tt1170358","The Hobbit: The Desolation of Smaug",3,7.8,690688,3,3,0
-"86-2014","tt1210819","The Lone Ranger",NA,6.4,241858,2,2,0
+"86-2014","tt1210819","The Lone Ranger",NA,6.4,241854,2,2,0
 "86-2014","tt1300854","Iron Man 3",3,7.1,884130,1,1,0
 "86-2014","tt1322269","August: Osage County",5,7.2,94064,2,2,0
 "86-2014","tt1343092","The Great Gatsby",6,7.2,580158,2,0,2
 "86-2014","tt1392214","Prisoners",7,8.1,778296,1,1,0
 "86-2014","tt1408101","Star Trek Into Darkness",7,7.7,493345,1,1,0
 "86-2014","tt1454468","Gravity",7,7.7,850888,10,3,7
-"86-2014","tt1462900","The Grandmaster",NA,6.5,36130,2,2,0
+"86-2014","tt1462900","The Grandmaster",NA,6.5,36129,2,2,0
 "86-2014","tt1535109","Captain Phillips",6,7.8,483137,6,6,0
 "86-2014","tt1690953","Despicable Me 2",6,7.3,417538,2,2,0
 "86-2014","tt1700845","The Invisible Woman",NA,6.1,10315,1,1,0
@@ -4552,8 +4552,8 @@
 "86-2014","tt1986769","Alone Yet Not Alone",NA,4.7,950,1,1,0
 "86-2014","tt1998355","The Voorman Problem",6,7.2,1225,1,1,0
 "86-2014","tt2013293","The Wind Rises",7,7.7,93940,1,1,0
-"86-2014","tt2017038","All Is Lost",NA,6.9,82918,1,1,0
-"86-2014","tt2024519","The Broken Circle Breakdown",NA,7.7,42709,1,1,0
+"86-2014","tt2017038","All Is Lost",NA,6.9,82914,1,1,0
+"86-2014","tt2024519","The Broken Circle Breakdown",NA,7.7,42707,1,1,0
 "86-2014","tt2024544","12 Years a Slave",8,8.1,728277,9,6,3
 "86-2014","tt2042568","Inside Llewyn Davis",5,7.4,160546,2,2,0
 "86-2014","tt2106476","The Hunt",10,8.3,352830,1,1,0
@@ -4561,12 +4561,12 @@
 "86-2014","tt2209418","Before Midnight",4,7.9,168490,1,1,0
 "86-2014","tt2256646","Do I Have to Take Care of Everything?",6,6.7,1092,1,1,0
 "86-2014","tt2294629","Frozen",7,7.4,650406,2,0,2
-"86-2014","tt2304771","Mandela: Long Walk to Freedom",NA,7.1,28787,1,1,0
+"86-2014","tt2304771","Mandela: Long Walk to Freedom",NA,7.1,28786,1,1,0
 "86-2014","tt2334873","Blue Jasmine",6,7.3,210227,3,2,1
 "86-2014","tt2355540","Cutie and the Boxer",NA,7.2,4722,1,1,0
 "86-2014","tt2358891","The Great Beauty",8,7.7,95792,1,0,1
 "86-2014","tt2372213","That Wasn't Me",NA,6.5,744,1,1,0
-"86-2014","tt2375605","The Act of Killing",NA,8.2,40069,1,1,0
+"86-2014","tt2375605","The Act of Killing",NA,8.2,40068,1,1,0
 "86-2014","tt2396566","20 Feet from Stardom",NA,7.4,13819,1,0,1
 "86-2014","tt2431286","Philomena",6,7.6,102892,4,4,0
 "86-2014","tt2484120","Room on the Broom",8,7.5,4540,1,1,0
@@ -4577,7 +4577,7 @@
 "86-2014","tt2551790","Karama Has No Walls",NA,7.5,213,1,1,0
 "86-2014","tt2689992","Just Before Losing Everything",NA,7.7,868,1,1,0
 "86-2014","tt2776636","Facing Fear",NA,7,205,1,1,0
-"86-2014","tt2852406","Omar",NA,7.5,15127,1,1,0
+"86-2014","tt2852406","Omar",NA,7.5,15126,1,1,0
 "86-2014","tt2852470","The Missing Picture",NA,7.3,3458,1,1,0
 "86-2014","tt2924484","The Lady in Number 6: Music Saved My Life",NA,8,987,1,0,1
 "86-2014","tt2980764","Get a Horse!",6,7.5,5492,1,1,0
@@ -4595,12 +4595,12 @@
 "87-2015","tt1587310","Maleficent",5,6.9,393657,1,1,0
 "87-2015","tt1646971","How to Train Your Dragon 2",6,7.8,355374,1,1,0
 "87-2015","tt1791528","Inherent Vice",5,6.6,109030,2,2,0
-"87-2015","tt1809398","Unbroken",NA,7.2,178711,3,3,0
+"87-2015","tt1809398","Unbroken",NA,7.2,178707,3,3,0
 "87-2015","tt1843866","Captain America: The Winter Soldier",8,7.8,883100,1,1,0
 "87-2015","tt1865505","Song of the Sea",9,8,61894,1,1,0
 "87-2015","tt1872194","The Judge",6,7.4,198770,1,1,0
 "87-2015","tt1877832","X-Men: Days of Future Past",5,7.9,734506,1,1,0
-"87-2015","tt1980929","Begin Again",NA,7.4,163901,1,1,0
+"87-2015","tt1980929","Begin Again",NA,7.4,163896,1,1,0
 "87-2015","tt2015381","Guardians of the Galaxy",6,8,1249241,2,2,0
 "87-2015","tt2049586","Glen Campbell: I'll Be Me",NA,7.9,1698,1,1,0
 "87-2015","tt2084970","The Imitation Game",7,8,807201,8,7,1
@@ -4617,17 +4617,17 @@
 "87-2015","tt2562232","Birdman or (The Unexpected Virtue of Ignorance)",8,7.7,654985,5,2,3
 "87-2015","tt2576852","The Tale of The Princess Kaguya",9,8,51596,1,1,0
 "87-2015","tt2582802","Whiplash",9,8.5,942479,5,2,3
-"87-2015","tt2714900","Finding Vivian Maier",NA,7.7,14877,1,1,0
+"87-2015","tt2714900","Finding Vivian Maier",NA,7.7,14876,1,1,0
 "87-2015","tt2718492","Ida",9,7.4,59894,2,1,1
 "87-2015","tt2737050","Two Days, One Night",7,7.3,49985,1,1,0
-"87-2015","tt2802154","Leviathan",NA,7.6,55975,1,1,0
+"87-2015","tt2802154","Leviathan",NA,7.6,55973,1,1,0
 "87-2015","tt2872718","Nightcrawler",7,7.8,586973,1,1,0
 "87-2015","tt2922078","Butter Lamp",NA,7,773,1,1,0
 "87-2015","tt2976354","Joanna",NA,6.8,357,1,1,0
 "87-2015","tt2980516","The Theory of Everything",6,7.7,472726,5,4,1
 "87-2015","tt2991224","Tangerines",NA,8.1,48163,1,1,0
 "87-2015","tt3008010","Parvaneh",NA,6.7,613,1,1,0
-"87-2015","tt3011894","Wild Tales",NA,8.1,210884,1,1,0
+"87-2015","tt3011894","Wild Tales",NA,8.1,210880,1,1,0
 "87-2015","tt3044564","White Earth",NA,6.2,202,1,1,0
 "87-2015","tt3069992","Our Curse",NA,7.1,398,1,1,0
 "87-2015","tt3071532","The Phone Call",NA,7.4,2904,1,0,1
@@ -4635,13 +4635,13 @@
 "87-2015","tt3279124","Last Days in Vietnam",NA,7.6,4029,1,1,0
 "87-2015","tt3316960","Still Alice",9,7.5,141438,1,0,1
 "87-2015","tt3326262","The Dam Keeper",NA,7.9,2458,1,1,0
-"87-2015","tt3409392","Timbuktu",NA,7.1,18070,1,1,0
+"87-2015","tt3409392","Timbuktu",NA,7.1,18069,1,1,0
 "87-2015","tt3438472","The Reaper",NA,6.6,236,1,1,0
 "87-2015","tt3449252","Crisis Hotline: Veterans Press 1",9,7.5,602,1,0,1
 "87-2015","tt3455224","Virunga",8,8.2,12046,1,1,0
 "87-2015","tt3610188","The Bigger Picture",NA,6.7,687,1,1,0
 "87-2015","tt3612232","Boogaloo and Graham",7,7.3,1103,1,1,0
-"87-2015","tt3674140","The Salt of the Earth",NA,8.4,22875,1,1,0
+"87-2015","tt3674140","The Salt of the Earth",NA,8.4,22874,1,1,0
 "87-2015","tt3689498","Feast",9,8.2,23781,1,0,1
 "87-2015","tt3838700","A Single Life",8,7.3,1812,1,1,0
 "87-2015","tt3946086","Me and My Moulton",NA,6.7,807,1,1,0
@@ -4658,7 +4658,7 @@
 "88-2016","tt1895587","Spotlight",8,8.1,492024,6,4,2
 "88-2016","tt2080374","Steve Jobs",5,7.2,175958,2,2,0
 "88-2016","tt2096673","Inside Out",8,8.1,759673,2,1,1
-"88-2016","tt2113681","The 100 Year-Old Man Who Climbed Out the Window and Disappeared",NA,7,42120,1,1,0
+"88-2016","tt2113681","The 100 Year-Old Man Who Climbed Out the Window and Disappeared",NA,7,42119,1,1,0
 "88-2016","tt2322441","Fifty Shades of Grey",3,4.2,330705,1,1,0
 "88-2016","tt2379713","Spectre",4,6.8,458165,1,0,1
 "88-2016","tt2381111","Brooklyn",5,7.5,147971,3,3,0
@@ -4673,7 +4673,7 @@
 "88-2016","tt3170902","Theeb",8,7.2,11399,1,1,0
 "88-2016","tt3183630","The Boy and the World",6,7.5,7476,1,1,0
 "88-2016","tt3203606","Trumbo",7,7.4,83968,1,1,0
-"88-2016","tt3312830","Youth",NA,7.3,81897,1,1,0
+"88-2016","tt3312830","Youth",NA,7.3,81896,1,1,0
 "88-2016","tt3397884","Sicario",6,7.7,458897,3,3,0
 "88-2016","tt3398268","When Marnie Was There",6,7.6,45521,1,1,0
 "88-2016","tt3460252","The Hateful Eight",6,7.8,640969,3,2,1
@@ -4688,7 +4688,7 @@
 "88-2016","tt3966404","Mustang",NA,7.6,40329,1,1,0
 "88-2016","tt4084844","Chau, Beyond the Lines",NA,7,313,1,1,0
 "88-2016","tt4122886","Day One",NA,6.8,820,1,1,0
-"88-2016","tt4126304","Cartel Land",NA,7.3,18730,1,1,0
+"88-2016","tt4126304","Cartel Land",NA,7.3,18729,1,1,0
 "88-2016","tt4171032","World of Tomorrow",NA,8.1,10105,1,1,0
 "88-2016","tt4172096","Last Day of Freedom",NA,7.5,387,1,1,0
 "88-2016","tt4185572","The Hunting Ground",NA,7.4,6442,1,1,0
@@ -4701,7 +4701,7 @@
 "88-2016","tt4661600","Sanjay's Super Team",NA,6.8,5397,1,1,0
 "88-2016","tt4815426","Claude Lanzmann: Spectres of the Shoah",NA,6.8,339,1,1,0
 "88-2016","tt4817576","Stutterer",9,7.7,3239,1,0,1
-"88-2016","tt4908644","Winter on Fire: Ukraine's Fight for Freedom",NA,8.3,20204,1,1,0
+"88-2016","tt4908644","Winter on Fire: Ukraine's Fight for Freedom",NA,8.3,20203,1,1,0
 "88-2016","tt4955294","Prologue",5,6.5,1259,1,1,0
 "88-2016","tt5144072","A Girl in the River: The Price of Forgiveness",8,7.8,1768,1,0,1
 "89-2017","tt0475290","Hail, Caesar!",5,6.3,140936,1,1,0
@@ -4710,7 +4710,7 @@
 "89-2017","tt1355644","Passengers",2,7,432897,2,2,0
 "89-2017","tt1386697","Suicide Squad",4,5.9,710771,1,0,1
 "89-2017","tt1619029","Jackie",5,6.7,82466,3,3,0
-"89-2017","tt1679335","Trolls",NA,6.4,88504,1,1,0
+"89-2017","tt1679335","Trolls",NA,6.4,88502,1,1,0
 "89-2017","tt1860357","Deepwater Horizon",NA,7.1,177939,2,2,0
 "89-2017","tt2119532","Hacksaw Ridge",7,8.1,572896,6,4,2
 "89-2017","tt2321405","My Life as a Zucchini",8,7.8,28139,1,1,0
@@ -4719,7 +4719,7 @@
 "89-2017","tt2660888","Star Trek Beyond",5,7,255092,1,1,0
 "89-2017","tt2671706","Fences",7,7.2,114991,4,3,1
 "89-2017","tt2948356","Zootopia",7,8,530471,1,0,1
-"89-2017","tt3040964","The Jungle Book",NA,7.4,287738,1,0,1
+"89-2017","tt3040964","The Jungle Book",NA,7.4,287737,1,0,1
 "89-2017","tt3183660","Fantastic Beasts and Where to Find Them",5,7.2,497237,2,1,1
 "89-2017","tt3263904","Sully",6,7.4,291119,1,1,0
 "89-2017","tt3464902","The Lobster",6,7.1,278505,1,1,0
@@ -4750,7 +4750,7 @@
 "89-2017","tt4874696","Borrowed Time",6,7.5,4602,1,1,0
 "89-2017","tt4975722","Moonlight",8,7.4,324519,8,5,3
 "89-2017","tt5186714","The Salesman",8,7.7,63597,1,0,1
-"89-2017","tt5275892","O.J.: Made in America",NA,8.9,20953,1,0,1
+"89-2017","tt5275892","O.J.: Made in America",NA,8.9,20952,1,0,1
 "89-2017","tt5278466","Jim: The James Foley Story",6,7.6,1670,1,1,0
 "89-2017","tt5358978","Pear Cider and Cigarettes",NA,6.8,1282,1,1,0
 "89-2017","tt5467670","Enemies Within",NA,7,811,1,1,0
@@ -4760,8 +4760,8 @@
 "89-2017","tt5613056","Piper",7,8.3,31267,1,0,1
 "89-2017","tt5639178","Joe's Violin",NA,7.2,769,1,1,0
 "89-2017","tt5699202","Timecode",NA,7.1,1786,1,1,0
-"89-2017","tt5804038","I Am Not Your Negro",NA,7.9,23096,1,1,0
-"89-2017","tt5895028","13th",NA,8.2,37093,1,1,0
+"89-2017","tt5804038","I Am Not Your Negro",NA,7.9,23095,1,1,0
+"89-2017","tt5895028","13th",NA,8.2,37091,1,1,0
 "89-2017","tt6073176","The White Helmets",NA,7.5,8084,1,0,1
 "89-2017","tt6195494","Watani: My Homeland",NA,7.4,296,1,1,0
 "89-2017","tt6279726","4.1 Miles",NA,7.6,963,1,1,0
@@ -4778,7 +4778,7 @@
 "90-2018","tt3411444","Ferdinand",6,6.7,61876,1,1,0
 "90-2018","tt3450958","War for the Planet of the Apes",5,7.4,273178,1,1,0
 "90-2018","tt3521126","The Disaster Artist",7,7.3,161416,1,1,0
-"90-2018","tt3731562","Kong: Skull Island",NA,6.7,337287,1,1,0
+"90-2018","tt3731562","Kong: Skull Island",NA,6.7,337283,1,1,0
 "90-2018","tt3874544","The Boss Baby",6,6.3,137230,1,1,0
 "90-2018","tt3890160","Baby Driver",7,7.6,586935,3,3,0
 "90-2018","tt3896198","Guardians of the Galaxy Vol. 2",4,7.6,740148,1,1,0
@@ -4792,7 +4792,7 @@
 "90-2018","tt5052448","Get Out",9,7.8,668523,4,3,1
 "90-2018","tt5095260","Heaven Is a Traffic Jam on the 405",NA,7.4,888,1,0,1
 "90-2018","tt5294550","All the Money in the World",5,6.8,89106,1,1,0
-"90-2018","tt5301662","Marshall",NA,7.3,26058,1,1,0
+"90-2018","tt5301662","Marshall",NA,7.3,26057,1,1,0
 "90-2018","tt5462602","The Big Sick",9,7.5,141326,1,1,0
 "90-2018","tt5580036","I, Tonya",8,7.5,235569,3,2,1
 "90-2018","tt5580390","The Shape of Water",9,7.3,439259,13,9,4
@@ -4938,7 +4938,7 @@
 "93-2021","tt10539608","The Midnight Sky",3,5.7,87603,1,1,0
 "93-2021","tt10612922","One Night in Miami...",7,7.1,33705,3,3,0
 "93-2021","tt10618286","Mank",7,6.8,80388,10,8,2
-"93-2021","tt10627584","The Life Ahead",NA,6.8,15222,1,1,0
+"93-2021","tt10627584","The Life Ahead",NA,6.8,15220,1,1,0
 "93-2021","tt10633456","Minari",9,7.4,91660,6,5,1
 "93-2021","tt10706602","Collective",9,8.1,13137,2,2,0
 "93-2021","tt1070874","The Trial of the Chicago 7",6,7.7,188756,6,6,0
@@ -4965,12 +4965,12 @@
 "93-2021","tt4566758","Mulan",5,5.8,156353,2,2,0
 "93-2021","tt5198068","WolfWalkers",8,8,36971,1,1,0
 "93-2021","tt5363618","Sound of Metal",9,7.7,143797,6,4,2
-"93-2021","tt6048922","Greyhound",NA,7,108344,1,1,0
+"93-2021","tt6048922","Greyhound",NA,7,108340,1,1,0
 "93-2021","tt6193408","A Shaun the Sheep Movie: Farmageddon",6,6.8,15083,1,1,0
 "93-2021","tt6571548","The White Tiger",6,7.1,64153,1,1,0
 "93-2021","tt6723592","Tenet",4,7.3,566575,2,1,1
 "93-2021","tt6772802","Hillbilly Elegy",3,6.7,45263,2,2,0
-"93-2021","tt6878306","News of the World",NA,6.8,93563,4,4,0
+"93-2021","tt6878306","News of the World",NA,6.8,93562,4,4,0
 "93-2021","tt7146812","Onward",8,7.4,163878,1,1,0
 "93-2021","tt7488208","Over the Moon",5,6.3,24385,1,1,0
 "93-2021","tt8333746","Pinocchio",NA,6.2,14258,2,2,0
