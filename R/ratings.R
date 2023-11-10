@@ -211,7 +211,7 @@ combinedAMPASIntl %>%
 
 ## NYT-1000 Data for Summary and Graph
 combinedNYT1000 <-
-  left_join(read_csv("raw-lists/nyt1000.csv"), myratings, by="Const") %>%
+  left_join(read_csv("raw-lists/NYT1000.csv"), myratings, by="Const") %>%
     mutate(Seen = ifelse(is.na(Your.Rating), "No", "Yes")) %T>%
     write.csv(.,"datasets/NYT1000/NYT1000Data.csv", row.names = FALSE)
 combinedNYT1000 %>%
@@ -224,7 +224,7 @@ combinedNYT1000 %>%
 
 ## NBR Data for Graph
 combinedNBR <-
-  left_join(read_csv("raw-lists/NBR-awards.csv"), myratings, by=c("FilmID" = "Const")) %>%
+  left_join(read_csv("raw-lists/NBR-Awards.csv"), myratings, by=c("FilmID" = "Const")) %>%
   mutate(Seen = ifelse(is.na(Your.Rating), "No", "Yes")) %T>%
   write.csv(.,"datasets/NBR/NBRData.csv", row.names = FALSE)
 combinedNBR %>%
@@ -318,7 +318,7 @@ NBR.Ceremonies <-
 
 ## Great Films Ebert
 List.Ebert <-
-  left_join(read_csv("raw-lists/ebert.csv"), myratings, by="Const") %>%
+  left_join(read_csv("raw-lists/Ebert-Great-Movies.csv"), myratings, by="Const") %>%
     mutate(Decade = paste0(10 * floor(Year/10),"s")) %>%
     mutate(Seen = ifelse(is.na(Your.Rating), "No", "Yes")) %T>%
     write.csv(.,"datasets/GreatFilmsEbert/Data.csv", row.names = FALSE)
