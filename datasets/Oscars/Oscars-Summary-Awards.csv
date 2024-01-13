@@ -1,7 +1,7 @@
 "AwardType","Films","Films.Y","Films.N","Winner.Y","Winner.N","Winner.Per","Nominee.Y","Nominee.N","Nominee.Per"
 "Animated",93,93,0,23,0,1,71,0,1
 "Director",237,167,70,88,13,0.87,80,58,0.58
-"Documentary",382,75,307,25,62,0.29,51,246,0.17
+"Documentary",382,76,306,25,62,0.29,52,245,0.18
 "Effects",712,383,329,161,60,0.73,223,270,0.45
 "International",333,98,235,47,22,0.68,52,214,0.2
 "Music",936,349,587,129,83,0.61,221,505,0.3
