@@ -39,3 +39,6 @@ jobs:
           git add --all
           git commit -am "add data"
           git push
+
+      - name: Delete workflow runs
+        uses: Mattraks/delete-workflow-runs@v2.0.1
