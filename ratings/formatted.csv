@@ -1,5 +1,6 @@
 "Const","Your.Rating","Date.Rated","Title","Title.Type","IMDb.Rating","Runtime","Year","Num.Votes"
 "tt21064584",9,"2024-02-15","The Iron Claw","movie",8,132,2023,21862
+"tt0057091",9,"2024-02-15","Il gattopardo","movie",7.9,186,1963,28504
 "tt0049291",9,"2024-02-14","The Harder They Fall","movie",7.5,109,1956,8953
 "tt29314279",8,"2024-02-13","True Detective: Night Country: Part 5","tvEpisode",7.7,63,2024,3009
 "tt30442305",7,"2024-02-13","Curb Your Enthusiasm: The Lawn Jockey","tvEpisode",7.8,32,2024,392
@@ -5249,7 +5250,6 @@
 "tt0057537",NA,NA,"The Stripper","movie",6.6,95,1963,443
 "tt0057598",NA,NA,"Toys in the Attic","movie",6.7,90,1963,1287
 "tt0057688",NA,NA,"Wives and Lovers","movie",5.8,103,1963,300
-"tt0057091",NA,NA,"Il gattopardo","movie",7.9,186,1963,28504
 "tt0057090",NA,NA,"A Gathering of Eagles","movie",6.1,115,1963,1091
 "tt0057115",NA,NA,"The Great Escape","movie",8.2,172,1963,256976
 "tt0056154",NA,NA,"Koto","movie",7.1,107,1963,208
@@ -11873,7 +11873,7 @@
 "tt29057340",NA,NA,"Tunete","movie",7.8,75,2023,42
 "tt23638508",NA,NA,"Fedrelandet","movie",7.2,90,2023,253
 "tt28760144",NA,NA,"Sto se bore misli moje","movie",6.3,140,2023,196
-"tt17542894",NA,NA,"The Shadow of the Sun","movie",9.2,98,2023,29
+"tt17542894",NA,NA,"La sombra del sol","movie",9.2,98,2023,29
 "tt0040455",NA,NA,"The Hunted","movie",6.5,88,1948,653
 "tt0278558",NA,NA,"Menteur","short",6.6,20,1996,39
 "tt0081991",NA,NA,"Agoniya","movie",7,151,1981,1671
