@@ -15518,6 +15518,9 @@
 "Best International Feature Film",NA,"95-2023","tt9660502","Close",NA,NA,NA,NA,"International",9,7.8,33531
 "Best International Feature Film",NA,"95-2023","tt19652910","Eo",NA,NA,NA,NA,"International",7,6.7,14088
 "Best International Feature Film",NA,"95-2023","tt15109082","The Quiet Girl",NA,NA,NA,NA,"International",8,7.7,21465
+"Best Motion Picture of the Year","Winner","96-2024","tt15398776","Oppenheimer","nm0858799","Emma Thomas",NA,NA,"Picture",10,8.4,669776
+"Best Motion Picture of the Year","Winner","96-2024","tt15398776","Oppenheimer","nm0746273","Charles Roven",NA,NA,"Picture",10,8.4,669776
+"Best Motion Picture of the Year","Winner","96-2024","tt15398776","Oppenheimer","nm0634240","Christopher Nolan",NA,NA,"Picture",10,8.4,669776
 "Best Motion Picture of the Year",NA,"96-2024","tt23561236","American Fiction","nm1444110","Ben LeClair",NA,NA,"Picture",9,7.6,46704
 "Best Motion Picture of the Year",NA,"96-2024","tt23561236","American Fiction","nm5068841","Nikos Karamigios",NA,NA,"Picture",9,7.6,46704
 "Best Motion Picture of the Year",NA,"96-2024","tt23561236","American Fiction","nm6852255","Cord Jefferson",NA,NA,"Picture",9,7.6,46704
@@ -15537,9 +15540,6 @@
 "Best Motion Picture of the Year",NA,"96-2024","tt5535276","Maestro","nm0076681","Fred Berner",NA,NA,"Picture",6,6.5,55568
 "Best Motion Picture of the Year",NA,"96-2024","tt5535276","Maestro","nm1570573","Amy Durning",NA,NA,"Picture",6,6.5,55568
 "Best Motion Picture of the Year",NA,"96-2024","tt5535276","Maestro","nm1069736","Kristie Macosko Krieger",NA,NA,"Picture",6,6.5,55568
-"Best Motion Picture of the Year",NA,"96-2024","tt15398776","Oppenheimer","nm0858799","Emma Thomas",NA,NA,"Picture",10,8.4,669776
-"Best Motion Picture of the Year",NA,"96-2024","tt15398776","Oppenheimer","nm0746273","Charles Roven",NA,NA,"Picture",10,8.4,669776
-"Best Motion Picture of the Year",NA,"96-2024","tt15398776","Oppenheimer","nm0634240","Christopher Nolan",NA,NA,"Picture",10,8.4,669776
 "Best Motion Picture of the Year",NA,"96-2024","tt13238346","Past Lives","nm3065267","David Hinojosa",NA,NA,"Picture",8,7.9,100342
 "Best Motion Picture of the Year",NA,"96-2024","tt13238346","Past Lives","nm0882927","Christine Vachon",NA,NA,"Picture",8,7.9,100342
 "Best Motion Picture of the Year",NA,"96-2024","tt13238346","Past Lives","nm0463025","Pamela Koffler",NA,NA,"Picture",8,7.9,100342
@@ -15549,55 +15549,58 @@
 "Best Motion Picture of the Year",NA,"96-2024","tt14230458","Poor Things","nm1297015","Emma Stone",NA,NA,"Picture",9,8.1,153961
 "Best Motion Picture of the Year",NA,"96-2024","tt14849194","The Holdovers","nm0425741","Mark Johnson",NA,NA,"Picture",9,8,116348
 "Best Motion Picture of the Year",NA,"96-2024","tt7160372","The Zone of Interest","nm1034914","James Wilson",NA,NA,"Picture",9,7.6,49246
+"Best Performance by an Actor in a Leading Role","Winner","96-2024","tt15398776","Oppenheimer","nm0614165","Cillian Murphy",NA,NA,"Performance",10,8.4,669776
 "Best Performance by an Actor in a Leading Role",NA,"96-2024","tt5535276","Maestro","nm0177896","Bradley Cooper",NA,NA,"Performance",6,6.5,55568
-"Best Performance by an Actor in a Leading Role",NA,"96-2024","tt15398776","Oppenheimer","nm0614165","Cillian Murphy",NA,NA,"Performance",10,8.4,669776
 "Best Performance by an Actor in a Leading Role",NA,"96-2024","tt14160834","Rustin","nm0231458","Colman Domingo",NA,NA,"Performance",6,6.5,11230
 "Best Performance by an Actor in a Leading Role",NA,"96-2024","tt23561236","American Fiction","nm0942482","Jeffrey Wright",NA,NA,"Performance",9,7.6,46704
 "Best Performance by an Actor in a Leading Role",NA,"96-2024","tt14849194","The Holdovers","nm0316079","Paul Giamatti",NA,NA,"Performance",9,8,116348
+"Best Performance by an Actress in a Leading Role","Winner","96-2024","tt14230458","Poor Things","nm1297015","Emma Stone",NA,NA,"Performance",9,8.1,153961
 "Best Performance by an Actress in a Leading Role",NA,"96-2024","tt5302918","Nyad","nm0000906","Annette Bening",NA,NA,"Performance",7,7,31986
 "Best Performance by an Actress in a Leading Role",NA,"96-2024","tt5535276","Maestro","nm1659547","Carey Mulligan",NA,NA,"Performance",6,6.5,55568
-"Best Performance by an Actress in a Leading Role",NA,"96-2024","tt14230458","Poor Things","nm1297015","Emma Stone",NA,NA,"Performance",9,8.1,153961
 "Best Performance by an Actress in a Leading Role",NA,"96-2024","tt5537002","Killers of the Flower Moon","nm4291409","Lily Gladstone",NA,NA,"Performance",8,7.6,219225
 "Best Performance by an Actress in a Leading Role",NA,"96-2024","tt17009710","Anatomy of a Fall","nm1197689","Sandra Hüller",NA,NA,"Performance",8,7.8,85000
+"Best Performance by an Actor in a Supporting Role","Winner","96-2024","tt15398776","Oppenheimer","nm0000375","Robert Downey Jr.",NA,NA,"Performance",10,8.4,669776
 "Best Performance by an Actor in a Supporting Role",NA,"96-2024","tt14230458","Poor Things","nm0749263","Mark Ruffalo",NA,NA,"Performance",9,8.1,153961
 "Best Performance by an Actor in a Supporting Role",NA,"96-2024","tt5537002","Killers of the Flower Moon","nm0000134","Robert De Niro",NA,NA,"Performance",8,7.6,219225
-"Best Performance by an Actor in a Supporting Role",NA,"96-2024","tt15398776","Oppenheimer","nm0000375","Robert Downey Jr.",NA,NA,"Performance",10,8.4,669776
 "Best Performance by an Actor in a Supporting Role",NA,"96-2024","tt1517268","Barbie","nm0331516","Ryan Gosling",NA,NA,"Performance",7,6.9,509427
 "Best Performance by an Actor in a Supporting Role",NA,"96-2024","tt23561236","American Fiction","nm1250791","Sterling K. Brown",NA,NA,"Performance",9,7.6,46704
+"Best Performance by an Actress in a Supporting Role","Winner","96-2024","tt14849194","The Holdovers","nm5007768","Da'Vine Joy Randolph",NA,NA,"Performance",9,8,116348
 "Best Performance by an Actress in a Supporting Role",NA,"96-2024","tt1517268","Barbie","nm1065229","America Ferrera",NA,NA,"Performance",7,6.9,509427
-"Best Performance by an Actress in a Supporting Role",NA,"96-2024","tt14849194","The Holdovers","nm5007768","Da'Vine Joy Randolph",NA,NA,"Performance",9,8,116348
 "Best Performance by an Actress in a Supporting Role",NA,"96-2024","tt1200263","The Color Purple","nm5335029","Danielle Brooks",NA,NA,"Performance",6,6.9,12986
 "Best Performance by an Actress in a Supporting Role",NA,"96-2024","tt15398776","Oppenheimer","nm1289434","Emily Blunt",NA,NA,"Performance",10,8.4,669776
 "Best Performance by an Actress in a Supporting Role",NA,"96-2024","tt5302918","Nyad","nm0000149","Jodie Foster",NA,NA,"Performance",7,7,31986
-"Best Achievement in Directing",NA,"96-2024","tt15398776","Oppenheimer","nm0634240","Christopher Nolan",NA,NA,"Director",10,8.4,669776
+"Best Achievement in Directing","Winner","96-2024","tt15398776","Oppenheimer","nm0634240","Christopher Nolan",NA,NA,"Director",10,8.4,669776
 "Best Achievement in Directing",NA,"96-2024","tt7160372","The Zone of Interest","nm0322242","Jonathan Glazer",NA,NA,"Director",9,7.6,49246
 "Best Achievement in Directing",NA,"96-2024","tt17009710","Anatomy of a Fall","nm2630323","Justine Triet",NA,NA,"Director",8,7.8,85000
 "Best Achievement in Directing",NA,"96-2024","tt5537002","Killers of the Flower Moon","nm0000217","Martin Scorsese",NA,NA,"Director",8,7.6,219225
 "Best Achievement in Directing",NA,"96-2024","tt14230458","Poor Things","nm0487166","Yorgos Lanthimos",NA,NA,"Director",9,8.1,153961
-"Best Original Screenplay",NA,"96-2024","tt17009710","Anatomy of a Fall","nm2630323","Justine Triet",NA,NA,"Writing",8,7.8,85000
-"Best Original Screenplay",NA,"96-2024","tt17009710","Anatomy of a Fall","nm1932959","Arthur Harari",NA,NA,"Writing",8,7.8,85000
+"Best Original Screenplay","Winner","96-2024","tt17009710","Anatomy of a Fall","nm2630323","Justine Triet",NA,NA,"Writing",8,7.8,85000
+"Best Original Screenplay","Winner","96-2024","tt17009710","Anatomy of a Fall","nm1932959","Arthur Harari",NA,NA,"Writing",8,7.8,85000
 "Best Original Screenplay",NA,"96-2024","tt5535276","Maestro","nm0177896","Bradley Cooper",NA,NA,"Writing",6,6.5,55568
 "Best Original Screenplay",NA,"96-2024","tt5535276","Maestro","nm1802857","Josh Singer",NA,NA,"Writing",6,6.5,55568
 "Best Original Screenplay",NA,"96-2024","tt13651794","May December","nm2092552","Samy Burch",NA,NA,"Writing",7,6.9,47378
 "Best Original Screenplay",NA,"96-2024","tt13651794","May December","nm2553112","Alex Mechanik",NA,NA,"Writing",7,6.9,47378
 "Best Original Screenplay",NA,"96-2024","tt13238346","Past Lives","nm10227660","Celine Song",NA,NA,"Writing",8,7.9,100342
 "Best Original Screenplay",NA,"96-2024","tt14849194","The Holdovers","nm0376003","David Hemingson",NA,NA,"Writing",9,8,116348
-"Best Adapted Screenplay",NA,"96-2024","tt23561236","American Fiction","nm6852255","Cord Jefferson",NA,NA,"Writing",9,7.6,46704
+"Best Adapted Screenplay","Winner","96-2024","tt23561236","American Fiction","nm6852255","Cord Jefferson",NA,NA,"Writing",9,7.6,46704
 "Best Adapted Screenplay",NA,"96-2024","tt1517268","Barbie","nm1950086","Greta Gerwig",NA,NA,"Writing",7,6.9,509427
 "Best Adapted Screenplay",NA,"96-2024","tt1517268","Barbie","nm0000876","Noah Baumbach",NA,NA,"Writing",7,6.9,509427
 "Best Adapted Screenplay",NA,"96-2024","tt15398776","Oppenheimer","nm0634240","Christopher Nolan",NA,NA,"Writing",10,8.4,669776
 "Best Adapted Screenplay",NA,"96-2024","tt14230458","Poor Things","nm1110111","Tony McNamara",NA,NA,"Writing",9,8.1,153961
 "Best Adapted Screenplay",NA,"96-2024","tt7160372","The Zone of Interest","nm0322242","Jonathan Glazer",NA,NA,"Writing",9,7.6,49246
-"Best Achievement in Cinematography",NA,"96-2024","tt21113540","El Conde","nm0005767","Edward Lachman",NA,NA,"Visual Style",7,6.4,12223
+"Best Achievement in Cinematography","Winner","96-2024","tt15398776","Oppenheimer","nm0887227","Hoyte Van Hoytema",NA,NA,"Visual Style",10,8.4,669776
+"Best Achievement in Cinematography",NA,"96-2024","tt21113540","El conde","nm0005767","Edward Lachman",NA,NA,"Visual Style",7,6.4,12223
 "Best Achievement in Cinematography",NA,"96-2024","tt5537002","Killers of the Flower Moon","nm0006509","Rodrigo Prieto",NA,NA,"Visual Style",8,7.6,219225
 "Best Achievement in Cinematography",NA,"96-2024","tt5535276","Maestro","nm0508732","Matthew Libatique",NA,NA,"Visual Style",6,6.5,55568
-"Best Achievement in Cinematography",NA,"96-2024","tt15398776","Oppenheimer","nm0887227","Hoyte Van Hoytema",NA,NA,"Visual Style",10,8.4,669776
 "Best Achievement in Cinematography",NA,"96-2024","tt14230458","Poor Things","nm0752811","Robbie Ryan",NA,NA,"Visual Style",9,8.1,153961
+"Best Achievement in Film Editing","Winner","96-2024","tt15398776","Oppenheimer","nm2352780","Jennifer Lame",NA,NA,"Effects",10,8.4,669776
 "Best Achievement in Film Editing",NA,"96-2024","tt17009710","Anatomy of a Fall","nm1927930","Laurent Sénéchal",NA,NA,"Effects",8,7.8,85000
 "Best Achievement in Film Editing",NA,"96-2024","tt5537002","Killers of the Flower Moon","nm0774817","Thelma Schoonmaker",NA,NA,"Effects",8,7.6,219225
-"Best Achievement in Film Editing",NA,"96-2024","tt15398776","Oppenheimer","nm2352780","Jennifer Lame",NA,NA,"Effects",10,8.4,669776
 "Best Achievement in Film Editing",NA,"96-2024","tt14230458","Poor Things","nm0561430","Yorgos Mavropsaridis",NA,NA,"Effects",9,8.1,153961
 "Best Achievement in Film Editing",NA,"96-2024","tt14849194","The Holdovers","nm0855188","Kevin Tent",NA,NA,"Effects",9,8,116348
+"Best Achievement in Production Design","Winner","96-2024","tt14230458","Poor Things","nm1483016","James Price",NA,NA,"Visual Style",9,8.1,153961
+"Best Achievement in Production Design","Winner","96-2024","tt14230458","Poor Things","nm4257419","Shona Heath",NA,NA,"Visual Style",9,8.1,153961
+"Best Achievement in Production Design","Winner","96-2024","tt14230458","Poor Things","nm1386368","Zsuzsa Mihalek",NA,NA,"Visual Style",9,8.1,153961
 "Best Achievement in Production Design",NA,"96-2024","tt1517268","Barbie","nm0339391","Sarah Greenwood",NA,NA,"Visual Style",7,6.9,509427
 "Best Achievement in Production Design",NA,"96-2024","tt1517268","Barbie","nm0818005","Katie Spencer",NA,NA,"Visual Style",7,6.9,509427
 "Best Achievement in Production Design",NA,"96-2024","tt5537002","Killers of the Flower Moon","nm0279926","Jack Fisk",NA,NA,"Visual Style",8,7.6,219225
@@ -15606,15 +15609,14 @@
 "Best Achievement in Production Design",NA,"96-2024","tt13287846","Napoleon","nm0341066","Elli Griff",NA,NA,"Visual Style",6,6.4,122271
 "Best Achievement in Production Design",NA,"96-2024","tt15398776","Oppenheimer","nm1968338","Ruth De Jong",NA,NA,"Visual Style",10,8.4,669776
 "Best Achievement in Production Design",NA,"96-2024","tt15398776","Oppenheimer","nm0442114","Claire Kaufman",NA,NA,"Visual Style",10,8.4,669776
-"Best Achievement in Production Design",NA,"96-2024","tt14230458","Poor Things","nm1483016","James Price",NA,NA,"Visual Style",9,8.1,153961
-"Best Achievement in Production Design",NA,"96-2024","tt14230458","Poor Things","nm4257419","Shona Heath",NA,NA,"Visual Style",9,8.1,153961
-"Best Achievement in Production Design",NA,"96-2024","tt14230458","Poor Things","nm1386368","Zsuzsa Mihalek",NA,NA,"Visual Style",9,8.1,153961
+"Best Achievement in Costume Design","Winner","96-2024","tt14230458","Poor Things","nm3052795","Holly Waddington",NA,NA,"Visual Style",9,8.1,153961
 "Best Achievement in Costume Design",NA,"96-2024","tt1517268","Barbie","nm0244330","Jacqueline Durran",NA,NA,"Visual Style",7,6.9,509427
 "Best Achievement in Costume Design",NA,"96-2024","tt5537002","Killers of the Flower Moon","nm0922113","Jacqueline West",NA,NA,"Visual Style",8,7.6,219225
 "Best Achievement in Costume Design",NA,"96-2024","tt13287846","Napoleon","nm0946765","Janty Yates",NA,NA,"Visual Style",6,6.4,122271
 "Best Achievement in Costume Design",NA,"96-2024","tt13287846","Napoleon","nm0189366","David Crossman",NA,NA,"Visual Style",6,6.4,122271
 "Best Achievement in Costume Design",NA,"96-2024","tt15398776","Oppenheimer","nm0592465","Ellen Mirojnick",NA,NA,"Visual Style",10,8.4,669776
-"Best Achievement in Costume Design",NA,"96-2024","tt14230458","Poor Things","nm3052795","Holly Waddington",NA,NA,"Visual Style",9,8.1,153961
+"Best Sound","Winner","96-2024","tt7160372","The Zone of Interest","nm1353680","Tarn Willers",NA,NA,"Effects",9,7.6,49246
+"Best Sound","Winner","96-2024","tt7160372","The Zone of Interest","nm1908855","Johnnie Burn",NA,NA,"Effects",9,7.6,49246
 "Best Sound",NA,"96-2024","tt5535276","Maestro","nm0607551","Steven Morrow",NA,NA,"Effects",6,6.5,55568
 "Best Sound",NA,"96-2024","tt5535276","Maestro","nm0455185","Richard King",NA,NA,"Effects",6,6.5,55568
 "Best Sound",NA,"96-2024","tt5535276","Maestro","nm1720819","Jason Ruder",NA,NA,"Effects",6,6.5,55568
@@ -15633,8 +15635,9 @@
 "Best Sound",NA,"96-2024","tt11858890","The Creator","nm0901189","Ian Voigt",NA,NA,"Effects",5,6.8,149850
 "Best Sound",NA,"96-2024","tt11858890","The Creator","nm0007321","Erik Aadahl",NA,NA,"Effects",5,6.8,149850
 "Best Sound",NA,"96-2024","tt11858890","The Creator","nm0886399","Ethan Van der Ryn",NA,NA,"Effects",5,6.8,149850
-"Best Sound",NA,"96-2024","tt7160372","The Zone of Interest","nm1353680","Tarn Willers",NA,NA,"Effects",9,7.6,49246
-"Best Sound",NA,"96-2024","tt7160372","The Zone of Interest","nm1908855","Johnnie Burn",NA,NA,"Effects",9,7.6,49246
+"Best Achievement in Makeup and Hairstyling","Winner","96-2024","tt14230458","Poor Things","nm2854751","Nadia Stacey",NA,NA,"Visual Style",9,8.1,153961
+"Best Achievement in Makeup and Hairstyling","Winner","96-2024","tt14230458","Poor Things","nm0183418","Mark Coulier",NA,NA,"Visual Style",9,8.1,153961
+"Best Achievement in Makeup and Hairstyling","Winner","96-2024","tt14230458","Poor Things","nm2095782","Josh Weston",NA,NA,"Visual Style",9,8.1,153961
 "Best Achievement in Makeup and Hairstyling",NA,"96-2024","tt14454876","Golda","nm0366857","Karen Hartley",NA,NA,"Visual Style",6,5.9,10985
 "Best Achievement in Makeup and Hairstyling",NA,"96-2024","tt14454876","Golda","nm3038497","Suzi Battersby",NA,NA,"Visual Style",6,5.9,10985
 "Best Achievement in Makeup and Hairstyling",NA,"96-2024","tt14454876","Golda","nm12307106","Ashra Kelly-Blue",NA,NA,"Visual Style",6,5.9,10985
@@ -15642,26 +15645,23 @@
 "Best Achievement in Makeup and Hairstyling",NA,"96-2024","tt5535276","Maestro","nm0313789","Kay Georgiou",NA,NA,"Visual Style",6,6.5,55568
 "Best Achievement in Makeup and Hairstyling",NA,"96-2024","tt5535276","Maestro","nm0566776","Lori McCoy-Bell",NA,NA,"Visual Style",6,6.5,55568
 "Best Achievement in Makeup and Hairstyling",NA,"96-2024","tt15398776","Oppenheimer","nm0008468","Luisa Abel",NA,NA,"Visual Style",10,8.4,669776
-"Best Achievement in Makeup and Hairstyling",NA,"96-2024","tt14230458","Poor Things","nm2854751","Nadia Stacey",NA,NA,"Visual Style",9,8.1,153961
-"Best Achievement in Makeup and Hairstyling",NA,"96-2024","tt14230458","Poor Things","nm0183418","Mark Coulier",NA,NA,"Visual Style",9,8.1,153961
-"Best Achievement in Makeup and Hairstyling",NA,"96-2024","tt14230458","Poor Things","nm2095782","Josh Weston",NA,NA,"Visual Style",9,8.1,153961
 "Best Achievement in Makeup and Hairstyling",NA,"96-2024","tt16277242","Society of the Snow","nm0529913","Ana López-Puigcerver",NA,NA,"Visual Style",7,7.8,116126
 "Best Achievement in Makeup and Hairstyling",NA,"96-2024","tt16277242","Society of the Snow","nm0554480","David Martí",NA,NA,"Visual Style",7,7.8,116126
 "Best Achievement in Makeup and Hairstyling",NA,"96-2024","tt16277242","Society of the Snow","nm1556767","Montse Ribé",NA,NA,"Visual Style",7,7.8,116126
+"Best Achievement in Music Written for Motion Pictures (Original Score)","Winner","96-2024","tt15398776","Oppenheimer",NA,NA,NA,NA,"Music",10,8.4,669776
 "Best Achievement in Music Written for Motion Pictures (Original Score)",NA,"96-2024","tt23561236","American Fiction",NA,NA,NA,NA,"Music",9,7.6,46704
 "Best Achievement in Music Written for Motion Pictures (Original Score)",NA,"96-2024","tt1462764","Indiana Jones and the Dial of Destiny",NA,NA,NA,NA,"Music",6,6.6,193249
 "Best Achievement in Music Written for Motion Pictures (Original Score)",NA,"96-2024","tt5537002","Killers of the Flower Moon",NA,NA,NA,NA,"Music",8,7.6,219225
-"Best Achievement in Music Written for Motion Pictures (Original Score)",NA,"96-2024","tt15398776","Oppenheimer",NA,NA,NA,NA,"Music",10,8.4,669776
 "Best Achievement in Music Written for Motion Pictures (Original Score)",NA,"96-2024","tt14230458","Poor Things",NA,NA,NA,NA,"Music",9,8.1,153961
+"Best Achievement in Music Written for Motion Pictures (Original Song)","Winner","96-2024","tt1517268","Barbie",NA,NA,NA,NA,"Music",7,6.9,509427
 "Best Achievement in Music Written for Motion Pictures (Original Song)",NA,"96-2024","tt28865980","American Symphony",NA,NA,NA,NA,"Music",6,6.8,3366
-"Best Achievement in Music Written for Motion Pictures (Original Song)",NA,"96-2024","tt1517268","Barbie",NA,NA,NA,NA,"Music",7,6.9,509427
 "Best Achievement in Music Written for Motion Pictures (Original Song)",NA,"96-2024","tt1517268","Barbie",NA,NA,NA,NA,"Music",7,6.9,509427
 "Best Achievement in Music Written for Motion Pictures (Original Song)",NA,"96-2024","tt8105234","Flamin' Hot",NA,NA,NA,NA,"Music",5,6.7,16169
 "Best Achievement in Music Written for Motion Pictures (Original Song)",NA,"96-2024","tt5537002","Killers of the Flower Moon",NA,NA,NA,NA,"Music",8,7.6,219225
-"Best Achievement in Visual Effects",NA,"96-2024","tt23289160","Godzilla Minus One","nm0945724","Takashi Yamazaki",NA,NA,"Effects",NA,8.3,45269
-"Best Achievement in Visual Effects",NA,"96-2024","tt23289160","Godzilla Minus One","nm2181714","Kiyoko Shibuya",NA,NA,"Effects",NA,8.3,45269
-"Best Achievement in Visual Effects",NA,"96-2024","tt23289160","Godzilla Minus One","nm15597114","Masaki Takahashi",NA,NA,"Effects",NA,8.3,45269
-"Best Achievement in Visual Effects",NA,"96-2024","tt23289160","Godzilla Minus One","nm10213275","Tatsuji Nojima",NA,NA,"Effects",NA,8.3,45269
+"Best Achievement in Visual Effects","Winner","96-2024","tt23289160","Godzilla Minus One","nm0945724","Takashi Yamazaki",NA,NA,"Effects",NA,8.3,45269
+"Best Achievement in Visual Effects","Winner","96-2024","tt23289160","Godzilla Minus One","nm2181714","Kiyoko Shibuya",NA,NA,"Effects",NA,8.3,45269
+"Best Achievement in Visual Effects","Winner","96-2024","tt23289160","Godzilla Minus One","nm15597114","Masaki Takahashi",NA,NA,"Effects",NA,8.3,45269
+"Best Achievement in Visual Effects","Winner","96-2024","tt23289160","Godzilla Minus One","nm10213275","Tatsuji Nojima",NA,NA,"Effects",NA,8.3,45269
 "Best Achievement in Visual Effects",NA,"96-2024","tt6791350","Guardians of the Galaxy Vol. 3","nm0148547","Stephane Ceretti",NA,NA,"Effects",6,7.9,373685
 "Best Achievement in Visual Effects",NA,"96-2024","tt6791350","Guardians of the Galaxy Vol. 3","nm2528062","Alexis Wajsbrot",NA,NA,"Effects",6,7.9,373685
 "Best Achievement in Visual Effects",NA,"96-2024","tt6791350","Guardians of the Galaxy Vol. 3","nm1401413","Guy Williams",NA,NA,"Effects",6,7.9,373685
@@ -15678,18 +15678,20 @@
 "Best Achievement in Visual Effects",NA,"96-2024","tt11858890","The Creator","nm0178134","Jay Cooper",NA,NA,"Effects",5,6.8,149850
 "Best Achievement in Visual Effects",NA,"96-2024","tt11858890","The Creator","nm2026173","Ian Comley",NA,NA,"Effects",5,6.8,149850
 "Best Achievement in Visual Effects",NA,"96-2024","tt11858890","The Creator","nm1209102","Andrew Roberts",NA,NA,"Effects",5,6.8,149850
-"Best Documentary Feature",NA,"96-2024","tt24082438","20 Days in Mariupol","nm13512939","Mstyslav Chernov",NA,NA,"Documentary",9,8.5,6574
-"Best Documentary Feature",NA,"96-2024","tt24082438","20 Days in Mariupol","nm2365390","Michelle Mizner",NA,NA,"Documentary",9,8.5,6574
-"Best Documentary Feature",NA,"96-2024","tt24082438","20 Days in Mariupol","nm1948067","Raney Aronson",NA,NA,"Documentary",9,8.5,6574
+"Best Documentary Feature","Winner","96-2024","tt24082438","20 Days in Mariupol","nm13512939","Mstyslav Chernov",NA,NA,"Documentary",9,8.5,6574
+"Best Documentary Feature","Winner","96-2024","tt24082438","20 Days in Mariupol","nm2365390","Michelle Mizner",NA,NA,"Documentary",9,8.5,6574
+"Best Documentary Feature","Winner","96-2024","tt24082438","20 Days in Mariupol","nm1948067","Raney Aronson",NA,NA,"Documentary",9,8.5,6574
 "Best Documentary Feature",NA,"96-2024","tt21376900","Bobi Wine: The People's President","nm8400181","Moses Bwayo",NA,NA,"Documentary",6,7.1,1392
 "Best Documentary Feature",NA,"96-2024","tt21376900","Bobi Wine: The People's President","nm14109806","Christopher Sharp",NA,NA,"Documentary",6,7.1,1392
 "Best Documentary Feature",NA,"96-2024","tt21376900","Bobi Wine: The People's President","nm0061557","John Battsek",NA,NA,"Documentary",6,7.1,1392
 "Best Documentary Feature",NA,"96-2024","tt27502426","Four Daughters","nm4141599","Kaouther Ben Hania",NA,NA,"Documentary",8,7.3,2072
 "Best Documentary Feature",NA,"96-2024","tt27502426","Four Daughters","nm2329106","Nadim Cheikhrouha",NA,NA,"Documentary",8,7.3,2072
-"Best Documentary Feature",NA,"96-2024","tt24082488","The Eternal Memory",NA,NA,NA,NA,"Documentary",8,7.4,2826
+"Best Documentary Feature",NA,"96-2024","tt24082488","The Eternal Memory","nm3073146","Maite Alberdi",NA,NA,"Documentary",8,7.4,2826
 "Best Documentary Feature",NA,"96-2024","tt21688772","To Kill a Tiger","nm1263934","Nisha Pahuja",NA,NA,"Documentary",NA,7.5,729
 "Best Documentary Feature",NA,"96-2024","tt21688772","To Kill a Tiger","nm0697759","Cornelia Principe",NA,NA,"Documentary",NA,7.5,729
 "Best Documentary Feature",NA,"96-2024","tt21688772","To Kill a Tiger","nm2361303","David Oppenheim",NA,NA,"Documentary",NA,7.5,729
+"Best Animated Feature Film","Winner","96-2024","tt6587046","The Boy and the Heron","nm0594503","Hayao Miyazaki",NA,NA,"Animated",NA,7.6,46081
+"Best Animated Feature Film","Winner","96-2024","tt6587046","The Boy and the Heron","nm0840699","Toshio Suzuki",NA,NA,"Animated",NA,7.6,46081
 "Best Animated Feature Film",NA,"96-2024","tt15789038","Elemental","nm0812307","Peter Sohn",NA,NA,"Animated",5,7,121081
 "Best Animated Feature Film",NA,"96-2024","tt15789038","Elemental","nm0714066","Denise Ream",NA,NA,"Animated",5,7,121081
 "Best Animated Feature Film",NA,"96-2024","tt19500164","Nimona","nm2939767","Nick Bruno",NA,NA,"Animated",8,7.5,45625
@@ -15705,8 +15707,8 @@
 "Best Animated Feature Film",NA,"96-2024","tt9362722","Spider-Man: Across the Spider-Verse","nm0520488","Phil Lord",NA,NA,"Animated",7,8.6,354718
 "Best Animated Feature Film",NA,"96-2024","tt9362722","Spider-Man: Across the Spider-Verse","nm0588087","Christopher Miller",NA,NA,"Animated",7,8.6,354718
 "Best Animated Feature Film",NA,"96-2024","tt9362722","Spider-Man: Across the Spider-Verse","nm1166871","Amy Pascal",NA,NA,"Animated",7,8.6,354718
-"Best Animated Feature Film",NA,"96-2024","tt6587046","The Boy and the Heron","nm0594503","Hayao Miyazaki",NA,NA,"Animated",NA,7.6,46081
-"Best Animated Feature Film",NA,"96-2024","tt6587046","The Boy and the Heron","nm0840699","Toshio Suzuki",NA,NA,"Animated",NA,7.6,46081
+"Best Animated Short Film","Winner","96-2024","tt29795707","War Is Over!","nm0612391","Dave Mullins",NA,NA,"Short",NA,6.3,860
+"Best Animated Short Film","Winner","96-2024","tt29795707","War Is Over!","nm0095374","Brad Booker",NA,NA,"Short",NA,6.3,860
 "Best Animated Short Film",NA,"96-2024","tt10346066","Letter to a Pig","nm7722734","Tal Kantor",NA,NA,"Short",NA,6.5,1310
 "Best Animated Short Film",NA,"96-2024","tt10346066","Letter to a Pig","nm1206834","Amit R. Gicelter",NA,NA,"Short",NA,6.5,1310
 "Best Animated Short Film",NA,"96-2024","tt11020596","Ninety-Five Senses","nm1415801","Jerusha Hess",NA,NA,"Short",6,7.4,1360
@@ -15714,8 +15716,8 @@
 "Best Animated Short Film",NA,"96-2024","tt28058015","Our Uniform","nm10057416","Yegane Moghaddam",NA,NA,"Short",NA,6.7,896
 "Best Animated Short Film",NA,"96-2024","tt20862526","Pachyderme","nm13730667","Stéphanie Clément",NA,NA,"Short",NA,7,1268
 "Best Animated Short Film",NA,"96-2024","tt20862526","Pachyderme","nm12877825","Marc Rius",NA,NA,"Short",NA,7,1268
-"Best Animated Short Film",NA,"96-2024","tt29795707","WAR IS OVER! Inspired by the Music of John and Yoko","nm0612391","Dave Mullins",NA,NA,"Short",NA,6.3,860
-"Best Animated Short Film",NA,"96-2024","tt29795707","WAR IS OVER! Inspired by the Music of John and Yoko","nm0095374","Brad Booker",NA,NA,"Short",NA,6.3,860
+"Best Live Action Short Film","Winner","96-2024","tt16968450","The Wonderful Story of Henry Sugar","nm0027572","Wes Anderson",NA,NA,"Short",8,7.4,63249
+"Best Live Action Short Film","Winner","96-2024","tt16968450","The Wonderful Story of Henry Sugar","nm2262509","Steven Rales",NA,NA,"Short",8,7.4,63249
 "Best Live Action Short Film",NA,"96-2024","tt22749100","Invincible","nm6118227","Vincent René-Lortie",NA,NA,"Short",9,7.1,1420
 "Best Live Action Short Film",NA,"96-2024","tt22749100","Invincible","nm9108328","Samuel Caron",NA,NA,"Short",9,7.1,1420
 "Best Live Action Short Film",NA,"96-2024","tt26600054","Knight of Fortune","nm10210418","Lasse Lyskjær Noer",NA,NA,"Short",7,7.1,1545
@@ -15724,8 +15726,8 @@
 "Best Live Action Short Film",NA,"96-2024","tt27759823","Red, White and Blue","nm10626793","Sara McFarlane",NA,NA,"Short",NA,7.1,1289
 "Best Live Action Short Film",NA,"96-2024","tt28532006","The After","nm12325486","Misan Harriman",NA,NA,"Short",NA,6.1,5960
 "Best Live Action Short Film",NA,"96-2024","tt28532006","The After","nm1726830","Nicky Bentham",NA,NA,"Short",NA,6.1,5960
-"Best Live Action Short Film",NA,"96-2024","tt16968450","The Wonderful Story of Henry Sugar","nm0027572","Wes Anderson",NA,NA,"Short",8,7.4,63249
-"Best Live Action Short Film",NA,"96-2024","tt16968450","The Wonderful Story of Henry Sugar","nm2262509","Steven Rales",NA,NA,"Short",8,7.4,63249
+"Best Documentary Short Film","Winner","96-2024","tt29118186","The Last Repair Shop","nm3988897","Ben Proudfoot",NA,NA,"Short",6,7.3,1901
+"Best Documentary Short Film","Winner","96-2024","tt29118186","The Last Repair Shop","nm3929283","Kris Bowers",NA,NA,"Short",6,7.3,1901
 "Best Documentary Short Film",NA,"96-2024","tt30523942","Island in Between","nm0156981","S. Leo Chiang",NA,NA,"Short",6,6.2,1216
 "Best Documentary Short Film",NA,"96-2024","tt30523942","Island in Between","nm0874994","Jean Tsien",NA,NA,"Short",6,6.2,1216
 "Best Documentary Short Film",NA,"96-2024","tt26218316","Nai Nai & Wài Pó","nm7648876","Sean Wang",NA,NA,"Short",8,7.1,1276
@@ -15734,10 +15736,8 @@
 "Best Documentary Short Film",NA,"96-2024","tt29361805","The ABCs of Book Banning","nm0012267","Trish Adlesic",NA,NA,"Short",NA,6.3,1055
 "Best Documentary Short Film",NA,"96-2024","tt28627868","The Barber of Little Rock","nm0388968","John Hoffman",NA,NA,"Short",7,6.5,1175
 "Best Documentary Short Film",NA,"96-2024","tt28627868","The Barber of Little Rock","nm1423114","Christine Turner",NA,NA,"Short",7,6.5,1175
-"Best Documentary Short Film",NA,"96-2024","tt29118186","The Last Repair Shop","nm3988897","Ben Proudfoot",NA,NA,"Short",6,7.3,1901
-"Best Documentary Short Film",NA,"96-2024","tt29118186","The Last Repair Shop","nm3929283","Kris Bowers",NA,NA,"Short",6,7.3,1901
+"Best International Feature Film","Winner","96-2024","tt7160372","The Zone of Interest",NA,NA,NA,NA,"International",9,7.6,49246
 "Best International Feature Film",NA,"96-2024","tt14225838","Io capitano",NA,NA,NA,NA,"International",7,7.6,7652
 "Best International Feature Film",NA,"96-2024","tt27503384","Perfect Days",NA,NA,NA,NA,"International",8,7.9,21361
 "Best International Feature Film",NA,"96-2024","tt16277242","Society of the Snow",NA,NA,NA,NA,"International",7,7.8,116126
 "Best International Feature Film",NA,"96-2024","tt26612950","The Teachers' Lounge",NA,NA,NA,NA,"International",9,7.5,11344
-"Best International Feature Film",NA,"96-2024","tt7160372","The Zone of Interest",NA,NA,NA,NA,"International",9,7.6,49246
