@@ -9,7 +9,7 @@ options(warn=-1)
 ## Watchlist
 myratings <-
   read.csv("ratings/ratings.csv") %>%
-  bind_rows(., read.csv("https://www.imdb.com/list/ls003235325/export")) %>%
+  bind_rows(., read.csv("ratings/watchlist.csv")) %>%
   #left_join(., read.csv("https://www.imdb.com/list/ls507245240/export") %>% select(Const, Modified) %>% rename(AFI = Modified), by=join_by(Const)) %>%
   #left_join(., read.csv("https://www.imdb.com/list/ls507032905/export") %>% select(Const, Modified) %>% rename(Theater = Modified), by=join_by(Const)) %>%
   select(-c(Position, Description, Created, Modified, Genres, Directors, Release.Date, URL)) %>%
