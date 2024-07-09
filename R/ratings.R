@@ -14,9 +14,36 @@ dir.create("_site/NYT1000", showWarnings = FALSE)
 dir.create("_site/GreatFilmsEbert", showWarnings = FALSE)
 
 ## Watchlist
+lists <- 
+  list.files("lists", full.names = TRUE) %>%
+  as_tibble() %>%
+  rowwise() %>%
+  reframe(
+    value,
+    cols = length(as.list(strsplit(readLines(value, n=1), ",")[[1]])),
+    file = 
+      case_when(
+        cols == 14 ~ "ratings",
+        cols == 18 ~ "watchlist"
+      )
+  )
+
+list_ratings <-
+  lists %>%
+  filter(file == "ratings") %>%
+  pull(value) %>%
+  read.csv(.)
+
+list_watchlist <-
+  lists %>%
+  filter(file == "watchlist") %>%
+  pull(value) %>%
+  read.csv(.) %>%
+  filter(Const %in% list_ratings$Const)
+
 myratings <-
-  read.csv("ratings/ratings.csv") %>%
-  bind_rows(., read.csv("ratings/watchlist.csv")) %>%
+  list_ratings %>%
+  bind_rows(., list_watchlist) %>%
   select(-c(Position, Description, Created, Modified, Genres, Directors, Release.Date, URL)) %>%
   rename(Runtime = Runtime..mins.) %>%
   distinct(Const, .keep_all = TRUE) %>%
