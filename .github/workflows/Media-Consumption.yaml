@@ -34,8 +34,6 @@ jobs:
         run: Rscript R/ratings.R
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
-  deploy:
-jobs:
   build:
   deploy:
     needs: build
