@@ -39,7 +39,7 @@ list_watchlist <-
   filter(file == "watchlist") %>%
   pull(value) %>%
   read.csv(.) %>%
-  filter(Const %in% list_ratings$Const)
+  filter(!Const %in% list_ratings$Const)
 
 myratings <-
   list_ratings %>%
