@@ -34,8 +34,6 @@ jobs:
         run: Rscript R/ratings.R
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
-      - name: Delete workflow runs
-        uses: Mattraks/delete-workflow-runs@v2.0.6
   deploy:
     needs: generate-data
     permissions:
@@ -49,3 +47,16 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+  del_runs:
+    runs-on: ubuntu-latest
+    permissions:
+      actions: write
+      contents: read
+    steps:
+      - name: Delete workflow runs
+        uses: Mattraks/delete-workflow-runs@v2
+        with:
+          token: ${{ github.token }}
+          repository: ${{ github.repository }}
+          retain_days: 15
+          keep_minimum_runs: 3
