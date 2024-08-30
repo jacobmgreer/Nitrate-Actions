@@ -43,7 +43,7 @@ list_watchlist <-
 
 myratings <-
   list_ratings %>%
-  bind_rows(., list_watchlist) %>%
+  bind_rows(., list_watchlist %>% select(-c(Your.Rating, Date.Rated))) %>%
   select(-c(Position, Description, Created, Modified, Genres, Directors, Release.Date, URL)) %>%
   rename(Runtime = Runtime..mins.) %>%
   distinct(Const, .keep_all = TRUE) %>%
