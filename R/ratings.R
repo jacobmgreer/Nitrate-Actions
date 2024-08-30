@@ -32,7 +32,8 @@ list_ratings <-
   lists %>%
   filter(file == "ratings") %>%
   pull(value) %>%
-  read.csv(.)
+  read.csv(.) %>%
+  mutate(IMDb.Rating = as.numeric(IMDb.Rating))
 
 list_watchlist <-
   lists %>%
@@ -43,7 +44,7 @@ list_watchlist <-
 
 myratings <-
   list_ratings %>%
-  bind_rows(., list_watchlist %>% select(-c(Your.Rating, Date.Rated))) %>%
+  bind_rows(., list_watchlist) %>%
   select(-c(Position, Description, Created, Modified, Genres, Directors, Release.Date, URL)) %>%
   rename(Runtime = Runtime..mins.) %>%
   distinct(Const, .keep_all = TRUE) %>%
