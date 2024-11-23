@@ -1,0 +1,13 @@
+Package: Film Tracker
+Title: Compile Film Lists from IMDb Ratings
+Version: 1.0.0
+Authors@R: 
+    person(given = "Jacob",
+           family = "Greer",
+           role = c("aut", "cre"),
+           email = "jacobmgreer@gmail.com")
+Description: Helps you track your progress through film history
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.0.0
