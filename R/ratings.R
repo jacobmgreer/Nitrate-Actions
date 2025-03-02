@@ -54,6 +54,10 @@ myratings <-
 ## Oscar Ceremony Data for Summary and Graph
 OscarsCorrected <-
   left_join(readRDS("RData/OscarCeremonies.rds"), myratings, by=c("FilmID" = "Const")) %>%
+  rename(
+    AwardCeremony = CeremonyID,
+    FilmName = Film,
+    PersonName = Person) %>%
   select(!c(Runtime, Year, Title.Type, Title, Date.Rated)) %T>%
   write_csv(., "_site/Oscars/OscarsTracking.csv")
 OscarSummary <-
@@ -111,7 +115,7 @@ OscarSummary <-
 OCSumQuery <-
   OscarsCorrected %>%
   filter(!is.na(FilmID)) %>%
-  filter(!AwardType %in% c("Writing, Title", "Director,Assistant", "Direction, Dance")) %>%
+  filter(!AwardCategory %in% c("Best Dance Direction", "Best Writing, Title Writing", "Best Assistant Director")) %>%
   select(AwardCeremony, AwardType, FilmID, Your.Rating) %>%
   distinct %>%
   dplyr::group_by(FilmID) %>%
