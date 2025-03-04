@@ -3040,50 +3040,50 @@ Ceremony,Ceremony.Year,AwardCeremony,AwardCategory,Note,FilmID,FilmName,PersonID
 95,2023,095-2023,Top Ten Independent Films,NA,tt13923216,Showing Up,NA,NA,Independent
 95,2023,095-2023,Top Ten Independent Films,NA,tt24076146,The Persian Version,NA,NA,Independent
 95,2023,095-2023,Top Ten Independent Films,NA,tt21232992,Theater Camp,NA,NA,Independent
-96,2024,096-2024,Best Documentary,NA,Sugarcane,tt30319854,NA,NA,Documentary
-96,2024,096-2024,Best Animated Feature,NA,Flow,tt4772188,NA,NA,Top Films
-96,2024,096-2024,Best Director,NA,Wicked,tt1262426,Jon M. Chu,nm0160840,Director
-96,2024,096-2024,Best Original Screenplay,NA,Hard Truths,tt11891850,Mike Leigh,nm0005139,Writing
-96,2024,096-2024,Best Adapted Screenplay,NA,Sing Sing,tt28479262,Clint Bentley,nm3286079,Writing
-96,2024,096-2024,Best Adapted Screenplay,NA,Sing Sing,tt28479262,Greg Kwedar,nm3613117,Writing
-96,2024,096-2024,Best Actor,NA,Queer,tt24176060,Daniel Craig,nm0185819,Performance
-96,2024,096-2024,Best Actress,NA,Babygirl,tt30057084,Nicole Kidman,nm0000173,Performance
-96,2024,096-2024,Best Directorial Debut,NA,Good One,tt30319516,India Donaldson,nm8435156,Director
-96,2024,096-2024,Best Ensemble,NA,Conclave,tt20215234,NA,NA,Performance
-96,2024,096-2024,Best Film,NA,Wicked,tt1262426,NA,NA,Top Films
-96,2024,096-2024,Best International Film,NA,The Seed of the Sacred Fig,tt32178949,NA,NA,International
-96,2024,096-2024,Best Supporting Actor,NA,A Real Pain,tt21823606,Kieran Culkin,nm0001085,Performance
-96,2024,096-2024,Best Supporting Actress,NA,A Complete Unknown,tt11563598,Elle Fanning,nm1102577,Performance
-96,2024,096-2024,Breakthrough Performance,NA,Anora,tt28607951,Mikey Madison,nm5700898,Performance
-96,2024,096-2024,Outstanding Achievement in Cinematography,NA,Nosferatu,tt5040012,Jarin Blaschke,nm1144916,Other
-96,2024,096-2024,Outstanding Achievement in Stunt Artistry,NA,Furiosa: A Mad Max Saga,tt12037194,NA,NA,Other
-96,2024,096-2024,Top Five Documentaries,NA,Black Box Diaries,tt30227076,NA,NA,Documentary
-96,2024,096-2024,Top Five Documentaries,NA,Dahomey,tt31015216,NA,NA,Documentary
-96,2024,096-2024,Top Five Documentaries,NA,Look Into My Eyes,tt19121796,NA,NA,Documentary
-96,2024,096-2024,Top Five Documentaries,NA,Super/Man: The Christopher Reeve Story,tt27902121,NA,NA,Documentary
-96,2024,096-2024,Top Five Documentaries,NA,Will & Harper,tt30321133,NA,NA,Documentary
-96,2024,096-2024,Top Five International Films,NA,All We Imagine as Light,tt32086077,NA,NA,International
-96,2024,096-2024,Top Five International Films,NA,I'm Still Here,tt14961016,NA,NA,International
-96,2024,096-2024,Top Five International Films,NA,Santosh,tt30444418,NA,NA,International
-96,2024,096-2024,Top Five International Films,NA,The Girl with the Needle,tt10236164,NA,NA,International
-96,2024,096-2024,Top Five International Films,NA,Universal Language,tt31691389,NA,NA,International
-96,2024,096-2024,Top Ten Films,NA,A Complete Unknown,tt11563598,NA,NA,Top Films
-96,2024,096-2024,Top Ten Films,NA,A Real Pain,tt21823606,NA,NA,Top Films
-96,2024,096-2024,Top Ten Films,NA,Anora,tt28607951,NA,NA,Top Films
-96,2024,096-2024,Top Ten Films,NA,Babygirl,tt30057084,NA,NA,Top Films
-96,2024,096-2024,Top Ten Films,NA,Conclave,tt20215234,NA,NA,Top Films
-96,2024,096-2024,Top Ten Films,NA,Furiosa: A Mad Max Saga,tt12037194,NA,NA,Top Films
-96,2024,096-2024,Top Ten Films,NA,Gladiator II,tt9218128,NA,NA,Top Films
-96,2024,096-2024,Top Ten Films,NA,Juror #2,tt27403986,NA,NA,Top Films
-96,2024,096-2024,Top Ten Films,NA,Queer,tt24176060,NA,NA,Top Films
-96,2024,096-2024,Top Ten Films,NA,Sing Sing,tt28479262,NA,NA,Top Films
-96,2024,096-2024,Top Ten Independent Films,NA,A Different Man,tt21097228,NA,NA,Independent
-96,2024,096-2024,Top Ten Independent Films,NA,Bird,tt28277817,NA,NA,Independent
-96,2024,096-2024,Top Ten Independent Films,NA,Dìdi,tt30319503,NA,NA,Independent
-96,2024,096-2024,Top Ten Independent Films,NA,Ghostlight,tt30321095,NA,NA,Independent
-96,2024,096-2024,Top Ten Independent Films,NA,Good One,tt30319516,NA,NA,Independent
-96,2024,096-2024,Top Ten Independent Films,NA,Hard Truths,tt11891850,NA,NA,Independent
-96,2024,096-2024,Top Ten Independent Films,NA,His Three Daughters,tt28491891,NA,NA,Independent
-96,2024,096-2024,Top Ten Independent Films,NA,Love Lies Bleeding,tt19637052,NA,NA,Independent
-96,2024,096-2024,Top Ten Independent Films,NA,My Old Ass,tt18559464,NA,NA,Independent
-96,2024,096-2024,Top Ten Independent Films,NA,Thelma,tt23778968,NA,NA,Independent
+96,2024,096-2024,Best Documentary,NA,tt30319854,Sugarcane,NA,NA,Documentary
+96,2024,096-2024,Best Animated Feature,NA,tt4772188,Flow,NA,NA,Top Films
+96,2024,096-2024,Best Director,NA,tt1262426,Wicked,nm0160840,Jon M. Chu,Director
+96,2024,096-2024,Best Original Screenplay,NA,tt11891850,Hard Truths,nm0005139,Mike Leigh,Writing
+96,2024,096-2024,Best Adapted Screenplay,NA,tt28479262,Sing Sing,nm3286079,Clint Bentley,Writing
+96,2024,096-2024,Best Adapted Screenplay,NA,tt28479262,Sing Sing,nm3613117,Greg Kwedar,Writing
+96,2024,096-2024,Best Actor,NA,tt24176060,Queer,nm0185819,Daniel Craig,Performance
+96,2024,096-2024,Best Actress,NA,tt30057084,Babygirl,nm0000173,Nicole Kidman,Performance
+96,2024,096-2024,Best Directorial Debut,NA,tt30319516,Good One,nm8435156,India Donaldson,Director
+96,2024,096-2024,Best Ensemble,NA,tt20215234,Conclave,NA,NA,Performance
+96,2024,096-2024,Best Film,NA,tt1262426,Wicked,NA,NA,Top Films
+96,2024,096-2024,Best International Film,NA,tt32178949,The Seed of the Sacred Fig,NA,NA,International
+96,2024,096-2024,Best Supporting Actor,NA,tt21823606,A Real Pain,nm0001085,Kieran Culkin,Performance
+96,2024,096-2024,Best Supporting Actress,NA,tt11563598,A Complete Unknown,nm1102577,Elle Fanning,Performance
+96,2024,096-2024,Breakthrough Performance,NA,tt28607951,Anora,nm5700898,Mikey Madison,Performance
+96,2024,096-2024,Outstanding Achievement in Cinematography,NA,tt5040012,Nosferatu,nm1144916,Jarin Blaschke,Other
+96,2024,096-2024,Outstanding Achievement in Stunt Artistry,NA,tt12037194,Furiosa: A Mad Max Saga,NA,NA,Other
+96,2024,096-2024,Top Five Documentaries,NA,tt30227076,Black Box Diaries,NA,NA,Documentary
+96,2024,096-2024,Top Five Documentaries,NA,tt31015216,Dahomey,NA,NA,Documentary
+96,2024,096-2024,Top Five Documentaries,NA,tt19121796,Look Into My Eyes,NA,NA,Documentary
+96,2024,096-2024,Top Five Documentaries,NA,tt27902121,Super/Man: The Christopher Reeve Story,NA,NA,Documentary
+96,2024,096-2024,Top Five Documentaries,NA,tt30321133,Will & Harper,NA,NA,Documentary
+96,2024,096-2024,Top Five International Films,NA,tt32086077,All We Imagine as Light,NA,NA,International
+96,2024,096-2024,Top Five International Films,NA,tt14961016,I'm Still Here,NA,NA,International
+96,2024,096-2024,Top Five International Films,NA,tt30444418,Santosh,NA,NA,International
+96,2024,096-2024,Top Five International Films,NA,tt10236164,The Girl with the Needle,NA,NA,International
+96,2024,096-2024,Top Five International Films,NA,tt31691389,Universal Language,NA,NA,International
+96,2024,096-2024,Top Ten Films,NA,tt11563598,A Complete Unknown,NA,NA,Top Films
+96,2024,096-2024,Top Ten Films,NA,tt21823606,A Real Pain,NA,NA,Top Films
+96,2024,096-2024,Top Ten Films,NA,tt28607951,Anora,NA,NA,Top Films
+96,2024,096-2024,Top Ten Films,NA,tt30057084,Babygirl,NA,NA,Top Films
+96,2024,096-2024,Top Ten Films,NA,tt20215234,Conclave,NA,NA,Top Films
+96,2024,096-2024,Top Ten Films,NA,tt12037194,Furiosa: A Mad Max Saga,NA,NA,Top Films
+96,2024,096-2024,Top Ten Films,NA,tt9218128,Gladiator II,NA,NA,Top Films
+96,2024,096-2024,Top Ten Films,NA,tt27403986,Juror #2,NA,NA,Top Films
+96,2024,096-2024,Top Ten Films,NA,tt24176060,Queer,NA,NA,Top Films
+96,2024,096-2024,Top Ten Films,NA,tt28479262,Sing Sing,NA,NA,Top Films
+96,2024,096-2024,Top Ten Independent Films,NA,tt21097228,A Different Man,NA,NA,Independent
+96,2024,096-2024,Top Ten Independent Films,NA,tt28277817,Bird,NA,NA,Independent
+96,2024,096-2024,Top Ten Independent Films,NA,tt30319503,Dìdi,NA,NA,Independent
+96,2024,096-2024,Top Ten Independent Films,NA,tt30321095,Ghostlight,NA,NA,Independent
+96,2024,096-2024,Top Ten Independent Films,NA,tt30319516,Good One,NA,NA,Independent
+96,2024,096-2024,Top Ten Independent Films,NA,tt11891850,Hard Truths,NA,NA,Independent
+96,2024,096-2024,Top Ten Independent Films,NA,tt28491891,His Three Daughters,NA,NA,Independent
+96,2024,096-2024,Top Ten Independent Films,NA,tt19637052,Love Lies Bleeding,NA,NA,Independent
+96,2024,096-2024,Top Ten Independent Films,NA,tt18559464,My Old Ass,NA,NA,Independent
+96,2024,096-2024,Top Ten Independent Films,NA,tt23778968,Thelma,NA,NA,Independent
