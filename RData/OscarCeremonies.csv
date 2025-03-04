@@ -1245,10 +1245,10 @@ CeremonyID,AwardCategory,AwardWinner,Film,FilmID,Person,PersonID,AwardType
 013-1940,"Best Short Subject, Two-reel",NA,Service with the Colors,tt0033037,NA,NA,Short
 013-1940,"Best Short Subject, Cartoons",Winner,The Milky Way,tt0032794,Fred Quimby,nm0703642,Short
 013-1940,"Best Short Subject, Cartoons",Winner,The Milky Way,tt0032794,Rudolf Ising,nm0411208,Short
-013-1940,"Best Short Subject, Cartoons",Winner,The Milky Way,tt0032794,NA,NA,Short
+013-1940,"Best Short Subject, Cartoons",Winner,The Milky Way,tt0032794,Metro-Goldwyn-Mayer (MGM),co0007143,Short
 013-1940,"Best Short Subject, Cartoons",NA,A Wild Hare,tt0033260,Leon Schlesinger,nm0772266,Short
 013-1940,"Best Short Subject, Cartoons",NA,Puss Gets the Boot,tt0032953,Rudolf Ising,nm0411208,Short
-013-1940,"Best Short Subject, Cartoons",NA,Puss Gets the Boot,tt0032953,NA,NA,Short
+013-1940,"Best Short Subject, Cartoons",NA,Puss Gets the Boot,tt0032953,Metro-Goldwyn-Mayer (MGM),co0007143,Short
 014-1941,Best Picture,Winner,How Green Was My Valley,tt0033729,NA,NA,Picture
 014-1941,Best Picture,NA,Blossoms in the Dust,tt0033407,NA,NA,Picture
 014-1941,Best Picture,NA,Citizen Kane,tt0033467,NA,NA,Picture
@@ -1261,13 +1261,13 @@ CeremonyID,AwardCategory,AwardWinner,Film,FilmID,Person,PersonID,AwardType
 014-1941,Best Picture,NA,The Maltese Falcon,tt0033870,NA,NA,Picture
 014-1941,Best Documentary,Winner,Churchill's Island,tt0033466,NA,NA,Documentary
 014-1941,Best Documentary,NA,A Letter from Home,tt0033828,NA,NA,Documentary
-014-1941,Best Documentary,NA,A Place to Live,tt1847530,NA,NA,Documentary
+014-1941,Best Documentary,NA,A Place to Live,tt1847530,Philadelphia Housing Association,co0329990,Documentary
 014-1941,Best Documentary,NA,Adventure in the Bronx,tt0033316,NA,NA,Documentary
 014-1941,Best Documentary,NA,Bomber,tt0033423,NA,NA,Documentary
 014-1941,Best Documentary,NA,Christmas Under Fire,tt0033465,NA,NA,Documentary
 014-1941,Best Documentary,NA,Life of a Thoroughbred,tt0033833,NA,NA,Documentary
 014-1941,Best Documentary,NA,Norway in Revolt,tt0033961,NA,NA,Documentary
-014-1941,Best Documentary,NA,Russian Soil,tt1847681,NA,NA,Documentary
+014-1941,Best Documentary,NA,Russian Soil,tt1847681,Amkino Corporation,co0003677,Documentary
 014-1941,Best Documentary,NA,Soldiers of the Sky,tt0034213,NA,NA,Documentary
 014-1941,Best Documentary,NA,Warclouds in the Pacific,tt0034372,NA,NA,Documentary
 014-1941,Best Director,Winner,How Green Was My Valley,tt0033729,John Ford,nm0000406,Director
@@ -1477,7 +1477,7 @@ CeremonyID,AwardCategory,AwardWinner,Film,FilmID,Person,PersonID,AwardType
 014-1941,"Best Short Subject, Cartoons",Winner,Lend a Paw,tt0033824,Walt Disney,nm0000370,Short
 014-1941,"Best Short Subject, Cartoons",NA,Boogie Woogie Bugle Boy of Company 'B',tt0033424,Walter Lantz,nm0487237,Short
 014-1941,"Best Short Subject, Cartoons",NA,Hiawatha's Rabbit Hunt,tt0033715,Leon Schlesinger,nm0772266,Short
-014-1941,"Best Short Subject, Cartoons",NA,How War Came,tt0033730,NA,NA,Short
+014-1941,"Best Short Subject, Cartoons",NA,How War Came,tt0033730,Columbia,co0004426,Short
 014-1941,"Best Short Subject, Cartoons",NA,Rhapsody in Rivets,tt0034097,Leon Schlesinger,nm0772266,Short
 014-1941,"Best Short Subject, Cartoons",NA,Rhythm in the Ranks,tt0034098,George Pal,nm0657162,Short
 014-1941,"Best Short Subject, Cartoons",NA,Superman: The Mad Scientist,tt0034247,NA,NA,Short
@@ -2201,7 +2201,7 @@ CeremonyID,AwardCategory,AwardWinner,Film,FilmID,Person,PersonID,AwardType
 017-1944,"Best Short Subject, Two-reel",NA,Main Street Today,tt0037039,Jerry Bresler,nm0107724,Short
 017-1944,"Best Short Subject, Cartoons",Winner,Mouse Trouble,tt0037090,Fred Quimby,nm0703642,Short
 017-1944,"Best Short Subject, Cartoons",NA,And to Think That I Saw It on Mulberry Street,tt0036601,George Pal,nm0657162,Short
-017-1944,"Best Short Subject, Cartoons",NA,"Dog, Cat, and Canary",tt0036764,NA,NA,Short
+017-1944,"Best Short Subject, Cartoons",NA,"Dog, Cat, and Canary",tt0036764,Columbia,co0004426,Short
 017-1944,"Best Short Subject, Cartoons",NA,Fish Fry,tt0036829,Walter Lantz,nm0487237,Short
 017-1944,"Best Short Subject, Cartoons",NA,How to Play Football,tt0036933,Walt Disney,nm0000370,Short
 017-1944,"Best Short Subject, Cartoons",NA,My Boy Johnny,tt0037108,Paul Terry,nm0856056,Short
@@ -2426,7 +2426,7 @@ CeremonyID,AwardCategory,AwardWinner,Film,FilmID,Person,PersonID,AwardType
 018-1945,"Best Short Subject, Cartoons",NA,Gypsy Life,tt0037912,Paul Terry,nm0856056,Short
 018-1945,"Best Short Subject, Cartoons",NA,Jasper and the Beanstalk,tt0037828,George Pal,nm0657162,Short
 018-1945,"Best Short Subject, Cartoons",NA,Life with Feathers,tt0037879,Edward Selzer,nm0783666,Short
-018-1945,"Best Short Subject, Cartoons",NA,Rippling Romance,tt0038028,NA,NA,Short
+018-1945,"Best Short Subject, Cartoons",NA,Rippling Romance,tt0038028,Columbia,co0004426,Short
 018-1945,"Best Short Subject, Cartoons",NA,The Poet & Peasant,tt0037994,Walter Lantz,nm0487237,Short
 018-1945,"Best Documentary, Short Subjects",Winner,Hitler Lives,tt0037783,NA,NA,Short
 018-1945,"Best Documentary, Short Subjects",NA,Library of Congress,tt0037875,NA,NA,Short
@@ -2961,7 +2961,7 @@ CeremonyID,AwardCategory,AwardWinner,Film,FilmID,Person,PersonID,AwardType
 022-1949,"Best Short Subject, Cartoons",NA,Toy Tinkers,tt0041978,Walt Disney,nm0000370,Short
 022-1949,"Best Documentary, Short Subjects",Winner,A Chance to Live,tt0041240,Richard De Rochemont,nm0211197,Short
 022-1949,"Best Documentary, Short Subjects",Winner,So Much for So Little,tt0041891,Edward Selzer,nm0783666,Short
-022-1949,"Best Documentary, Short Subjects",NA,1848,tt0041079,NA,NA,Short
+022-1949,"Best Documentary, Short Subjects",NA,1848,tt0041079,French Cinema General Cooperative,co0054072,Short
 022-1949,"Best Documentary, Short Subjects",NA,Marée montante,tt0041813,NA,NA,Short
 023-1950,Best Picture,Winner,All About Eve,tt0042192,Darryl F. Zanuck,nm0953123,Picture
 023-1950,Best Picture,NA,Born Yesterday,tt0042276,S. Sylvan Simon,nm0800373,Picture
@@ -3276,7 +3276,7 @@ CeremonyID,AwardCategory,AwardWinner,Film,FilmID,Person,PersonID,AwardType
 024-1951,"Best Short Subject, One-reel",NA,Ridin' the Rails,tt0043969,Jack Eaton,nm0247827,Short
 024-1951,"Best Short Subject, One-reel",NA,The Story of Time,tt0044077,Robert G. Leffingwell,nm0498984,Short
 024-1951,"Best Short Subject, Two-reel",Winner,Nature's Half Acre,tt0043839,Walt Disney,nm0000370,Short
-024-1951,"Best Short Subject, Two-reel",NA,Balzac,tt0043316,NA,NA,Short
+024-1951,"Best Short Subject, Two-reel",NA,Balzac,tt0043316,Les Films du Compass,co0071214,Short
 024-1951,"Best Short Subject, Two-reel",NA,Danger Under the Sea,tt0043447,Tom Mead,nm0574931,Short
 024-1951,"Best Short Subject, Cartoons",Winner,The Two Mouseketeers,tt0044157,Fred Quimby,nm0703642,Short
 024-1951,"Best Short Subject, Cartoons",NA,Lambert the Sheepish Lion,tt0044821,Walt Disney,nm0000370,Short
@@ -3783,7 +3783,7 @@ CeremonyID,AwardCategory,AwardWinner,Film,FilmID,Person,PersonID,AwardType
 027-1954,"Best Short Subject, Cartoons",NA,Pigs Is Pigs,tt0047353,Walt Disney,nm0000370,Short
 027-1954,"Best Short Subject, Cartoons",NA,Sandy Claws,tt0048581,Edward Selzer,nm0783666,Short
 027-1954,"Best Short Subject, Cartoons",NA,"Touché, Pussy Cat!",tt0047600,Fred Quimby,nm0703642,Short
-027-1954,"Best Documentary, Short Subjects",Winner,Thursday's Children,tt0047585,NA,NA,Short
+027-1954,"Best Documentary, Short Subjects",Winner,Thursday's Children,tt0047585,Morse Films,co0048405,Short
 027-1954,"Best Documentary, Short Subjects",NA,Jet Carrier,tt0047131,Otto Lang,nm0485871,Short
 027-1954,"Best Documentary, Short Subjects",NA,Rembrandt: A Self-Portrait,tt0047404,Morrie Roizman,nm0737726,Short
 028-1955,Best Picture,Winner,Marty,tt0048356,Harold Hecht,nm0372959,Picture
@@ -4866,8 +4866,8 @@ CeremonyID,AwardCategory,AwardWinner,Film,FilmID,Person,PersonID,AwardType
 034-1961,"Best Effects, Special Effects",NA,The Absent Minded Professor,tt0054594,Eustace Lycett,nm0527941,Effects
 034-1961,"Best Effects, Special Effects",NA,The Absent Minded Professor,tt0054594,Robert A. Mattey,nm0559871,Effects
 034-1961,"Best Short Subject, Live Action Subjects",Winner,Seawards the Great Ships,tt0055420,NA,NA,Short
-034-1961,"Best Short Subject, Live Action Subjects",NA,Ballon vole,tt0054658,NA,NA,Short
-034-1961,"Best Short Subject, Live Action Subjects",NA,Rooftops of New York,tt0055384,NA,NA,Short
+034-1961,"Best Short Subject, Live Action Subjects",NA,Ballon vole,tt0054658,Cine Documents,co0027834,Short
+034-1961,"Best Short Subject, Live Action Subjects",NA,Rooftops of New York,tt0055384,McCarty-Rush-Gaffney,co0008125,Short
 034-1961,"Best Short Subject, Live Action Subjects",NA,The Face of Jesus,tt0054863,John D. Jennings,nm0421183,Short
 034-1961,"Best Short Subject, Live Action Subjects",NA,"Very Nice, Very Nice",tt0055594,NA,NA,Short
 034-1961,"Best Short Subject, Cartoons",Winner,The Substitute,tt0054854,NA,NA,Short
@@ -5381,12 +5381,12 @@ CeremonyID,AwardCategory,AwardWinner,Film,FilmID,Person,PersonID,AwardType
 037-1964,"Best Short Subject, Cartoons",NA,Christmas Cracker,tt0055849,NA,NA,Short
 037-1964,"Best Short Subject, Cartoons",NA,Here's Nudnik,tt0058416,William L. Snyder,nm0811581,Short
 037-1964,"Best Short Subject, Cartoons",NA,How to Avoid Friendship,tt0058211,William L. Snyder,nm0811581,Short
-037-1964,"Best Documentary, Short Subjects",Winner,Nine from Little Rock,tt0058410,NA,NA,Short
+037-1964,"Best Documentary, Short Subjects",Winner,Nine from Little Rock,tt0058410,Guggenheim Productions,co0011170,Short
 037-1964,"Best Documentary, Short Subjects",NA,140 Days Under the World,tt0057806,Geoffrey Scott,nm0779180,Short
 037-1964,"Best Documentary, Short Subjects",NA,140 Days Under the World,tt0057806,Oxley Hughan,nm0400419,Short
 037-1964,"Best Documentary, Short Subjects",NA,Breaking the Habit,tt0057898,Henry Jacobs,nm0414430,Short
 037-1964,"Best Documentary, Short Subjects",NA,Breaking the Habit,tt0057898,John Korty,nm0466793,Short
-037-1964,"Best Documentary, Short Subjects",NA,Children Without,tt0057945,NA,NA,Short
+037-1964,"Best Documentary, Short Subjects",NA,Children Without,tt0057945,Guggenheim Productions,co0011170,Short
 037-1964,"Best Documentary, Short Subjects",NA,Eskimo Artist: Kenojuak,tt0058260,NA,NA,Short
 038-1965,Best Picture,Winner,The Sound of Music,tt0059742,Robert Wise,nm0936404,Picture
 038-1965,Best Picture,NA,A Thousand Clowns,tt0059798,Fred Coe,nm0168641,Picture
@@ -15798,12 +15798,12 @@ CeremonyID,AwardCategory,AwardWinner,Film,FilmID,Person,PersonID,AwardType
 096-2023,Best Documentary Short Film,NA,The ABCs of Book Banning,tt29361805,Trish Adlesic,nm0012267,Short
 096-2023,Best Documentary Short Film,NA,The Barber of Little Rock,tt28627868,Christine Turner,nm1423114,Short
 096-2023,Best Documentary Short Film,NA,The Barber of Little Rock,tt28627868,John Hoffman,nm0388968,Short
+097-2024,Best Motion Picture of the Year,Winner,Anora,tt28607951,Alex Coco,nm7866544,Picture
+097-2024,Best Motion Picture of the Year,Winner,Anora,tt28607951,Samantha Quan,nm1013476,Picture
+097-2024,Best Motion Picture of the Year,Winner,Anora,tt28607951,Sean Baker,nm0048918,Picture
 097-2024,Best Motion Picture of the Year,NA,A Complete Unknown,tt11563598,Alex Heineman,nm2670366,Picture
 097-2024,Best Motion Picture of the Year,NA,A Complete Unknown,tt11563598,Fred Berger,nm1757754,Picture
 097-2024,Best Motion Picture of the Year,NA,A Complete Unknown,tt11563598,James Mangold,nm0003506,Picture
-097-2024,Best Motion Picture of the Year,NA,Anora,tt28607951,Alex Coco,nm7866544,Picture
-097-2024,Best Motion Picture of the Year,NA,Anora,tt28607951,Samantha Quan,nm1013476,Picture
-097-2024,Best Motion Picture of the Year,NA,Anora,tt28607951,Sean Baker,nm0048918,Picture
 097-2024,Best Motion Picture of the Year,NA,Conclave,tt20215234,Juliette Howell,nm0397998,Picture
 097-2024,Best Motion Picture of the Year,NA,Conclave,tt20215234,Michael Jackman,nm0413182,Picture
 097-2024,Best Motion Picture of the Year,NA,Conclave,tt20215234,Tessa Ross,nm0743882,Picture
@@ -15811,24 +15811,34 @@ CeremonyID,AwardCategory,AwardWinner,Film,FilmID,Person,PersonID,AwardType
 097-2024,Best Motion Picture of the Year,NA,Dune: Part Two,tt15239678,Denis Villeneuve,nm0898288,Picture
 097-2024,Best Motion Picture of the Year,NA,Dune: Part Two,tt15239678,Mary Parent,nm0661289,Picture
 097-2024,Best Motion Picture of the Year,NA,Dune: Part Two,tt15239678,Tanya Lapointe,nm7069070,Picture
-097-2024,Best Motion Picture of the Year,NA,Emilia Pérez,tt20221436,NA,NA,Picture
-097-2024,Best Motion Picture of the Year,NA,I'm Still Here,tt14961016,NA,NA,Picture
-097-2024,Best Motion Picture of the Year,NA,Nickel Boys,tt23055660,NA,NA,Picture
-097-2024,Best Motion Picture of the Year,NA,The Brutalist,tt8999762,NA,NA,Picture
-097-2024,Best Motion Picture of the Year,NA,The Substance,tt17526714,NA,NA,Picture
+097-2024,Best Motion Picture of the Year,NA,Emilia Pérez,tt20221436,Jacques Audiard,nm0002191,Picture
+097-2024,Best Motion Picture of the Year,NA,Emilia Pérez,tt20221436,Pascal Caucheteux,nm0146434,Picture
+097-2024,Best Motion Picture of the Year,NA,I'm Still Here,tt14961016,Maria Carlota Bruno,nm1750060,Picture
+097-2024,Best Motion Picture of the Year,NA,I'm Still Here,tt14961016,Rodrigo Teixeira,nm2095560,Picture
+097-2024,Best Motion Picture of the Year,NA,Nickel Boys,tt23055660,Dede Gardner,nm0306890,Picture
+097-2024,Best Motion Picture of the Year,NA,Nickel Boys,tt23055660,Jeremy Kleiner,nm1250070,Picture
+097-2024,Best Motion Picture of the Year,NA,Nickel Boys,tt23055660,Joslyn Barnes,nm0055656,Picture
+097-2024,Best Motion Picture of the Year,NA,The Brutalist,tt8999762,Andrew Morrison,nm6513341,Picture
+097-2024,Best Motion Picture of the Year,NA,The Brutalist,tt8999762,Brady Corbet,nm1227232,Picture
+097-2024,Best Motion Picture of the Year,NA,The Brutalist,tt8999762,Brian Young,nm1491945,Picture
+097-2024,Best Motion Picture of the Year,NA,The Brutalist,tt8999762,D.J. Gugenheim,nm1486759,Picture
+097-2024,Best Motion Picture of the Year,NA,The Brutalist,tt8999762,Nick Gordon,nm0330482,Picture
+097-2024,Best Motion Picture of the Year,NA,The Substance,tt17526714,Coralie Fargeat,nm0267287,Picture
+097-2024,Best Motion Picture of the Year,NA,The Substance,tt17526714,Eric Fellner,nm0271479,Picture
+097-2024,Best Motion Picture of the Year,NA,The Substance,tt17526714,Tim Bevan,nm0079677,Picture
 097-2024,Best Motion Picture of the Year,NA,Wicked,tt1262426,Marc Platt,nm0686887,Picture
+097-2024,Best International Feature Film,Winner,I'm Still Here,tt14961016,NA,NA,International
 097-2024,Best International Feature Film,NA,Emilia Pérez,tt20221436,NA,NA,International
 097-2024,Best International Feature Film,NA,Flow,tt4772188,NA,NA,International
-097-2024,Best International Feature Film,NA,I'm Still Here,tt14961016,NA,NA,International
 097-2024,Best International Feature Film,NA,The Girl with the Needle,tt10236164,NA,NA,International
 097-2024,Best International Feature Film,NA,The Seed of the Sacred Fig,tt32178949,NA,NA,International
+097-2024,Best Documentary Feature,Winner,No Other Land,tt30953759,Basel Adra,nm15732719,Documentary
+097-2024,Best Documentary Feature,Winner,No Other Land,tt30953759,Hamdan Ballal,nm15732720,Documentary
+097-2024,Best Documentary Feature,Winner,No Other Land,tt30953759,Rachel Szor,nm15732722,Documentary
+097-2024,Best Documentary Feature,Winner,No Other Land,tt30953759,Yuval Abraham,nm15732721,Documentary
 097-2024,Best Documentary Feature,NA,Black Box Diaries,tt30227076,Eric Nyari,nm3552229,Documentary
 097-2024,Best Documentary Feature,NA,Black Box Diaries,tt30227076,Hanna Aqvilin,nm8687719,Documentary
 097-2024,Best Documentary Feature,NA,Black Box Diaries,tt30227076,Shiori Itô,nm10340152,Documentary
-097-2024,Best Documentary Feature,NA,No Other Land,tt30953759,Basel Adra,nm15732719,Documentary
-097-2024,Best Documentary Feature,NA,No Other Land,tt30953759,Hamdan Ballal,nm15732720,Documentary
-097-2024,Best Documentary Feature,NA,No Other Land,tt30953759,Rachel Szor,nm15732722,Documentary
-097-2024,Best Documentary Feature,NA,No Other Land,tt30953759,Yuval Abraham,nm15732721,Documentary
 097-2024,Best Documentary Feature,NA,Porcelain War,tt30294282,Aniela Sidorska,nm4527585,Documentary
 097-2024,Best Documentary Feature,NA,Porcelain War,tt30294282,Brendan Bellomo,nm2252386,Documentary
 097-2024,Best Documentary Feature,NA,Porcelain War,tt30294282,Paula DuPré Pesmen,nm0243462,Documentary
@@ -15836,31 +15846,38 @@ CeremonyID,AwardCategory,AwardWinner,Film,FilmID,Person,PersonID,AwardType
 097-2024,Best Documentary Feature,NA,Soundtrack to a Coup d'Etat,tt14452174,Daan Milius,nm4210363,Documentary
 097-2024,Best Documentary Feature,NA,Soundtrack to a Coup d'Etat,tt14452174,Johan Grimonprez,nm1431615,Documentary
 097-2024,Best Documentary Feature,NA,Soundtrack to a Coup d'Etat,tt14452174,Rémi Grellety,nm4009159,Documentary
-097-2024,Best Documentary Feature,NA,Sugarcane,tt30319854,NA,NA,Documentary
-097-2024,Best Animated Feature Film,NA,Flow,tt4772188,NA,NA,Animated
+097-2024,Best Documentary Feature,NA,Sugarcane,tt30319854,Emily Kassie,nm3354131,Documentary
+097-2024,Best Documentary Feature,NA,Sugarcane,tt30319854,Julian Brave NoiseCat,nm11927478,Documentary
+097-2024,Best Documentary Feature,NA,Sugarcane,tt30319854,Kellen Quinn,nm2062930,Documentary
+097-2024,Best Animated Feature Film,Winner,Flow,tt4772188,Gints Zilbalodis,nm6478535,Animated
+097-2024,Best Animated Feature Film,Winner,Flow,tt4772188,Gregory Zalcman,nm3537684,Animated
+097-2024,Best Animated Feature Film,Winner,Flow,tt4772188,Matiss Kaza,nm5186633,Animated
+097-2024,Best Animated Feature Film,Winner,Flow,tt4772188,Ron Dyens,nm1054433,Animated
 097-2024,Best Animated Feature Film,NA,Inside Out 2,tt22022452,Kelsey Mann,nm1626375,Animated
 097-2024,Best Animated Feature Film,NA,Inside Out 2,tt22022452,Mark Nielsen,nm0630923,Animated
 097-2024,Best Animated Feature Film,NA,Memoir of a Snail,tt23770030,Adam Elliot,nm0254178,Animated
 097-2024,Best Animated Feature Film,NA,Memoir of a Snail,tt23770030,Liz Kearney,nm2782306,Animated
 097-2024,Best Animated Feature Film,NA,The Wild Robot,tt29623480,Chris Sanders,nm0761498,Animated
 097-2024,Best Animated Feature Film,NA,The Wild Robot,tt29623480,Jeff Hermann,nm1915863,Animated
-097-2024,Best Animated Feature Film,NA,Wallace & Gromit: Vengeance Most Fowl,tt17163970,NA,NA,Animated
+097-2024,Best Animated Feature Film,NA,Wallace & Gromit: Vengeance Most Fowl,tt17163970,Merlin Crossingham,nm1271549,Animated
+097-2024,Best Animated Feature Film,NA,Wallace & Gromit: Vengeance Most Fowl,tt17163970,Nick Park,nm0661910,Animated
+097-2024,Best Animated Feature Film,NA,Wallace & Gromit: Vengeance Most Fowl,tt17163970,Richard Beek,nm1485380,Animated
+097-2024,Best Achievement in Directing,Winner,Anora,tt28607951,Sean Baker,nm0048918,Director
 097-2024,Best Achievement in Directing,NA,A Complete Unknown,tt11563598,James Mangold,nm0003506,Director
-097-2024,Best Achievement in Directing,NA,Anora,tt28607951,Sean Baker,nm0048918,Director
 097-2024,Best Achievement in Directing,NA,Emilia Pérez,tt20221436,Jacques Audiard,nm0002191,Director
 097-2024,Best Achievement in Directing,NA,The Brutalist,tt8999762,Brady Corbet,nm1227232,Director
 097-2024,Best Achievement in Directing,NA,The Substance,tt17526714,Coralie Fargeat,nm0267287,Director
+097-2024,Best Original Screenplay,Winner,Anora,tt28607951,Sean Baker,nm0048918,Writing
 097-2024,Best Original Screenplay,NA,A Real Pain,tt21823606,Jesse Eisenberg,nm0251986,Writing
-097-2024,Best Original Screenplay,NA,Anora,tt28607951,Sean Baker,nm0048918,Writing
 097-2024,Best Original Screenplay,NA,September 5,tt28082769,Alex David,nm1017048,Writing
 097-2024,Best Original Screenplay,NA,September 5,tt28082769,Moritz Binder,nm9415549,Writing
 097-2024,Best Original Screenplay,NA,September 5,tt28082769,Tim Fehlbaum,nm2959497,Writing
 097-2024,Best Original Screenplay,NA,The Brutalist,tt8999762,Brady Corbet,nm1227232,Writing
 097-2024,Best Original Screenplay,NA,The Brutalist,tt8999762,Mona Fastvold,nm2178754,Writing
 097-2024,Best Original Screenplay,NA,The Substance,tt17526714,Coralie Fargeat,nm0267287,Writing
+097-2024,Best Adapted Screenplay,Winner,Conclave,tt20215234,Peter Straughan,nm1661186,Writing
 097-2024,Best Adapted Screenplay,NA,A Complete Unknown,tt11563598,James Mangold,nm0003506,Writing
 097-2024,Best Adapted Screenplay,NA,A Complete Unknown,tt11563598,Jay Cocks,nm0168379,Writing
-097-2024,Best Adapted Screenplay,NA,Conclave,tt20215234,Peter Straughan,nm1661186,Writing
 097-2024,Best Adapted Screenplay,NA,Emilia Pérez,tt20221436,Jacques Audiard,nm0002191,Writing
 097-2024,Best Adapted Screenplay,NA,Emilia Pérez,tt20221436,Léa Mysius,nm5674565,Writing
 097-2024,Best Adapted Screenplay,NA,Emilia Pérez,tt20221436,Nicolas Livecchi,nm5365694,Writing
@@ -15871,31 +15888,33 @@ CeremonyID,AwardCategory,AwardWinner,Film,FilmID,Person,PersonID,AwardType
 097-2024,Best Adapted Screenplay,NA,Sing Sing,tt28479262,Clint Bentley,nm3286079,Writing
 097-2024,Best Adapted Screenplay,NA,Sing Sing,tt28479262,Greg Kwedar,nm3613117,Writing
 097-2024,Best Adapted Screenplay,NA,Sing Sing,tt28479262,John Divine G Whitfield,nm5874224,Writing
-097-2024,Best Performance by an Actress in a Leading Role,NA,Anora,tt28607951,Mikey Madison,nm5700898,Performance
+097-2024,Best Performance by an Actress in a Leading Role,Winner,Anora,tt28607951,Mikey Madison,nm5700898,Performance
 097-2024,Best Performance by an Actress in a Leading Role,NA,Emilia Pérez,tt20221436,Karla Sofía Gascón,nm1035423,Performance
 097-2024,Best Performance by an Actress in a Leading Role,NA,I'm Still Here,tt14961016,Fernanda Torres,nm0868639,Performance
 097-2024,Best Performance by an Actress in a Leading Role,NA,The Substance,tt17526714,Demi Moore,nm0000193,Performance
 097-2024,Best Performance by an Actress in a Leading Role,NA,Wicked,tt1262426,Cynthia Erivo,nm7248827,Performance
+097-2024,Best Performance by an Actor in a Leading Role,Winner,The Brutalist,tt8999762,Adrien Brody,nm0004778,Performance
 097-2024,Best Performance by an Actor in a Leading Role,NA,A Complete Unknown,tt11563598,Timothée Chalamet,nm3154303,Performance
 097-2024,Best Performance by an Actor in a Leading Role,NA,Conclave,tt20215234,Ralph Fiennes,nm0000146,Performance
 097-2024,Best Performance by an Actor in a Leading Role,NA,Sing Sing,tt28479262,Colman Domingo,nm0231458,Performance
 097-2024,Best Performance by an Actor in a Leading Role,NA,The Apprentice,tt8368368,Sebastian Stan,nm1659221,Performance
-097-2024,Best Performance by an Actor in a Leading Role,NA,The Brutalist,tt8999762,Adrien Brody,nm0004778,Performance
+097-2024,Best Performance by an Actress in a Supporting Role,Winner,Emilia Pérez,tt20221436,Zoe Saldaña,nm0757855,Performance
 097-2024,Best Performance by an Actress in a Supporting Role,NA,A Complete Unknown,tt11563598,Monica Barbaro,nm4834815,Performance
 097-2024,Best Performance by an Actress in a Supporting Role,NA,Conclave,tt20215234,Isabella Rossellini,nm0000618,Performance
-097-2024,Best Performance by an Actress in a Supporting Role,NA,Emilia Pérez,tt20221436,Zoe Saldana,nm0757855,Performance
 097-2024,Best Performance by an Actress in a Supporting Role,NA,The Brutalist,tt8999762,Felicity Jones,nm0428065,Performance
 097-2024,Best Performance by an Actress in a Supporting Role,NA,Wicked,tt1262426,Ariana Grande,nm3812858,Performance
+097-2024,Best Performance by an Actor in a Supporting Role,Winner,A Real Pain,tt21823606,Kieran Culkin,nm0001085,Performance
 097-2024,Best Performance by an Actor in a Supporting Role,NA,A Complete Unknown,tt11563598,Edward Norton,nm0001570,Performance
-097-2024,Best Performance by an Actor in a Supporting Role,NA,A Real Pain,tt21823606,Kieran Culkin,nm0001085,Performance
 097-2024,Best Performance by an Actor in a Supporting Role,NA,Anora,tt28607951,Yura Borisov,nm5426973,Performance
 097-2024,Best Performance by an Actor in a Supporting Role,NA,The Apprentice,tt8368368,Jeremy Strong,nm0834989,Performance
 097-2024,Best Performance by an Actor in a Supporting Role,NA,The Brutalist,tt8999762,Guy Pearce,nm0001602,Performance
+097-2024,Best Achievement in Cinematography,Winner,The Brutalist,tt8999762,Lol Crawley,nm0187018,Visual Style
 097-2024,Best Achievement in Cinematography,NA,Dune: Part Two,tt15239678,Greig Fraser,nm0292132,Visual Style
 097-2024,Best Achievement in Cinematography,NA,Emilia Pérez,tt20221436,Paul Guilhaume,nm5243556,Visual Style
 097-2024,Best Achievement in Cinematography,NA,Maria,tt22893404,Edward Lachman,nm0005767,Visual Style
 097-2024,Best Achievement in Cinematography,NA,Nosferatu,tt5040012,Jarin Blaschke,nm1144916,Visual Style
-097-2024,Best Achievement in Cinematography,NA,The Brutalist,tt8999762,Lol Crawley,nm0187018,Visual Style
+097-2024,Best Achievement in Production Design,Winner,Wicked,tt1262426,Lee Sandales,nm0761227,Visual Style
+097-2024,Best Achievement in Production Design,Winner,Wicked,tt1262426,Nathan Crowley,nm0189769,Visual Style
 097-2024,Best Achievement in Production Design,NA,Conclave,tt20215234,Cynthia Sleiter,nm0003775,Visual Style
 097-2024,Best Achievement in Production Design,NA,Conclave,tt20215234,Suzie Davies,nm0203990,Visual Style
 097-2024,Best Achievement in Production Design,NA,Dune: Part Two,tt15239678,Patrice Vermette,nm0894411,Visual Style
@@ -15904,14 +15923,15 @@ CeremonyID,AwardCategory,AwardWinner,Film,FilmID,Person,PersonID,AwardType
 097-2024,Best Achievement in Production Design,NA,Nosferatu,tt5040012,Craig Lathrop,nm0490154,Visual Style
 097-2024,Best Achievement in Production Design,NA,The Brutalist,tt8999762,Judy Becker,nm0065473,Visual Style
 097-2024,Best Achievement in Production Design,NA,The Brutalist,tt8999762,Patricia Cuccia,nm0190966,Visual Style
-097-2024,Best Achievement in Production Design,NA,Wicked,tt1262426,Lee Sandales,nm0761227,Visual Style
-097-2024,Best Achievement in Production Design,NA,Wicked,tt1262426,Nathan Crowley,nm0189769,Visual Style
+097-2024,Best Achievement in Costume Design,Winner,Wicked,tt1262426,Paul Tazewell,nm3477899,Visual Style
 097-2024,Best Achievement in Costume Design,NA,A Complete Unknown,tt11563598,Arianne Phillips,nm0680218,Visual Style
 097-2024,Best Achievement in Costume Design,NA,Conclave,tt20215234,Lisy Christl,nm0160425,Visual Style
 097-2024,Best Achievement in Costume Design,NA,Gladiator II,tt9218128,David Crossman,nm0189366,Visual Style
 097-2024,Best Achievement in Costume Design,NA,Gladiator II,tt9218128,Janty Yates,nm0946765,Visual Style
 097-2024,Best Achievement in Costume Design,NA,Nosferatu,tt5040012,Linda Muir,nm0611379,Visual Style
-097-2024,Best Achievement in Costume Design,NA,Wicked,tt1262426,Paul Tazewell,nm3477899,Visual Style
+097-2024,Best Achievement in Makeup and Hairstyling,Winner,The Substance,tt17526714,Marilyne Scarselli,nm3388862,Visual Style
+097-2024,Best Achievement in Makeup and Hairstyling,Winner,The Substance,tt17526714,Pierre Olivier Persin,nm1031952,Visual Style
+097-2024,Best Achievement in Makeup and Hairstyling,Winner,The Substance,tt17526714,Stéphanie Guillon,nm1213050,Visual Style
 097-2024,Best Achievement in Makeup and Hairstyling,NA,A Different Man,tt21097228,Crystal Jurado,nm10455135,Visual Style
 097-2024,Best Achievement in Makeup and Hairstyling,NA,A Different Man,tt21097228,David Presto,nm1404648,Visual Style
 097-2024,Best Achievement in Makeup and Hairstyling,NA,A Different Man,tt21097228,Michael Marino,nm0002514,Visual Style
@@ -15921,40 +15941,37 @@ CeremonyID,AwardCategory,AwardWinner,Film,FilmID,Person,PersonID,AwardType
 097-2024,Best Achievement in Makeup and Hairstyling,NA,Nosferatu,tt5040012,David White,nm0924675,Visual Style
 097-2024,Best Achievement in Makeup and Hairstyling,NA,Nosferatu,tt5040012,Suzanne Stokes-Munton,nm0831404,Visual Style
 097-2024,Best Achievement in Makeup and Hairstyling,NA,Nosferatu,tt5040012,Traci Loader,nm0516365,Visual Style
-097-2024,Best Achievement in Makeup and Hairstyling,NA,The Substance,tt17526714,Marilyne Scarselli,nm3388862,Visual Style
-097-2024,Best Achievement in Makeup and Hairstyling,NA,The Substance,tt17526714,Pierre Olivier Persin,nm1031952,Visual Style
-097-2024,Best Achievement in Makeup and Hairstyling,NA,The Substance,tt17526714,Stéphanie Guillon,nm1213050,Visual Style
 097-2024,Best Achievement in Makeup and Hairstyling,NA,Wicked,tt1262426,Frances Hannon,nm0360470,Visual Style
 097-2024,Best Achievement in Makeup and Hairstyling,NA,Wicked,tt1262426,Laura Blount,nm3368818,Visual Style
 097-2024,Best Achievement in Makeup and Hairstyling,NA,Wicked,tt1262426,Sarah Nuth,nm2942968,Visual Style
+097-2024,Best Achievement in Music Written for Motion Pictures (Original Score),Winner,The Brutalist,tt8999762,Daniel Blumberg,nm11771045,Music
 097-2024,Best Achievement in Music Written for Motion Pictures (Original Score),NA,Conclave,tt20215234,Volker Bertelmann,nm2890617,Music
 097-2024,Best Achievement in Music Written for Motion Pictures (Original Score),NA,Emilia Pérez,tt20221436,Camille,nm1722079,Music
 097-2024,Best Achievement in Music Written for Motion Pictures (Original Score),NA,Emilia Pérez,tt20221436,Clément Ducol,nm4711393,Music
-097-2024,Best Achievement in Music Written for Motion Pictures (Original Score),NA,The Brutalist,tt8999762,Daniel Blumberg,nm11771045,Music
 097-2024,Best Achievement in Music Written for Motion Pictures (Original Score),NA,The Wild Robot,tt29623480,Kris Bowers,nm3929283,Music
 097-2024,Best Achievement in Music Written for Motion Pictures (Original Score),NA,Wicked,tt1262426,John Powell,nm0694173,Music
 097-2024,Best Achievement in Music Written for Motion Pictures (Original Score),NA,Wicked,tt1262426,Stephen Schwartz,nm0777451,Music
+097-2024,Best Achievement in Music Written for Motion Pictures (Original Song),Winner,Emilia Pérez,tt20221436,Camille,nm1722079,Music
+097-2024,Best Achievement in Music Written for Motion Pictures (Original Song),Winner,Emilia Pérez,tt20221436,Clément Ducol,nm4711393,Music
+097-2024,Best Achievement in Music Written for Motion Pictures (Original Song),Winner,Emilia Pérez,tt20221436,Jacques Audiard,nm0002191,Music
 097-2024,Best Achievement in Music Written for Motion Pictures (Original Song),NA,Elton John: Never Too Late,tt20316978,Andrew Watt,nm3353159,Music
 097-2024,Best Achievement in Music Written for Motion Pictures (Original Song),NA,Elton John: Never Too Late,tt20316978,Bernie Taupin,nm0005479,Music
 097-2024,Best Achievement in Music Written for Motion Pictures (Original Song),NA,Elton John: Never Too Late,tt20316978,Brandi Carlile,nm1848488,Music
 097-2024,Best Achievement in Music Written for Motion Pictures (Original Song),NA,Elton John: Never Too Late,tt20316978,Elton John,nm0005056,Music
 097-2024,Best Achievement in Music Written for Motion Pictures (Original Song),NA,Emilia Pérez,tt20221436,Camille,nm1722079,Music
-097-2024,Best Achievement in Music Written for Motion Pictures (Original Song),NA,Emilia Pérez,tt20221436,Camille,nm1722079,Music
 097-2024,Best Achievement in Music Written for Motion Pictures (Original Song),NA,Emilia Pérez,tt20221436,Clément Ducol,nm4711393,Music
-097-2024,Best Achievement in Music Written for Motion Pictures (Original Song),NA,Emilia Pérez,tt20221436,Clément Ducol,nm4711393,Music
-097-2024,Best Achievement in Music Written for Motion Pictures (Original Song),NA,Emilia Pérez,tt20221436,Jacques Audiard,nm0002191,Music
 097-2024,Best Achievement in Music Written for Motion Pictures (Original Song),NA,Sing Sing,tt28479262,Abraham Alexander,nm11153958,Music
 097-2024,Best Achievement in Music Written for Motion Pictures (Original Song),NA,Sing Sing,tt28479262,Adrian Quesada,nm2557663,Music
 097-2024,Best Achievement in Music Written for Motion Pictures (Original Song),NA,The Six Triple Eight,tt24458622,Diane Warren,nm0005534,Music
+097-2024,Best Sound,Winner,Dune: Part Two,tt15239678,Doug Hemphill,nm0376153,Effects
+097-2024,Best Sound,Winner,Dune: Part Two,tt15239678,Gareth John,nm0424163,Effects
+097-2024,Best Sound,Winner,Dune: Part Two,tt15239678,Richard King,nm0455185,Effects
+097-2024,Best Sound,Winner,Dune: Part Two,tt15239678,Ron Bartlett,nm0058897,Effects
 097-2024,Best Sound,NA,A Complete Unknown,tt11563598,David Giammarco,nm0316102,Effects
 097-2024,Best Sound,NA,A Complete Unknown,tt11563598,Donald Sylvester,nm0843219,Effects
 097-2024,Best Sound,NA,A Complete Unknown,tt11563598,Paul Massey,nm0557338,Effects
 097-2024,Best Sound,NA,A Complete Unknown,tt11563598,Ted Caplan,nm0135242,Effects
 097-2024,Best Sound,NA,A Complete Unknown,tt11563598,Tod A. Maitland,nm0537972,Effects
-097-2024,Best Sound,NA,Dune: Part Two,tt15239678,Doug Hemphill,nm0376153,Effects
-097-2024,Best Sound,NA,Dune: Part Two,tt15239678,Gareth John,nm0424163,Effects
-097-2024,Best Sound,NA,Dune: Part Two,tt15239678,Richard King,nm0455185,Effects
-097-2024,Best Sound,NA,Dune: Part Two,tt15239678,Ron Bartlett,nm0058897,Effects
 097-2024,Best Sound,NA,Emilia Pérez,tt20221436,Aymeric Devoldère,nm0222862,Effects
 097-2024,Best Sound,NA,Emilia Pérez,tt20221436,Cyril Holtz,nm0392652,Effects
 097-2024,Best Sound,NA,Emilia Pérez,tt20221436,Erwan Kerzanet,nm1052723,Effects
@@ -15969,11 +15986,15 @@ CeremonyID,AwardCategory,AwardWinner,Film,FilmID,Person,PersonID,AwardType
 097-2024,Best Sound,NA,Wicked,tt1262426,John Marquis,nm1308738,Effects
 097-2024,Best Sound,NA,Wicked,tt1262426,Nancy Nugent Title,nm0637810,Effects
 097-2024,Best Sound,NA,Wicked,tt1262426,Simon Hayes,nm1536532,Effects
-097-2024,Best Achievement in Film Editing,NA,Anora,tt28607951,Sean Baker,nm0048918,Effects
+097-2024,Best Achievement in Film Editing,Winner,Anora,tt28607951,Sean Baker,nm0048918,Effects
 097-2024,Best Achievement in Film Editing,NA,Conclave,tt20215234,Nick Emerson,nm2512313,Effects
 097-2024,Best Achievement in Film Editing,NA,Emilia Pérez,tt20221436,Juliette Welfling,nm0919761,Effects
 097-2024,Best Achievement in Film Editing,NA,The Brutalist,tt8999762,Dávid Jancsó,nm0417347,Effects
 097-2024,Best Achievement in Film Editing,NA,Wicked,tt1262426,Myron Kerstein,nm0450005,Effects
+097-2024,Best Achievement in Visual Effects,Winner,Dune: Part Two,tt15239678,Gerd Nefzer,nm0275382,Effects
+097-2024,Best Achievement in Visual Effects,Winner,Dune: Part Two,tt15239678,Paul Lambert,nm0995902,Effects
+097-2024,Best Achievement in Visual Effects,Winner,Dune: Part Two,tt15239678,Rhys Salcombe,nm2399047,Effects
+097-2024,Best Achievement in Visual Effects,Winner,Dune: Part Two,tt15239678,Stephen James,nm2133637,Effects
 097-2024,Best Achievement in Visual Effects,NA,Alien: Romulus,tt18412256,Daniel Macarin,nm1652052,Effects
 097-2024,Best Achievement in Visual Effects,NA,Alien: Romulus,tt18412256,Eric Barba,nm0053146,Effects
 097-2024,Best Achievement in Visual Effects,NA,Alien: Romulus,tt18412256,Nelson Sepulveda,nm0784700,Effects
@@ -15982,10 +16003,6 @@ CeremonyID,AwardCategory,AwardWinner,Film,FilmID,Person,PersonID,AwardType
 097-2024,Best Achievement in Visual Effects,NA,Better Man,tt14260836,Keith Herft,nm1981800,Effects
 097-2024,Best Achievement in Visual Effects,NA,Better Man,tt14260836,Luke Millar,nm1515480,Effects
 097-2024,Best Achievement in Visual Effects,NA,Better Man,tt14260836,Peter Stubbs,nm0835934,Effects
-097-2024,Best Achievement in Visual Effects,NA,Dune: Part Two,tt15239678,Gerd Nefzer,nm0275382,Effects
-097-2024,Best Achievement in Visual Effects,NA,Dune: Part Two,tt15239678,Paul Lambert,nm0995902,Effects
-097-2024,Best Achievement in Visual Effects,NA,Dune: Part Two,tt15239678,Rhys Salcombe,nm2399047,Effects
-097-2024,Best Achievement in Visual Effects,NA,Dune: Part Two,tt15239678,Stephen James,nm2133637,Effects
 097-2024,Best Achievement in Visual Effects,NA,Kingdom of the Planet of the Apes,tt11389872,Erik Winquist,nm0935445,Effects
 097-2024,Best Achievement in Visual Effects,NA,Kingdom of the Planet of the Apes,tt11389872,Paul Story,nm0832737,Effects
 097-2024,Best Achievement in Visual Effects,NA,Kingdom of the Planet of the Apes,tt11389872,Rodney Burke,nm0121849,Effects
@@ -15994,26 +16011,28 @@ CeremonyID,AwardCategory,AwardWinner,Film,FilmID,Person,PersonID,AwardType
 097-2024,Best Achievement in Visual Effects,NA,Wicked,tt1262426,Jonathan Fawkner,nm1000834,Effects
 097-2024,Best Achievement in Visual Effects,NA,Wicked,tt1262426,Pablo Helman,nm0375666,Effects
 097-2024,Best Achievement in Visual Effects,NA,Wicked,tt1262426,Paul Corbould,nm0179274,Effects
+097-2024,Best Live Action Short Film,Winner,I'm Not a Robot,tt19837932,Trent,nm0686692,Short
+097-2024,Best Live Action Short Film,Winner,I'm Not a Robot,tt19837932,Victoria Warmerdam,nm6255610,Short
 097-2024,Best Live Action Short Film,NA,A Lien,tt27655666,David Cutler-Kreutz,nm9877582,Short
 097-2024,Best Live Action Short Film,NA,A Lien,tt27655666,Sam Cutler-Kreutz,nm4972708,Short
 097-2024,Best Live Action Short Film,NA,Anuja,tt27654431,Adam J. Graves,nm12809780,Short
 097-2024,Best Live Action Short Film,NA,Anuja,tt27654431,Suchitra Mattai,nm11820954,Short
-097-2024,Best Live Action Short Film,NA,I'm Not a Robot,tt19837932,Trent,nm0686692,Short
-097-2024,Best Live Action Short Film,NA,I'm Not a Robot,tt19837932,Victoria Warmerdam,nm6255610,Short
 097-2024,Best Live Action Short Film,NA,The Last Ranger,tt15802124,Cindy Lee,nm8305829,Short
 097-2024,Best Live Action Short Film,NA,The Last Ranger,tt15802124,Darwin Shaw,nm0787430,Short
 097-2024,Best Live Action Short Film,NA,The Man Who Could Not Remain Silent,tt20519854,Danijel Pek,nm4148941,Short
 097-2024,Best Live Action Short Film,NA,The Man Who Could Not Remain Silent,tt20519854,Nebojsa Slijepcevic,nm1196483,Short
+097-2024,Best Animated Short Film,Winner,In the Shadow of the Cypress,tt28768883,Hossein Molayemi,nm5548859,Short
+097-2024,Best Animated Short Film,Winner,In the Shadow of the Cypress,tt28768883,Shirin Sohani,nm11580481,Short
 097-2024,Best Animated Short Film,NA,Beautiful Men,tt30835281,Brecht Van Elslande,nm8653244,Short
 097-2024,Best Animated Short Film,NA,Beautiful Men,tt30835281,Nicolas Keppens,nm9479994,Short
 097-2024,Best Animated Short Film,NA,Beurk !,tt28356173,Juliette Marquet,nm9489851,Short
 097-2024,Best Animated Short Film,NA,Beurk !,tt28356173,Loïc Espuche,nm7167768,Short
-097-2024,Best Animated Short Film,NA,In the Shadow of the Cypress,tt28768883,Hossein Molayemi,nm5548859,Short
-097-2024,Best Animated Short Film,NA,In the Shadow of the Cypress,tt28768883,Shirin Sohani,nm11580481,Short
 097-2024,Best Animated Short Film,NA,Magic Candies,tt31888603,Daisuke Nishio,nm0632788,Short
 097-2024,Best Animated Short Film,NA,Magic Candies,tt31888603,Takashi Washio,nm2911605,Short
 097-2024,Best Animated Short Film,NA,Wander to Wonder,tt28768679,Nina Gantz,nm2441981,Short
 097-2024,Best Animated Short Film,NA,Wander to Wonder,tt28768679,Stienette Bosklopper,nm0097975,Short
+097-2024,Best Documentary Short Film,Winner,The Only Girl in the Orchestra,tt29497240,Lisa Remington,nm1919152,Short
+097-2024,Best Documentary Short Film,Winner,The Only Girl in the Orchestra,tt29497240,Molly O'Brien,nm0639739,Short
 097-2024,Best Documentary Short Film,NA,Death by Numbers,tt33385063,Janique L. Robillard,nm4953625,Short
 097-2024,Best Documentary Short Film,NA,Death by Numbers,tt33385063,Kim A. Snyder,nm0811502,Short
 097-2024,Best Documentary Short Film,NA,"I am Ready, Warden",tt31556921,Maya Gnyp,nm3849774,Short
@@ -16022,5 +16041,3 @@ CeremonyID,AwardCategory,AwardWinner,Film,FilmID,Person,PersonID,AwardType
 097-2024,Best Documentary Short Film,NA,Incident,tt27990245,Jamie Kalven,nm7758108,Short
 097-2024,Best Documentary Short Film,NA,Instruments of a Beating Heart,tt32280470,Ema Ryan Yamazaki,nm3655292,Short
 097-2024,Best Documentary Short Film,NA,Instruments of a Beating Heart,tt32280470,Eric Nyari,nm3552229,Short
-097-2024,Best Documentary Short Film,NA,The Only Girl in the Orchestra,tt29497240,Lisa Remington,nm1919152,Short
-097-2024,Best Documentary Short Film,NA,The Only Girl in the Orchestra,tt29497240,Molly O'Brien,nm0639739,Short
